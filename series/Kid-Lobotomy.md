@@ -1,0 +1,24 @@
+# Kid Lobotomy
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Black Crown
+
+Kid Lobotomy
+
+Meet Kid, the youngest descendant of a rich, demented hotelier named Big Daddy. Kid is the newly appointed manager of "The Suites," but his good looks and swagger can't hide a rough childhood of strange therapies and brain operations that have awakened inner demons and psychodramas. This of course makes him eminently quali ed to perform lobotomies. A failed rockstar/ successful madman gets one last chance to prove his worth — and regain his sanity— by turning the hotel that was once his childhood sanctuary into a lucrative business despite a host of obstacles including seductive shapeshifters, dead literary heroes and Kid's own sister, who would love nothing more than to see him fail miserably.
+
+
+
+
+
+Online | Download
+--- | ---
+[Kid Lobotomy 001 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kid-Lobotomy-001-2017-digital-Son-of-Ultron-Empire-cbr.md) | [85.95MiB](https://pan.baidu.com/s/1pLObLRt#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.10.18%2F%E3%82%B7%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%B1%E3%82%A6%E3%82%AF%E3%82%BD%E3%82%B1%E3%82%B9%E3%82%B7%E3%82%A8%E3%82%A2%E3%82%B1%E3%82%B7%E3%82%BD%E3%82%A4%E3%82%A8%E3%82%A2%E3%82%B9%E3%82%AA%E3%82%BF%E3%82%B3%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%AA%E3%82%A6%E3%82%A2%E3%82%A6%E3%82%B3%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[Kid Lobotomy 002 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kid-Lobotomy-002-2017-digital-Son-of-Ultron-Empire-cbr.md) | [88.75MiB](https://pan.baidu.com/s/1gf6H44N#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.11.08%2F%E3%82%B1%E3%82%B9%E3%82%AD%E3%82%AA%E3%82%BD%E3%82%A4%E3%82%BB%E3%82%A4%E3%82%A2%E3%82%A2%E3%82%B1%E3%82%BF%E3%82%BF%E3%82%A6%E3%82%BD%E3%82%AD%E3%82%AD%E3%82%AB%E3%82%B3%E3%82%B7%E3%82%B1%E3%82%A2%E3%82%BD%E3%82%B9%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%A8%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[Kid Lobotomy 003 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kid-Lobotomy-003-2017-digital-Son-of-Ultron-Empire-cbr.md) | [80.32MiB](https://pan.baidu.com/s/1mi7pnUK#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.12.13%2F%E3%82%A4%E3%82%BB%E3%82%AD%E3%82%B1%E3%82%A4%E3%82%BB%E3%82%BD%E3%82%A6%E3%82%B9%E3%82%B9%E3%82%AA%E3%82%B9%E3%82%B5%E3%82%BF%E3%82%A2%E3%82%A2%E3%82%B5%E3%82%A8%E3%82%BB%E3%82%AF%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%AD%E3%82%B9%E3%82%BF%E3%82%A8%E3%82%B3%E3%82%BF%E3%82%B9%E3%82%B7%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[Kid Lobotomy 004 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kid-Lobotomy-004-2018-digital-Son-of-Ultron-Empire-cbr.md) | [44.40MiB](https://pan.baidu.com/s/1ghbAjoZ#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.01.24%2F%E3%82%B9%E3%82%A6%E3%82%B7%E3%82%BF%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%AD%E3%82%A6%E3%82%B1%E3%82%A2%E3%82%A8%E3%82%A2%E3%82%B3%E3%82%A8%E3%82%B3%E3%82%BB%E3%82%AD%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%BB%E3%82%AB%E3%82%AA%E3%82%AF%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Kid Lobotomy 005 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kid-Lobotomy-005-2018-digital-Son-of-Ultron-Empire-cbr.md) | [54.54MiB](https://pan.baidu.com/s/1TEhWMdThYKp5pe1MV7FjHA#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.02.21%2F%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%B5%E3%82%AF%E3%82%A6%E3%82%BD%E3%82%AB%E3%82%AB%E3%82%B9%E3%82%B7%E3%82%B3%E3%82%B5%E3%82%AA%E3%82%AB%E3%82%BF%E3%82%A4%E3%82%BB%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%AA%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%A8%E3%82%B5%E3%82%BF%E3%82%AA%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Kid Lobotomy 006 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kid-Lobotomy-006-2018-digital-Son-of-Ultron-Empire-cbr.md) | [39.55MiB](https://pan.baidu.com/s/13LmUEgOK6tAqDe7-3eerNw#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.03.28%2F%E3%82%AB%E3%82%A4%E3%82%A8%E3%82%BD%E3%82%AA%E3%82%A4%E3%82%A6%E3%82%AD%E3%82%B1%E3%82%AF%E3%82%BB%E3%82%BB%E3%82%AB%E3%82%A8%E3%82%A8%E3%82%B7%E3%82%B7%E3%82%AF%E3%82%AF%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%A4%E3%82%AA%E3%82%BD%E3%82%B5%E3%82%B9%E3%82%B7%E3%82%B1%E3%82%AB%E3%82%BB%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202018%20Q1)

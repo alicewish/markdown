@@ -1,0 +1,35 @@
+# Captain Marvel and the Carol Corps
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Captain Marvel and the Carol Corps (2015)
+
+Atten-Hut! These ladies are the best of the best- and will take you down if you threaten their Captain. Welcome to Hala Field, where being a part of the elite Carol Corps, requires guts, guile and a whole lot of grit. So put on your uniform and get ready for a high-flying Captain Marvel series years in the making.
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Captain Marvel and the Carol Corps (001-004) (2015) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Captain-Marvel-and-the-Carol-Corps--001-004---2015---Digital---Zone-Empire.md)
+
+Online | Download
+--- | ---
+Captain Marvel & the Carol Corps 001 (2015) (digital) (Declan Shalvey Marvel's Agents of S.H.I.E.L.D. variant) (Minutemen-Mastodon).cbz | 1.72MiB
+Captain Marvel & the Carol Corps 001 (2015) (digital) (John Tyler Christopher Action Figure variant) (Minutemen-Mastodon).cbz | 4.15MiB
+Captain Marvel & the Carol Corps 001 (2015) (digital) (Mike Deodato variant) (Minutemen-Mastodon).cbz | 2.62MiB
+Captain Marvel & the Carol Corps 001 (2015) (digital) (Pasqual Ferry Ant-Sized variant) (Minutemen-Mastodon).cbz | 1.24MiB
+Captain Marvel and the Carol Corps 001 (2015) (5 covers) (digital) (Minutemen-PhD).cbr | [32.60MiB](https://pan.baidu.com/s/1nuO5Kql#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.17%2F%E3%82%BF%E3%82%AA%E3%82%B3%E3%82%B5%E3%82%A8%E3%82%B7%E3%82%B7%E3%82%BF%E3%82%B5%E3%82%BD%E3%82%B1%E3%82%B9%E3%82%AD%E3%82%A4%E3%82%BB%E3%82%AA%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%B5%E3%82%AD%E3%82%AB%E3%82%BF%E3%82%B5%E3%82%B5%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%AB%E3%82%BB%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+Captain Marvel and the Carol Corps 001 (2015) (Digital) (Zone-Empire).cbr | [30.69MiB](https://pan.baidu.com/s/1wbVHv9ChWo78_b_5Ku7QDA#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.10%2F%E3%82%A4%E3%82%AB%E3%82%A6%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%B5%E3%82%B1%E3%82%B9%E3%82%BB%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%82%A6%E3%82%B5%E3%82%AD%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%B7%E3%82%B1%E3%82%B7%E3%82%B7%E3%82%BF%E3%82%A6%E3%82%A8%E3%82%BF%E3%82%B7%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Captain Marvel and the Carol Corps 002 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-002-2015-digital-Minutemen-PhD-cbr.md) | [30.23MiB](https://pan.baidu.com/s/1cLeC1K#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.22%2F%E3%82%B5%E3%82%B1%E3%82%B5%E3%82%B9%E3%82%AD%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%B3%E3%82%B9%E3%82%AB%E3%82%B1%E3%82%BD%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%B9%E3%82%B7%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%A8%E3%82%B7%E3%82%A6%E3%82%A6%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Captain Marvel and the Carol Corps 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-002-2015-Digital-Zone-Empire-cbr.md) | [30.84MiB](https://pan.baidu.com/s/1mi1h17y#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.15%2F%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%A2%E3%82%B5%E3%82%AA%E3%82%AA%E3%82%B7%E3%82%AD%E3%82%A8%E3%82%AF%E3%82%AA%E3%82%B1%E3%82%B7%E3%82%A4%E3%82%AB%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%AB%E3%82%BB%E3%82%A2%E3%82%A2%E3%82%A8%E3%82%BF%E3%82%AB%E3%82%B1%E3%82%AB%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Captain Marvel and the Carol Corps 003 (2015) (digital-Oroboros).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-003-2015-digital-Oroboros-cbr.md) | [33.49MiB](https://pan.baidu.com/s/1chPdbK#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.08.26%2F%E3%82%B5%E3%82%A6%E3%82%B3%E3%82%B3%E3%82%B7%E3%82%B7%E3%82%BB%E3%82%B3%E3%82%BD%E3%82%B5%E3%82%B1%E3%82%B3%E3%82%A6%E3%82%AD%E3%82%A8%E3%82%B5%E3%82%B7%E3%82%B3%E3%82%BB%E3%82%AA%E3%82%B5%E3%82%AF%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%B5%E3%82%BF%E3%82%B7%E3%82%AA%E3%82%BD%E3%82%B9%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Captain Marvel and the Carol Corps 003 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-003-2015-2-covers-digital-Minutemen-PhD-cbr.md) | [34.03MiB](https://pan.baidu.com/s/1kVCEKPT#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.02%2F%E3%82%AD%E3%82%A2%E3%82%B5%E3%82%BD%E3%82%BB%E3%82%A2%E3%82%AB%E3%82%BD%E3%82%A6%E3%82%B5%E3%82%A2%E3%82%AD%E3%82%BF%E3%82%B9%E3%82%AB%E3%82%BB%E3%82%AF%E3%82%BF%E3%82%A6%E3%82%A4%E3%82%A4%E3%82%A4%E3%82%B7%E3%82%BF%E3%82%B1%E3%82%BF%E3%82%BB%E3%82%B5%E3%82%B7%E3%82%BF%E3%82%AD%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Captain Marvel and the Carol Corps 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-003-2015-Digital-Zone-Empire-cbr.md) | [33.76MiB](https://pan.baidu.com/s/1chPdbK#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.08.26%2F%E3%82%A6%E3%82%AF%E3%82%AD%E3%82%A8%E3%82%AB%E3%82%A4%E3%82%BF%E3%82%A2%E3%82%AB%E3%82%B9%E3%82%A4%E3%82%AA%E3%82%A4%E3%82%B9%E3%82%A6%E3%82%AD%E3%82%AA%E3%82%A8%E3%82%A2%E3%82%AB%E3%82%BF%E3%82%A6%E3%82%B9%E3%82%AF%E3%82%BD%E3%82%B1%E3%82%B5%E3%82%A4%E3%82%A4%E3%82%BF%E3%82%B9%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Captain Marvel and the Carol Corps 004 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-004-2015-digital-Minutemen-PhD-cbr.md) | [39.47MiB](https://pan.baidu.com/s/1bpdfzuJ#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.30%2F%E3%82%B1%E3%82%A4%E3%82%AA%E3%82%BD%E3%82%AF%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%AA%E3%82%A8%E3%82%AB%E3%82%BB%E3%82%B5%E3%82%AB%E3%82%A4%E3%82%AA%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%BB%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%BB%E3%82%B9%E3%82%A2%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Captain Marvel and the Carol Corps 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-004-2015-Digital-Zone-Empire-cbr.md) | [40.08MiB](https://pan.baidu.com/s/1hsaRojE#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.23%2F%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%B3%E3%82%B1%E3%82%AF%E3%82%AF%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%AF%E3%82%BD%E3%82%B9%E3%82%AA%E3%82%A2%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%B3%E3%82%B9%E3%82%A2%E3%82%B7%E3%82%AF%E3%82%A2%E3%82%B5%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q3)

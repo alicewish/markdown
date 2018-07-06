@@ -1,0 +1,32 @@
+# Deadpool the Duck
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Deadpool The Duck (2017)
+
+What do you get when you take one cynical anthropomorphic duck (named Howard) and cross it with the smelliest (and most annoying) mercenary in the Marvel Universe? DEADPOOL THE DUCK! When Deadpool is sent on a mission from S.H.I.E.L.D. to capture a high-profile E.T. that is rampaging across the high plains, the snatch-and-grab turns out to be much more complicated than the Merc with a Mouth anticipated. One unfortunate wrong-place-at-the-wrong-time accident later leaves Deadpool and Howard fighting for control of the cutest mercenary the Marvel Universe has ever seen! Brought to you with words by Stuart Moore (CLOAK & DAGGER, THANOS: DEATH SENTENCE Novel) and art by Jacopo Camagni (DEADPOOL'S SECRET SECRET WARS).
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Deadpool the Duck (001-005)(2017)(digital)(Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Deadpool-the-Duck--001-005--2017--digital--Minutemen-Faessla.md)
+
+Online | Download
+--- | ---
+Deadpool the Duck (2017) (digital) (Minutemen-Slayer).cbr | 227.51MiB
+[Deadpool the Duck 001 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-001-2017-Digital-Zone-Empire-cbr.md) | [47.45MiB](https://pan.baidu.com/s/1pLyt0wj#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.01.04%2F%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%A6%E3%82%A6%E3%82%AD%E3%82%A2%E3%82%B3%E3%82%A2%E3%82%B1%E3%82%A8%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%B3%E3%82%AB%E3%82%B3%E3%82%BD%E3%82%A4%E3%82%B1%E3%82%B1%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%BF%E3%82%A4%E3%82%B1%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%AD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+Deadpool the Duck 02 (of 05) (2017) (digital) (Minutemen-Faessla).cbz | 46.34MiB
+[Deadpool the Duck 002 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-002-2017-Digital-Zone-Empire-cbr.md) | [46.97MiB](https://pan.baidu.com/s/1eSGn3yi#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.01.18%2F%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%A8%E3%82%BD%E3%82%AB%E3%82%B3%E3%82%B7%E3%82%B3%E3%82%B5%E3%82%AB%E3%82%AB%E3%82%B9%E3%82%AD%E3%82%B5%E3%82%BB%E3%82%A2%E3%82%AD%E3%82%AD%E3%82%BD%E3%82%AF%E3%82%AF%E3%82%BF%E3%82%B7%E3%82%B1%E3%82%AB%E3%82%BD%E3%82%B9%E3%82%A4%E3%82%B3%E3%82%AF%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Deadpool the Duck 03 (of 05) (2017) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-03-of-05-2017-3-covers-digital-Minutemen-Faessla-cbz.md) | [50.25MiB](https://pan.baidu.com/s/1qXQ1xQs#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.08%2F%E3%82%BD%E3%82%A6%E3%82%A8%E3%82%B3%E3%82%AD%E3%82%BD%E3%82%BD%E3%82%BD%E3%82%AF%E3%82%B3%E3%82%BB%E3%82%B5%E3%82%AD%E3%82%B5%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%B9%E3%82%B9%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%AA%E3%82%A6%E3%82%AB%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%B7%E3%82%B9%E3%82%B1%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Deadpool the Duck 003 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-003-2017-Digital-Zone-Empire-cbr.md) | [48.08MiB](https://pan.baidu.com/s/1qXQ1xQs#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.08%2F%E3%82%B9%E3%82%AD%E3%82%B1%E3%82%BF%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%A6%E3%82%AA%E3%82%A8%E3%82%A6%E3%82%B3%E3%82%BD%E3%82%A2%E3%82%A4%E3%82%AA%E3%82%B9%E3%82%A6%E3%82%B7%E3%82%B9%E3%82%BF%E3%82%B3%E3%82%A6%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%B7%E3%82%BF%E3%82%B1%E3%82%B5%E3%82%B5%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Deadpool the Duck 04 (of 05) (2017) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-04-of-05-2017-digital-Minutemen-Faessla-cbz.md) | [37.51MiB](https://pan.baidu.com/s/1qYE6yYC#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.22%2F%E3%82%B1%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%B9%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%A2%E3%82%B9%E3%82%AD%E3%82%AB%E3%82%BF%E3%82%AA%E3%82%A2%E3%82%A6%E3%82%BD%E3%82%B9%E3%82%AD%E3%82%AA%E3%82%AB%E3%82%AD%E3%82%BB%E3%82%A8%E3%82%B1%E3%82%AD%E3%82%AF%E3%82%A6%E3%82%BF%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Deadpool the Duck 004 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-004-2017-Digital-Zone-Empire-cbr.md) | [38.12MiB](https://pan.baidu.com/s/1qYE6yYC#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.22%2F%E3%82%AB%E3%82%AB%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%B1%E3%82%B7%E3%82%AB%E3%82%B1%E3%82%BB%E3%82%A8%E3%82%B5%E3%82%A4%E3%82%A6%E3%82%B7%E3%82%AD%E3%82%BF%E3%82%A8%E3%82%A8%E3%82%B5%E3%82%A6%E3%82%B3%E3%82%B5%E3%82%AB%E3%82%AA%E3%82%A2%E3%82%A4%E3%82%B7%E3%82%BB%E3%82%B3%E3%82%B5%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Deadpool the Duck 05 (of 05) (2017) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-05-of-05-2017-digital-Minutemen-Faessla-cbz.md) | [38.11MiB](https://pan.baidu.com/s/1mhJNZJy#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.03.15%2F%E3%82%AA%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%A8%E3%82%B3%E3%82%A2%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%BF%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%B9%E3%82%AD%E3%82%A6%E3%82%AF%E3%82%B7%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%AB%E3%82%BF%E3%82%BD%E3%82%B1%E3%82%BD%E3%82%AF%E3%82%B3%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Deadpool the Duck 005 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Duck-005-2017-Digital-Zone-Empire-cbr.md) | [38.71MiB](https://pan.baidu.com/s/1mhJNZJy#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.03.15%2F%E3%82%B3%E3%82%A2%E3%82%BB%E3%82%BF%E3%82%AA%E3%82%B3%E3%82%BB%E3%82%BB%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%A8%E3%82%BD%E3%82%A4%E3%82%A4%E3%82%BB%E3%82%BF%E3%82%BB%E3%82%AB%E3%82%AB%E3%82%B1%E3%82%B3%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%AA%E3%82%A8%E3%82%AB%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202017%20Q1)

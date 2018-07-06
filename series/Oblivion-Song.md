@@ -1,0 +1,24 @@
+# Oblivion Song
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Image - Skybound
+
+Oblivion Song By Kirkman & De Felici
+
+A decade ago, 300,000 citizens of Philadelphia were suddenly lost in Oblivion. The government made every attempt to recover them, but after many years, they gave up. Nathan Cole...won't. He makes daily trips, risking his life to try and rescue those still living in the apocalyptic hellscape of Oblivion. But maybe...Nathan is looking for something else? Why can't he resist the siren call of the Oblivion Song?
+
+
+
+
+
+Online | Download
+--- | ---
+[Oblivion Song 001 (2018) (Digital) (TanCombs).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oblivion-Song-001-2018-Digital-TanCombs-cbr.md) | [65.96MiB](https://pan.baidu.com/s/1EZJTKuiAGOiqkCboxyL1kA#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.03.07%2F%E3%82%BB%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%AB%E3%82%B3%E3%82%BB%E3%82%AB%E3%82%B9%E3%82%A8%E3%82%A4%E3%82%AD%E3%82%BB%E3%82%B1%E3%82%B1%E3%82%AA%E3%82%AD%E3%82%AF%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%BF%E3%82%B5%E3%82%AF%E3%82%B1%E3%82%BD%E3%82%A8%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Oblivion Song 001 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oblivion-Song-001-2018-Digital-Zone-Empire-cbr.md) | [63.99MiB](https://pan.baidu.com/s/1EZJTKuiAGOiqkCboxyL1kA#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.03.07%2F%E3%82%A8%E3%82%AF%E3%82%AB%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%A8%E3%82%A2%E3%82%B5%E3%82%BD%E3%82%B3%E3%82%AD%E3%82%BB%E3%82%B1%E3%82%AA%E3%82%AD%E3%82%B1%E3%82%B3%E3%82%BB%E3%82%AF%E3%82%BD%E3%82%B5%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%B7%E3%82%A2%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Oblivion Song 002 (2018) (Digital) (TanCombs).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oblivion-Song-002-2018-Digital-TanCombs-cbr.md) | [71.78MiB](https://pan.baidu.com/s/1y3PvK357HRguad4K6zgq-A#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.11%2F%E3%82%B9%E3%82%B1%E3%82%BF%E3%82%A6%E3%82%B5%E3%82%BB%E3%82%B7%E3%82%B7%E3%82%B9%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%A2%E3%82%A8%E3%82%A4%E3%82%B1%E3%82%BD%E3%82%A2%E3%82%B1%E3%82%B9%E3%82%B9%E3%82%BB%E3%82%B7%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%B9%E3%82%B5%E3%82%AA%E3%82%AB%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Oblivion Song 002 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oblivion-Song-002-2018-Digital-Zone-Empire-cbr.md) | [70.49MiB](https://pan.baidu.com/s/1y3PvK357HRguad4K6zgq-A#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.11%2F%E3%82%BD%E3%82%A2%E3%82%AA%E3%82%B1%E3%82%A8%E3%82%A2%E3%82%AA%E3%82%B1%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%B3%E3%82%B3%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%A6%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%B3%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Oblivion Song 003 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oblivion-Song-003-2018-Digital-Zone-Empire-cbr.md) | [41.50MiB](https://pan.baidu.com/s/143sZvWMYE0fkNyEAp6hdMQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.09%2F%E3%82%AB%E3%82%AA%E3%82%AA%E3%82%B7%E3%82%B9%E3%82%BF%E3%82%AB%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%B7%E3%82%A2%E3%82%BB%E3%82%AD%E3%82%A2%E3%82%BD%E3%82%B1%E3%82%B7%E3%82%BD%E3%82%B9%E3%82%B3%E3%82%AA%E3%82%A6%E3%82%B5%E3%82%AF%E3%82%B9%E3%82%B1%E3%82%B3%E3%82%B3%E3%82%A8%E3%82%B7%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Oblivion Song 004 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oblivion-Song-004-2018-Digital-Zone-Empire-cbr.md) | [45.47MiB](https://pan.baidu.com/s/1sOrtXhLqrcFH_yfomlVypQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.13%2F%E3%82%AA%E3%82%AF%E3%82%AF%E3%82%BF%E3%82%BB%E3%82%A8%E3%82%B3%E3%82%BF%E3%82%BD%E3%82%A6%E3%82%AD%E3%82%B7%E3%82%A8%E3%82%BF%E3%82%B7%E3%82%B5%E3%82%AF%E3%82%BF%E3%82%B7%E3%82%B1%E3%82%A2%E3%82%B7%E3%82%B3%E3%82%A4%E3%82%BF%E3%82%B7%E3%82%B1%E3%82%BF%E3%82%A8%E3%82%A4%E3%82%B9%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202018%20Q2)

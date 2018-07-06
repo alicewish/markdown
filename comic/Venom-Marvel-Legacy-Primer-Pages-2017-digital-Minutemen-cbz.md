@@ -1,0 +1,18 @@
+## Venom - Marvel Legacy Primer Pages (2017) (digital-Minutemen).cbz
+
+
+[回到 Marvel Legacy Primer Pages 目录](https://github.com/alicewish/markdown/blob/master/series/Marvel-Legacy-Primer-Pages.md)
+
+
+![Venom - Marvel Legacy Primer Pages-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm259g4i7gj21kw2eck9x.jpg)
+
+![Venom - Marvel Legacy Primer Pages-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm259k9w0pj21kw2eequf.jpg)
+
+![Venom - Marvel Legacy Primer Pages-002.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm259opityj21kw2eeb29.jpg)
+
+![Venom - Marvel Legacy Primer Pages-003.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm259suq2rj21j82cw7wh.jpg)
+
+![Venom - Marvel Legacy Primer Pages-004.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm259xcdsej21kw2ec7wh.jpg)
+
+[回到 Marvel Legacy Primer Pages 目录](https://github.com/alicewish/markdown/blob/master/series/Marvel-Legacy-Primer-Pages.md)
+

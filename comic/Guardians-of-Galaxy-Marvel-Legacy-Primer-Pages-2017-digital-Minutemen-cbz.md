@@ -1,0 +1,18 @@
+## Guardians of the Galaxy - Marvel Legacy Primer Pages (2017) (digital-Minutemen).cbz
+
+
+[回到 Marvel Legacy Primer Pages 目录](https://github.com/alicewish/markdown/blob/master/series/Marvel-Legacy-Primer-Pages.md)
+
+
+![Guardians of the Galaxy - Marvel Legacy Primer Pages-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm36cyypzvj21kw2ec1ih.jpg)
+
+![Guardians of the Galaxy - Marvel Legacy Primer Pages-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm36d4t9cvj21kw2eeu0x.jpg)
+
+![Guardians of the Galaxy - Marvel Legacy Primer Pages-002.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm36d9m9jcj21kw2eeqv5.jpg)
+
+![Guardians of the Galaxy - Marvel Legacy Primer Pages-003.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm36deb6ebj21kw2eeu0x.jpg)
+
+![Guardians of the Galaxy - Marvel Legacy Primer Pages-004.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm36dikxepj21kw2ec7wh.jpg)
+
+[回到 Marvel Legacy Primer Pages 目录](https://github.com/alicewish/markdown/blob/master/series/Marvel-Legacy-Primer-Pages.md)
+

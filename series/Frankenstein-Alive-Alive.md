@@ -1,0 +1,26 @@
+# Frankenstein Alive, Alive
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+IDW
+
+Frankenstein Alive, Alive!
+
+Few works by comic-book artists have earned the universal acclaim and reverence that Bernie Wrightson's illustrated version of Mary Wollstonecraft Shelley's Frankenstein was met with upon its original release in 1983. Nearly 30 years later, Wrightson returns to his passion project with a comic series that picks up at the end of the classic novel, hailed as one of the greatest horror stories of all time. Frequent Wrightson collaborator Steve Niles provides the script for this epic, decades in the making.
+
+
+
+
+
+Online | Download
+--- | ---
+Frankenstein Alive, Alive 1(c2c)(2 covers)(2012)(Re-em-DCP).cbr | [19.58MiB](https://pan.baidu.com/s/1hso0CXu#list/path=%2F0-Day%20Week%20of%202012%20Q2%2F0-Day%20Week%20of%202012.05.09%2F%E3%82%A4%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%B1%E3%82%BB%E3%82%AD%E3%82%A2%E3%82%B1%E3%82%B9%E3%82%AA%E3%82%B9%E3%82%B3%E3%82%A8%E3%82%A2%E3%82%B3%E3%82%A6%E3%82%B7%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%BF%E3%82%BB%E3%82%B9%E3%82%B9%E3%82%A2%E3%82%AD%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202012%20Q2)
+Frankenstein Alive, Alive! 001 (2012) (2 covers) (digital-Empire).cbr | [28.97MiB](https://pan.baidu.com/s/1hso0CXu#list/path=%2F0-Day%20Week%20of%202012%20Q2%2F0-Day%20Week%20of%202012.05.09%2F%E3%82%AB%E3%82%A2%E3%82%AF%E3%82%AB%E3%82%A4%E3%82%A8%E3%82%BF%E3%82%BF%E3%82%B7%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%BB%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%B5%E3%82%B7%E3%82%B5%E3%82%B7%E3%82%AB%E3%82%B3%E3%82%B5%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202012%20Q2)
+Frankenstein Alive, Alive 2(2012)(Digital)(C9-Novus).cbr | [23.59MiB](https://pan.baidu.com/s/1nvvcjO1#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.11.21%2F%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%BD%E3%82%A8%E3%82%B1%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%B3%E3%82%BD%E3%82%BB%E3%82%A8%E3%82%AF%E3%82%B3%E3%82%AD%E3%82%A6%E3%82%A8%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%BB%E3%82%AF%E3%82%A2%E3%82%BF%E3%82%A6%E3%82%B9%E3%82%B9%E3%82%AF%E3%82%B5%E3%82%AF%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
+Frankenstein Alive, Alive 2(c2c)(2 covers)(2012)(Re-em-Novus).cbr | [29.01MiB](https://pan.baidu.com/s/1nvvcjO1#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.11.21%2F%E3%82%BF%E3%82%B5%E3%82%AA%E3%82%AB%E3%82%B5%E3%82%B3%E3%82%B3%E3%82%BB%E3%82%BD%E3%82%A6%E3%82%A8%E3%82%B9%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%B3%E3%82%A8%E3%82%BD%E3%82%AF%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%BB%E3%82%B9%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%A4%E3%82%AF%E3%82%A8%E3%82%AB%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
+Frankenstein Alive, Alive 2(c2c)(2 covers)(2012)(Re-em-Novus-HD).cbr | [43.59MiB](https://pan.baidu.com/s/1nvvcjO1#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.11.21%2F%E3%82%AA%E3%82%A6%E3%82%BD%E3%82%B3%E3%82%A8%E3%82%BB%E3%82%BD%E3%82%A4%E3%82%B1%E3%82%AA%E3%82%B7%E3%82%BF%E3%82%AB%E3%82%AB%E3%82%B7%E3%82%AD%E3%82%B3%E3%82%B7%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%B9%E3%82%BD%E3%82%B3%E3%82%A2%E3%82%BB%E3%82%AA%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
+Frankenstein Alive, Alive! 003(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | [31.60MiB](https://pan.baidu.com/s/1skZVfad#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.04.16%2F%E3%82%AD%E3%82%B3%E3%82%A4%E3%82%B9%E3%82%B5%E3%82%AF%E3%82%BF%E3%82%AB%E3%82%AF%E3%82%AF%E3%82%BD%E3%82%BF%E3%82%AB%E3%82%AD%E3%82%B1%E3%82%BD%E3%82%A2%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%B1%E3%82%B5%E3%82%B7%E3%82%AF%E3%82%B1%E3%82%B5%E3%82%B5%E3%82%AB%E3%82%B5%E3%82%BB%E3%82%B3%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Frankenstein Alive, Alive! 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | [26.34MiB](https://pan.baidu.com/s/1skZVfad#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.04.16%2F%E3%82%A8%E3%82%B7%E3%82%BD%E3%82%B1%E3%82%B7%E3%82%B5%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%B7%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B1%E3%82%B5%E3%82%B3%E3%82%AA%E3%82%B3%E3%82%B1%E3%82%BD%E3%82%A6%E3%82%B3%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+[Frankenstein Alive, Alive 004 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Alive-Alive-004-2018-digital-Son-of-Ultron-Empire-cbr.md) | [44.89MiB](https://pan.baidu.com/s/1EZJTKuiAGOiqkCboxyL1kA#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.03.07%2F%E3%82%B1%E3%82%AA%E3%82%BD%E3%82%A4%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%AD%E3%82%A6%E3%82%BB%E3%82%A6%E3%82%BB%E3%82%B9%E3%82%B3%E3%82%BD%E3%82%B9%E3%82%B9%E3%82%BD%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%A6%E3%82%A6%E3%82%AB%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%A2%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202018%20Q1)

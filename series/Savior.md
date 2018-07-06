@@ -1,0 +1,43 @@
+# Savior
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Image - Todd McFarlane Productions
+
+Savior
+
+What if the MOST DANGEROUS man on Earth was also the one trying to do the MOST GOOD? 
+
+
+
+The world is real. The people are normal. And then he appears! A man appears with no background, no memory, and no place to call home. But he has powers. Powers that seem resemble those we learned about in Sunday School. Could it be?! Is it possible that this man is much, much more than that? Is it possible that he is our "SAVIOR" in the flesh? And if he is, then why doesn't he know who he is or how he got his powers?
+
+
+
+Strip away the spandex and trappings of the traditional comic superhero and ask yourself a simple question: "How would I react if GOD suddenly appeared in front of me, but everything we had been taught about him seems out of whack?" What you would have left, beyond your own doubts, is the presence of a man who has to deal with the fact that his appearance in the world is seen as both a blessing and a curse. 
+
+
+
+Some will see him as a hero, a messiah. Other will see him as an enemy because there isn't room for a person with god-like powers to disrupt the status quo of what we already believe. Some will rally behind him. Others will denounce him. But none of us will be able to ignore him.
+
+
+
+
+
+Online | Download
+--- | ---
+[Savior 001 (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-001-2015-digital-Minutemen-Mollylvr-cbr.md) | [25.07MiB](https://pan.baidu.com/s/1TE0c228WAw07Pbo1ygMmFg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.08%2F%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%A8%E3%82%BD%E3%82%BD%E3%82%B1%E3%82%B7%E3%82%B1%E3%82%A6%E3%82%B1%E3%82%AA%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%B7%E3%82%B7%E3%82%AA%E3%82%B9%E3%82%B1%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%B1%E3%82%BB%E3%82%A8%E3%82%B3%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+Savior 001 (2015) (digital) (Son of Ultron III-Empire).cbr | 84.53MiB
+[Savior 001 (2015) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-001-2015-digital-F-Son-of-Ultron-Empire-cbr.md) | [40.37MiB](https://pan.baidu.com/s/1TE0c228WAw07Pbo1ygMmFg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.08%2F%E3%82%AF%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%AB%E3%82%B3%E3%82%A8%E3%82%BD%E3%82%A2%E3%82%A4%E3%82%AB%E3%82%A2%E3%82%B9%E3%82%A4%E3%82%AD%E3%82%AB%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%BD%E3%82%B7%E3%82%AA%E3%82%BB%E3%82%AD%E3%82%B9%E3%82%BF%E3%82%B9%E3%82%AA%E3%82%A4%E3%82%B1%E3%82%B9%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Savior 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | [40.36MiB](https://pan.baidu.com/s/1TE0c228WAw07Pbo1ygMmFg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.08%2F%E3%82%A2%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%BB%E3%82%BB%E3%82%B9%E3%82%AB%E3%82%B9%E3%82%B3%E3%82%AB%E3%82%AB%E3%82%BB%E3%82%B9%E3%82%AA%E3%82%B7%E3%82%B5%E3%82%B9%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%B3%E3%82%B9%E3%82%A6%E3%82%BF%E3%82%BB%E3%82%B7%E3%82%B1%E3%82%AB%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Savior 002 (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-002-2015-digital-Minutemen-Mollylvr-cbr.md) | [28.36MiB](https://pan.baidu.com/s/1pKLLZVt#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.13%2F%E3%82%BD%E3%82%B1%E3%82%AD%E3%82%AA%E3%82%A4%E3%82%AA%E3%82%B1%E3%82%A4%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%B3%E3%82%AA%E3%82%AD%E3%82%AB%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%BF%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%A6%E3%82%B9%E3%82%A4%E3%82%BB%E3%82%B5%E3%82%BF%E3%82%A6%E3%82%B1%E3%82%BD%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Savior 002 (2015) (digital) (Son of Ultron III-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-002-2015-digital-Son-of-Ultron-III-Empire-cbr.md) | [78.18MiB](https://pan.baidu.com/s/1pKLLZVt#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.13%2F%E3%82%AF%E3%82%B5%E3%82%A4%E3%82%B5%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%B9%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%B9%E3%82%B5%E3%82%B5%E3%82%BF%E3%82%A6%E3%82%AD%E3%82%A6%E3%82%A8%E3%82%B5%E3%82%AD%E3%82%A6%E3%82%BD%E3%82%B3%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%A8%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Savior 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | [44.66MiB](https://pan.baidu.com/s/1wbVHv9ChWo78_b_5Ku7QDA#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.10%2F%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%BF%E3%82%AA%E3%82%AB%E3%82%AD%E3%82%BF%E3%82%AB%E3%82%B3%E3%82%B3%E3%82%BB%E3%82%AD%E3%82%B3%E3%82%AD%E3%82%A2%E3%82%A4%E3%82%AA%E3%82%A6%E3%82%BF%E3%82%BF%E3%82%B9%E3%82%BB%E3%82%BD%E3%82%B5%E3%82%AB%E3%82%BD%E3%82%A2%E3%82%BD%E3%82%B5%E3%82%BD%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Savior 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | [29.33MiB](https://pan.baidu.com/s/1kVb1aSJ#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.08%2F%E3%82%A8%E3%82%A6%E3%82%AA%E3%82%BD%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%A2%E3%82%A4%E3%82%BD%E3%82%BF%E3%82%A8%E3%82%A2%E3%82%BD%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%B7%E3%82%BB%E3%82%B3%E3%82%B5%E3%82%A2%E3%82%B5%E3%82%BB%E3%82%AB%E3%82%B9%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Savior 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | [33.63MiB](https://pan.baidu.com/s/1gfgvftL#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.08.12%2F%E3%82%BF%E3%82%B1%E3%82%BB%E3%82%AA%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%A6%E3%82%AB%E3%82%BB%E3%82%BF%E3%82%BB%E3%82%A2%E3%82%AD%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%AA%E3%82%AB%E3%82%A8%E3%82%AB%E3%82%B1%E3%82%A4%E3%82%B9%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%BF%E3%82%AB%E3%82%AF%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Savior 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | [33.29MiB](https://pan.baidu.com/s/1slOadXz#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.09%2F%E3%82%BF%E3%82%AF%E3%82%A4%E3%82%B3%E3%82%B5%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%A4%E3%82%B1%E3%82%B9%E3%82%BF%E3%82%B5%E3%82%B9%E3%82%A8%E3%82%AB%E3%82%AA%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%A8%E3%82%BF%E3%82%AB%E3%82%BF%E3%82%AB%E3%82%BF%E3%82%BF%E3%82%A2%E3%82%B9%E3%82%A4%E3%82%A2%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Savior 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | [32.91MiB](https://pan.baidu.com/s/1nvT5GJv#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.10.14%2F%E3%82%B9%E3%82%BD%E3%82%A4%E3%82%B5%E3%82%A6%E3%82%AD%E3%82%AB%E3%82%B5%E3%82%AA%E3%82%A8%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%B5%E3%82%AA%E3%82%AA%E3%82%B7%E3%82%BF%E3%82%AD%E3%82%AD%E3%82%B5%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B9%E3%82%B1%E3%82%AD%E3%82%A4%E3%82%A8%E3%82%AD%E3%82%B9%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
+[Savior 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | [29.29MiB](https://pan.baidu.com/s/1eSztUSU#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.11.18%2F%E3%82%A8%E3%82%AD%E3%82%A8%E3%82%AF%E3%82%AF%E3%82%A4%E3%82%A2%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%A6%E3%82%BF%E3%82%BB%E3%82%B9%E3%82%BD%E3%82%AF%E3%82%A8%E3%82%B5%E3%82%BF%E3%82%A6%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%AD%E3%82%BF%E3%82%A2%E3%82%BF%E3%82%A4%E3%82%BF%E3%82%AA%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
+[Savior (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savior-2016-Digital-Zone-Empire-cbr.md) | 217.44MiB

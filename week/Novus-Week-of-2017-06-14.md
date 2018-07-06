@@ -1,0 +1,15 @@
+# Novus - Week of 2017-06-14
+
+[✅&emsp;打包下载 Download in One Pack&emsp;📦](https://pan.baidu.com/s/1qXLHBVA)
+
+[回到总目录](https://github.com/alicewish/markdown/blob/master/Catalogs.md)
+
+
+
+Online | Download
+--- | ---
+Glamorous Romances 069 (Ace) (June.1953) (JVJ-soothsayr-movielover-Novus).cbz | [37.93MiB](https://pan.baidu.com/s/1qXLHBVA#list/path=%2FNovus%20-%20Week%20of%202017%20Q2%2FNovus%20-%20Week%20of%202017-06-14%2F%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%A4%E3%82%B1%E3%82%AF%E3%82%BF%E3%82%AD%E3%82%AA%E3%82%B9%E3%82%B3%E3%82%BD%E3%82%B9%E3%82%A8%E3%82%BB%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%AA%E3%82%AF%E3%82%A6%E3%82%A8%E3%82%B1%E3%82%A4%E3%82%BD%E3%82%B1%E3%82%A2%E3%82%A4%E3%82%B3%E3%82%B9%E3%82%B5%E3%82%AD&parentPath=%2FNovus%20-%20Week%20of%202017%20Q2)
+Glamorous Romances 073 (Ace) (Feb.1954) (JVJ-soothsayr-movielover-Novus).cbz | [37.29MiB](https://pan.baidu.com/s/1qXLHBVA#list/path=%2FNovus%20-%20Week%20of%202017%20Q2%2FNovus%20-%20Week%20of%202017-06-14%2F%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%AD%E3%82%B5%E3%82%A4%E3%82%AF%E3%82%AA%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%B1%E3%82%B1%E3%82%A8%E3%82%BD%E3%82%BF%E3%82%A2%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%BB%E3%82%A4%E3%82%A2%E3%82%AA&parentPath=%2FNovus%20-%20Week%20of%202017%20Q2)
+Glamorous Romances 074 (Ace) (Apr.1954) (JVJ-soothsayr-movielover-Novus).cbz | [38.90MiB](https://pan.baidu.com/s/1qXLHBVA#list/path=%2FNovus%20-%20Week%20of%202017%20Q2%2FNovus%20-%20Week%20of%202017-06-14%2F%E3%82%AF%E3%82%AB%E3%82%A8%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%B1%E3%82%BB%E3%82%B7%E3%82%B3%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%A2%E3%82%A8%E3%82%B5%E3%82%AD%E3%82%BF%E3%82%AF%E3%82%A8%E3%82%B9%E3%82%BF%E3%82%AB%E3%82%A2%E3%82%AA%E3%82%B3%E3%82%B3%E3%82%A6%E3%82%B1%E3%82%B5%E3%82%A6%E3%82%B1&parentPath=%2FNovus%20-%20Week%20of%202017%20Q2)
+Love Experiences 017 (Ace) (Feb.1953) (JVJ-soothsayr-movielover-Novus).cbz | [38.21MiB](https://pan.baidu.com/s/1qXLHBVA#list/path=%2FNovus%20-%20Week%20of%202017%20Q2%2FNovus%20-%20Week%20of%202017-06-14%2F%E3%82%BD%E3%82%BF%E3%82%A4%E3%82%B7%E3%82%BD%E3%82%AD%E3%82%B3%E3%82%B7%E3%82%A6%E3%82%AD%E3%82%A4%E3%82%A2%E3%82%BD%E3%82%BB%E3%82%B9%E3%82%BD%E3%82%AB%E3%82%A6%E3%82%AF%E3%82%BD%E3%82%B3%E3%82%AF%E3%82%A6%E3%82%A8%E3%82%B3%E3%82%AF%E3%82%A8%E3%82%A2%E3%82%BF%E3%82%B1%E3%82%BF%E3%82%BF&parentPath=%2FNovus%20-%20Week%20of%202017%20Q2)
+Torrent downloaded from demonoid.pw.txt | [46.00B](https://pan.baidu.com/s/1qXLHBVA#list/path=%2FNovus%20-%20Week%20of%202017%20Q2%2FNovus%20-%20Week%20of%202017-06-14%2F%E3%82%BF%E3%82%B9%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%BF%E3%82%B5%E3%82%B1%E3%82%B1%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%A8%E3%82%A6%E3%82%B1%E3%82%B7%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%AD%E3%82%B7%E3%82%B7%E3%82%B7%E3%82%A6%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%B9%E3%82%B5%E3%82%B1%E3%82%A8%E3%82%BB&parentPath=%2FNovus%20-%20Week%20of%202017%20Q2)

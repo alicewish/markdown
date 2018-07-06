@@ -1,0 +1,36 @@
+# Sidekick
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Image
+
+Sidekick
+
+WITNESS A MODERN HERO'S FALL FROM GRACE! The Cowl and Flyboy: renowned superhero and sidekick despite dopey names. They were famous, popular, and happy until the Cowl's assassination.  Now, no one takes Flyboy seriously. Follow  his trajectory from barely tolerated hero to figure of ridicule, and witness his slow descent into madness, darkness and crime.
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Sidekick (001-012+)(2013-2015)(digital)(Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Sidekick--001-012---2013-2015--digital--Darkness-Empire.md)
+
+[Sidekick (001-012+TPB) (2013-2015) (Digital) (Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Sidekick--001-012-TPB---2013-2015---Digital---Darkness-Empire.md)
+
+Online | Download
+--- | ---
+Sidekick 001 (2013) (Digital) (Darkness-Empire).cbr | [45.75MiB](https://pan.baidu.com/s/1qXRPNpa#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.08.07%2F%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%B5%E3%82%B9%E3%82%AB%E3%82%A8%E3%82%B9%E3%82%AA%E3%82%B5%E3%82%BF%E3%82%B1%E3%82%B5%E3%82%BF%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%B5%E3%82%A4%E3%82%AD%E3%82%A6%E3%82%AD%E3%82%B9%E3%82%B5%E3%82%BD%E3%82%BF%E3%82%BD%E3%82%BD%E3%82%A6%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Sidekick 002 (2013) (Digital) (Darkness-Empire).cbr | [51.18MiB](https://pan.baidu.com/s/1boSqmmj#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.09.11%2F%E3%82%BB%E3%82%BB%E3%82%B7%E3%82%B1%E3%82%A2%E3%82%B5%E3%82%AD%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%B5%E3%82%B3%E3%82%AA%E3%82%A8%E3%82%AF%E3%82%BB%E3%82%A2%E3%82%A8%E3%82%BB%E3%82%B3%E3%82%BB%E3%82%A4%E3%82%AB%E3%82%AA%E3%82%BB%E3%82%B3%E3%82%B7%E3%82%A6%E3%82%BD%E3%82%BF%E3%82%B3%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Sidekick 003 (2013) (Digital) (Darkness-Empire).cbr | [54.11MiB](https://pan.baidu.com/s/1jI4B7Em#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.10.09%2F%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%A2%E3%82%AB%E3%82%BD%E3%82%BB%E3%82%B3%E3%82%BF%E3%82%B1%E3%82%AA%E3%82%AD%E3%82%A4%E3%82%AF%E3%82%AA%E3%82%A6%E3%82%A8%E3%82%B1%E3%82%B5%E3%82%A4%E3%82%BF%E3%82%B3%E3%82%B5%E3%82%B9%E3%82%B7%E3%82%AF%E3%82%AD%E3%82%B3%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Sidekick 004 (2013) (Digital) (Darkness-Empire).cbr | [47.04MiB](https://pan.baidu.com/s/1hrFoOqo#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.11.27%2F%E3%82%A6%E3%82%AA%E3%82%B3%E3%82%A4%E3%82%A6%E3%82%BD%E3%82%B3%E3%82%BF%E3%82%AD%E3%82%B9%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%BD%E3%82%B3%E3%82%AD%E3%82%A8%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%B1%E3%82%B3%E3%82%BD%E3%82%AF%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Sidekick 005 (2014) (Digital) (Darkness-Empire).cbr | [62.59MiB](https://pan.baidu.com/s/1hsEjeni#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.02.05%2F%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%B5%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%BD%E3%82%A8%E3%82%A4%E3%82%A8%E3%82%BD%E3%82%BD%E3%82%AD%E3%82%A2%E3%82%A8%E3%82%B1%E3%82%AB%E3%82%AA%E3%82%A2%E3%82%AA%E3%82%B9%E3%82%B5%E3%82%A6%E3%82%A6%E3%82%A8%E3%82%B7%E3%82%B5%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Sidekick 006 (2014) (Digital) (Darkness-Empire).cbr | [55.28MiB](https://pan.baidu.com/s/1skGsphr#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.04.02%2F%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%AF%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%AD%E3%82%A4%E3%82%A8%E3%82%AB%E3%82%AF%E3%82%AA%E3%82%B3%E3%82%A6%E3%82%B5%E3%82%BF%E3%82%BD%E3%82%A6%E3%82%A2%E3%82%B3%E3%82%A2%E3%82%B3%E3%82%AB%E3%82%BF%E3%82%AB%E3%82%B3%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Sidekick 007 (2014) (Digital) (Darkness-Empire).cbr | [62.25MiB](https://pan.baidu.com/s/1skNJRuH#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.02%2F%E3%82%A6%E3%82%BB%E3%82%BF%E3%82%B1%E3%82%B1%E3%82%A8%E3%82%AA%E3%82%BB%E3%82%BD%E3%82%B3%E3%82%B3%E3%82%AB%E3%82%B1%E3%82%AA%E3%82%B3%E3%82%AD%E3%82%BF%E3%82%AA%E3%82%B3%E3%82%B7%E3%82%B1%E3%82%B5%E3%82%B1%E3%82%BF%E3%82%BD%E3%82%BD%E3%82%B5%E3%82%AA%E3%82%B1%E3%82%A8%E3%82%B1%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Sidekick 008 (2014) (Digital) (Darkness-Empire).cbr | [58.65MiB](https://pan.baidu.com/s/1slbrbWx#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.03%2F%E3%82%B3%E3%82%AD%E3%82%B9%E3%82%AA%E3%82%B7%E3%82%A4%E3%82%BB%E3%82%AB%E3%82%BF%E3%82%AA%E3%82%BF%E3%82%AD%E3%82%B5%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B3%E3%82%A8%E3%82%AD%E3%82%B1%E3%82%BF%E3%82%B1%E3%82%B3%E3%82%BB%E3%82%BD%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%AB%E3%82%B1%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Sidekick 009 (2014) (Digital) (Darkness-Empire).cbr | [53.30MiB](https://pan.baidu.com/s/1eR436bK#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.26%2F%E3%82%B5%E3%82%AB%E3%82%BF%E3%82%A2%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%B1%E3%82%A8%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%B1%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%A6%E3%82%B1%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%A4%E3%82%BD%E3%82%BF%E3%82%AF%E3%82%A4%E3%82%AF%E3%82%A2%E3%82%AD%E3%82%B7%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Sidekick 010 (2015) (Digital) (Zone-Empire).cbr | [61.38MiB](https://pan.baidu.com/s/1kV1j4Uj#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.11%2F%E3%82%BF%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%B7%E3%82%A2%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%AD%E3%82%B9%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%B7%E3%82%AB%E3%82%BD%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B3%E3%82%AF%E3%82%BF%E3%82%A6%E3%82%B5%E3%82%BB%E3%82%A4%E3%82%AF%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Sidekick 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sidekick-011-2015-Digital-Zone-Empire-cbr.md) | [49.61MiB](https://pan.baidu.com/s/1cLeC1K#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.22%2F%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%B7%E3%82%AD%E3%82%A4%E3%82%A6%E3%82%AB%E3%82%AB%E3%82%A4%E3%82%B5%E3%82%AB%E3%82%B5%E3%82%AD%E3%82%BD%E3%82%B7%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%B9%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%BB%E3%82%BD%E3%82%BD%E3%82%AB%E3%82%AA%E3%82%A4%E3%82%AA%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Sidekick 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sidekick-012-2015-Digital-Zone-Empire-cbr.md) | [61.31MiB](https://pan.baidu.com/s/1jIGKBGi#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.12.23%2F%E3%82%A6%E3%82%BD%E3%82%BD%E3%82%BD%E3%82%AB%E3%82%B3%E3%82%B9%E3%82%AD%E3%82%B1%E3%82%A2%E3%82%A8%E3%82%A6%E3%82%BD%E3%82%BB%E3%82%B5%E3%82%A2%E3%82%B3%E3%82%B7%E3%82%AB%E3%82%A6%E3%82%B3%E3%82%A8%E3%82%BB%E3%82%A2%E3%82%B1%E3%82%AD%E3%82%B7%E3%82%AD%E3%82%A2%E3%82%B9%E3%82%B7%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202015%20Q4)

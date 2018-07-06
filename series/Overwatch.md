@@ -1,0 +1,61 @@
+# Overwatch
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Dark Horse
+
+Overwatch
+
+Justice aint gonna dispense itself. It's high noon as McCree takes center stage in Train Hopper, the first in a series of free digital comic shorts that further illuminate the characters and world of Overwatch. Train Hopper follows a day in the life of gunslinging outlaw Jesse McCree, the former Blackwatch operative who metes out his own brand of vigilante justice. In Train Hopper, McCree hitches a ride on a hypertrain to Houston in the hopes of skipping town and laying low for a while. But soon after the engine starts, he realizes his trip is going to be anything but low profile. Written by Blizzards own Robert Brooks and illustrated by Bengal (Adventures of Supergirl), McCree: Train Hopper is now available to read in full! We hope you enjoy it, and stay tuned for more Overwatch digital comics coming soon!
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Overwatch (001-008) (2016) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Overwatch--001-008---2016---digital-Empire.md)
+
+[Overwatch (001-013) (2016-2017) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Overwatch--001-013---2016-2017---digital-Empire.md)
+
+Online | Download
+--- | ---
+Overwatch 007 - Ana 1 - Vermächtnis (2016) (German) (Kingpin-Empire).cbr | 14.32MiB
+[Overwatch 001 - McCree Train Hopper (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-001-McCree-Train-Hopper-2016-digital-Son-of-Ultron-Empire-cbr.md) | [16.64MiB](https://pan.baidu.com/s/1eSxYd5S#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.04.27%2F%E3%82%B7%E3%82%AF%E3%82%B3%E3%82%B5%E3%82%B7%E3%82%B9%E3%82%A6%E3%82%B1%E3%82%A8%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%A6%E3%82%A8%E3%82%BD%E3%82%BB%E3%82%A2%E3%82%AB%E3%82%BB%E3%82%AD%E3%82%A6%E3%82%BF%E3%82%AF%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%AB%E3%82%BB%E3%82%AF%E3%82%B5%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Overwatch 001 - McCree am Zug (2016) (German) (digital-Empire).cbr | 10.22MiB
+Overwatch 008 - Ana 2 - Alte Soldaten (2016) (German) (Kingpin-Empire).cbr | 15.20MiB
+Overwatch 002 - Reinhardt Dragon Slayer (2016) (digital) (Son of Ultron-Empire).cbr | 16.14MiB
+Overwatch 002 - Reinhardt - Drachentöter (2016) (German) (digital-Empire).cbr | 10.15MiB
+[Overwatch 003 - Junkrat & Roadhog Going Legit (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-003-Junkrat-Roadhog-Going-Legit-2016-digital-Son-of-Ultron-Empire-cbr.md) | [22.87MiB](https://pan.baidu.com/s/1hrG8swk#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.05.11%2F%E3%82%B7%E3%82%B3%E3%82%BF%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%A8%E3%82%A6%E3%82%AA%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%A6%E3%82%BD%E3%82%B3%E3%82%A8%E3%82%AF%E3%82%B3%E3%82%A8%E3%82%B9%E3%82%AA%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%BB%E3%82%AF%E3%82%AD%E3%82%AB%E3%82%BF%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Overwatch 003 - Junkrat & Roadhog - Ehrlich geht die Welt zugrunde (2016) (German) (digital-Empire).cbr | 14.95MiB
+[Overwatch 004 (2016) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-004-2016-Digital-Pirate-Empire-cbr.md) | [8.57MiB](https://pan.baidu.com/s/1cdN2ME#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.05.18%2F%E3%82%BD%E3%82%B5%E3%82%B3%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%A2%E3%82%AA%E3%82%B5%E3%82%BB%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%A2%E3%82%B1%E3%82%B1%E3%82%B7%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%A2%E3%82%BB%E3%82%AB%E3%82%BF%E3%82%AF%E3%82%B9%E3%82%B5%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Overwatch 004 - Symmetra - Eine bessere Welt (2016) (German) (digital-Empire).cbr | 9.14MiB
+Overwatch 005 - Pharah - Mission Statement (2016) (Digital) (Pirate-Empire).cbr | 10.84MiB
+Overwatch 005 - Pharah - Nur die Mission zählt (2016) (German) (digital-Empire).cbr | 11.65MiB
+[Overwatch 006 - Torbjörn - Destroyer (2016) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-006-Torbjörn-Destroyer-2016-Digital-Pirate-Empire-cbr.md) | [13.43MiB](https://pan.baidu.com/s/1kVpEiZd#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.06.01%2F%E3%82%B9%E3%82%AF%E3%82%AF%E3%82%AB%E3%82%BD%E3%82%A6%E3%82%B1%E3%82%BF%E3%82%B7%E3%82%BD%E3%82%AF%E3%82%B3%E3%82%B5%E3%82%AD%E3%82%AD%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%A4%E3%82%B3%E3%82%A8%E3%82%B5%E3%82%BD%E3%82%AB%E3%82%A2%E3%82%AF%E3%82%AA%E3%82%B3%E3%82%A4%E3%82%B7%E3%82%B1%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Overwatch 006 - Torbjörn - Der Zerstörer (2016) (German) (digital-Empire).cbr | 21.52MiB
+[Overwatch 007 - Ana Amari - A Better World (2016) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-007-Ana-Amari-A-Better-World-2016-Digital-Pirate-Empire-cbr.md) | [12.23MiB](https://pan.baidu.com/s/1cloV3S#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.07.20%2F%E3%82%BF%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%A4%E3%82%B5%E3%82%B1%E3%82%B3%E3%82%B3%E3%82%B9%E3%82%A4%E3%82%AF%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%B5%E3%82%B1%E3%82%B7%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%B5%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%AA%E3%82%B7%E3%82%BB%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Overwatch 008 (2016) (Digital HD) (Hourman-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-008-2016-Digital-HD-Hourman-DCP-cbr.md) | [13.98MiB](https://pan.baidu.com/s/1geJslWJ#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.07.27%2F%E3%82%B5%E3%82%B1%E3%82%A2%E3%82%B1%E3%82%B9%E3%82%A4%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B5%E3%82%A4%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%A8%E3%82%B5%E3%82%AD%E3%82%BD%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%BD%E3%82%B5%E3%82%AF%E3%82%A4%E3%82%B3%E3%82%A4%E3%82%AD%E3%82%BB%E3%82%AD%E3%82%BD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Overwatch 008 - Ana - Old Soldiers (2016) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-008-Ana-Old-Soldiers-2016-Digital-Pirate-Empire-cbr.md) | [14.21MiB](https://pan.baidu.com/s/1pLupFJl#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.08.03%2F%E3%82%BB%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%B1%E3%82%B9%E3%82%A6%E3%82%BF%E3%82%AD%E3%82%A8%E3%82%A4%E3%82%AA%E3%82%B9%E3%82%AD%E3%82%A6%E3%82%BF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%BF%E3%82%BD%E3%82%BF%E3%82%B3%E3%82%A4%E3%82%BD%E3%82%A6%E3%82%A8%E3%82%A6%E3%82%B5%E3%82%B5%E3%82%A2%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+Overwatch 009 - Junkenstein (2016) (German) (Kingpin-Empire).cbr | 12.31MiB
+[Overwatch 009 - Junkenstein (2016) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-009-Junkenstein-2016-Digital-Pirate-Empire-cbr.md) | [11.85MiB](https://pan.baidu.com/s/1o8uXFLo#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.10.12%2F%E3%82%BF%E3%82%BD%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%B7%E3%82%AF%E3%82%A2%E3%82%AA%E3%82%B7%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%A6%E3%82%A4%E3%82%A8%E3%82%A8%E3%82%AA%E3%82%B5%E3%82%AD%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%BB%E3%82%B1%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%B5%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+Overwatch 010 - Reflexionen (2016) (German) (Kingpin-Empire).cbr | 20.52MiB
+[Overwatch 010 (2016) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-010-2016-Digital-Pirate-Empire-cbr.md) | [25.94MiB](https://pan.baidu.com/s/1kVeOGgZ#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.01%2F%E3%82%BB%E3%82%B1%E3%82%AF%E3%82%A4%E3%82%B9%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%AD%E3%82%A4%E3%82%B1%E3%82%BD%E3%82%A6%E3%82%AA%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%AA%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%A6%E3%82%A4%E3%82%BF%E3%82%A6%E3%82%B3%E3%82%BB%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+Overwatch 011 - Bastion (2017) (German) (Kingpin-Empire).cbr | 16.29MiB
+Overwatch 011 - Binary (2017) (digital-Empire).cbr | 22.39MiB
+Overwatch 012 - Der Aufstand (2017) (German) (Kingpin-Empire).cbr | 17.41MiB
+Overwatch 012 - Uprising (2017) (digital-Empire).cbr | 23.98MiB
+Overwatch 013 - Doomfist - Masquerade (2017) (German) (Kingpin-Empire).cbr | 14.36MiB
+[Overwatch 013 - Doomfist - Masquerade (2017) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-013-Doomfist-Masquerade-2017-digital-Empire-cbr.md) | [20.20MiB](https://pan.baidu.com/s/1c19oTsk#list/path=%2F0-Day%20Week%20of%202017%20Q3%2F0-Day%20Week%20of%202017.07.19%2F%E3%82%B5%E3%82%A8%E3%82%AF%E3%82%AA%E3%82%BF%E3%82%B5%E3%82%AB%E3%82%AD%E3%82%A2%E3%82%B5%E3%82%BD%E3%82%B3%E3%82%BD%E3%82%A4%E3%82%B3%E3%82%BB%E3%82%B7%E3%82%A4%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%AF%E3%82%AB%E3%82%B7%E3%82%AD%E3%82%B1%E3%82%B3%E3%82%B7%E3%82%A4%E3%82%B7%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202017%20Q3)
+Overwatch 014 - Abgewrackt (2017) (German) (Kingpin-Empire).cbr | 14.75MiB
+[Overwatch 014 - Junkertown - Wasted Land (2017) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-014-Junkertown-Wasted-Land-2017-digital-Empire-cbr.md) | [20.00MiB](https://pan.baidu.com/s/1pLObLRt#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.10.18%2F%E3%82%A4%E3%82%B3%E3%82%AA%E3%82%B5%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%A6%E3%82%BD%E3%82%AD%E3%82%AA%E3%82%B1%E3%82%B1%E3%82%B7%E3%82%A8%E3%82%A8%E3%82%A4%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%B1%E3%82%AF%E3%82%AB%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+Overwatch 015 - Zariya - Suche (2017) (German) (Kingpin-Empire).cbr | 17.91MiB
+[Overwatch 015 - Zarya - Searching (2017) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-015-Zarya-Searching-2017-digital-Empire-cbr.md) | [24.28MiB](https://pan.baidu.com/s/1pLObLRt#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.10.18%2F%E3%82%A8%E3%82%AA%E3%82%B9%E3%82%B3%E3%82%AD%E3%82%BF%E3%82%BB%E3%82%B7%E3%82%A4%E3%82%A8%E3%82%AD%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%AD%E3%82%AB%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%AD%E3%82%AF%E3%82%A8%E3%82%BF%E3%82%B9%E3%82%BB%E3%82%B1%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%BB%E3%82%B3%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+Overwatch Halloween Terror 2017 - The Return of Junkenstein (2017) (Digital-Empire).cbr | 14.77MiB
+Overwatch Halloween Terror 2017 - Junkensteins Rückkehr (2017) (Kingpin-Empire).cbr | 9.99MiB
+Overwatch Winter Wonderland 2017 - Yeti Hunt (2017) (Kingpin-Empire).cbr | 7.08MiB
+[Overwatch Winter Wonderland 2017 - Yeti Hunt (2017) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-Winter-Wonderland-2017-Yeti-Hunt-2017-digital-Empire-cbr.md) | [10.47MiB](https://pan.baidu.com/s/1cvyDPW#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.12.20%2F%E3%82%A2%E3%82%AD%E3%82%BD%E3%82%B9%E3%82%AF%E3%82%B5%E3%82%AF%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%B9%E3%82%AA%E3%82%A8%E3%82%B3%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%BF%E3%82%B1%E3%82%B7%E3%82%A4%E3%82%AD%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%BD%E3%82%BB%E3%82%A8%E3%82%A2%E3%82%A2%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+Overwatch 016 - Vergeltung (2018) (German) (Kingpin-Empire).cbr | 12.86MiB
+[Overwatch 016 - Retribution (2018) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Overwatch-016-Retribution-2018-digital-Empire-cbr.md) | [17.84MiB](https://pan.baidu.com/s/1jmf9sDuDLQ0j9xeEIG3Lvw#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.04%2F%E3%82%A6%E3%82%B7%E3%82%AB%E3%82%B7%E3%82%BB%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%A4%E3%82%AD%E3%82%AF%E3%82%A2%E3%82%A8%E3%82%BD%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%AF%E3%82%B7%E3%82%A2%E3%82%BD%E3%82%AA%E3%82%B3%E3%82%B5%E3%82%A2%E3%82%A6%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202018%20Q2)

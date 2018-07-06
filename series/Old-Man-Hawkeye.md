@@ -1,0 +1,24 @@
+# Old Man Hawkeye
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Old Man Hawkeye (2018-)
+
+The super heroes have fallen.  The country has been divided into territories controlled by super villains.  Among the wastelands lives CLINT BARTON – one of the few Avengers to survive.  But it's been 45 years, and he's no Avenger.  Trying to eke out a living anyway he can, the former HAWKEYE is confronted with a startling discovery:  the sharpshooter is going blind.  With time running short, Clint realizes there's one last thing he wants to see: revenge for his fallen comrades-in-arms. Rising-star writer ETHAN SACKS and superstar artist MARCO CHECCHETTO take you back to the Wastelands in a story set five years before the original classic OLD MAN LOGAN.
+
+
+
+
+
+Online | Download
+--- | ---
+[Old Man Hawkeye 001 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Hawkeye-001-2018-Digital-Zone-Empire-cbr.md) | [89.58MiB](https://pan.baidu.com/s/1jJHk3Qm#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.01.10%2F%E3%82%A8%E3%82%AA%E3%82%AF%E3%82%A8%E3%82%B3%E3%82%BB%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%AD%E3%82%BF%E3%82%BB%E3%82%B3%E3%82%AD%E3%82%AF%E3%82%BF%E3%82%B7%E3%82%A2%E3%82%A8%E3%82%BB%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%A4%E3%82%B3%E3%82%AB%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%AD%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Old Man Hawkeye 002 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Hawkeye-002-2018-Digital-Zone-Empire-cbr.md) | [44.38MiB](https://pan.baidu.com/s/1pNecCIJ#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.02.14%2F%E3%82%B1%E3%82%B7%E3%82%AD%E3%82%AB%E3%82%B7%E3%82%A8%E3%82%AF%E3%82%BF%E3%82%AF%E3%82%B3%E3%82%B3%E3%82%B3%E3%82%A4%E3%82%AB%E3%82%A2%E3%82%BD%E3%82%AB%E3%82%A8%E3%82%B3%E3%82%B3%E3%82%BF%E3%82%AD%E3%82%AA%E3%82%A6%E3%82%B7%E3%82%A4%E3%82%B1%E3%82%A4%E3%82%B1%E3%82%A8%E3%82%AD%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Old Man Hawkeye 003 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Hawkeye-003-2018-Digital-Zone-Empire-cbr.md) | [47.58MiB](https://pan.baidu.com/s/13LmUEgOK6tAqDe7-3eerNw#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.03.28%2F%E3%82%BB%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%B5%E3%82%AB%E3%82%B9%E3%82%B7%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%B7%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%B9%E3%82%A6%E3%82%AA%E3%82%B7%E3%82%BF%E3%82%B1%E3%82%BD%E3%82%AB%E3%82%B7%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%B5%E3%82%B9%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[Old Man Hawkeye 004 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Hawkeye-004-2018-Digital-Zone-Empire-cbr.md) | [44.64MiB](https://pan.baidu.com/s/1h9jMC2Lio6fsZcY1C5iw9Q#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.25%2F%E3%82%B1%E3%82%BD%E3%82%B3%E3%82%A8%E3%82%AB%E3%82%A8%E3%82%BF%E3%82%A2%E3%82%BB%E3%82%A8%E3%82%A8%E3%82%BD%E3%82%B1%E3%82%A4%E3%82%BD%E3%82%A2%E3%82%A8%E3%82%BF%E3%82%B9%E3%82%A2%E3%82%B5%E3%82%A8%E3%82%B1%E3%82%B3%E3%82%BD%E3%82%A8%E3%82%B3%E3%82%BF%E3%82%AA%E3%82%A6%E3%82%A8%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Old Man Hawkeye 005 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Hawkeye-005-2018-Digital-Zone-Empire-cbr.md) | [43.28MiB](https://pan.baidu.com/s/1rwYALWjrlQ4xLU80RpIlRA#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.23%2F%E3%82%A2%E3%82%B9%E3%82%A8%E3%82%B7%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%B1%E3%82%AB%E3%82%A4%E3%82%BB%E3%82%B5%E3%82%AF%E3%82%A2%E3%82%B5%E3%82%B1%E3%82%A2%E3%82%B7%E3%82%B5%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%A4%E3%82%AD%E3%82%A8%E3%82%A2%E3%82%B5%E3%82%B3%E3%82%A2%E3%82%BD%E3%82%B3%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Old Man Hawkeye 006 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Hawkeye-006-2018-Digital-Zone-Empire-cbr.md) | [46.05MiB](https://pan.baidu.com/s/1Jw-1Vr0aM5ndm15cWlBK5Q#list/path=%2FMarvel%20Week%202018%20Q2%2FMarvel%20Week%2B%20%2806-27-2018%29%2F%E3%82%AD%E3%82%AB%E3%82%BD%E3%82%AA%E3%82%B3%E3%82%A4%E3%82%BD%E3%82%B9%E3%82%B7%E3%82%BD%E3%82%B1%E3%82%AB%E3%82%AF%E3%82%BD%E3%82%B7%E3%82%A2%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%BD%E3%82%BF%E3%82%A2%E3%82%B9%E3%82%A8%E3%82%AB%E3%82%B3%E3%82%AB%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%B5%E3%82%A6&parentPath=%2FMarvel%20Week%202018%20Q2)

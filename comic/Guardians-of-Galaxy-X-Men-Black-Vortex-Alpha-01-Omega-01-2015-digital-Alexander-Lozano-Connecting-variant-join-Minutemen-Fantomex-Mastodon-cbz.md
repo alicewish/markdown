@@ -1,0 +1,3 @@
+## Guardians of the Galaxy and X-Men - The Black Vortex Alpha 01 & Omega 01 (2015) (digital) (Alexander Lozano Connecting variant join) (Minutemen-Fantomex Mastodon).cbz
+
+![Guardians of the Galaxy and X-Men - The Black Vortex Alpha 01 & Omega 01 (2015) (digital) (Alexander Lozano Connecting variant join) (Minutemen-Fantomex+Mastodon).jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr1986dqe7j21kw1847vt.jpg)

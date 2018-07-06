@@ -1,0 +1,26 @@
+# Amerikarate
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Action Lab - Danger Zone
+
+Amerikarate
+
+Sam Kickwell was the best of the best--until a terrible karate accident involving his brother and ninjas convinced him to hang up his black belt. Now he and his appendage-less sibling have moved to a town that has outlawed martial arts; a place they can finally be at peace—until the fateful day his enemies arrive, forcing him back into the only life he's ever known: Karate fighting for America. Featuring artwork by Devin Roth, lead character designer for the hit animated series, BOB'S BURGERS!
+
+
+
+
+
+Online | Download
+--- | ---
+[Amerikarate 001 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-001-2017-digital-dargh-Empire-cbr.md) | [27.91MiB](https://pan.baidu.com/s/1ge9OIeJ#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.03.01%2F%E3%82%A6%E3%82%BB%E3%82%AB%E3%82%A2%E3%82%BD%E3%82%A4%E3%82%B3%E3%82%B3%E3%82%B9%E3%82%A4%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%B1%E3%82%B1%E3%82%BD%E3%82%AD%E3%82%AF%E3%82%B3%E3%82%BD%E3%82%A6%E3%82%B1%E3%82%A2%E3%82%B9%E3%82%A2%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%A8%E3%82%B3%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Amerikarate 002 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-002-2017-digital-dargh-Empire-cbr.md) | [28.58MiB](https://pan.baidu.com/s/1skMv3BJ#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.04.12%2F%E3%82%BF%E3%82%AD%E3%82%B3%E3%82%BD%E3%82%AD%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%BF%E3%82%B1%E3%82%A8%E3%82%B3%E3%82%AD%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%BF%E3%82%BB%E3%82%A8%E3%82%BF%E3%82%A8%E3%82%B3%E3%82%A2%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%A2%E3%82%AF%E3%82%AB%E3%82%BF%E3%82%BF%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[Amerikarate 003 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-003-2017-digital-dargh-Empire-cbr.md) | [29.72MiB](https://pan.baidu.com/s/1gfgsLov#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.05.10%2F%E3%82%B5%E3%82%A6%E3%82%A6%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%B9%E3%82%B5%E3%82%B9%E3%82%BB%E3%82%AB%E3%82%BF%E3%82%BB%E3%82%AF%E3%82%B5%E3%82%BF%E3%82%B1%E3%82%B9%E3%82%AD%E3%82%BF%E3%82%A6%E3%82%BD%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%BF%E3%82%B7%E3%82%B7%E3%82%BB%E3%82%B1%E3%82%B1%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[Amerikarate 004 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-004-2017-digital-dargh-Empire-cbr.md) | [50.66MiB](https://pan.baidu.com/s/1dFo4tPn#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.06.14%2F%E3%82%B7%E3%82%B7%E3%82%A2%E3%82%A4%E3%82%B3%E3%82%B7%E3%82%A6%E3%82%A6%E3%82%AB%E3%82%AA%E3%82%A2%E3%82%A6%E3%82%B7%E3%82%A4%E3%82%B1%E3%82%A2%E3%82%AA%E3%82%BD%E3%82%A4%E3%82%A4%E3%82%B5%E3%82%AF%E3%82%AB%E3%82%AF%E3%82%AD%E3%82%B3%E3%82%B3%E3%82%AB%E3%82%AA%E3%82%AA%E3%82%B1%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[Amerikarate 005 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-005-2017-digital-dargh-Empire-cbr.md) | [71.94MiB](https://pan.baidu.com/s/1mixdBhm#list/path=%2F0-Day%20Week%20of%202017%20Q3%2F0-Day%20Week%20of%202017.08.16%2F%E3%82%AA%E3%82%BB%E3%82%AB%E3%82%AF%E3%82%A2%E3%82%B1%E3%82%A2%E3%82%B9%E3%82%BB%E3%82%AA%E3%82%AD%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%AB%E3%82%B3%E3%82%A2%E3%82%B3%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%BD%E3%82%A8%E3%82%B7%E3%82%A2%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202017%20Q3)
+[Amerikarate 006 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-006-2017-digital-dargh-Empire-cbr.md) | [75.17MiB](https://pan.baidu.com/s/1mhAu8Uc#list/path=%2F0-Day%20Week%20of%202017%20Q3%2F0-Day%20Week%20of%202017.09.13%2F%E3%82%BF%E3%82%AF%E3%82%BB%E3%82%AD%E3%82%A8%E3%82%A8%E3%82%AB%E3%82%BD%E3%82%AA%E3%82%AF%E3%82%BD%E3%82%A6%E3%82%AD%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%A6%E3%82%B3%E3%82%BD%E3%82%AF%E3%82%A6%E3%82%A8%E3%82%B7%E3%82%BF%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%A6%E3%82%A2%E3%82%BD%E3%82%A6%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202017%20Q3)
+[Amerikarate 007 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amerikarate-007-2017-digital-dargh-Empire-cbr.md) | [88.00MiB](https://pan.baidu.com/s/1dE3NjnN#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.10.25%2F%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%A2%E3%82%B3%E3%82%AB%E3%82%AA%E3%82%AB%E3%82%B3%E3%82%B3%E3%82%AF%E3%82%BB%E3%82%BD%E3%82%BF%E3%82%A6%E3%82%B1%E3%82%B5%E3%82%B9%E3%82%B5%E3%82%A2%E3%82%B5%E3%82%B9%E3%82%AB%E3%82%AF%E3%82%B3%E3%82%B7%E3%82%AB%E3%82%B1%E3%82%BB%E3%82%B5%E3%82%A8%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+Amerikarate 008 (2017) (digital) (d'argh-Empire).cbr | 82.40MiB

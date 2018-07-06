@@ -1,0 +1,27 @@
+# Sword of Sorcery
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+DC
+
+Sword of Sorcery (2012-2013)
+
+Amethyst returns! Amy Winston has grown up on the road with her mother. Their life is strange, and it only gets weirder when she discovers she's the lost princess of Gemworld--and has powerful enemies hunting her!
+
+
+
+
+
+Online | Download
+--- | ---
+Sword of Sorcery 001 (2012) (2 covers) (digital-Empire).cbr | [46.88MiB](https://pan.baidu.com/s/1qYbZfo4#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.10.17%2F%E3%82%B3%E3%82%BD%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%AB%E3%82%B9%E3%82%B1%E3%82%B3%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%AA%E3%82%A2%E3%82%BB%E3%82%A8%E3%82%B1%E3%82%A2%E3%82%B9%E3%82%B1%E3%82%B7%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%A4%E3%82%BB%E3%82%A6%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
+Sword of Sorcery (2013-05) 06 (digital) (DreamGirl-Novus-HD).cbz | [54.47MiB](https://pan.baidu.com/s/1qYWjC40#list/path=%2F0-Day%20Week%20of%202013%20Q1%2F0-Day%20Week%20of%202013.03.20%2F%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%AD%E3%82%AB%E3%82%AD%E3%82%AB%E3%82%A2%E3%82%BF%E3%82%AF%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%B3%E3%82%A6%E3%82%B3%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%BD%E3%82%BF%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%B9%E3%82%A6%E3%82%AD%E3%82%B5%E3%82%A8%E3%82%A6%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202013%20Q1)
+[Sword of Sorcery 002 (2013) (2 covers) (digital-TheGroup).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sword-of-Sorcery-002-2013-2-covers-digital-TheGroup-cbr.md) | [22.24MiB](https://pan.baidu.com/s/1nvvcjO1#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.11.21%2F%E3%82%B5%E3%82%AD%E3%82%AA%E3%82%B3%E3%82%AA%E3%82%A8%E3%82%BF%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%B3%E3%82%A6%E3%82%A6%E3%82%B1%E3%82%B3%E3%82%B9%E3%82%AD%E3%82%AA%E3%82%A4%E3%82%AD%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%B1%E3%82%A2%E3%82%BB%E3%82%A6%E3%82%B1%E3%82%A4%E3%82%B5%E3%82%AF%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
+Sword of Sorcery 002 (2013) (2 covers) (digital-Empire).cbr | 44.92MiB
+[Sword of Sorcery 003 (2013) (2 covers) (digital-TheGroup).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sword-of-Sorcery-003-2013-2-covers-digital-TheGroup-cbr.md) | [48.05MiB](https://pan.baidu.com/s/1o89TeUQ#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.12.19%2F%E3%82%B5%E3%82%BF%E3%82%A2%E3%82%A8%E3%82%AA%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%A6%E3%82%AD%E3%82%A8%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%AB%E3%82%AD%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%BB%E3%82%A6%E3%82%B7%E3%82%BD%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%BD%E3%82%B7%E3%82%B1%E3%82%BF%E3%82%A4%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
+[Sword of Sorcery 004 (2013) (2 Covers) (digital-TheGroup).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sword-of-Sorcery-004-2013-2-Covers-digital-TheGroup-cbr.md) | [51.12MiB](https://pan.baidu.com/s/1qXXVycG#list/path=%2F0-Day%20Week%20of%202013%20Q1%2F0-Day%20Week%20of%202013.01.23%2F%E3%82%BD%E3%82%AA%E3%82%AA%E3%82%AA%E3%82%BD%E3%82%A8%E3%82%B1%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%AA%E3%82%A2%E3%82%AB%E3%82%AD%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%BB%E3%82%B7%E3%82%B9%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%BD%E3%82%BF%E3%82%B1%E3%82%BB%E3%82%AF%E3%82%AF%E3%82%AD%E3%82%BB%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202013%20Q1)
+[Sword of Sorcery 05 (2013) (digital) (DreamGirl-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sword-of-Sorcery-05-2013-digital-DreamGirl-Empire-cbz.md) | [63.66MiB](https://pan.baidu.com/s/1gfm0Mtl#list/path=%2F0-Day%20Week%20of%202013%20Q1%2F0-Day%20Week%20of%202013.02.20%2F%E3%82%AA%E3%82%A6%E3%82%BB%E3%82%AB%E3%82%AB%E3%82%B1%E3%82%B7%E3%82%B9%E3%82%A6%E3%82%A8%E3%82%B7%E3%82%BF%E3%82%AB%E3%82%AA%E3%82%B1%E3%82%A2%E3%82%A4%E3%82%A2%E3%82%AF%E3%82%B3%E3%82%A4%E3%82%A2%E3%82%BB%E3%82%B3%E3%82%B3%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%B1%E3%82%A8%E3%82%BF%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202013%20Q1)
+[Sword of Sorcery 07 (2013) (Digital) (Bean-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sword-of-Sorcery-07-2013-Digital-Bean-Empire-cbz.md) | [42.72MiB](https://pan.baidu.com/s/1eS4JHGA#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.04.17%2F%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%AB%E3%82%BD%E3%82%A4%E3%82%B9%E3%82%BD%E3%82%AB%E3%82%B3%E3%82%BF%E3%82%B3%E3%82%B5%E3%82%AF%E3%82%BB%E3%82%B1%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%B3%E3%82%B3%E3%82%A8%E3%82%B7%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%A4%E3%82%A8%E3%82%AD%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+[Sword of Sorcery 008 (2013) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sword-of-Sorcery-008-2013-Digital-Nahga-Empire-cbr.md) | [63.56MiB](https://pan.baidu.com/s/1cx0uWQ#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.05.15%2F%E3%82%A8%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%BD%E3%82%BB%E3%82%AB%E3%82%BF%E3%82%B5%E3%82%BD%E3%82%B7%E3%82%AD%E3%82%B9%E3%82%A8%E3%82%B9%E3%82%AB%E3%82%BF%E3%82%AD%E3%82%B1%E3%82%BD%E3%82%BF%E3%82%A6%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%A4%E3%82%A4%E3%82%BB%E3%82%A6%E3%82%A4%E3%82%B5%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202013%20Q2)

@@ -1,0 +1,33 @@
+# Death of Wolverine
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Death of Wolverine
+
+The beginning of the end is now here: the death of Wolverine! With three months to live due to the loss of his healing factor, Wolverine’s demise will be the single most important X-Men event of the decade. Logan has spent over a century being the best there is at what he does, but even the best fade away eventually. Over the years, Logan has been a warrior, a hero, a renegade, a samurai, and a teacher. Now, the greatest X-Men hero will play a role he’s never played before.
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Death of Wolverine (01 - 04 + Logan Legacy (01-07), Weapon X Program (01-05) & Tie-Ins)](https://github.com/alicewish/markdown/blob/master/torrent/Death-of-Wolverine--01---04---Logan-Legacy--01-07---Weapon-X-Program--01-05----Tie-Ins.md)
+
+[Death of Wolverine (01 - 04) (2014) (Digital) (Nahga-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Death-of-Wolverine--01---04---2014---Digital---Nahga-Empire.md)
+
+Online | Download
+--- | ---
+[Death of Wolverine 01 (of 04) (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-01-of-04-2014-digital-Minutemen-Faessla-cbz.md) | [82.87MiB](https://pan.baidu.com/s/1slbrbWx#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.03%2F%E3%82%AF%E3%82%BF%E3%82%AD%E3%82%AD%E3%82%BF%E3%82%B1%E3%82%BD%E3%82%AF%E3%82%B5%E3%82%A8%E3%82%B9%E3%82%B7%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%B3%E3%82%B7%E3%82%BB%E3%82%B3%E3%82%A4%E3%82%A4%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%AD%E3%82%A8%E3%82%AA%E3%82%B9%E3%82%BD%E3%82%B7%E3%82%B9%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Death of Wolverine 01 (of 04) (2014) (Digital) (Nahga-Empire).cbr | [76.48MiB](https://pan.baidu.com/s/1slbrbWx#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.03%2F%E3%82%BB%E3%82%AA%E3%82%B5%E3%82%BB%E3%82%AB%E3%82%B5%E3%82%A8%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%AA%E3%82%B5%E3%82%AF%E3%82%AB%E3%82%A6%E3%82%AD%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%B3%E3%82%AD%E3%82%B9%E3%82%B3%E3%82%B3%E3%82%AD%E3%82%B9%E3%82%B3%E3%82%AA%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+[Death of Wolverine 02 (of 04) (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-02-of-04-2014-digital-Minutemen-Faessla-cbz.md) | [47.98MiB](https://pan.baidu.com/s/1boMQ1Bp#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.10%2F%E3%82%A4%E3%82%AB%E3%82%A4%E3%82%B9%E3%82%AF%E3%82%AF%E3%82%AF%E3%82%B7%E3%82%BB%E3%82%AD%E3%82%B7%E3%82%A6%E3%82%A4%E3%82%B1%E3%82%B7%E3%82%B3%E3%82%BB%E3%82%AA%E3%82%B9%E3%82%AA%E3%82%A2%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%AA%E3%82%BB%E3%82%BB%E3%82%BD%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Death of Wolverine 02 (of 04) (2014) (Digital) (Nahga-Empire).cbr | [44.85MiB](https://pan.baidu.com/s/1boMQ1Bp#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.10%2F%E3%82%A4%E3%82%B5%E3%82%BD%E3%82%AF%E3%82%B1%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%BD%E3%82%AD%E3%82%AB%E3%82%BB%E3%82%BF%E3%82%AA%E3%82%B9%E3%82%BF%E3%82%BB%E3%82%A4%E3%82%A4%E3%82%B3%E3%82%A4%E3%82%AA%E3%82%BB%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%BD%E3%82%B1%E3%82%AF%E3%82%B3%E3%82%BF%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+[Death of Wolverine 03 (of 04) (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-03-of-04-2014-digital-Minutemen-Faessla-cbz.md) | [50.09MiB](https://pan.baidu.com/s/1bp4PNif#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.01%2F%E3%82%BF%E3%82%B1%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%AB%E3%82%A6%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%A2%E3%82%B7%E3%82%AF%E3%82%BD%E3%82%B3%E3%82%AD%E3%82%B7%E3%82%B9%E3%82%BB%E3%82%A2%E3%82%A4%E3%82%B1%E3%82%B7%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Death of Wolverine 03 (of 04) (2014) (Digital) (Nahga-Empire).cbr | [46.92MiB](https://pan.baidu.com/s/1bp4PNif#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.01%2F%E3%82%A4%E3%82%A4%E3%82%A8%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%AB%E3%82%A2%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%A2%E3%82%A8%E3%82%BB%E3%82%AB%E3%82%BD%E3%82%A6%E3%82%AD%E3%82%BF%E3%82%A4%E3%82%B1%E3%82%A6%E3%82%AF%E3%82%A8%E3%82%B7%E3%82%A8%E3%82%B5%E3%82%BB%E3%82%AD%E3%82%AF%E3%82%B5%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Death of Wolverine 04 (of 04) (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-04-of-04-2014-digital-Minutemen-Faessla-cbz.md) | [58.80MiB](https://pan.baidu.com/s/1nvzLNfj#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.15%2F%E3%82%B7%E3%82%B5%E3%82%A8%E3%82%A8%E3%82%A4%E3%82%A2%E3%82%B5%E3%82%AF%E3%82%A4%E3%82%AD%E3%82%AF%E3%82%A2%E3%82%A8%E3%82%A8%E3%82%BD%E3%82%BF%E3%82%AA%E3%82%BD%E3%82%BB%E3%82%B5%E3%82%AD%E3%82%B3%E3%82%BF%E3%82%B9%E3%82%B7%E3%82%B1%E3%82%BD%E3%82%AF%E3%82%A4%E3%82%BB%E3%82%A4%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Death of Wolverine 04 (of 04) (2014) (Digital) (Nahga-Empire).cbr | [54.45MiB](https://pan.baidu.com/s/1nvzLNfj#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.15%2F%E3%82%AB%E3%82%BB%E3%82%BB%E3%82%A4%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%A8%E3%82%AD%E3%82%BD%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%AF%E3%82%AA%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B5%E3%82%A6%E3%82%AA%E3%82%B5%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%A8%E3%82%BB%E3%82%B3%E3%82%A4%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Death of Wolverine (2015) (digital HC) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-2015-digital-HC-Minutemen-Faessla-cbz.md) | [244.02MiB](https://pan.baidu.com/s/1gfKW8qZ#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.21%2F%E3%82%B3%E3%82%A2%E3%82%A6%E3%82%B9%E3%82%B3%E3%82%B3%E3%82%A2%E3%82%A2%E3%82%BD%E3%82%AD%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%B5%E3%82%B5%E3%82%AA%E3%82%A2%E3%82%B1%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A8%E3%82%BD%E3%82%A2%E3%82%AB%E3%82%AF%E3%82%AB%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%BF%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202015%20Q1)

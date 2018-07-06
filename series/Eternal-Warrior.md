@@ -1,0 +1,56 @@
+# Eternal Warrior
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Valiant
+
+Eternal Warrior (2013- )
+
+New York Times best-selling writer Greg Pak (Batman/Superman, Planet Hulk) and superstar artist Trevor Hairsine (X-O Manowar, X-Men: Deadly Genesis) launch a brand new campaign for Valiant's immortal champion, the Eternal Warrior, in an all-new monthly series!
+
+
+
+Across ten millennia and a thousand battlefields, Gilad Anni-Padda has traversed the darkest, most mysterious corners of history. But the horror and bloodshed of constant warfare has finally taken its toll on the man myth calls the Eternal Warrior...and he has abdicated his duties as the Fist and the Steel of Earth for a quiet life of seclusion. But when a blood vendetta from the distant past suddenly reappears in the modern day, he must decide if he will return to the ways of war...for the child who betrayed him thousands of years ago...
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Eternal Warrior](https://github.com/alicewish/markdown/blob/master/torrent/Eternal-Warrior.md)
+
+[Eternal Warrior (001-002) (1992) (digital) (d'argh-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Eternal-Warrior--001-002---1992---digital---dargh-Empire.md)
+
+[Eternal Warrior (001 - 008 + TPBs & Days of Steel 01 - 03) (2013 - Ongoing)](https://github.com/alicewish/markdown/blob/master/torrent/Eternal-Warrior--001---008---TPBs---Days-of-Steel-01---03---2013---Ongoing.md)
+
+[Eternal Warrior (001-025) (1992-1994) (digital) (d'argh-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Eternal-Warrior--001-025---1992-1994---digital---dargh-Empire.md)
+
+Online | Download
+--- | ---
+Eternal Warrior 31(1994)(FB-DCP)(C2C).cbr | 41.59MiB
+Eternal Warrior 33(1995)(FB-DCP)(C2C).cbr | 44.93MiB
+Eternal Warrior 34(1995)(FB-DCP)(C2C).cbr | 40.84MiB
+Eternal Warrior #001 (2013) (digital) (Minutemen-Spaztastic).cbr | [46.52MiB](https://pan.baidu.com/s/1boSqmmj#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.09.11%2F%E3%82%AB%E3%82%B7%E3%82%B1%E3%82%B1%E3%82%BB%E3%82%AA%E3%82%BB%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%A8%E3%82%A8%E3%82%B9%E3%82%AB%E3%82%B1%E3%82%B7%E3%82%B1%E3%82%B5%E3%82%A8%E3%82%AD%E3%82%BF%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%B9%E3%82%BD%E3%82%B9%E3%82%B5%E3%82%A6%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Eternal Warrior 001 (2013) (digital) (Minutemen-Spaztastic).cbr | [46.52MiB](https://pan.baidu.com/s/1boSqmmj#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.09.11%2F%E3%82%BB%E3%82%A4%E3%82%A8%E3%82%A2%E3%82%A8%E3%82%BD%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%B7%E3%82%B5%E3%82%AD%E3%82%AB%E3%82%AB%E3%82%AD%E3%82%B7%E3%82%BD%E3%82%A8%E3%82%AF%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Eternal Warrior 001 (2013) (Digital) (Nahga-Empire).cbr | [46.14MiB](https://pan.baidu.com/s/1boSqmmj#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.09.11%2F%E3%82%BF%E3%82%B7%E3%82%A8%E3%82%AD%E3%82%B1%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%BF%E3%82%AA%E3%82%A2%E3%82%A2%E3%82%B1%E3%82%B1%E3%82%A4%E3%82%AA%E3%82%A6%E3%82%AB%E3%82%BF%E3%82%B7%E3%82%AF%E3%82%B7%E3%82%A4%E3%82%AF%E3%82%A6%E3%82%A8%E3%82%A4%E3%82%A8%E3%82%A8%E3%82%BB%E3%82%A6%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Eternal Warrior 002 (2013) (digital) (Minutemen-Spaztastic).cbr | [33.79MiB](https://pan.baidu.com/s/1jI4B7Em#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.10.09%2F%E3%82%BD%E3%82%BB%E3%82%B9%E3%82%AD%E3%82%B1%E3%82%A4%E3%82%BB%E3%82%BF%E3%82%AA%E3%82%AB%E3%82%BD%E3%82%BD%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%BB%E3%82%B1%E3%82%B1%E3%82%AD%E3%82%A6%E3%82%AD%E3%82%B7%E3%82%AB%E3%82%A8%E3%82%AB%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%AD%E3%82%AB%E3%82%A6%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Eternal Warrior 002 (2013) (digital) (Son of Ultron-Empire).cbr | [47.56MiB](https://pan.baidu.com/s/1jI4B7Em#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.10.09%2F%E3%82%BF%E3%82%AA%E3%82%A2%E3%82%B5%E3%82%A4%E3%82%B7%E3%82%AB%E3%82%BD%E3%82%AF%E3%82%AB%E3%82%AD%E3%82%BF%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%82%B7%E3%82%B9%E3%82%AF%E3%82%BD%E3%82%AD%E3%82%BD%E3%82%B1%E3%82%AB%E3%82%BD%E3%82%AD%E3%82%B3%E3%82%B9%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Eternal Warrior 003 (2013) (digital) (Minutemen-Spaztastic).cbr | [47.06MiB](https://pan.baidu.com/s/1o8IaFrk#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.11.20%2F%E3%82%B3%E3%82%B7%E3%82%AD%E3%82%B1%E3%82%B9%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%A4%E3%82%BF%E3%82%BD%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%A6%E3%82%B1%E3%82%A6%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%AD%E3%82%AF%E3%82%B3%E3%82%BF%E3%82%B3%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Eternal Warrior 003 (2013) (digital) (Son of Ultron-Empire).cbr | [65.57MiB](https://pan.baidu.com/s/1o8IaFrk#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.11.20%2F%E3%82%BB%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%B1%E3%82%A8%E3%82%A6%E3%82%AB%E3%82%B5%E3%82%B1%E3%82%B7%E3%82%BF%E3%82%AD%E3%82%A8%E3%82%A2%E3%82%B1%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%A6%E3%82%BB%E3%82%B1%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%A8%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%BB%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Eternal Warrior 004 (2013) (digital) (Minutemen-Spaztastic).cbr | [47.91MiB](https://pan.baidu.com/s/1mi03MOS#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.12.18%2F%E3%82%BD%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%BD%E3%82%BB%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%BB%E3%82%BB%E3%82%BD%E3%82%AA%E3%82%B1%E3%82%B3%E3%82%AD%E3%82%A6%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%B1%E3%82%A8%E3%82%AB%E3%82%B7%E3%82%AB%E3%82%AD%E3%82%A8%E3%82%BB%E3%82%AA%E3%82%A2%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Eternal Warrior 004 (2013) (digital) (Son of Ultron-Empire).cbr | [67.10MiB](https://pan.baidu.com/s/1mi03MOS#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.12.18%2F%E3%82%BF%E3%82%AB%E3%82%BF%E3%82%A8%E3%82%BB%E3%82%A6%E3%82%A2%E3%82%BD%E3%82%B9%E3%82%BD%E3%82%A4%E3%82%A8%E3%82%AA%E3%82%A4%E3%82%AF%E3%82%B1%E3%82%A2%E3%82%BF%E3%82%A2%E3%82%A2%E3%82%A6%E3%82%B1%E3%82%A8%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%AF%E3%82%B9%E3%82%AD%E3%82%BB%E3%82%BF%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Eternal Warrior 005 (2014) (digital) (Minutemen-Spaztastic).cbr | [52.92MiB](https://pan.baidu.com/s/1qYkMvso#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.01.22%2F%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%B7%E3%82%B1%E3%82%B3%E3%82%BF%E3%82%BD%E3%82%A6%E3%82%AF%E3%82%A4%E3%82%B5%E3%82%AD%E3%82%BF%E3%82%B5%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%B9%E3%82%AA%E3%82%B7%E3%82%BD%E3%82%BB%E3%82%A4%E3%82%BD%E3%82%AA%E3%82%A4%E3%82%A4%E3%82%A6%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Eternal Warrior 005 (2014) (digital) (Son of Ultron-Empire).cbr | [71.22MiB](https://pan.baidu.com/s/1qYkMvso#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.01.22%2F%E3%82%B1%E3%82%A4%E3%82%B3%E3%82%A8%E3%82%B7%E3%82%A4%E3%82%AF%E3%82%AA%E3%82%B7%E3%82%B9%E3%82%B1%E3%82%AF%E3%82%A8%E3%82%A6%E3%82%BB%E3%82%BB%E3%82%BD%E3%82%B5%E3%82%AF%E3%82%A6%E3%82%A2%E3%82%B1%E3%82%AB%E3%82%B7%E3%82%B3%E3%82%BF%E3%82%AD%E3%82%A4%E3%82%AD%E3%82%A2%E3%82%B1%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Eternal Warrior 006 (2014) (digital) (Minutemen-Spaztastic).cbr | [51.26MiB](https://pan.baidu.com/s/1c2974xq#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.02.12%2F%E3%82%BD%E3%82%B9%E3%82%BF%E3%82%BD%E3%82%A2%E3%82%BF%E3%82%B1%E3%82%A6%E3%82%A4%E3%82%A4%E3%82%A4%E3%82%AA%E3%82%BB%E3%82%AD%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%A8%E3%82%B9%E3%82%A4%E3%82%AA%E3%82%AD%E3%82%B9%E3%82%AF%E3%82%A2%E3%82%BF%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%A2%E3%82%AA%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Eternal Warrior 006 (2014) (digital) (Son of Ultron-Empire).cbr | [69.18MiB](https://pan.baidu.com/s/1c2974xq#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.02.12%2F%E3%82%AF%E3%82%B5%E3%82%AD%E3%82%B3%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%B7%E3%82%BB%E3%82%B7%E3%82%AD%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%BF%E3%82%A6%E3%82%B3%E3%82%A4%E3%82%B1%E3%82%AB%E3%82%B9%E3%82%B5%E3%82%A4%E3%82%BF%E3%82%AA%E3%82%B9%E3%82%BF%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Eternal Warrior 007 (2014) (digital) (Minutemen-Spaztastic).cbr | [49.31MiB](https://pan.baidu.com/s/1eSpkATc#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.03.26%2F%E3%82%A2%E3%82%BD%E3%82%BF%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%AA%E3%82%B7%E3%82%B7%E3%82%AD%E3%82%AB%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%B9%E3%82%BF%E3%82%AB%E3%82%AB%E3%82%B7%E3%82%BF%E3%82%B7%E3%82%AD%E3%82%BB%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%B1%E3%82%B3%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Eternal Warrior 007 (2014) (digital) (Son of Ultron-Empire).cbr | [67.34MiB](https://pan.baidu.com/s/1eSpkATc#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.03.26%2F%E3%82%BB%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%AF%E3%82%AA%E3%82%A2%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%BB%E3%82%BD%E3%82%BF%E3%82%B5%E3%82%BD%E3%82%AD%E3%82%BD%E3%82%BB%E3%82%B7%E3%82%B9%E3%82%A2%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%AF%E3%82%AD%E3%82%B3%E3%82%A8%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Eternal Warrior 008 (2014) (digital) (Minutemen-Spaztastic).cbr | [55.56MiB](https://pan.baidu.com/s/1nuYHuL7#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.04.23%2F%E3%82%B7%E3%82%B7%E3%82%AB%E3%82%B9%E3%82%BD%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%A4%E3%82%BD%E3%82%A4%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%B1%E3%82%B3%E3%82%B9%E3%82%B7%E3%82%BB%E3%82%A6%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%B1%E3%82%B5%E3%82%A6%E3%82%BB%E3%82%A4%E3%82%A8%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Eternal Warrior 008 (2014) (digital) (Son of Ultron-Empire).cbr | [74.43MiB](https://pan.baidu.com/s/1nuYHuL7#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.04.23%2F%E3%82%BD%E3%82%AD%E3%82%A6%E3%82%AA%E3%82%B9%E3%82%B7%E3%82%B9%E3%82%B7%E3%82%AA%E3%82%AB%E3%82%AD%E3%82%B5%E3%82%BF%E3%82%B7%E3%82%B7%E3%82%AB%E3%82%A8%E3%82%A8%E3%82%BF%E3%82%BD%E3%82%B7%E3%82%A2%E3%82%BF%E3%82%BF%E3%82%AB%E3%82%BB%E3%82%A8%E3%82%A4%E3%82%AF%E3%82%BB%E3%82%A8%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Eternal Warrior v01 - Sword of the Wild (2014) (F) (digital-Empire).cbr | 231.65MiB
+Eternal Warrior v02 - Eternal Emperor (2014) (F) (digital-Empire).cbr | 258.58MiB
+Eternal Warrior Vol. 01 - Sword of the Wild (2014) (digital) (Minutemen-Slayer).cbr | 190.07MiB
+Eternal Warrior Vol. 02 - Eternal Emperor (2014) (digital) (Minutemen-Slayer).cbr | 216.67MiB

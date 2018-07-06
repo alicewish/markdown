@@ -1,0 +1,25 @@
+# The Realm
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Image
+
+The Realm
+
+Fifteen years ago, our world was overrun by creatures of myth; orcs, dragons, and other nameless horrors threw the entire planet into total chaos. Today, the shattered remnants of civilization must fight just to survive in a deadly new era of violence and mayhem. While a powerful sorcerer marshals his forces, a group of warriors embark on a journey to reclaim our world from the growing darkness. An all new post-apocalyptic high-fantasy adventure series from co-creators SETH M. PECK (X-Men) and JEREMY HAUN (THE BEAUTY) featuring colors by NICK FILARDI and letters by THOMAS MAUER.
+
+
+
+
+
+Online | Download
+--- | ---
+[The Realm 001 (2017) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-001-2017-Digital-Mephisto-Empire-cbr.md) | [51.55MiB](https://pan.baidu.com/s/1mhAu8Uc#list/path=%2F0-Day%20Week%20of%202017%20Q3%2F0-Day%20Week%20of%202017.09.13%2F%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%A4%E3%82%AF%E3%82%B1%E3%82%A4%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%A6%E3%82%A8%E3%82%AB%E3%82%A8%E3%82%AF%E3%82%AF%E3%82%B3%E3%82%AF%E3%82%BB%E3%82%B7%E3%82%A6%E3%82%BF%E3%82%A6%E3%82%B1%E3%82%B7%E3%82%AF%E3%82%B1%E3%82%A2%E3%82%B5%E3%82%BF%E3%82%AD%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202017%20Q3)
+[The Realm 002 (2017) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-002-2017-Digital-Mephisto-Empire-cbr.md) | [57.00MiB](https://pan.baidu.com/s/1pLObLRt#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.10.18%2F%E3%82%B3%E3%82%AD%E3%82%B3%E3%82%AD%E3%82%AD%E3%82%BF%E3%82%A6%E3%82%B1%E3%82%B7%E3%82%AA%E3%82%A2%E3%82%AB%E3%82%AA%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%AB%E3%82%BF%E3%82%BD%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%BF%E3%82%AB%E3%82%A4%E3%82%B5%E3%82%AB%E3%82%A4%E3%82%A8%E3%82%AB%E3%82%BD%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[The Realm 003 (2017) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-003-2017-Digital-Mephisto-Empire-cbr.md) | [54.32MiB](https://pan.baidu.com/s/1i5clE0P#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.11.15%2F%E3%82%A6%E3%82%AF%E3%82%AB%E3%82%A2%E3%82%AA%E3%82%AF%E3%82%AB%E3%82%B7%E3%82%BF%E3%82%BD%E3%82%AF%E3%82%A6%E3%82%B9%E3%82%B9%E3%82%AA%E3%82%AB%E3%82%A6%E3%82%A6%E3%82%B7%E3%82%B3%E3%82%B9%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%AD%E3%82%B3%E3%82%A8%E3%82%AF%E3%82%AD%E3%82%AF%E3%82%BF%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[The Realm 004 (2017) (Digital) (Mephisto-Empire) .cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-004-2017-Digital-Mephisto-Empire-cbr.md) | [53.27MiB](https://pan.baidu.com/s/1cvyDPW#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.12.20%2F%E3%82%B5%E3%82%AA%E3%82%A2%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%BB%E3%82%AB%E3%82%B9%E3%82%BD%E3%82%AB%E3%82%B9%E3%82%A4%E3%82%A2%E3%82%A4%E3%82%B1%E3%82%B3%E3%82%A4%E3%82%B7%E3%82%AF%E3%82%AF%E3%82%B1%E3%82%A4%E3%82%AB%E3%82%BD%E3%82%A4%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[The Realm 005 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-005-2018-Digital-Mephisto-Empire-cbr.md) | [52.76MiB](https://pan.baidu.com/s/1qZppdhy#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.01.31%2F%E3%82%A8%E3%82%A4%E3%82%A2%E3%82%BF%E3%82%BD%E3%82%BF%E3%82%BF%E3%82%BD%E3%82%B1%E3%82%A2%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%BD%E3%82%B5%E3%82%A2%E3%82%A8%E3%82%BB%E3%82%B3%E3%82%AA%E3%82%BF%E3%82%B7%E3%82%A4%E3%82%A2%E3%82%B7%E3%82%A2%E3%82%B3%E3%82%B9%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[The Realm 006 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-006-2018-Digital-Mephisto-Empire-cbr.md) | [54.37MiB](https://pan.baidu.com/s/1q_ulXxt7QMqRi5YEP9jofQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.30%2F%E3%82%AB%E3%82%BB%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%AD%E3%82%AF%E3%82%AA%E3%82%B1%E3%82%A8%E3%82%B9%E3%82%AF%E3%82%AF%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%A6%E3%82%AD%E3%82%A6%E3%82%BB%E3%82%B7%E3%82%B1%E3%82%B5%E3%82%B3%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%B5%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[The Realm 007 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Realm-007-2018-Digital-Mephisto-Empire-cbr.md) | [52.96MiB](https://pan.baidu.com/s/1IF4cbwr81fDxQ4zogatGwg#list/path=%2FImage%20Week%202018%20Q2%2FImage%20Week%20%2806-27-2018%29%2F%E3%82%B9%E3%82%AF%E3%82%A4%E3%82%A8%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%AD%E3%82%B7%E3%82%AF%E3%82%BF%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%A8%E3%82%AD%E3%82%AF%E3%82%AF%E3%82%BD%E3%82%AD%E3%82%A6%E3%82%AA%E3%82%A2%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%B5%E3%82%AB%E3%82%B9&parentPath=%2FImage%20Week%202018%20Q2)

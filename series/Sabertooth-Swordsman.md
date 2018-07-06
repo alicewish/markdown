@@ -1,0 +1,27 @@
+# Sabertooth Swordsman
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Dark Horse
+
+Sabertooth Swordsman
+
+When his village is enslaved and his wife kidnapped by the malevolent Mastodon Mathematician, a simple farmer must find his inner warrior! Granted the form of the Sabertooth Swordsman by the Cloud God of Sasquatch Mountain, our hero embarks on a treacherous journey to the Mastodon's fortress, along the way getting beaten to a pulp by ogres, plague mutants, the king's army, and goats!
+
+
+
+
+
+Online | Download
+--- | ---
+Sabertooth Swordsman 01 (of 06) (2013) (digital) (Minutemen-InnerDemons).cbr | [27.57MiB](https://pan.baidu.com/s/1jH5bp5O#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.06.12%2F%E3%82%A6%E3%82%BF%E3%82%B3%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%AB%E3%82%A6%E3%82%B9%E3%82%AA%E3%82%B1%E3%82%A2%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%AF%E3%82%B5%E3%82%AB%E3%82%AF%E3%82%A2%E3%82%B3%E3%82%B9%E3%82%A4%E3%82%A4%E3%82%A8%E3%82%A2%E3%82%AB%E3%82%BD%E3%82%B3%E3%82%AD%E3%82%AD%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+Sabertooth Swordsman 01 (of 06) (2013) (digital) (Son of Ultron-Empire).cbr | [48.52MiB](https://pan.baidu.com/s/1pKDEDcv#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.06.05%2F%E3%82%BB%E3%82%BB%E3%82%B3%E3%82%AD%E3%82%B3%E3%82%A4%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%B9%E3%82%B1%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%AD%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%A6%E3%82%A6%E3%82%BF%E3%82%A8%E3%82%BB%E3%82%BB%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%A8%E3%82%BB%E3%82%AF%E3%82%B7%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+Sabertooth Swordsman 02 (of 06) (2013) (digital) (Minutemen-InnerDemons).cbr | [22.85MiB](https://pan.baidu.com/s/1jH5bp5O#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.06.12%2F%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%A8%E3%82%BB%E3%82%B3%E3%82%B3%E3%82%B1%E3%82%B1%E3%82%B9%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%B9%E3%82%BB%E3%82%B5%E3%82%BB%E3%82%B3%E3%82%AB%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%BB%E3%82%B3%E3%82%A8%E3%82%A4%E3%82%B9%E3%82%B9%E3%82%A2%E3%82%B3%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+Sabertooth Swordsman 02 (of 06) (2013) (digital) (Son of Ultron-Empire).cbr | [40.36MiB](https://pan.baidu.com/s/1jH5bp5O#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.06.12%2F%E3%82%A2%E3%82%A4%E3%82%BB%E3%82%B5%E3%82%B9%E3%82%B7%E3%82%AA%E3%82%A8%E3%82%AD%E3%82%B9%E3%82%AB%E3%82%B5%E3%82%AB%E3%82%A8%E3%82%A8%E3%82%AF%E3%82%A4%E3%82%AB%E3%82%B3%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%B1%E3%82%B1%E3%82%A2%E3%82%B5%E3%82%A2%E3%82%A2%E3%82%A6%E3%82%BB%E3%82%B9%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+Sabertooth Swordsman 03 (of 06) (2013) (digital) (Minutemen-InnerDemons).cbr | [20.29MiB](https://pan.baidu.com/s/1dF8j4HV#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.06.19%2F%E3%82%A6%E3%82%B7%E3%82%AA%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%AA%E3%82%AD%E3%82%BD%E3%82%BB%E3%82%BD%E3%82%A8%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%B5%E3%82%AA%E3%82%BF%E3%82%A4%E3%82%AB%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%BF%E3%82%AD%E3%82%A2%E3%82%A8%E3%82%B5%E3%82%A2%E3%82%BD%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+Sabertooth Swordsman 04 (of 06) (2013) (digital) (Minutemen-InnerDemons).cbr | [26.65MiB](https://pan.baidu.com/s/1i4BOYWH#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.06.26%2F%E3%82%A6%E3%82%A4%E3%82%B1%E3%82%BD%E3%82%B7%E3%82%B3%E3%82%A2%E3%82%A6%E3%82%A8%E3%82%BB%E3%82%BD%E3%82%A6%E3%82%AA%E3%82%B1%E3%82%AD%E3%82%A2%E3%82%BB%E3%82%BD%E3%82%B7%E3%82%BF%E3%82%A8%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%AD%E3%82%B9%E3%82%B5%E3%82%BF%E3%82%BF%E3%82%A8%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
+Sabertooth Swordsman 05 (of 06) (2013) (digital) (Minutemen-InnerDemons).cbr | [19.16MiB](https://pan.baidu.com/s/1i58b0pB#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.07.03%2F%E3%82%AD%E3%82%B9%E3%82%BB%E3%82%B9%E3%82%AA%E3%82%B7%E3%82%B3%E3%82%AD%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%B3%E3%82%B3%E3%82%AB%E3%82%A6%E3%82%A8%E3%82%BD%E3%82%B3%E3%82%A2%E3%82%A4%E3%82%AF%E3%82%AD%E3%82%BD%E3%82%AF%E3%82%A2%E3%82%A8%E3%82%A6%E3%82%BD%E3%82%AB%E3%82%BF%E3%82%B9%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Sabertooth Swordsman 05 (of 06) (2013) (digital) (Son of Ultron-Empire).cbr | [33.93MiB](https://pan.baidu.com/s/1i58b0pB#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.07.03%2F%E3%82%A8%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%AA%E3%82%AA%E3%82%A6%E3%82%AD%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%AA%E3%82%B5%E3%82%A6%E3%82%B5%E3%82%B5%E3%82%B9%E3%82%BF%E3%82%BF%E3%82%B1%E3%82%B3%E3%82%A2%E3%82%AA%E3%82%AA%E3%82%B3%E3%82%B5%E3%82%BB%E3%82%B7%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202013%20Q3)
+Sabertooth Swordsman 06 (of 06) (2013) (digital) (Minutemen-InnerDemons).cbr | [23.09MiB](https://pan.baidu.com/s/1gf0DW6v#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.07.10%2F%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%A2%E3%82%BF%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%AB%E3%82%AD%E3%82%B7%E3%82%BF%E3%82%BF%E3%82%B1%E3%82%B3%E3%82%AA%E3%82%AB%E3%82%BF%E3%82%BB%E3%82%AA%E3%82%A4%E3%82%A4%E3%82%AB%E3%82%AD%E3%82%BB%E3%82%B1%E3%82%A4%E3%82%A8%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202013%20Q3)

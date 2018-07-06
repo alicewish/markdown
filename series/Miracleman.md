@@ -1,0 +1,50 @@
+# Miracleman
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Miracleman
+
+Kimota! With one magic word, a long-forgotten legend lives again! Freelance reporter Michael Moran always knew he was meant for something more -- now, a strange series of events leads him to reclaim his destiny!
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Miracleman (Books 01-05)](https://github.com/alicewish/markdown/blob/master/torrent/Miracleman--Books-01-05.md)
+
+[Miracleman (001 - 010) (2014 - Ongoing) (Digital) (Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Miracleman--001---010---2014---Ongoing---Digital---Darkness-Empire.md)
+
+[Miracleman (1961-2015)](https://github.com/alicewish/markdown/blob/master/torrent/Miracleman--1961-2015.md)
+
+Online | Download
+--- | ---
+Miracleman #02 (Mike Perkins variant) (cover ONLY) [Pyramid].cbz | 614.15KiB
+Miracleman #10 (Mico Suayan variant) (cover ONLY) [Pyramid].cbz | 498.76KiB
+Miracleman #11 (May 1987) [Pyramid].cbz | 24.34MiB
+Miracleman #12 (September 1987) [Pyramid].cbz | 26.31MiB
+Miracleman #15 (November 1988) [Pyramid].cbz | 28.55MiB
+Miracleman #17 (June 1990) [Pyramid].cbz | 26.53MiB
+Miracleman #21 (July 1991) [Pyramid].cbz | 22.21MiB
+Miracleman 001 (2014) (Digital) (Darkness-Empire).cbr | [117.38MiB](https://pan.baidu.com/s/1bCIZOM#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.01.15%2F%E3%82%BD%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%B9%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AD%E3%82%BD%E3%82%A2%E3%82%AD%E3%82%B7%E3%82%AF%E3%82%B5%E3%82%BB%E3%82%AB%E3%82%B3%E3%82%BB%E3%82%A2%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%BB%E3%82%AA%E3%82%BB%E3%82%BD%E3%82%A8%E3%82%A6%E3%82%AD%E3%82%B9%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Miracleman 002 (2014) (Digital) (Darkness-Empire).cbr | [77.94MiB](https://pan.baidu.com/s/1nvsuglz#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.01.29%2F%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%BB%E3%82%AB%E3%82%A8%E3%82%BB%E3%82%B7%E3%82%BF%E3%82%B7%E3%82%BF%E3%82%AA%E3%82%BD%E3%82%BD%E3%82%AB%E3%82%BD%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%AA%E3%82%A6%E3%82%AB%E3%82%A4%E3%82%AB%E3%82%AD%E3%82%B3%E3%82%BB%E3%82%AB%E3%82%AF%E3%82%AB%E3%82%A6%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Miracleman 003 (2014) (Digital) (Darkness-Empire).cbr | [86.70MiB](https://pan.baidu.com/s/1hr7hn84#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.02.26%2F%E3%82%AB%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%AA%E3%82%AD%E3%82%B1%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%A2%E3%82%BD%E3%82%A6%E3%82%BF%E3%82%AB%E3%82%B5%E3%82%AD%E3%82%B9%E3%82%BD%E3%82%A4%E3%82%AB%E3%82%AA%E3%82%B1%E3%82%AF%E3%82%B5%E3%82%B7%E3%82%A6%E3%82%BB%E3%82%AF%E3%82%A2%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Miracleman 004 (2014) (Digital) (Darkness-Empire).cbr | [50.18MiB](https://pan.baidu.com/s/1eSpkATc#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.03.26%2F%E3%82%A6%E3%82%AB%E3%82%BB%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%BD%E3%82%B9%E3%82%B7%E3%82%AD%E3%82%B3%E3%82%A4%E3%82%AB%E3%82%AA%E3%82%AB%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%AA%E3%82%BF%E3%82%BB%E3%82%A6%E3%82%AF%E3%82%B3%E3%82%BF%E3%82%AF%E3%82%B3%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%AF%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Miracleman 005 (2014) (Digital) (Darkness-Empire).cbr | [70.46MiB](https://pan.baidu.com/s/1skDA63j#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.05.07%2F%E3%82%B5%E3%82%BD%E3%82%A2%E3%82%B1%E3%82%AA%E3%82%B9%E3%82%B5%E3%82%AA%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%A6%E3%82%A2%E3%82%BF%E3%82%B7%E3%82%BB%E3%82%A8%E3%82%B9%E3%82%A8%E3%82%BB%E3%82%BD%E3%82%AD%E3%82%B9%E3%82%B9%E3%82%A8%E3%82%BF%E3%82%BF%E3%82%A8%E3%82%A2%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Miracleman 006 (2014) (Digital) (Darkness-Empire).cbr | [69.87MiB](https://pan.baidu.com/s/1nvBqVUT#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.05.21%2F%E3%82%A4%E3%82%B3%E3%82%AD%E3%82%BD%E3%82%AB%E3%82%BD%E3%82%B1%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%AB%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%A8%E3%82%B5%E3%82%B1%E3%82%B5%E3%82%AA%E3%82%B1%E3%82%AA%E3%82%B1%E3%82%AB%E3%82%B9%E3%82%AA%E3%82%BF%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%BB%E3%82%AF%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Miracleman 007 (2014) (Digital) (Darkness-Empire).cbr | [68.33MiB](https://pan.baidu.com/s/1hskwMtI#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.06.04%2F%E3%82%A8%E3%82%AD%E3%82%BD%E3%82%A4%E3%82%BF%E3%82%BF%E3%82%AB%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%B7%E3%82%BD%E3%82%BB%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BB%E3%82%B3%E3%82%B1%E3%82%B3%E3%82%AD%E3%82%A2%E3%82%A8%E3%82%A2%E3%82%B3%E3%82%A8%E3%82%AB%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Miracleman 008 (2014) (Digital) (Darkness-Empire).cbr | [70.55MiB](https://pan.baidu.com/s/1skNJRuH#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.02%2F%E3%82%B9%E3%82%A8%E3%82%B7%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%AB%E3%82%BD%E3%82%B7%E3%82%AA%E3%82%A2%E3%82%BB%E3%82%AA%E3%82%B3%E3%82%AF%E3%82%B7%E3%82%BF%E3%82%A4%E3%82%B1%E3%82%A2%E3%82%AD%E3%82%B5%E3%82%BF%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%A8%E3%82%B5%E3%82%BB%E3%82%BD%E3%82%AD%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Miracleman 009 (2014) (Digital) (Darkness-Empire).cbr | [70.10MiB](https://pan.baidu.com/s/1dFLaNoH#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.08.06%2F%E3%82%BF%E3%82%AD%E3%82%AD%E3%82%BB%E3%82%BB%E3%82%B9%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%A2%E3%82%BD%E3%82%AD%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B3%E3%82%A4%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%A4%E3%82%A6%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%B1%E3%82%B9%E3%82%A6%E3%82%AF%E3%82%BB%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Miracleman 010 (2014) (Digital) (Darkness-Empire).cbr | [74.30MiB](https://pan.baidu.com/s/1slbrbWx#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.03%2F%E3%82%AD%E3%82%BD%E3%82%A6%E3%82%AA%E3%82%B9%E3%82%AB%E3%82%BF%E3%82%B1%E3%82%B3%E3%82%AF%E3%82%AD%E3%82%B5%E3%82%A4%E3%82%A2%E3%82%AD%E3%82%A2%E3%82%AF%E3%82%AA%E3%82%B7%E3%82%AD%E3%82%A6%E3%82%B7%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%AB%E3%82%AD%E3%82%A2%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Miracleman 011 (2014) (Digital) (Darkness-Empire).cbr | [78.24MiB](https://pan.baidu.com/s/1bp4PNif#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.01%2F%E3%82%A6%E3%82%A4%E3%82%B5%E3%82%A6%E3%82%A6%E3%82%A6%E3%82%B7%E3%82%BD%E3%82%B3%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%BF%E3%82%BD%E3%82%A8%E3%82%BB%E3%82%AB%E3%82%BD%E3%82%A6%E3%82%AA%E3%82%B3%E3%82%B3%E3%82%B9%E3%82%A2%E3%82%BB%E3%82%A6%E3%82%A2%E3%82%B1%E3%82%AD%E3%82%A8%E3%82%AD%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Miracleman 012 (2014) (Digital) (Darkness-Empire).cbr | [81.02MiB](https://pan.baidu.com/s/1c1IKHYo#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.08%2F%E3%82%A4%E3%82%A2%E3%82%AB%E3%82%AB%E3%82%BB%E3%82%B9%E3%82%AD%E3%82%AB%E3%82%A6%E3%82%AB%E3%82%AB%E3%82%B5%E3%82%BB%E3%82%A2%E3%82%B5%E3%82%B5%E3%82%BF%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%B7%E3%82%AA%E3%82%AF%E3%82%B5%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%AB%E3%82%AF%E3%82%A2%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Miracleman 013 (2014) (Digital) (Darkness-Empire).cbr | [78.88MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%A2%E3%82%AA%E3%82%B7%E3%82%A4%E3%82%AA%E3%82%AF%E3%82%BF%E3%82%A2%E3%82%AF%E3%82%B5%E3%82%AD%E3%82%A2%E3%82%B1%E3%82%AA%E3%82%B3%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%AA%E3%82%B7%E3%82%B1%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%A4%E3%82%B5%E3%82%BB%E3%82%BD%E3%82%B7%E3%82%B7%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Miracleman 014 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miracleman-014-2015-Digital-Darkness-Empire-cbr.md) | [81.96MiB](https://pan.baidu.com/s/1eR9TnW2#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.07%2F%E3%82%BB%E3%82%A8%E3%82%A6%E3%82%BF%E3%82%B5%E3%82%AD%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%BD%E3%82%AD%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%AB%E3%82%A2%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%AF%E3%82%B7%E3%82%A6%E3%82%BD%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%B5%E3%82%BD%E3%82%B3%E3%82%AD%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+Miracleman 015 (2015) (Digital) (Darkness-Empire).cbr | [93.31MiB](https://pan.baidu.com/s/1mhM8d4G#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.02.04%2F%E3%82%A2%E3%82%B9%E3%82%A2%E3%82%A4%E3%82%B7%E3%82%A4%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%BB%E3%82%AD%E3%82%BB%E3%82%A6%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%A4%E3%82%B7%E3%82%A6%E3%82%BB%E3%82%AA%E3%82%AB%E3%82%AA%E3%82%A4%E3%82%AD%E3%82%B1%E3%82%AB%E3%82%B7%E3%82%AB%E3%82%B7%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+Miracleman 016 (2015) (Digital) (Zone-Empire).cbr | [113.30MiB](https://pan.baidu.com/s/1qXAm7wS#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.04%2F%E3%82%A2%E3%82%AD%E3%82%AD%E3%82%AD%E3%82%BD%E3%82%B9%E3%82%B1%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%A8%E3%82%B3%E3%82%B1%E3%82%A2%E3%82%A6%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%AD%E3%82%AB%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%BD%E3%82%A8%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%B7%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+Miracleman 014 (2016) (Digital) (Darkness-Empire).cbr | [81.96MiB](https://pan.baidu.com/s/1eR9TnW2#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.07%2F%E3%82%A6%E3%82%B7%E3%82%A6%E3%82%A4%E3%82%B1%E3%82%AA%E3%82%B5%E3%82%A8%E3%82%A8%E3%82%B1%E3%82%A4%E3%82%AA%E3%82%AB%E3%82%B5%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%AB%E3%82%AA%E3%82%A8%E3%82%AA%E3%82%B5%E3%82%BD%E3%82%A8%E3%82%B7%E3%82%B5%E3%82%B3%E3%82%B9%E3%82%AF%E3%82%BF%E3%82%BF%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202015%20Q1)

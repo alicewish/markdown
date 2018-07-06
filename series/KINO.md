@@ -1,0 +1,25 @@
+# KINO
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Lion Forge Comics
+
+KINO
+
+Major Alistair Meath of Britain's Royal Air Force sacrificed his life to save Earth from an approaching asteroid on the night of "The Event." Seven months later, Meath has resurfaced as the colorful, kinetic energy-powered superhero KINO, but something is very wrong with the world. Britain's MI6 is on the hunt for Meath, and the terrible secret behind his return is revealed in this mind-bending thriller within the Catalyst Prime Universe.
+
+
+
+
+
+Online | Download
+--- | ---
+[KINO 001 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KINO-001-2017-digital-Son-of-Ultron-Empire-cbr.md) | [100.93MiB](https://pan.baidu.com/s/1pLOdtfd#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.11.29%2F%E3%82%B5%E3%82%AB%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%BF%E3%82%B7%E3%82%BD%E3%82%BB%E3%82%B1%E3%82%BD%E3%82%AF%E3%82%AB%E3%82%BB%E3%82%A8%E3%82%B7%E3%82%B3%E3%82%AB%E3%82%B1%E3%82%A2%E3%82%A6%E3%82%AD%E3%82%AD%E3%82%A2%E3%82%B7%E3%82%B1%E3%82%A6%E3%82%A4%E3%82%B5%E3%82%B5%E3%82%AD%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[KINO 002 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KINO-002-2017-digital-Son-of-Ultron-Empire-cbr.md) | [107.53MiB](https://pan.baidu.com/s/1mhNUPmC#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.12.27%2F%E3%82%AD%E3%82%AA%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%A6%E3%82%AA%E3%82%AB%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%B1%E3%82%A6%E3%82%B9%E3%82%BF%E3%82%BB%E3%82%A6%E3%82%A4%E3%82%B5%E3%82%A2%E3%82%BD%E3%82%A6%E3%82%BF%E3%82%A8%E3%82%BB%E3%82%A8%E3%82%BF%E3%82%BB%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
+[KINO 003 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KINO-003-2018-digital-Son-of-Ultron-Empire-cbr.md) | [62.44MiB](https://pan.baidu.com/s/1qZppdhy#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.01.31%2F%E3%82%BB%E3%82%B7%E3%82%BD%E3%82%A8%E3%82%B1%E3%82%AB%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%A6%E3%82%AF%E3%82%B5%E3%82%AA%E3%82%A4%E3%82%BB%E3%82%B7%E3%82%BB%E3%82%AF%E3%82%B1%E3%82%B9%E3%82%B5%E3%82%BB%E3%82%B9%E3%82%AA%E3%82%AB%E3%82%BF%E3%82%AB%E3%82%BD%E3%82%B7%E3%82%AD%E3%82%BF%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[KINO 004 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KINO-004-2018-digital-Son-of-Ultron-Empire-cbr.md) | [64.53MiB](https://pan.baidu.com/s/1qg0c6Vwr2u2ZhRAfZzT0Yw#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.02.28%2F%E3%82%B3%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%B7%E3%82%BD%E3%82%B1%E3%82%AD%E3%82%A6%E3%82%BB%E3%82%AF%E3%82%B3%E3%82%B1%E3%82%AD%E3%82%BB%E3%82%BB%E3%82%B5%E3%82%A2%E3%82%BB%E3%82%AD%E3%82%BD%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%AB%E3%82%B3%E3%82%B1%E3%82%B9%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
+[KINO 005 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KINO-005-2018-digital-Son-of-Ultron-Empire-cbr.md) | [48.26MiB](https://pan.baidu.com/s/1h9jMC2Lio6fsZcY1C5iw9Q#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.25%2F%E3%82%BD%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%AB%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%AD%E3%82%B5%E3%82%AD%E3%82%AF%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%A2%E3%82%AB%E3%82%A2%E3%82%BD%E3%82%A6%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%BF%E3%82%AB%E3%82%BD%E3%82%B9%E3%82%B3%E3%82%B5%E3%82%B5%E3%82%A4%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[KINO 006 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KINO-006-2018-digital-Son-of-Ultron-Empire-cbr.md) | [58.38MiB](https://pan.baidu.com/s/1q_ulXxt7QMqRi5YEP9jofQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.30%2F%E3%82%A6%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%A8%E3%82%AA%E3%82%B7%E3%82%BF%E3%82%AB%E3%82%A2%E3%82%A8%E3%82%A8%E3%82%B7%E3%82%A4%E3%82%AA%E3%82%A8%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+KINO v01 - Escape from the Abyss (2018) (digital) (Son of Ultron-Empire).cbr | 264.16MiB

@@ -1,0 +1,32 @@
+# Broken World
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+BOOM! Studios
+
+Broken World
+
+What's to Love: We're thrilled to publish the one new original series co-created and written by Frank J. Barbiere (Five Ghosts, Avengers World) in 2015. Broken World is a gripping sci-fi thriller and survival adventure great for fans of Y: The Last Man or The Massive. Barbiere and co-creator/artist Christopher Peterson (Grindhouse, Mayday) will explore the lives of people left behind in the apocalypse.What It Is: With a meteor days away from causing an extinction-level event on Earth, time is running out for Elena Marlowe. While most of the planet's population and her family were approved by the government to escape on one of the giant spaceships headed to another planet, her application was denied due to her mysterious past. With the meteor fast approaching, Elena tries desperately to find a way to fake her way onto the last ship or else be left behind to die with the rest of Earth's rejected denizens. 
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Broken World (001-004) (2015) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Broken-World--001-004---2015---digital---Minutemen-Faessla.md)
+
+Online | Download
+--- | ---
+[Broken World 01 (of 04) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-01-of-04-2015-Digital-Empire-cbr.md) | [24.04MiB](https://pan.baidu.com/s/14Jgupa3ITkUW1mK2tEyXkg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.03%2F%E3%82%BD%E3%82%B7%E3%82%AB%E3%82%A2%E3%82%BF%E3%82%A2%E3%82%A2%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%A2%E3%82%AD%E3%82%A8%E3%82%B5%E3%82%A4%E3%82%A2%E3%82%B5%E3%82%B3%E3%82%AD%E3%82%BB%E3%82%B7%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A8%E3%82%B3%E3%82%A4%E3%82%AD%E3%82%B1%E3%82%AA%E3%82%B9%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Broken World 01 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-01-of-04-2015-digital-Minutemen-Faessla-cbz.md) | [23.90MiB](https://pan.baidu.com/s/14Jgupa3ITkUW1mK2tEyXkg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.03%2F%E3%82%B9%E3%82%AB%E3%82%B3%E3%82%A8%E3%82%BD%E3%82%AD%E3%82%BF%E3%82%A6%E3%82%B7%E3%82%B9%E3%82%AF%E3%82%B1%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%B5%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%B7%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%AB%E3%82%B1%E3%82%BD%E3%82%BB%E3%82%AA%E3%82%AD%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Broken World 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-002-2015-Digital-Empire-cbr.md) | [27.94MiB](https://pan.baidu.com/s/1nvooqHN#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.01%2F%E3%82%B7%E3%82%AD%E3%82%B5%E3%82%AA%E3%82%B9%E3%82%B1%E3%82%B3%E3%82%B5%E3%82%A6%E3%82%AD%E3%82%AD%E3%82%AB%E3%82%A4%E3%82%B9%E3%82%AD%E3%82%A4%E3%82%A4%E3%82%B3%E3%82%AD%E3%82%A4%E3%82%BD%E3%82%AA%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BD%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%B9%E3%82%AB%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Broken World 02 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-02-of-04-2015-digital-Minutemen-Faessla-cbz.md) | [27.95MiB](https://pan.baidu.com/s/1nvooqHN#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.01%2F%E3%82%AB%E3%82%A2%E3%82%B3%E3%82%B5%E3%82%BF%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%AF%E3%82%AF%E3%82%B1%E3%82%AB%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%AB%E3%82%B3%E3%82%A8%E3%82%B9%E3%82%BD%E3%82%BB%E3%82%A8%E3%82%B3%E3%82%A6%E3%82%A2%E3%82%B3%E3%82%AA%E3%82%BB%E3%82%B1%E3%82%B9%E3%82%B7%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Broken World 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-003-2015-Digital-Empire-cbr.md) | [30.78MiB](https://pan.baidu.com/s/1UI2OPmZIwlsedW5Btjidaw#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.08.05%2F%E3%82%B1%E3%82%BD%E3%82%A4%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%AB%E3%82%AA%E3%82%A2%E3%82%AD%E3%82%A4%E3%82%BD%E3%82%AF%E3%82%BF%E3%82%B1%E3%82%AF%E3%82%A6%E3%82%B5%E3%82%A8%E3%82%A8%E3%82%A4%E3%82%BB%E3%82%B9%E3%82%AD%E3%82%AF%E3%82%A2%E3%82%B9%E3%82%A8%E3%82%B5%E3%82%AB%E3%82%AA%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Broken World 03 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-03-of-04-2015-digital-Minutemen-Faessla-cbz.md) | [30.79MiB](https://pan.baidu.com/s/1UI2OPmZIwlsedW5Btjidaw#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.08.05%2F%E3%82%A2%E3%82%BD%E3%82%BD%E3%82%AF%E3%82%BD%E3%82%B5%E3%82%BD%E3%82%AA%E3%82%B3%E3%82%B7%E3%82%B7%E3%82%A2%E3%82%B7%E3%82%B5%E3%82%B7%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%A8%E3%82%AF%E3%82%AA%E3%82%BB%E3%82%A2%E3%82%A2%E3%82%BF%E3%82%AF%E3%82%BD%E3%82%AF%E3%82%A2%E3%82%B5%E3%82%B1%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Broken World 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-004-2015-Digital-Empire-cbr.md) | [28.02MiB](https://pan.baidu.com/s/1kVCEKPT#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.02%2F%E3%82%BF%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%B9%E3%82%B1%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%B7%E3%82%A6%E3%82%B7%E3%82%A4%E3%82%AD%E3%82%BD%E3%82%A4%E3%82%B5%E3%82%B9%E3%82%BB%E3%82%AD%E3%82%B5%E3%82%AB%E3%82%AA%E3%82%AA%E3%82%AA%E3%82%BB%E3%82%AD%E3%82%AF%E3%82%A8%E3%82%B9%E3%82%A6%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Broken World 04 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Broken-World-04-of-04-2015-digital-Minutemen-Faessla-cbz.md) | [28.02MiB](https://pan.baidu.com/s/1kVCEKPT#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.02%2F%E3%82%B5%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AD%E3%82%AD%E3%82%B9%E3%82%A4%E3%82%A8%E3%82%A4%E3%82%B3%E3%82%BF%E3%82%B7%E3%82%B5%E3%82%A8%E3%82%AA%E3%82%B7%E3%82%AB%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BD%E3%82%AF%E3%82%AD%E3%82%AB%E3%82%AA%E3%82%AA%E3%82%AD%E3%82%B3%E3%82%A6%E3%82%AD%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+Broken World (2016) (digital) (Minutemen-Slayer).cbr | 98.95MiB
+Broken World (2016) (digital) (Son of Ultron-Empire).cbr | 100.11MiB

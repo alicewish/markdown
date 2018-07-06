@@ -1,0 +1,136 @@
+# Howard the Duck
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Howard The Duck (2015)
+
+Howard the Duck is back! Join him as he takes on the weird cases that only a talking duck can crack as the Marvel Universe’s resident private investigator!  Waugh!
+
+
+
+Howard The Duck (2015-2016)
+
+First spectacular issue! A great jumping on point! Sure to go up in value! Don't miss out on the series everyone is calling "Howard the Duck"! The last page will shock you! Nothing will ever be the same again! Hey! Where are you going? Come back! Waugh!
+
+
+
+Howard the Duck (1976-1979)
+
+Trapped in a world he never made, the quirky, downright filthy Howard the Duck stars in his own ongoing series!
+
+
+
+Howard the Duck (2007-2008)
+
+Grab your guns and camcorders and start shooting, it's DUCK SEASON! Marvel's favorite furious fowl, Howard, and his faithful friend with benefits, Beverly, begin their journey to destroy the internet, radio and television. SEE Howard face mighty hunters with mighty guns on MeTube! SEE Beverly in nothing but fig leaves! SEE grown men dressed as bunnies! And who is that giant headed guy taking A.I.M. at our heroes? HINT: It starts with "MODO—"
+
+
+
+
+
+相关种子⬇Related Torrents
+
+[Howard The Duck v2 (01 - 06 + Extras)](https://github.com/alicewish/markdown/blob/master/torrent/Howard-The-Duck-v2--01---06---Extras.md)
+
+Online | Download
+--- | ---
+Howard the Duck 001 (1976) (Digital) (Shadowcat-Empire).cbz | 47.36MiB
+Howard the Duck #02 (1976) (1920px) c2c (Madness).cbr | 73.67MiB
+Howard the Duck 002 (1976) (Digital) (Shadowcat-Empire).cbz | 42.23MiB
+Howard the Duck #03 (1976) (1920px) c2c (Madness).cbr | 71.13MiB
+Howard the Duck 003 (1976) (Digital) (Shadowcat-Empire).cbz | 42.50MiB
+Howard the Duck #04 (1976) (1920px) c2c (Madness).cbr | 73.76MiB
+Howard the Duck 004 (1976) (Digital) (Shadowcat-Empire).cbz | 38.30MiB
+Howard the Duck #05 (1976) (1920px) c2c (Madness).cbr | 74.45MiB
+Howard the Duck 005 (1976) (Digital) (Shadowcat-Empire).cbz | 37.12MiB
+Howard the Duck #06 (1976) (1920px) c2c (Madness).cbr | 73.67MiB
+Howard the Duck 006 (1976) (Digital) (Shadowcat-Empire).cbz | 39.30MiB
+Howard the Duck #07 (1976) (1920px) c2c (Madness).cbr | 75.39MiB
+Howard the Duck 007 (1976) (Digital) (Shadowcat-Empire).cbz | 38.56MiB
+Howard the Duck #08 (1977) (1920px) c2c (Madness).cbr | 74.25MiB
+Howard the Duck 008 (1977) (Digital) (Shadowcat-Empire).cbz | 39.84MiB
+Howard the Duck #09 (1977) (1920px) c2c (Madness).cbr | 74.44MiB
+Howard the Duck 009 (1977) (Digital) (Shadowcat-Empire).cbz | 32.96MiB
+Howard the Duck #10 (1977) (1920px) c2c (Woodman-Madness).cbr | 76.19MiB
+Howard the Duck 010 (1977) (Digital) (Shadowcat-Empire).cbz | 35.44MiB
+Howard the Duck #11 (1977) (1920px) c2c (Madness).cbr | 75.08MiB
+Howard the Duck 011 (1977) (Digital) (Shadowcat-Empire).cbz | 35.83MiB
+Howard the Duck 012 (1977) (Digital) (Shadowcat-Empire).cbz | 36.25MiB
+Howard the Duck #13 (1977) (1920px) c2c (Madness).cbr | 72.42MiB
+Howard the Duck 013 (1977) (Digital) (Shadowcat-Empire).cbz | 36.68MiB
+Howard the Duck #14 (1977) (1920px) c2c (Madness).cbr | 74.54MiB
+Howard the Duck 014 (1977) (Digital) (Shadowcat-Empire).cbz | 33.28MiB
+Howard the Duck 015 (1977) (Digital) (Shadowcat-Empire).cbz | 34.73MiB
+Howard the Duck 016 (1977) (Digital) (Shadowcat-Empire).cbz | 31.00MiB
+Howard the Duck 017 (1977) (Digital) (Shadowcat-Empire).cbz | 37.76MiB
+Howard the Duck 018 (1977) (Digital) (Shadowcat-Empire).cbz | 34.96MiB
+Howard the Duck 019 (1977) (Digital) (Shadowcat-Empire).cbz | 35.74MiB
+Howard The Duck Annual 001(1977)(Digital)(TLK-EMPIRE-HD).cbr | 65.70MiB
+Howard the Duck 020 (1978) (Digital) (Shadowcat-Empire).cbz | 36.10MiB
+Howard the Duck 021 (1978) (Digital) (Shadowcat-Empire).cbz | 36.20MiB
+Howard the Duck 022 (1978) (Digital) (Shadowcat-Empire).cbz | 34.19MiB
+Howard the Duck 023 (1978) (Digital) (Shadowcat-Empire).cbz | 37.18MiB
+Howard the Duck 024 (1978) (Digital) (Shadowcat-Empire).cbz | 33.43MiB
+Howard the Duck 025 (1978) (Digital) (Shadowcat-Empire).cbz | 36.00MiB
+Howard the Duck 026 (1978) (Digital) (Shadowcat-Empire).cbz | 31.98MiB
+Howard the Duck 027 (1978) (Digital) (Shadowcat-Empire).cbz | 31.48MiB
+Howard the Duck 028 (1978) (Digital) (Shadowcat-Empire).cbz | 34.34MiB
+Howard the Duck 029 (1979) (Digital) (Shadowcat-Empire).cbz | 39.63MiB
+Howard the Duck 030 (1979) (Digital) (Shadowcat-Empire).cbz | 33.94MiB
+Howard the Duck 031 (1979) (Digital) (Shadowcat-Empire).cbz | 38.14MiB
+Howard the Duck 032 (1979) (Digital) (Shadowcat-Empire).cbz | 41.58MiB
+Howard the Duck 033 (1979) (Digital) (Shadowcat-Empire).cbz | 61.82MiB
+Howard the Duck 008 (1980) (Digital) (Shadowcat-Empire).cbz | 84.92MiB
+Howard the Duck 003 (2008) (Digital) (Shadowcat-Empire).cbz | 37.50MiB
+Howard the Duck 004 (2008) (Digital) (Shadowcat-Empire).cbz | 39.29MiB
+Howard The Duck 001 (2015) (Digital) (BlackManta-Empire).cbr | [34.15MiB](https://pan.baidu.com/s/1kV1j4Uj#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.11%2F%E3%82%BB%E3%82%B7%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%AA%E3%82%B5%E3%82%A8%E3%82%B9%E3%82%B5%E3%82%BB%E3%82%A6%E3%82%AF%E3%82%A4%E3%82%AB%E3%82%B7%E3%82%B1%E3%82%AF%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%BF%E3%82%B9%E3%82%A6%E3%82%AA%E3%82%AF%E3%82%AB%E3%82%AA%E3%82%AF%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Blank Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Blank-Variant-digital-Minutemen-Fantomex-cbr.md) | [391.52KiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%AB%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%B3%E3%82%B1%E3%82%A2%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%B9%E3%82%B7%E3%82%AA%E3%82%B3%E3%82%B5%E3%82%AD%E3%82%B9%E3%82%A6%E3%82%A2%E3%82%AD%E3%82%A8%E3%82%A8%E3%82%AF%E3%82%A8%E3%82%A4%E3%82%A8%E3%82%A8%E3%82%AD%E3%82%BD%E3%82%A8%E3%82%A6%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Chip Zdarsky Evolution of Howard Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Chip-Zdarsky-Evolution-of-Howard-Variant-digital-Minutemen-Fantomex-cbr.md) | [869.83KiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%AA%E3%82%AF%E3%82%BF%E3%82%BD%E3%82%B5%E3%82%AB%E3%82%A6%E3%82%B1%E3%82%B1%E3%82%B5%E3%82%B3%E3%82%BF%E3%82%AF%E3%82%B3%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%AD%E3%82%AD%E3%82%B3%E3%82%B3%E3%82%A8%E3%82%BD%E3%82%A4%E3%82%AB%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Chip Zdarsky Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Chip-Zdarsky-Variant-digital-Minutemen-Fantomex-cbr.md) | [1.46MiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%A6%E3%82%BD%E3%82%A4%E3%82%AD%E3%82%B9%E3%82%B5%E3%82%A2%E3%82%A2%E3%82%B3%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%AA%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A8%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%B7%E3%82%A8%E3%82%AD%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%BB%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Erica Henderson Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Erica-Henderson-Variant-digital-Minutemen-Fantomex-cbr.md) | [1.81MiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%B3%E3%82%BD%E3%82%BF%E3%82%B3%E3%82%AF%E3%82%A2%E3%82%AB%E3%82%B1%E3%82%AD%E3%82%A8%E3%82%A8%E3%82%BF%E3%82%BF%E3%82%B5%E3%82%BB%E3%82%A6%E3%82%AA%E3%82%A2%E3%82%AA%E3%82%B5%E3%82%BB%E3%82%AF%E3%82%AD%E3%82%AA%E3%82%B5%E3%82%A2%E3%82%BF%E3%82%B7%E3%82%A6%E3%82%A2%E3%82%BD%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Paul Pope Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Paul-Pope-Variant-digital-Minutemen-Fantomex-cbr.md) | [1.27MiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%A8%E3%82%A8%E3%82%A4%E3%82%B3%E3%82%BF%E3%82%A6%E3%82%A6%E3%82%BD%E3%82%AB%E3%82%AD%E3%82%B1%E3%82%B7%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%AD%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%AA%E3%82%AB%E3%82%B5%E3%82%A6%E3%82%B1%E3%82%A4%E3%82%AD%E3%82%B5%E3%82%A8%E3%82%A8%E3%82%BF%E3%82%AA%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Ryan Meinerding Movie Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Ryan-Meinerding-Movie-Variant-digital-Minutemen-Fantomex-cbr.md) | [674.26KiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%BB%E3%82%B9%E3%82%B3%E3%82%B1%E3%82%AF%E3%82%BF%E3%82%B7%E3%82%B9%E3%82%B9%E3%82%BB%E3%82%B9%E3%82%AA%E3%82%A8%E3%82%BD%E3%82%AD%E3%82%BD%E3%82%AD%E3%82%A6%E3%82%B5%E3%82%A6%E3%82%AF%E3%82%B7%E3%82%A8%E3%82%B1%E3%82%AA%E3%82%A8%E3%82%AF%E3%82%B7%E3%82%B5%E3%82%AA%E3%82%B1%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Skottie Young Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Skottie-Young-Variant-digital-Minutemen-Fantomex-cbr.md) | [1.25MiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%BB%E3%82%A8%E3%82%B7%E3%82%B7%E3%82%A8%E3%82%B7%E3%82%BB%E3%82%B5%E3%82%BF%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%AD%E3%82%B3%E3%82%BB%E3%82%B3%E3%82%B3%E3%82%AB%E3%82%B9%E3%82%B1%E3%82%B3%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%AB%E3%82%B1%E3%82%B3%E3%82%BD%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (Val Mayerik Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-Val-Mayerik-Variant-digital-Minutemen-Fantomex-cbr.md) | [2.08MiB](https://pan.baidu.com/s/1slUd0Zz#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.18%2F%E3%82%A4%E3%82%B7%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%B3%E3%82%B5%E3%82%B3%E3%82%B5%E3%82%BF%E3%82%B9%E3%82%A6%E3%82%A8%E3%82%B7%E3%82%B1%E3%82%BD%E3%82%B5%E3%82%AD%E3%82%BF%E3%82%B7%E3%82%AB%E3%82%AF%E3%82%B1%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%B1%E3%82%B1%E3%82%B3%E3%82%A6%E3%82%AB%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Howard the Duck 001 (2015) (digital) (Joe Quinones 3rd Printing variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-digital-Joe-Quinones-3rd-Printing-variant-Minutemen-Mastodon-cbz.md) | 667.93KiB
+[Howard the Duck 001 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2015-digital-Minutemen-PhD-cbr.md) | [32.98MiB](https://pan.baidu.com/s/1kV1j4Uj#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.11%2F%E3%82%B7%E3%82%A6%E3%82%A6%E3%82%B9%E3%82%A8%E3%82%BF%E3%82%AD%E3%82%A8%E3%82%B7%E3%82%A8%E3%82%AA%E3%82%A4%E3%82%AF%E3%82%B9%E3%82%A8%E3%82%AA%E3%82%A8%E3%82%AF%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%BD%E3%82%AB%E3%82%B7%E3%82%BF%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%A2%E3%82%AD%E3%82%AF%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+Howard The Duck 002 (2015) (Digital) (BlackManta-Empire).cbr | [40.07MiB](https://pan.baidu.com/s/1TE0c228WAw07Pbo1ygMmFg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.08%2F%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%A6%E3%82%BB%E3%82%A6%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%AF%E3%82%B9%E3%82%AA%E3%82%AD%E3%82%AA%E3%82%AD%E3%82%B9%E3%82%AB%E3%82%BF%E3%82%B1%E3%82%B5%E3%82%B3%E3%82%BB%E3%82%A2%E3%82%B9%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%B7%E3%82%A6%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Howard the Duck 002 (2015) (digital) (Joe Quinones 2nd Printing variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-002-2015-digital-Joe-Quinones-2nd-Printing-variant-Minutemen-Mastodon-cbz.md) | 637.34KiB
+[Howard the Duck 002 (2015) (4 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-002-2015-4-covers-digital-Minutemen-PhD-cbr.md) | [41.02MiB](https://pan.baidu.com/s/1nu8YRqx#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.15%2F%E3%82%BF%E3%82%B3%E3%82%B3%E3%82%B1%E3%82%AF%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%A4%E3%82%B1%E3%82%B5%E3%82%B9%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%AF%E3%82%A2%E3%82%BF%E3%82%B3%E3%82%AB%E3%82%B5%E3%82%B5%E3%82%BB%E3%82%AF%E3%82%A2%E3%82%A4%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+Howard The Duck 003 (2015) (Digital) (BlackManta-Empire).cbr | [37.49MiB](https://pan.baidu.com/s/1pKLLZVt#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.13%2F%E3%82%A4%E3%82%A6%E3%82%B7%E3%82%B9%E3%82%AA%E3%82%B5%E3%82%AB%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%AA%E3%82%B1%E3%82%AA%E3%82%B7%E3%82%BB%E3%82%B1%E3%82%BD%E3%82%AD%E3%82%A4%E3%82%AB%E3%82%AD%E3%82%BB%E3%82%B5%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%A6%E3%82%BF%E3%82%BF%E3%82%B5%E3%82%AF%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Howard the Duck 003 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-003-2015-3-covers-digital-Minutemen-PhD-cbr.md) | [37.75MiB](https://pan.baidu.com/s/1hsOsqHm#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.20%2F%E3%82%BD%E3%82%BD%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%AF%E3%82%BF%E3%82%BD%E3%82%B7%E3%82%BD%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%B7%E3%82%A6%E3%82%AF%E3%82%BB%E3%82%BB%E3%82%AF%E3%82%AA%E3%82%A8%E3%82%B9%E3%82%A6%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Howard The Duck 004 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-004-2015-Digital-BlackManta-Empire-cbr.md) | [40.17MiB](https://pan.baidu.com/s/1hrFm7Pi#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.24%2F%E3%82%BD%E3%82%AB%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%AA%E3%82%BB%E3%82%A2%E3%82%B7%E3%82%A2%E3%82%B9%E3%82%AA%E3%82%BD%E3%82%AB%E3%82%AA%E3%82%B7%E3%82%AB%E3%82%AD%E3%82%A4%E3%82%A4%E3%82%BB%E3%82%A8%E3%82%A2%E3%82%A2%E3%82%B5%E3%82%AD%E3%82%B7%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%B3%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[Howard the Duck 004 (2015) (digital) (Ed McGuinness variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-004-2015-digital-Ed-McGuinness-variant-Minutemen-Mastodon-cbz.md) | 1.91MiB
+[Howard the Duck 004 (2015) (digital) (Jason Latour Gwen the Duck variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-004-2015-digital-Jason-Latour-Gwen-Duck-variant-Minutemen-Mastodon-cbz.md) | 1.46MiB
+[Howard the Duck 004 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-004-2015-3-covers-digital-Minutemen-PhD-cbr.md) | [39.88MiB](https://pan.baidu.com/s/1nvooqHN#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.01%2F%E3%82%A8%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%A6%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%BD%E3%82%BB%E3%82%BB%E3%82%B5%E3%82%BB%E3%82%A6%E3%82%A8%E3%82%B1%E3%82%AA%E3%82%AB%E3%82%AF%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%A2%E3%82%B3%E3%82%BF%E3%82%A6%E3%82%A4%E3%82%AD%E3%82%A8%E3%82%B7%E3%82%BD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Howard The Duck 005 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-005-2015-Digital-BlackManta-Empire-cbr.md) | [35.67MiB](https://pan.baidu.com/s/1gfgvftL#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.08.12%2F%E3%82%A8%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%AA%E3%82%AD%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%AA%E3%82%B7%E3%82%A8%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%B1%E3%82%AD%E3%82%B9%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%A8%E3%82%A2%E3%82%AB%E3%82%A8%E3%82%B1%E3%82%A4%E3%82%A8%E3%82%BF%E3%82%B3%E3%82%B5%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Howard the Duck 005 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-005-2015-2-covers-digital-Minutemen-PhD-cbr.md) | [34.96MiB](https://pan.baidu.com/s/1slOadXz#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.09.09%2F%E3%82%A6%E3%82%B1%E3%82%AA%E3%82%BF%E3%82%AF%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AA%E3%82%B5%E3%82%AD%E3%82%AB%E3%82%BB%E3%82%A8%E3%82%B7%E3%82%BD%E3%82%B3%E3%82%A4%E3%82%BF%E3%82%BF%E3%82%AB%E3%82%AF%E3%82%A6%E3%82%A4%E3%82%AF%E3%82%B1%E3%82%BD%E3%82%AF%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
+[Howard The Duck 001 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-001-2016-Digital-BlackManta-Empire-cbr.md) | 53.56MiB
+Howard the Duck 001 (2016) (2 covers) (digital) (Minutemen-Faessla).cbz | 52.36MiB
+[Howard The Duck 002 (2016) (Digital) (BlackManta-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-002-2016-Digital-BlackManta-Empire-cbz.md) | [54.74MiB](https://pan.baidu.com/s/1nvHu48x#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.12.02%2F%E3%82%BD%E3%82%A2%E3%82%BF%E3%82%A2%E3%82%BF%E3%82%BB%E3%82%AB%E3%82%B9%E3%82%A8%E3%82%A8%E3%82%AB%E3%82%A2%E3%82%A8%E3%82%B1%E3%82%AF%E3%82%B7%E3%82%BB%E3%82%B7%E3%82%A2%E3%82%BB%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%B5%E3%82%B9%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
+Howard the Duck 002 (2016) (4 covers) (digital) (Minutemen-Faessla).cbz | 58.65MiB
+[Howard The Duck 003 (2016) (Digital) (BlackManta-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-003-2016-Digital-BlackManta-Empire-cbz.md) | [53.64MiB](https://pan.baidu.com/s/1c2uCke8#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.12.30%2F%E3%82%BD%E3%82%AB%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%B9%E3%82%AD%E3%82%A2%E3%82%A8%E3%82%AB%E3%82%B5%E3%82%AF%E3%82%BF%E3%82%AA%E3%82%BF%E3%82%BB%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%A2%E3%82%A8%E3%82%A8%E3%82%A6%E3%82%B5%E3%82%BB%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%A4%E3%82%BF%E3%82%B7%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
+Howard the Duck 003 (2016) (3 covers) (digital) (Minutemen-Faessla).cbz | 57.45MiB
+[Howard The Duck 003 (2016) (digital) (Oroboros-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-003-2016-digital-Oroboros-DCP-cbr.md) | [53.16MiB](https://pan.baidu.com/s/1c2uCke8#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.12.30%2F%E3%82%A4%E3%82%B5%E3%82%AB%E3%82%B7%E3%82%A2%E3%82%A6%E3%82%B1%E3%82%BF%E3%82%A6%E3%82%AA%E3%82%B5%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%A6%E3%82%A6%E3%82%B9%E3%82%B9%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%A8%E3%82%B5%E3%82%AB%E3%82%B5%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%B1%E3%82%AF%E3%82%AF%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
+[Howard The Duck 004 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-004-2016-Digital-BlackManta-Empire-cbr.md) | [37.82MiB](https://pan.baidu.com/s/1mimouNI#list/path=%2F0-Day%20Week%20of%202016%20Q1%2F0-Day%20Week%20of%202016.02.03%2F%E3%82%BF%E3%82%A6%E3%82%B9%E3%82%AD%E3%82%B1%E3%82%B3%E3%82%B7%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%BF%E3%82%B3%E3%82%AB%E3%82%A2%E3%82%A6%E3%82%B3%E3%82%B3%E3%82%AB%E3%82%AA%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%BB%E3%82%AF%E3%82%BD%E3%82%AD%E3%82%A8%E3%82%B1%E3%82%B3%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202016%20Q1)
+Howard the Duck 004 (2016) (3 covers) (digital) (Minutemen-Faessla).cbz | 39.51MiB
+[Howard The Duck 005 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-005-2016-Digital-BlackManta-Empire-cbr.md) | [38.37MiB](https://pan.baidu.com/s/1pLkO4tX#list/path=%2F0-Day%20Week%20of%202016%20Q1%2F0-Day%20Week%20of%202016.03.09%2F%E3%82%AA%E3%82%B1%E3%82%B3%E3%82%B1%E3%82%A8%E3%82%B3%E3%82%AD%E3%82%AA%E3%82%AD%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%A6%E3%82%AA%E3%82%B7%E3%82%AB%E3%82%A6%E3%82%AD%E3%82%AF%E3%82%A6%E3%82%AF%E3%82%B1%E3%82%B3%E3%82%B5%E3%82%A6%E3%82%AF%E3%82%A8%E3%82%A6%E3%82%BB%E3%82%AA%E3%82%A2%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202016%20Q1)
+Howard the Duck 005 (2016) (digital) (Minutemen-Faessla).cbz | 36.76MiB
+[Howard The Duck 006 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-006-2016-Digital-BlackManta-Empire-cbr.md) | [33.46MiB](https://pan.baidu.com/s/1eS7zquA#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.04.20%2F%E3%82%B3%E3%82%B5%E3%82%AA%E3%82%BB%E3%82%B3%E3%82%B7%E3%82%AD%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%A6%E3%82%AB%E3%82%A4%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%82%A8%E3%82%AA%E3%82%B5%E3%82%B1%E3%82%A4%E3%82%AD%E3%82%AD%E3%82%A8%E3%82%AB%E3%82%BB%E3%82%A2%E3%82%B7%E3%82%AF%E3%82%AB%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Howard the Duck 006 (2016) (3 covers) (digital) (Minutemen-Faessla).cbz | 36.35MiB
+[Howard The Duck 007 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-007-2016-Digital-BlackManta-Empire-cbr.md) | [36.16MiB](https://pan.baidu.com/s/1i5GM7SL#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.05.04%2F%E3%82%AB%E3%82%AD%E3%82%A8%E3%82%AA%E3%82%B9%E3%82%AD%E3%82%AF%E3%82%AF%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%A8%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%AB%E3%82%A2%E3%82%AD%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%B9%E3%82%B3%E3%82%B1%E3%82%AD%E3%82%AD%E3%82%BD%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%A8%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Howard the Duck 007 (2016) (2 covers) (digital) (Minutemen-Faessla).cbz | 36.10MiB
+[Howard The Duck 008 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-008-2016-Digital-BlackManta-Empire-cbr.md) | [49.78MiB](https://pan.baidu.com/s/1hrV14ig#list/path=%2F0-Day%20Week%20of%202016%20Q2%2F0-Day%20Week%20of%202016.06.08%2F%E3%82%AA%E3%82%AF%E3%82%A2%E3%82%AB%E3%82%AD%E3%82%B5%E3%82%A4%E3%82%B7%E3%82%B5%E3%82%BF%E3%82%BD%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%AB%E3%82%AF%E3%82%A8%E3%82%AD%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%BB%E3%82%B1%E3%82%A2%E3%82%B3%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202016%20Q2)
+Howard the Duck 008 (2016) (3 covers) (digital) (Minutemen-Faessla).cbz | 51.23MiB
+[Howard The Duck 009 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-009-2016-Digital-BlackManta-Empire-cbr.md) | [33.52MiB](https://pan.baidu.com/s/1geJslWJ#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.07.27%2F%E3%82%B3%E3%82%B7%E3%82%AD%E3%82%B1%E3%82%B9%E3%82%AA%E3%82%B9%E3%82%B5%E3%82%B3%E3%82%BB%E3%82%B1%E3%82%A2%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%BB%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%A2%E3%82%AF%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%B1%E3%82%B5%E3%82%AF%E3%82%AF%E3%82%BD%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Howard the Duck 009 (2016) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-009-2016-2-covers-digital-Minutemen-Faessla-cbz.md) | [33.81MiB](https://pan.baidu.com/s/1pLupFJl#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.08.03%2F%E3%82%B5%E3%82%BD%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%B5%E3%82%A8%E3%82%A2%E3%82%B3%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%BB%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%B9%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%B9%E3%82%B9%E3%82%A4%E3%82%B5%E3%82%AD%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Howard The Duck 010 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-010-2016-Digital-BlackManta-Empire-cbr.md) | [32.96MiB](https://pan.baidu.com/s/1o8JulgY#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.08.31%2F%E3%82%BF%E3%82%A2%E3%82%AD%E3%82%A8%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%AF%E3%82%AD%E3%82%A8%E3%82%AA%E3%82%B1%E3%82%B7%E3%82%B5%E3%82%B7%E3%82%B3%E3%82%B3%E3%82%AA%E3%82%B5%E3%82%A6%E3%82%B7%E3%82%BF%E3%82%BD%E3%82%AD%E3%82%BD%E3%82%AB%E3%82%B3%E3%82%AF%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Howard the Duck 010 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-010-2016-digital-Minutemen-Faessla-cbz.md) | [31.36MiB](https://pan.baidu.com/s/1bpyKiZ1#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.09.21%2F%E3%82%BF%E3%82%BB%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%AA%E3%82%BF%E3%82%A6%E3%82%B1%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%B7%E3%82%AF%E3%82%AA%E3%82%BB%E3%82%AB%E3%82%B7%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%AB%E3%82%B3%E3%82%BF%E3%82%B3%E3%82%A8%E3%82%BF%E3%82%BF%E3%82%AB%E3%82%A6%E3%82%B9%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Howard The Duck 011 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-011-2016-Digital-BlackManta-Empire-cbr.md) | [32.75MiB](https://pan.baidu.com/s/1o8uXFLo#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.10.12%2F%E3%82%B9%E3%82%AD%E3%82%BB%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B3%E3%82%B5%E3%82%A2%E3%82%B3%E3%82%A4%E3%82%AA%E3%82%B3%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%B7%E3%82%AA%E3%82%A6%E3%82%B3%E3%82%A8%E3%82%AD%E3%82%AF%E3%82%A2%E3%82%B1%E3%82%AF%E3%82%AD%E3%82%B1%E3%82%B9%E3%82%AA%E3%82%A4%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+Howard the Duck 011 (2016) (digital) (Minutemen-Faessla).cbz | [31.33MiB](https://pan.baidu.com/s/1jItJOoe#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.02%2F%E3%82%BD%E3%82%AB%E3%82%A2%E3%82%B7%E3%82%B5%E3%82%B5%E3%82%AB%E3%82%B7%E3%82%B5%E3%82%A6%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%B7%E3%82%BD%E3%82%A8%E3%82%BB%E3%82%AA%E3%82%AA%E3%82%AF%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%B5%E3%82%A6%E3%82%A4%E3%82%AD%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+Howard the Duck v01 - Duck Hunt (2016) (Digital) (Zone-Empire).cbr | 248.32MiB
+Howard the Duck - The Complete Collection v04 (2017) (Digital) (Zone-Empire).cbr | 829.78MiB

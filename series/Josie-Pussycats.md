@@ -1,0 +1,35 @@
+# Josie & the Pussycats
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Archie
+
+Josie & the Pussycats (2016-2017)
+
+Grab the latest, surefire, top-of-the-charts new Riverdale series! Friends, countrymen, lend me your long tails and ears for hats -- the Pussycats are back! In this series kick-off, Josie's getting the band together to help achieve her dreams of musical stardom. But for the group to last, it needs a strong foundation of friendship and trust. Can the girls get going, or will Alexandra's plotting put a stop to the whole thing?  
+
+
+
+
+
+Online | Download
+--- | ---
+Josie and the Pussycats 50 c2c Archie Sep 1970 Kracalactaka-DMiles.cbz | 39.60MiB
+Josie & the Pussycats 46 Archie Feb 1970 C2C.cbz | 75.66MiB
+Josie & The Pussycats 50 Archie Sep 1970 Kracalactaka.cbz | 43.84MiB
+Josie & the Pussycats 066 (1972) (c2c+Advert insert) (K CW).cbz | 44.84MiB
+Josie & the Pussycats 078 (1974) (Archie) (c2c) (ComicsCastle).cbr | 20.09MiB
+Josie & the Pussycats 088 (1976) (Archie) (c2c) (ComicsCastle).cbr | 17.88MiB
+Josie & the Pussycats 089 (1976) (Archie) (c2c) (ComicsCastle).cbr | 18.17MiB
+[Josie & the Pussycats 001 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-001-2016-Digital-BlackManta-Empire-cbr.md) | [50.56MiB](https://pan.baidu.com/s/1bpk4JD1#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.09.28%2F%E3%82%A2%E3%82%A2%E3%82%BB%E3%82%B9%E3%82%AF%E3%82%AF%E3%82%BB%E3%82%AD%E3%82%AD%E3%82%BF%E3%82%BB%E3%82%A8%E3%82%A4%E3%82%BB%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%BF%E3%82%BD%E3%82%B5%E3%82%B5%E3%82%AD%E3%82%AF%E3%82%BB%E3%82%B5%E3%82%B9%E3%82%BF%E3%82%A2%E3%82%B9%E3%82%B7%E3%82%B1%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+[Josie & the Pussycats 002 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-002-2016-Digital-BlackManta-Empire-cbr.md) | [46.08MiB](https://pan.baidu.com/s/1jItJOoe#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.02%2F%E3%82%A2%E3%82%A4%E3%82%BB%E3%82%B7%E3%82%AA%E3%82%AD%E3%82%BF%E3%82%A8%E3%82%BD%E3%82%A4%E3%82%B5%E3%82%B5%E3%82%AA%E3%82%AA%E3%82%BF%E3%82%AA%E3%82%B5%E3%82%AD%E3%82%A8%E3%82%AA%E3%82%AA%E3%82%BB%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%AD%E3%82%B1%E3%82%A8%E3%82%B1%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+[Josie & the Pussycats 003 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-003-2016-Digital-BlackManta-Empire-cbr.md) | [66.24MiB](https://pan.baidu.com/s/1cAVkiq#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.12.07%2F%E3%82%AF%E3%82%BF%E3%82%AB%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%A4%E3%82%A8%E3%82%AD%E3%82%AB%E3%82%AD%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%AF%E3%82%B7%E3%82%AD%E3%82%B7%E3%82%A8%E3%82%B1%E3%82%B1%E3%82%A4%E3%82%BB%E3%82%AD%E3%82%B3%E3%82%AA%E3%82%B1%E3%82%A4%E3%82%BD%E3%82%AA%E3%82%A4%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+[Josie & the Pussycats 005 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-005-2016-Digital-BlackManta-Empire-cbr.md) | [58.10MiB](https://pan.baidu.com/s/1pLLuaUJ#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.03.08%2F%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%A8%E3%82%BF%E3%82%AB%E3%82%AF%E3%82%BB%E3%82%B1%E3%82%BB%E3%82%B9%E3%82%BD%E3%82%B9%E3%82%BB%E3%82%B5%E3%82%AD%E3%82%A4%E3%82%A6%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%BB%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%B7%E3%82%A8%E3%82%B5%E3%82%AF%E3%82%B3%E3%82%B9%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Josie & the Pussycats 006 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-006-2016-Digital-BlackManta-Empire-cbr.md) | [73.56MiB](https://pan.baidu.com/s/1c2pm0ne#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.04.19%2F%E3%82%AB%E3%82%B9%E3%82%AD%E3%82%AD%E3%82%B7%E3%82%AD%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%B7%E3%82%AD%E3%82%AD%E3%82%B7%E3%82%AF%E3%82%AA%E3%82%A4%E3%82%A8%E3%82%AB%E3%82%AA%E3%82%AA%E3%82%A4%E3%82%AA%E3%82%B3%E3%82%BF%E3%82%A2%E3%82%BF%E3%82%AB%E3%82%A2%E3%82%A4%E3%82%A4%E3%82%AB%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[Josie & the Pussycats 007 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-007-2016-Digital-BlackManta-Empire-cbr.md) | [70.99MiB](https://pan.baidu.com/s/1sl1DbYX#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.05.31%2F%E3%82%A8%E3%82%A4%E3%82%B9%E3%82%A2%E3%82%BD%E3%82%A2%E3%82%AB%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%B1%E3%82%A6%E3%82%AA%E3%82%A2%E3%82%A8%E3%82%B9%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%B5%E3%82%BF%E3%82%A4%E3%82%AB%E3%82%A4%E3%82%AB%E3%82%A8%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%AD%E3%82%BF%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[Josie & the Pussycats 008 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-008-2016-Digital-BlackManta-Empire-cbr.md) | [83.04MiB](https://pan.baidu.com/s/1skNIzFJ#list/path=%2F0-Day%20Week%20of%202017%20Q3%2F0-Day%20Week%20of%202017.07.12%2F%E3%82%AF%E3%82%AB%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%B7%E3%82%B3%E3%82%AA%E3%82%A8%E3%82%A4%E3%82%B9%E3%82%B5%E3%82%AB%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%AF%E3%82%BB%E3%82%B1%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%A6%E3%82%A4%E3%82%A8%E3%82%B1%E3%82%BD%E3%82%A2%E3%82%B1%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202017%20Q3)
+[Josie & the Pussycats 009 (2016) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-009-2016-Digital-BlackManta-Empire-cbr.md) | [91.65MiB](https://pan.baidu.com/s/1qYl1bi8#list/path=%2F0-Day%20Week%20of%202017%20Q3%2F0-Day%20Week%20of%202017.08.23%2F%E3%82%BB%E3%82%A4%E3%82%AB%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%BB%E3%82%AA%E3%82%BF%E3%82%AD%E3%82%AF%E3%82%A2%E3%82%B1%E3%82%AA%E3%82%A6%E3%82%A4%E3%82%AF%E3%82%BB%E3%82%B3%E3%82%A6%E3%82%BF%E3%82%A8%E3%82%BB%E3%82%A6%E3%82%A6%E3%82%B1%E3%82%AD%E3%82%AF%E3%82%AB%E3%82%AF%E3%82%B3%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202017%20Q3)
+[Josie & the Pussycats 004 (2017) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Josie-Pussycats-004-2017-Digital-BlackManta-Empire-cbr.md) | [51.31MiB](https://pan.baidu.com/s/1kVeOGgZ#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.01%2F%E3%82%A4%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%A2%E3%82%AF%E3%82%AD%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%A8%E3%82%B5%E3%82%AA%E3%82%AF%E3%82%A6%E3%82%AF%E3%82%B9%E3%82%B5%E3%82%BF%E3%82%A8%E3%82%BF%E3%82%B7%E3%82%AF%E3%82%AD%E3%82%B7%E3%82%AA%E3%82%B3%E3%82%B9%E3%82%AF%E3%82%A2%E3%82%B3%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+Josie and the Pussycats v01 (2017) (digital) (Son of Ultron-Empire).cbr | 339.26MiB

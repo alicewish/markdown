@@ -1,0 +1,27 @@
+# Pathfinder - Worldscape
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Dynamite
+
+Pathfinder: Worldscape
+
+Into the Worldscape - Dynamite’s fantasy adventure crossover event kicks off as the Pathfinders are drawn into the mysterious Worldscape, where the greatest warriors of Hyboria, Barsoom, Golarion and Earth clash in an ancient battle of life and death! Magic, monsters, and mystery co-starring Red Sonja! The Worldscape beckons in a tale written by Pathfinder publisher Erik Mona (Pathfinder: Hollow Mountain) with art from Jonathan Lau (Red Sonja and Cub). Contains a Pathfinder RPG rules appendix and a bonus pull-out poster map!
+
+
+
+
+
+Online | Download
+--- | ---
+[Pathfinder - Worldscape 001 (2016) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-001-2016-Digital-DR-Quinch-Empire-cbr.md) | [62.22MiB](https://pan.baidu.com/s/1qXRNzbQ#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.10.19%2F%E3%82%A4%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%AA%E3%82%AD%E3%82%B7%E3%82%B9%E3%82%B7%E3%82%BB%E3%82%AD%E3%82%BD%E3%82%A2%E3%82%BF%E3%82%A4%E3%82%BD%E3%82%B5%E3%82%B1%E3%82%AA%E3%82%A2%E3%82%A6%E3%82%A8%E3%82%B3%E3%82%AF%E3%82%BD%E3%82%B3%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%AD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+[Pathfinder - Worldscape 002 (2016) (4 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-002-2016-4-covers-Digital-DR-Quinch-Empire-cbr.md) | [57.03MiB](https://pan.baidu.com/s/1i50741n#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.16%2F%E3%82%B7%E3%82%A2%E3%82%B5%E3%82%B9%E3%82%A6%E3%82%AB%E3%82%B1%E3%82%BF%E3%82%BB%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%AA%E3%82%AD%E3%82%A2%E3%82%B1%E3%82%B3%E3%82%AD%E3%82%A8%E3%82%A4%E3%82%B1%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%A8%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%B7%E3%82%B3%E3%82%A4%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+[Pathfinder - Worldscape 003 (2016) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-003-2016-3-covers-Digital-DR-Quinch-Empire-cbr.md) | [55.22MiB](https://pan.baidu.com/s/1qYWj5Cg#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.12.21%2F%E3%82%B3%E3%82%A6%E3%82%AA%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%A2%E3%82%A8%E3%82%AB%E3%82%A2%E3%82%B5%E3%82%BF%E3%82%B9%E3%82%A2%E3%82%AD%E3%82%BF%E3%82%BF%E3%82%B9%E3%82%A6%E3%82%B9%E3%82%B7%E3%82%AA%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%B3%E3%82%A6%E3%82%B7%E3%82%B5%E3%82%BB%E3%82%B9%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+[Pathfinder - Worldscape 003 (2016) (3 covers) (Digital) (F) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-003-2016-3-covers-Digital-F-DR-Quinch-Empire-cbr.md) | [55.22MiB](https://pan.baidu.com/s/1qYWj5Cg#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.12.21%2F%E3%82%AF%E3%82%BD%E3%82%BB%E3%82%A2%E3%82%AF%E3%82%AA%E3%82%A2%E3%82%A2%E3%82%B7%E3%82%AD%E3%82%B9%E3%82%B5%E3%82%A4%E3%82%BF%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%AD%E3%82%AF%E3%82%AB%E3%82%AD%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%BD%E3%82%BB%E3%82%A6%E3%82%A8%E3%82%A4%E3%82%B3%E3%82%BF%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
+[Pathfinder - Worldscape 004 (2017) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-004-2017-3-covers-Digital-DR-Quinch-Empire-cbr.md) | [53.32MiB](https://pan.baidu.com/s/1jIkq4ke#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.01.25%2F%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%A2%E3%82%A6%E3%82%AA%E3%82%B9%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%B7%E3%82%B5%E3%82%A4%E3%82%B3%E3%82%B1%E3%82%B1%E3%82%AF%E3%82%A8%E3%82%B1%E3%82%AB%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%A8%E3%82%BB%E3%82%B9%E3%82%AD%E3%82%AB%E3%82%B9%E3%82%AF%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Pathfinder - Worldscape 005 (2017) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-005-2017-2-covers-Digital-DR-Quinch-Empire-cbr.md) | [58.74MiB](https://pan.baidu.com/s/1qYE6yYC#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.02.22%2F%E3%82%A4%E3%82%B1%E3%82%B3%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%B7%E3%82%AB%E3%82%BF%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%B9%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%A4%E3%82%AD%E3%82%AD%E3%82%A2%E3%82%B5%E3%82%B7%E3%82%B3%E3%82%BD%E3%82%A2%E3%82%A4%E3%82%B1%E3%82%B7%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202017%20Q1)
+[Pathfinder - Worldscape 006 (2017) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Worldscape-006-2017-3-covers-Digital-DR-Quinch-Empire-cbr.md) | [55.58MiB](https://pan.baidu.com/s/1i4MBUwl#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.04.05%2F%E3%82%B1%E3%82%B3%E3%82%AD%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%A4%E3%82%A8%E3%82%A4%E3%82%B1%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%A6%E3%82%A2%E3%82%AA%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%A8%E3%82%AB%E3%82%BF%E3%82%A6%E3%82%A4%E3%82%B3%E3%82%AD%E3%82%AF%E3%82%B9%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+Pathfinder - Worldscape v01 (2017) (Digital) (DR & Quinch-Empire).cbr | 420.70MiB
+Pathfinder - Worldscape v02 (2017) (Digital) (DR & Quinch-Empire).cbr | 246.44MiB

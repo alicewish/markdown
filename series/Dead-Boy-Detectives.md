@@ -1,0 +1,33 @@
+# Dead Boy Detectives
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Vertigo
+
+The Dead Boy Detectives (2013-2014)
+
+From the pages of THE SANDMAN, Neil Gaiman's dead boys get their own monthly series! As fans of storybook detectives, Edwin Paine (died 1916) and Charles Rowland (died 1990) will take on any and all mysteries--including their own untimely deaths.
+
+
+
+
+
+Online | Download
+--- | ---
+The Dead Boy Detectives (2005) (Digital) (Zone-Empire).cbr | 101.55MiB
+The Dead Boy Detectives 001 (2014) (digital) (Son of Ultron-Empire).cbr | [36.57MiB](https://pan.baidu.com/s/1eSq6HDg#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.12.25%2F%E3%82%A6%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%AB%E3%82%A2%E3%82%BF%E3%82%B5%E3%82%AB%E3%82%B5%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%A2%E3%82%B3%E3%82%A2%E3%82%A4%E3%82%A4%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%B9%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%A4%E3%82%AD%E3%82%AD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
+Dead Boy Detectives 002 (2014) (digital) (Son of Ultron-Empire).cbr | [37.46MiB](https://pan.baidu.com/s/1nvsuglz#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.01.29%2F%E3%82%A8%E3%82%BD%E3%82%BB%E3%82%B7%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%A8%E3%82%AF%E3%82%B5%E3%82%A8%E3%82%B3%E3%82%A8%E3%82%B9%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%AB%E3%82%B7%E3%82%BF%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%A6%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%B9%E3%82%AF%E3%82%AB%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Dead Boy Detectives 003 (2014) (digital) (Son of Ultron-Empire).cbr | [37.26MiB](https://pan.baidu.com/s/1hr7hn84#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.02.26%2F%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%B3%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%A2%E3%82%B7%E3%82%A4%E3%82%B7%E3%82%B5%E3%82%AA%E3%82%BF%E3%82%B3%E3%82%B5%E3%82%B7%E3%82%AB%E3%82%B9%E3%82%B3%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Dead Boy Detectives 004 (2014) (digital) (Son of Ultron-Empire).cbr | [39.76MiB](https://pan.baidu.com/s/1eSpkATc#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.03.26%2F%E3%82%AA%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%AB%E3%82%BD%E3%82%B5%E3%82%B5%E3%82%B7%E3%82%BF%E3%82%A4%E3%82%A8%E3%82%BB%E3%82%BD%E3%82%AD%E3%82%A2%E3%82%A4%E3%82%AB%E3%82%AD%E3%82%A8%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%A6%E3%82%AA%E3%82%AF%E3%82%B3%E3%82%BF%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Dead Boy Detectives 005 (2014) (digital) (Son of Ultron-Empire).cbr | [37.14MiB](https://pan.baidu.com/s/1nuYHuL7#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.04.23%2F%E3%82%A2%E3%82%AD%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%82%AF%E3%82%B1%E3%82%B3%E3%82%BD%E3%82%BF%E3%82%B1%E3%82%BB%E3%82%A6%E3%82%B7%E3%82%A2%E3%82%BB%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%A4%E3%82%AD%E3%82%B5%E3%82%B5%E3%82%AB%E3%82%AF%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Dead Boy Detectives 006 (2014) (digital) (Son of Ultron-Empire).cbr | [37.02MiB](https://pan.baidu.com/s/1i52BIdR#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.05.28%2F%E3%82%B7%E3%82%A4%E3%82%A2%E3%82%AB%E3%82%A6%E3%82%BD%E3%82%AA%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%AA%E3%82%AA%E3%82%BD%E3%82%B3%E3%82%B5%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%AF%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%A8%E3%82%BD%E3%82%A8%E3%82%A2%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
+Dead Boy Detectives 007 (2014) (digital) (Son of Ultron-Empire).cbr | [51.10MiB](https://pan.baidu.com/s/1jI4B3F4#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.23%2F%E3%82%B1%E3%82%AB%E3%82%A6%E3%82%A8%E3%82%B7%E3%82%AB%E3%82%A8%E3%82%A4%E3%82%BD%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%AF%E3%82%B7%E3%82%A2%E3%82%A4%E3%82%B7%E3%82%AA%E3%82%A6%E3%82%AF%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%B1%E3%82%AD%E3%82%AB%E3%82%A2%E3%82%A4%E3%82%A4%E3%82%A4%E3%82%B1%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Dead Boy Detectives 008 (2014) (digital) (Son of Ultron-Empire).cbr | [52.96MiB](https://pan.baidu.com/s/1dFlOSeP#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.08.27%2F%E3%82%A6%E3%82%B1%E3%82%AF%E3%82%B5%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%B7%E3%82%AD%E3%82%A8%E3%82%AF%E3%82%A8%E3%82%A6%E3%82%A8%E3%82%B5%E3%82%BD%E3%82%AD%E3%82%A8%E3%82%AA%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%B3%E3%82%BF%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%A6%E3%82%B5%E3%82%B5%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Dead Boy Detectives 009 (2014) (digital) (Son of Ultron-Empire).cbr | [49.07MiB](https://pan.baidu.com/s/1dEJy9Eh#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.24%2F%E3%82%BD%E3%82%A6%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%A2%E3%82%B7%E3%82%B7%E3%82%AF%E3%82%BB%E3%82%A8%E3%82%A2%E3%82%AA%E3%82%AB%E3%82%BD%E3%82%B5%E3%82%A8%E3%82%A4%E3%82%BB%E3%82%A6%E3%82%B1%E3%82%BB%E3%82%AD%E3%82%A6%E3%82%B1%E3%82%AF%E3%82%AA%E3%82%AB%E3%82%B7%E3%82%A6%E3%82%AB%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+Dead Boy Detectives 010 (2014) (digital) (Son of Ultron-Empire).cbr | 51.92MiB
+Dead Boy Detectives v01 - Schoolboy Terrors (2014) (Digital) (Zone-Empire).cbr | 171.28MiB
+Dead Boy Detectives 011 (2015) (digital) (Son of Ultron-Empire).cbr | [49.19MiB](https://pan.baidu.com/s/1eR436bK#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.26%2F%E3%82%B9%E3%82%B5%E3%82%BB%E3%82%AA%E3%82%A8%E3%82%B3%E3%82%BF%E3%82%AF%E3%82%A6%E3%82%A2%E3%82%A6%E3%82%BF%E3%82%BD%E3%82%B1%E3%82%A8%E3%82%B7%E3%82%A2%E3%82%B5%E3%82%AB%E3%82%A4%E3%82%B1%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%B3%E3%82%B5%E3%82%B5%E3%82%AD%E3%82%B3%E3%82%BF%E3%82%BD%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Dead Boy Detectives 012 (2015) (digital) (Son of Ultron-Empire).cbr | [28.18MiB](https://pan.baidu.com/s/1jHX14oA#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.12.24%2F%E3%82%BB%E3%82%A2%E3%82%AF%E3%82%B1%E3%82%B7%E3%82%B9%E3%82%BB%E3%82%AA%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%B9%E3%82%BD%E3%82%AA%E3%82%A6%E3%82%BD%E3%82%A2%E3%82%B5%E3%82%AA%E3%82%B9%E3%82%B9%E3%82%B9%E3%82%AB%E3%82%AB%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%AB%E3%82%A2%E3%82%BD%E3%82%AF%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Dead Boy Detectives v02 - Ghost Snow (2015) (Digital) (Zone-Empire).cbr | 183.27MiB

@@ -1,0 +1,28 @@
+# Deadpool's Art of War
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Marvel
+
+Deadpool's Art of War
+
+Sun Tzu's Art of War has been called the definitive work on military strategy and tactics and has influenced leaders in both warfare and business for hundreds of years; which means it's totally in the public domain and ripe for being ripped off by Deadpool! And what's Deadpool's plan to ensure his version of Art of War outsells the original? Make sure the entire world is at war when it comes out!
+
+
+
+
+
+Online | Download
+--- | ---
+Deadpool's Art of War 001 (2014) (Digital) (Mephisto-Empire).cbr | [72.95MiB](https://pan.baidu.com/s/1nvzLNfj#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.15%2F%E3%82%AA%E3%82%A2%E3%82%A2%E3%82%A2%E3%82%BB%E3%82%BF%E3%82%BD%E3%82%B5%E3%82%AA%E3%82%AD%E3%82%A2%E3%82%B7%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%AF%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%A8%E3%82%BF%E3%82%A8%E3%82%BB%E3%82%BF%E3%82%AD%E3%82%B1%E3%82%BD%E3%82%AA%E3%82%AF%E3%82%B1%E3%82%B5%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Deadpool's Art of War 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-01-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | [72.94MiB](https://pan.baidu.com/s/1nvzLNfj#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.15%2F%E3%82%B5%E3%82%A8%E3%82%B9%E3%82%B7%E3%82%AF%E3%82%B7%E3%82%B3%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%A2%E3%82%AA%E3%82%B5%E3%82%BD%E3%82%A8%E3%82%B3%E3%82%AD%E3%82%A6%E3%82%B7%E3%82%AF%E3%82%AA%E3%82%B9%E3%82%B3%E3%82%BF%E3%82%AD%E3%82%B7%E3%82%B7%E3%82%B1%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Deadpool's Art of War (2015) (Digital) (Asgard-Empire).cbr | 241.31MiB
+Deadpool's Art of War (2015) (digital) (Minutemen-Slayer).cbr | 282.70MiB
+Deadpool's Art of War 002 (2015) (Digital) (Mephisto-Empire).cbr | [72.45MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%B7%E3%82%B3%E3%82%A2%E3%82%AA%E3%82%BF%E3%82%AA%E3%82%BF%E3%82%BB%E3%82%BB%E3%82%AD%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%A4%E3%82%AF%E3%82%AD%E3%82%AB%E3%82%B9%E3%82%A8%E3%82%B7%E3%82%B5%E3%82%B9%E3%82%A6%E3%82%AD%E3%82%AD%E3%82%B9%E3%82%A4%E3%82%BF%E3%82%B5%E3%82%AF%E3%82%AA%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Deadpool's Art of War 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-02-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | [72.43MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%AD%E3%82%A8%E3%82%BF%E3%82%B9%E3%82%B3%E3%82%BB%E3%82%B3%E3%82%A2%E3%82%B1%E3%82%B5%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%A2%E3%82%B5%E3%82%AF%E3%82%BD%E3%82%A8%E3%82%AF%E3%82%AF%E3%82%A8%E3%82%A2%E3%82%BF%E3%82%B1%E3%82%BF%E3%82%A4%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%B5%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+Deadpool's Art of War 003 (2015) (Digital) (Mephisto-Empire).cbr | [66.10MiB](https://pan.baidu.com/s/1o8f0TPw#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.12.10%2F%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%B7%E3%82%AF%E3%82%B5%E3%82%B7%E3%82%A8%E3%82%A8%E3%82%BD%E3%82%B3%E3%82%AF%E3%82%A2%E3%82%BB%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%B9%E3%82%A6%E3%82%BF%E3%82%BD%E3%82%B7%E3%82%AA%E3%82%AB%E3%82%B9%E3%82%AB%E3%82%AB%E3%82%A8%E3%82%B1%E3%82%B7%E3%82%B1%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Deadpool's Art of War 03 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-03-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | [66.08MiB](https://pan.baidu.com/s/1sl6zj8T#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.12.17%2F%E3%82%B7%E3%82%A8%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%B3%E3%82%A8%E3%82%AD%E3%82%B1%E3%82%B5%E3%82%AF%E3%82%B5%E3%82%B3%E3%82%AF%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%A8%E3%82%BB%E3%82%B7%E3%82%A2%E3%82%B9%E3%82%AD%E3%82%B7%E3%82%A4%E3%82%B5%E3%82%A4%E3%82%BF%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Deadpool's Art of War 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-004-2015-Digital-Mephisto-Empire-cbr.md) | [64.21MiB](https://pan.baidu.com/s/1gfKW8qZ#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.21%2F%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%A6%E3%82%AB%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%A8%E3%82%B3%E3%82%A8%E3%82%B9%E3%82%BD%E3%82%A8%E3%82%AB%E3%82%A2%E3%82%BF%E3%82%AA%E3%82%AF%E3%82%AF%E3%82%AD%E3%82%A4%E3%82%B7%E3%82%BF%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%A8%E3%82%AB%E3%82%B3%E3%82%B9%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Deadpool's Art of War 04 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-04-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | [64.21MiB](https://pan.baidu.com/s/1geDUPcZ#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.28%2F%E3%82%BF%E3%82%BB%E3%82%B1%E3%82%AF%E3%82%AB%E3%82%BF%E3%82%B3%E3%82%BF%E3%82%A6%E3%82%B9%E3%82%AD%E3%82%AF%E3%82%B3%E3%82%A8%E3%82%A8%E3%82%AD%E3%82%BF%E3%82%B9%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%B7%E3%82%B3%E3%82%B7%E3%82%BF%E3%82%A8%E3%82%AB%E3%82%B1%E3%82%A6%E3%82%A8%E3%82%AF%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
