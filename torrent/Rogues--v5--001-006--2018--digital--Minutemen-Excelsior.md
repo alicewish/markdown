@@ -15,4 +15,4 @@ Rogues! Volume 05 002 (2018) (digital) (Minutemen-Excelsior).cbz | 133.37MiB
 Rogues! Volume 05 003 (2018) (digital) (Minutemen-Excelsior).cbz | 153.08MiB
 Rogues! Volume 05 004 (2018) (digital) (Minutemen-Excelsior).cbz | 99.05MiB
 Rogues! Volume 05 005 (2018) (digital) (Minutemen-Excelsior).cbz | 77.53MiB
-Rogues! Volume 05 006 (2018) (digital) (Minutemen-Excelsior).cbz | 102.99MiB
+[Rogues! Volume 05 006 (2018) (digital) (Minutemen-Excelsior).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rogues-Volume-05-006-2018-digital-Minutemen-Excelsior-cbz.md) | 102.99MiB

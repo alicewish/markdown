@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 [The Forever War - Forever Free 01 (of 03) (2018) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Forever-War-Forever-Free-01-of-03-2018-digital-dargh-Empire-cbr.md) | 83.34MiB
 The Forever War - Forever Free 02 (of 03) (2018) (digital) (d'argh-Empire).cbr | 92.95MiB
-The Forever War - Forever Free 03 (of 03) (2018) (digital) (d'argh-Empire).cbr | 91.26MiB
+[The Forever War - Forever Free 03 (of 03) (2018) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Forever-War-Forever-Free-03-of-03-2018-digital-dargh-Empire-cbr.md) | 91.26MiB

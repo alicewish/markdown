@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Commando 5135 - The Dark Spitfire (2018) (Digital) (Shadowcat-Empire).cbz | 124.77MiB
-Commando 5136 - Atlantic Patrol (2018) (Digital) (Shadowcat-Empire).cbz | 122.71MiB
-Commando 5137 - Next Stop... Freedom! (2018) (Digital) (Shadowcat-Empire).cbz | 141.27MiB
-Commando 5138 - Under Fire! (2018) (Digital) (Shadowcat-Empire).cbz | 139.07MiB
+[Commando 5135 - The Dark Spitfire (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5135-Dark-Spitfire-2018-Digital-Shadowcat-Empire-cbz.md) | 124.77MiB
+[Commando 5136 - Atlantic Patrol (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5136-Atlantic-Patrol-2018-Digital-Shadowcat-Empire-cbz.md) | 122.71MiB
+[Commando 5137 - Next Stop... Freedom! (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5137-Next-Stop-Freedom-2018-Digital-Shadowcat-Empire-cbz.md) | 141.27MiB
+[Commando 5138 - Under Fire! (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5138-Under-Fire-2018-Digital-Shadowcat-Empire-cbz.md) | 139.07MiB

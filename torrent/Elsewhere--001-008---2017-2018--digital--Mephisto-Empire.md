@@ -17,5 +17,5 @@ Online | Download
 [Elsewhere 005 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elsewhere-005-2018-Digital-Mephisto-Empire-cbr.md) | 41.05MiB
 [Elsewhere 006 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elsewhere-006-2018-Digital-Mephisto-Empire-cbr.md) | 42.12MiB
 [Elsewhere 007 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elsewhere-007-2018-Digital-Mephisto-Empire-cbr.md) | 51.96MiB
-Elsewhere 008 (2018) (Digital) (Mephisto-Empire).cbr | 35.94MiB
+[Elsewhere 008 (2018) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elsewhere-008-2018-Digital-Mephisto-Empire-cbr.md) | 35.94MiB
 Elsewhere v01 (2018) (Digital-Empire).cbr | 274.24MiB

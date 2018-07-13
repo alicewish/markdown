@@ -19,7 +19,7 @@ Sidekick 006 (2014) (Digital) (Darkness-Empire).cbr | 55.28MiB
 Sidekick 007 (2014) (Digital) (Darkness-Empire).cbr | 62.25MiB
 Sidekick 008 (2014) (Digital) (Darkness-Empire).cbr | 58.65MiB
 Sidekick 009 (2014) (Digital) (Darkness-Empire).cbr | 53.30MiB
-Sidekick 010 (2015) (Digital) (Zone-Empire).cbr | 61.38MiB
+[Sidekick 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sidekick-010-2015-Digital-Zone-Empire-cbr.md) | 61.38MiB
 [Sidekick 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sidekick-011-2015-Digital-Zone-Empire-cbr.md) | 49.61MiB
 [Sidekick 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sidekick-012-2015-Digital-Zone-Empire-cbr.md) | 61.31MiB
 Sidekick v01 (2014) (Digital) (Zone-Empire).cbr | 280.06MiB

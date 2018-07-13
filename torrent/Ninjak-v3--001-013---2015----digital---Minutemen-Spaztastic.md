@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [Book Of Death - Fall Of Ninjak 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Book-Of-Death-Fall-Of-Ninjak-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.91MiB
-Ninjak 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 56.75MiB
+[Ninjak 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 56.75MiB
 [Ninjak 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 63.61MiB
 [Ninjak 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 58.69MiB
 [Ninjak 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 83.65MiB

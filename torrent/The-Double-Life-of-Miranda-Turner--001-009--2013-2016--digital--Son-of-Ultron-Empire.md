@@ -15,7 +15,7 @@ The Double Life of Miranda Turner 002 (2013) (digital) (Son of Ultron-Empire).cb
 The Double Life of Miranda Turner 003 (2014) (digital) (Son of Ultron-Empire).cbr | 20.02MiB
 The Double Life of Miranda Turner 004 (2014) (digital) (Son of Ultron-Empire).cbr | 15.86MiB
 [The Double Life of Miranda Turner 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Double-Life-of-Miranda-Turner-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 13.03MiB
-The Double Life of Miranda Turner 006 (2015) (digital) (Son of Ultron-Empire).cbr | 12.49MiB
+[The Double Life of Miranda Turner 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Double-Life-of-Miranda-Turner-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 12.49MiB
 [The Double Life of Miranda Turner 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Double-Life-of-Miranda-Turner-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 11.72MiB
 [The Double Life of Miranda Turner 008 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Double-Life-of-Miranda-Turner-008-2016-digital-Son-of-Ultron-Empire-cbr.md) | 12.44MiB
 [The Double Life of Miranda Turner 009 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Double-Life-of-Miranda-Turner-009-2016-digital-Son-of-Ultron-Empire-cbr.md) | 12.63MiB

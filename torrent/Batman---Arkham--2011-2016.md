@@ -54,7 +54,7 @@ Batman - Arkham Knight - Robin 01 (2015) (digital) (Son of Ultron-Empire).cbr | 
 Batman - Arkham Knight 000.cbr | 6.58MiB
 Batman - Arkham Knight 001 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.41MiB
 Batman - Arkham Knight 002 (2015) (Digital) (Cypher 2.0-Empire).cbr | 14.99MiB
-Batman - Arkham Knight 003 (2015) (Digital) (Cypher 2.0-Empire).cbr | 15.24MiB
+[Batman - Arkham Knight 003 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-003-2015-Digital-Cypher-2-0-Empire-cbr.md) | 15.24MiB
 [Batman - Arkham Knight 004 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-004-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.25MiB
 [Batman - Arkham Knight 005 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-005-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.44MiB
 [Batman - Arkham Knight 006 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-006-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.17MiB

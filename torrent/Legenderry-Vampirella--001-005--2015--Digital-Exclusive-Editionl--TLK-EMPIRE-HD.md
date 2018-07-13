@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Legenderry Vampirella 001(2015)(Digital Exclusive Editionl)(TLK-EMPIRE-HD).cbr | 61.75MiB
-Legenderry Vampirella 002(2015)(Digital Exclusive Editionl)(TLK-EMPIRE-HD).cbr | 51.80MiB
+[Legenderry Vampirella 002(2015)(Digital Exclusive Editionl)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Vampirella-002-2015-Digital-Exclusive-Editionl-TLK-EMPIRE-HD-cbr.md) | 51.80MiB
 [Legenderry Vampirella 003(2015)(Digital Exclusive Editionl)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Vampirella-003-2015-Digital-Exclusive-Editionl-TLK-EMPIRE-HD-cbr.md) | 51.73MiB
 [Legenderry Vampirella 004(2015)(Digital Exclusive Editionl)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Vampirella-004-2015-Digital-Exclusive-Editionl-TLK-EMPIRE-HD-cbr.md) | 36.49MiB
 [Legenderry Vampirella 005(2015)(Digital Exclusive Editionl)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Vampirella-005-2015-Digital-Exclusive-Editionl-TLK-EMPIRE-HD-cbr.md) | 48.99MiB

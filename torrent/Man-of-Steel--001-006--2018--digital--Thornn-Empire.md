@@ -14,5 +14,5 @@ Online | Download
 [Man of Steel 002 (2018) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Man-of-Steel-002-2018-Digital-Thornn-Empire-cbr.md) | 38.97MiB
 [Man of Steel 003 (2018) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Man-of-Steel-003-2018-Digital-Thornn-Empire-cbr.md) | 29.00MiB
 Man of Steel 004 (2018) (Digital) (Thornn-Empire).cbr | 36.81MiB
-Man of Steel 005 (2018) (Digital) (Thornn-Empire).cbr | 26.93MiB
+[Man of Steel 005 (2018) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Man-of-Steel-005-2018-Digital-Thornn-Empire-cbr.md) | 26.93MiB
 Man of Steel 006 (2018) (Digital) (Thornn-Empire).cbr | 45.45MiB

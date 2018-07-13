@@ -1,5 +1,9 @@
 ## New Mutants - Dead Souls 002 (2018) (digital) (Oroboros-DCP).cbr
 
+
+[回到 New Mutants - Dead Souls 目录](https://github.com/alicewish/markdown/blob/master/series/New-Mutants-Dead-Souls.md)
+
+
 ![New Mutants - Dead Souls (2018-) 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq1pwzd7p3j21j82cwb2a.jpg)
 
 ![New Mutants - Dead Souls (2018-) 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq1pxbvzj7j21j82cw7sa.jpg)
@@ -47,3 +51,6 @@
 ![New Mutants - Dead Souls (2018-) 002-022.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq1qfmzozoj21j82cwx6p.jpg)
 
 ![zzoroboros.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flsksjlkg5j20fd0lcdgp.jpg)
+
+[回到 New Mutants - Dead Souls 目录](https://github.com/alicewish/markdown/blob/master/series/New-Mutants-Dead-Souls.md)
+

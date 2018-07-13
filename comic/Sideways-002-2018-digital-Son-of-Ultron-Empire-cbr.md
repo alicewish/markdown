@@ -1,5 +1,9 @@
 ## Sideways 002 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Sideways 目录](https://github.com/alicewish/markdown/blob/master/series/Sideways.md)
+
+
 ![Sideways (2018-) 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpdeokopjnj21j82cwe81.jpg)
 
 ![Sideways (2018-) 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpde9ts3hcj21j72cwqoj.jpg)
@@ -47,3 +51,6 @@
 ![Sideways (2018-) 002-022.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpderjva8gj21j82cw1kx.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5mlrwfphj20zk1io4qp.jpg)
+
+[回到 Sideways 目录](https://github.com/alicewish/markdown/blob/master/series/Sideways.md)
+

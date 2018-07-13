@@ -1,5 +1,9 @@
 ## New Mutants - Dead Souls 003 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 New Mutants - Dead Souls 目录](https://github.com/alicewish/markdown/blob/master/series/New-Mutants-Dead-Souls.md)
+
+
 ![New Mutants - Dead Souls (2018-) 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr72iamcslj21j82cwx6p.jpg)
 
 ![New Mutants - Dead Souls (2018-) 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr72il8wz6j21j82cwaz1.jpg)
@@ -47,3 +51,6 @@
 ![New Mutants - Dead Souls (2018-) 003-022.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr72o3fhy8j21j82cwqv5.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxs2wnsgzj21kw1c84il.jpg)
+
+[回到 New Mutants - Dead Souls 目录](https://github.com/alicewish/markdown/blob/master/series/New-Mutants-Dead-Souls.md)
+

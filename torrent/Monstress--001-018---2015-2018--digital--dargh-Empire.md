@@ -27,6 +27,6 @@ Online | Download
 [Monstress 015 (2018) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monstress-015-2018-digital-dargh-Empire-cbr.md) | 80.03MiB
 [Monstress 016 (2018) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monstress-016-2018-digital-dargh-Empire-cbr.md) | 77.65MiB
 [Monstress 017 (2018) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monstress-017-2018-digital-dargh-Empire-cbr.md) | 82.88MiB
-Monstress 018 (2018) (digital) (d'argh-Empire).cbr | 71.00MiB
+[Monstress 018 (2018) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monstress-018-2018-digital-dargh-Empire-cbr.md) | 71.00MiB
 [Monstress Vol. 01 - Awakening (2016) (digital) (Minutemen-Slayer).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monstress-Vol-01-Awakening-2016-digital-Minutemen-Slayer-cbr.md) | 367.30MiB
 Monstress Vol. 02 - The Blood (2017) (digital) (d'argh-Empire).cbr | 798.59MiB

@@ -14,4 +14,4 @@ Online | Download
 [Legenderry - Red Sonja 002 (2018) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-002-2018-Digital-DR-Quinch-Empire-cbr.md) | 46.41MiB
 [Legenderry - Red Sonja 003 (2018) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-003-2018-Digital-DR-Quinch-Empire-cbr.md) | 46.34MiB
 Legenderry - Red Sonja 004 (2018) (Digital) (DR & Quinch-Empire).cbr | 43.83MiB
-Legenderry - Red Sonja 005 (2018) (Digital) (DR & Quinch-Empire).cbr | 45.52MiB
+[Legenderry - Red Sonja 005 (2018) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-005-2018-Digital-DR-Quinch-Empire-cbr.md) | 45.52MiB

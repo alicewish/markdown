@@ -13,4 +13,4 @@ Online | Download
 [Infinity Countdown - Darkhawk 001 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Countdown-Darkhawk-001-2018-Digital-Zone-Empire-cbr.md) | 30.77MiB
 [Infinity Countdown - Darkhawk 002 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Countdown-Darkhawk-002-2018-Digital-Zone-Empire-cbr.md) | 29.23MiB
 [Infinity Countdown - Darkhawk 003 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Countdown-Darkhawk-003-2018-Digital-Zone-Empire-cbr.md) | 32.63MiB
-Infinity Countdown - Darkhawk 004 (2018) (Digital) (Zone-Empire).cbr | 32.33MiB
+[Infinity Countdown - Darkhawk 004 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Countdown-Darkhawk-004-2018-Digital-Zone-Empire-cbr.md) | 32.33MiB

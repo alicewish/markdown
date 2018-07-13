@@ -15,4 +15,4 @@ Online | Download
 [Star Wars - Thrawn 03 (of 06) (2018) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-Thrawn-03-of-06-2018-digital-Minutemen-Midas-cbr.md) | 46.37MiB
 [Star Wars - Thrawn 04 (of 06) (2018) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-Thrawn-04-of-06-2018-digital-Minutemen-Midas-cbr.md) | 46.68MiB
 Star Wars - Thrawn 05 (of 06) (2018) (digital) (Minutemen-Midas).cbr | 45.76MiB
-Star Wars - Thrawn 06 (of 06) (2018) (digital) (Minutemen-Midas).cbr | 39.24MiB
+[Star Wars - Thrawn 06 (of 06) (2018) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-Thrawn-06-of-06-2018-digital-Minutemen-Midas-cbr.md) | 39.24MiB
