@@ -22,9 +22,9 @@ Grindhouse - Doors Open at Midnight 008 (2014) (digital) (Son of Ultron-Empire).
 &emsp;【Grindhouse/2- Drive In, Bleed Out (001-008)(2014-2015)】 | 
 Grindhouse - Drive In, Bleed Out 001 - Slay Ride 01 (2014) (digital) (Son of Ultron-Empire).cbr | 51.94MiB
 Grindhouse - Drive In, Bleed Out 002 - Slay Ride 02 (2014) (digital) (Son of Ultron-Empire).cbr | 49.60MiB
-Grindhouse - Drive In, Bleed Out 003 - Blood Lagoon 01 (2015) (digital) (Son of Ultron-Empire).cbr | 44.96MiB
+[Grindhouse - Drive In, Bleed Out 003 - Blood Lagoon 01 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-003-Blood-Lagoon-01-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.96MiB
 Grindhouse - Drive In, Bleed Out 004 - Blo od Lagoon 02 (2015) (digital) (Son of Ultron-Empire).cbr | 50.60MiB
-Grindhouse - Drive In, Bleed Out 005 - Lady Danger - Agent of B.O.O.T.I. 01 (2015) (digital) (Son of Ultron-Empire).cbr | 45.17MiB
-Grindhouse - Drive In, Bleed Out 006 - Lady Danger - Agent of B.O.O.T.I. 02 (2015) (digital) (Son of Ultron-Empire).cbr | 43.30MiB
+[Grindhouse - Drive In, Bleed Out 005 - Lady Danger - Agent of B.O.O.T.I. 01 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-005-Lady-Danger-Agent-of-B-O-O-T-I-01-2015-digital-Son-of-Ultron-Empire-cbr.md) | 45.17MiB
+[Grindhouse - Drive In, Bleed Out 006 - Lady Danger - Agent of B.O.O.T.I. 02 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-006-Lady-Danger-Agent-of-B-O-O-T-I-02-2015-digital-Son-of-Ultron-Empire-cbr.md) | 43.30MiB
 [Grindhouse - Drive In, Bleed Out 007 - Le Voyage Fantastique de Veronique, A.K.A. Nebulina 01 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-007-Le-Voyage-Fantastique-de-Veronique-A-K-A-Nebulina-01-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.78MiB
 [Grindhouse - Drive In, Bleed Out 008 - Le Voyage Fantastique de Veronique, A.K.A. Nebulina 02 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-008-Le-Voyage-Fantastique-de-Veronique-A-K-A-Nebulina-02-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.73MiB

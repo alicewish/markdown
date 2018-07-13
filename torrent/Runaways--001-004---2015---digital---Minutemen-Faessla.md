@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Runaways 001 (2015) (digital) (Minutemen-Faessla).cbz | 35.73MiB
+[Runaways 001 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-001-2015-digital-Minutemen-Faessla-cbz.md) | 35.73MiB
 [Runaways 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 38.07MiB
 Runaways 002 (2015) (digital) (Noelle Stevenson variant) (Minutemen-Mastodon).cbz | 1.77MiB
 [Runaways 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-003-2015-digital-Minutemen-Faessla-cbz.md) | 43.42MiB

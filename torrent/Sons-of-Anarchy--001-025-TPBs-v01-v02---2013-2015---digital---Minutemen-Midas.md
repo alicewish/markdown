@@ -28,10 +28,10 @@ Sons of Anarchy 015 (2014) (digital) (Minutemen-Midas).cbr | 34.19MiB
 Sons of Anarchy 016 (2014) (digital) (Minutemen-Midas).cbr | 27.33MiB
 Sons of Anarchy 017 (2015) (digital) (Minutemen-Midas).cbr | 28.32MiB
 Sons of Anarchy 018 (2015) (digital) (Minutemen-Midas).cbr | 33.33MiB
-Sons of Anarchy 019 (2015) (digital) (Minutemen-Midas).cbr | 37.00MiB
+[Sons of Anarchy 019 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-019-2015-digital-Minutemen-Midas-cbr.md) | 37.00MiB
 Sons of Anarchy 020 (2015) (digital) (Minutemen-Midas).cbr | 36.09MiB
-Sons of Anarchy 021 (2015) (digital) (Minutemen-Midas).cbr | 37.21MiB
-Sons of Anarchy 022 (2015) (digital) (Minutemen-Midas).cbr | 29.44MiB
+[Sons of Anarchy 021 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-021-2015-digital-Minutemen-Midas-cbr.md) | 37.21MiB
+[Sons of Anarchy 022 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-022-2015-digital-Minutemen-Midas-cbr.md) | 29.44MiB
 [Sons of Anarchy 023 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-023-2015-digital-Minutemen-Midas-cbr.md) | 39.84MiB
 [Sons of Anarchy 024 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-024-2015-digital-Minutemen-Midas-cbr.md) | 38.34MiB
 [Sons of Anarchy 025 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-025-2015-digital-Minutemen-Midas-cbr.md) | 49.25MiB

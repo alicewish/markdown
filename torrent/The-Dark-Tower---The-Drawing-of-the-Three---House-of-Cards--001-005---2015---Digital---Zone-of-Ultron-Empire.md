@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-The Dark Tower - The Drawing of the Three - House of Cards 01 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr | 66.12MiB
-The Dark Tower - The Drawing of the Three - House of Cards 01 (of 05) (2015) (Mike McKone Variant) (digital) (Minutemen-Fantomex).cbr | 2.91MiB
+[The Dark Tower - The Drawing of the Three - House of Cards 01 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-01-of-05-2015-Digital-Zone-of-Ultron-Empire-cbr.md) | 66.12MiB
+[The Dark Tower - The Drawing of the Three - House of Cards 01 (of 05) (2015) (Mike McKone Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-01-of-05-2015-Mike-McKone-Variant-digital-Minutemen-Fantomex-cbr.md) | 2.91MiB
 [The Dark Tower - The Drawing of the Three - House of Cards 02 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-02-of-05-2015-Digital-Zone-of-Ultron-Empire-cbr.md) | 71.70MiB
-The Dark Tower - The Drawing of the Three - House of Cards 03 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr | 68.49MiB
-The Dark Tower - The Drawing of the Three - House of Cards 04 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr | 73.47MiB
+[The Dark Tower - The Drawing of the Three - House of Cards 03 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-03-of-05-2015-Digital-Zone-of-Ultron-Empire-cbr.md) | 68.49MiB
+[The Dark Tower - The Drawing of the Three - House of Cards 04 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-04-of-05-2015-Digital-Zone-of-Ultron-Empire-cbr.md) | 73.47MiB
 [The Dark Tower - The Drawing of the Three - House of Cards 05 (of 05) (2015) (Digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-05-of-05-2015-Digital-Zone-of-Ultron-Empire-cbr.md) | 69.22MiB

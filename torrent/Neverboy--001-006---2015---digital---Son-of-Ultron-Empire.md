@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Neverboy 001 (2015) (digital) (Son of Ultron-Empire).cbr | 35.40MiB
 [Neverboy 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Neverboy-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.51MiB
-Neverboy 003 (2015) (digital) (Son of Ultron-Empire).cbr | 34.66MiB
+[Neverboy 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Neverboy-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.66MiB
 [Neverboy 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Neverboy-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.89MiB
 [Neverboy 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Neverboy-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.93MiB
 [Neverboy 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Neverboy-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.33MiB

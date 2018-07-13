@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Aquila 01 (of 05) (2015) (Digital-Empire).cbr | 46.78MiB
-Aquila 02 (of 05) (2015) (Digital-Empire).cbr | 41.17MiB
-Aquila 03 (of 05) (2015) (Digital-Empire).cbr | 43.58MiB
+[Aquila 01 (of 05) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquila-01-of-05-2015-Digital-Empire-cbr.md) | 46.78MiB
+[Aquila 02 (of 05) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquila-02-of-05-2015-Digital-Empire-cbr.md) | 41.17MiB
+[Aquila 03 (of 05) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquila-03-of-05-2015-Digital-Empire-cbr.md) | 43.58MiB
 [Aquila 04 (of 05) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquila-04-of-05-2015-Digital-Empire-cbr.md) | 39.87MiB
 [Aquila 05 (of 05) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquila-05-of-05-2015-Digital-Empire-cbr.md) | 35.18MiB

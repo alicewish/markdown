@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [DC Sneak Peek - Dr. Fate (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Dr-Fate-2015-Digital-ThatGuy-Empire-cbz.md) | 12.79MiB
-Doctor Fate 001 (2015) (Digital) (ThatGuy-Empire).cbz | 31.35MiB
+[Doctor Fate 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Fate-001-2015-Digital-ThatGuy-Empire-cbz.md) | 31.35MiB
 [Doctor Fate 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Fate-002-2015-Digital-ThatGuy-Empire-cbz.md) | 32.16MiB
 Doctor Fate 003 (2015) (Digital-Empire).cbr | 29.92MiB
 [Doctor Fate 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Fate-004-2015-Digital-Empire-cbr.md) | 29.35MiB

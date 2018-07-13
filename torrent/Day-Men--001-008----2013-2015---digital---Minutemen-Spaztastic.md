@@ -16,7 +16,7 @@ Day Men 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.68MiB
 Day Men 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 47.98MiB
 Day Men 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 53.19MiB
 Day Men 006 (2015) (digital) (Minutemen-Spaztastic).cbr | 53.05MiB
-Day Men 007 (2015) (digital) (Minutemen-Spaztastic).cbr | 52.39MiB
+[Day Men 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Day-Men-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 52.39MiB
 Day Men 008 (2015) (digital) (Minutemen-Thoth).cbz | 52.41MiB
 Day Men v01 (2014) (Digital) (Zone-Empire).cbr | 204.57MiB
 downloaded from worldwidetorrents.eu.txt | 603.00B

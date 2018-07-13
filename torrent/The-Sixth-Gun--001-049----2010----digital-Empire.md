@@ -12,9 +12,9 @@ Online | Download
 --- | ---
 &emsp;【The Sixth Gun (001-049+) (2010-) (digital-Empire)】 | 
 &emsp;【The Sixth Gun (001-049+) (2010-) (digital-Empire)/Dust To Dust (001-003) (2015) (digital-Empire)】 | 
-The Sixth Gun - Dust To Dust 001 (2015) (Digital-Empire).cbr | 35.35MiB
-The Sixth Gun - Dust To Dust 002 (2015) (Digital-Empire).cbr | 36.10MiB
-The Sixth Gun - Dust To Dust 003 (2015) (Digital-Empire).cbr | 35.27MiB
+[The Sixth Gun - Dust To Dust 001 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Dust-To-Dust-001-2015-Digital-Empire-cbr.md) | 35.35MiB
+[The Sixth Gun - Dust To Dust 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Dust-To-Dust-002-2015-Digital-Empire-cbr.md) | 36.10MiB
+[The Sixth Gun - Dust To Dust 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Dust-To-Dust-003-2015-Digital-Empire-cbr.md) | 35.27MiB
 &emsp;【The Sixth Gun (001-049+) (2010-) (digital-Empire)/Sons of the Gun (001-005+Extras)(digital-Empire)】 | 
 The Sixth Gun - Sons of the Gun (2013) (Digital) (Zone-Empire).cbr | 215.59MiB
 The Sixth Gun - Sons of the Gun 001 (2013) (2nd Printing Variant Cover) (Chairmen-Novus-HD).cbz | 3.42MiB
@@ -85,7 +85,7 @@ The Sixth Gun 043 (2014) (Digital-Empire).cbr | 35.97MiB
 The Sixth Gun 044 (2014) (Digital-Empire).cbr | 43.28MiB
 The Sixth Gun 045 (2014) (Digital-Empire).cbr | 40.18MiB
 The Sixth Gun 046 (2015) (Digital-Empire).cbr | 51.52MiB
-The Sixth Gun 047 (2015) (Digital-Empire).cbr | 35.90MiB
+[The Sixth Gun 047 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-047-2015-Digital-Empire-cbr.md) | 35.90MiB
 [The Sixth Gun 048 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-048-2016-digital-Son-of-Ultron-Empire-cbr.md) | 37.84MiB
 [The Sixth Gun 049 (2016) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-049-2016-Digital-Empire-cbr.md) | 40.02MiB
 &emsp;【The Sixth Gun (001-049+) (2010-) (digital-Empire)/Valley of Death (001-003)(2015)(digital)】 | 

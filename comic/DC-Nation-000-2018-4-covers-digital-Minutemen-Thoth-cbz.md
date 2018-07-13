@@ -1,5 +1,9 @@
 ## DC Nation 000 (2018) (4 covers) (digital) (Minutemen-Thoth).cbz
 
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+
+
 ![DC Nation (2018-) 000-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxt2htbdrj21j82cw7wh.jpg)
 
 ![DC Nation (2018-) 000-000b.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxt2mz7s6j21j82cw1kx.jpg)
@@ -77,3 +81,6 @@
 ![DC Nation (2018-) 000-037.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxt8bc43bj21j82cw1jc.jpg)
 
 ![DC Nation (2018-) 000-038.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxt8ijzo0j21j82cwhbh.jpg)
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+

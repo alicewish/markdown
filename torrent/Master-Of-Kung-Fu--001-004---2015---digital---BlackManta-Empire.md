@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Master of Kung Fu 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr | 51.00MiB
+[Master of Kung Fu 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-01-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 51.00MiB
 Master of Kung Fu 01 (of 04) (2015) (digital) (Butch Guice variant) (Minutemen-Mastodon).cbz | 3.12MiB
 [Master of Kung Fu 02 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-02-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 49.51MiB
 [Master of Kung Fu 03 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-03-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 47.19MiB

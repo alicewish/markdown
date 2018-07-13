@@ -152,7 +152,10 @@ Archie Annual 015 (1963-1964) (c2c) Unk+drake10 fills.cbr | 43.82MiB
 Archie Annual 016 (1964-1965) (c2c) (drake10).cbz | 67.39MiB
 Archie 152 Feb 1965 c2c ybcguy714-Kracalactaka-drake10.cbz | 49.23MiB
 Archie 155 Archie Jun 1965 C2C.cbz | 50.32MiB
+Archie 168 (1966) (Digital) (Shadowcat-Empire).cbz | 84.55MiB
+Archie 169 (1966) (Digital) (Shadowcat-Empire).cbz | 79.51MiB
 Archie Annual 18 (1966-67) (c2c) (Archie) titansfan.cbz | 45.89MiB
+Archie 170 (1967) (Digital) (Shadowcat-Empire).cbz | 67.53MiB
 Archie Annual 19 (1967-68) (c2c) (Archie) titansfan.cbz | 47.01MiB
 Archie 185 Sep 1968 (ybcguy714-Kracalactaka-movielover-Novus).cbz | 41.53MiB
 Archie Annual 020 (1968-1969) (c2c) (drake10).cbz | 73.69MiB
@@ -719,6 +722,8 @@ Archie 1000 Page Jamboree - Part 01 (of 03) (2013) (digital) (Minutemen-Slayer).
 Archie 1000 Page Jamboree - Part 02 (of 03) (2013) (digital) (Minutemen-Slayer).cbr | 539.18MiB
 Archie 1000 Page Jamboree - Part 03 (of 03) (2013) (digital) (Minutemen-Slayer).cbr | 525.63MiB
 Archie 1000 Page Digest (2013) (Digital) (Shadowcat-Empire).cbz | 1.21GiB
+Archie 1000 Page Extravaganza (2013) (Digital) (Shadowcat-Empire).cbz | 1.23GiB
+Archie 1000 Page Jamboree (2013) (Digital) (Shadowcat-Empire).cbz | 1.28GiB
 Archie (2014) (DCP Webrips).cbr | [50.86MiB](https://pan.baidu.com/s/1miBthlY#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.12.31%2F%E3%82%BD%E3%82%AD%E3%82%BB%E3%82%AA%E3%82%AD%E3%82%BF%E3%82%B5%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%B1%E3%82%AA%E3%82%AD%E3%82%AF%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%B5%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%A4%E3%82%B3%E3%82%B7%E3%82%A6%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%B9%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Archie 650 (2014) (Digital) (Asgard-Empire).cbr | 56.77MiB
 Archie 650 (2014) c2c (2 covers) (Jojo).cbr | [41.40MiB](https://pan.baidu.com/s/1bo5V9G7#list/path=%2F0-Day%20Week%20of%202013%20Q4%2F0-Day%20Week%20of%202013.12.04%2F%E3%82%BD%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B7%E3%82%AD%E3%82%A6%E3%82%AD%E3%82%AA%E3%82%AB%E3%82%A8%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%BF%E3%82%B1%E3%82%AA%E3%82%B3%E3%82%A6%E3%82%BF%E3%82%A8%E3%82%AA%E3%82%BD%E3%82%BB%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%B5%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202013%20Q4)
@@ -798,7 +803,7 @@ Archie 664 (2015) (Digital) (Asgard-Empire).cbr | 28.43MiB
 Archie 664 (2015) c2c (2 covers) (Jojo).cbr | [29.07MiB](https://pan.baidu.com/s/1geZ9B2b#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.02.11%2F%E3%82%A8%E3%82%A8%E3%82%AB%E3%82%B9%E3%82%AD%E3%82%A4%E3%82%A8%E3%82%B1%E3%82%B3%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%B1%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%BB%E3%82%A8%E3%82%A4%E3%82%BF%E3%82%AF%E3%82%BB%E3%82%A2%E3%82%A6%E3%82%B5%E3%82%A8%E3%82%BB%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%BB%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
 Archie 664 (2015) (digital) (Minutemen-Slayer).cbr | 34.00MiB
 Archie 665 (2015) (Digital) (Asgard-Empire).cbr | 24.36MiB
-Archie 665 (2015) c2c (2 covers) (Jojo).cbr | [28.72MiB](https://pan.baidu.com/s/1kV1j4Uj#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.11%2F%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%AF%E3%82%B5%E3%82%B3%E3%82%BD%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%B7%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%A8%E3%82%B5%E3%82%BD%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%AA%E3%82%A2%E3%82%A6%E3%82%B5%E3%82%A8%E3%82%BF%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Archie 665 (2015) c2c (2 covers) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-665-2015-c2c-2-covers-Jojo-cbr.md) | [28.72MiB](https://pan.baidu.com/s/1kV1j4Uj#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.11%2F%E3%82%BF%E3%82%B1%E3%82%AD%E3%82%BF%E3%82%A2%E3%82%B1%E3%82%AF%E3%82%B5%E3%82%B3%E3%82%BD%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%B7%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%A8%E3%82%B5%E3%82%BD%E3%82%AB%E3%82%A6%E3%82%B7%E3%82%AA%E3%82%A2%E3%82%A6%E3%82%B5%E3%82%A8%E3%82%BF%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
 Archie 665 (2015) (digital) (Minutemen-Slayer).cbr | 29.37MiB
 Archie 666 (2015) (Digital) (Asgard-Empire).cbr | 30.61MiB
 [Archie 666 (2015) c2c (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-666-2015-c2c-Jojo-cbr.md) | [29.83MiB](https://pan.baidu.com/s/14Jgupa3ITkUW1mK2tEyXkg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.03%2F%E3%82%B1%E3%82%AD%E3%82%A8%E3%82%A2%E3%82%BB%E3%82%BF%E3%82%B1%E3%82%AB%E3%82%AF%E3%82%B1%E3%82%A8%E3%82%BB%E3%82%BD%E3%82%BB%E3%82%AF%E3%82%B5%E3%82%A2%E3%82%BB%E3%82%AF%E3%82%B7%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%AA%E3%82%A8%E3%82%B9%E3%82%B7%E3%82%B9%E3%82%A8%E3%82%B5%E3%82%BF%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q2)

@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Spider-Verse 001 (2015) (Digital) (Zone-Empire).cbr | 50.92MiB
-Spider-Verse 002 (2015) (Digital) (Zone-Empire).cbr | 34.16MiB
+[Spider-Verse 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-001-2015-Digital-Zone-Empire-cbr.md) | 50.92MiB
+[Spider-Verse 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-002-2015-Digital-Zone-Empire-cbr.md) | 34.16MiB
 [Spider-Verse 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-003-2015-Digital-Zone-Empire-cbr.md) | 38.39MiB
 [Spider-Verse 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-004-2015-Digital-Zone-Empire-cbr.md) | 37.72MiB
 [Spider-Verse 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-005-2015-Digital-Zone-Empire-cbr.md) | 33.92MiB

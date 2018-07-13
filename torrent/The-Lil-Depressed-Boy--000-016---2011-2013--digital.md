@@ -21,7 +21,7 @@ The Li'l Depressed Boy - Supposed To Be There Too 001 (2014) (Digital-Empire).cb
 The Li'l Depressed Boy - Supposed To Be There Too 002 (2014) (Digital-Empire).cbr | 40.51MiB
 The Li'l Depressed Boy - Supposed To Be There Too 003 (2014) (Digital-Empire).cbr | 43.92MiB
 [The Li'l Depressed Boy - Supposed To Be There Too 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lil-Depressed-Boy-Supposed-To-Be-There-Too-004-2015-Digital-Empire-cbr.md) | 43.62MiB
-The Li'l Depressed Boy - Supposed To Be There Too 005 (2015) (Digital-Empire).cbr | 39.12MiB
+[The Li'l Depressed Boy - Supposed To Be There Too 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lil-Depressed-Boy-Supposed-To-Be-There-Too-005-2015-Digital-Empire-cbr.md) | 39.12MiB
 The Li'l Depressed Boy 000 (2011) (c2c) (Minutemen-DTs).cbz | 90.89MiB
 The Li'l Depressed Boy 001 (2011) (Second Printing Variant Cover) (Minutemen-DTs).cbz | 826.05KiB
 The Li'l Depressed Boy 001 (2011) (digital) (Minutemen-InnerDemons).cbr | 24.53MiB

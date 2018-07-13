@@ -23,9 +23,9 @@ Captain Marvel 009 (2015) (digital) (Minutemen-PhD).cbr | 38.07MiB
 Captain Marvel 010 (2015) (digital) (Minutemen-PhD).cbr | 47.12MiB
 Captain Marvel 011 (2015) (digital) (Minutemen-InnerDemons).cbr | 40.14MiB
 Captain Marvel 012 (2015) (digital) (Minutemen-InnerDemons).cbr | 35.15MiB
-Captain Marvel 013 (2015) (digital) (Minutemen-InnerDemons).cbr | 36.36MiB
-Captain Marvel 014 (2015) (2 covers) (digital) (Minutemen-InnerDemons).cbr | 35.55MiB
-Captain Marvel 015 (2015) (digital) (Minutemen-InnerDemons).cbr | 33.41MiB
+[Captain Marvel 013 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-013-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.36MiB
+[Captain Marvel 014 (2015) (2 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-014-2015-2-covers-digital-Minutemen-InnerDemons-cbr.md) | 35.55MiB
+[Captain Marvel 015 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-015-2015-digital-Minutemen-InnerDemons-cbr.md) | 33.41MiB
 &emsp;【Captain Marvel (001-015) (2014-2015) (Digital) (Minutemen-InnerDemons+PhD)/Variant Covers】 | 
 Captain Marvel 001 (2014) (2nd Printing Variant) (digital) (Minutemen-Fantomex).cbr | 620.54KiB
 Captain Marvel 014 (2015) (Andrea Sorrentino Cosmically Enhanced Variant) (digital) (Minutemen-Fantomex).cbr | 1.49MiB

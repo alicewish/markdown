@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Plants Vs. Zombies (2013-2018)(digital)】 | 
 &emsp;【Plants Vs. Zombies (2013-2018)(digital)/Plants vs. Zombies (001-012)(2015-2016)(digital)】 | 
-Plants vs. Zombies - Bully For You 001 (2015) (digital) (Son of Ultron-Empire).cbr | 47.97MiB
+[Plants vs. Zombies - Bully For You 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Bully-For-You-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 47.97MiB
 [Plants vs. Zombies - Bully For You 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Bully-For-You-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.63MiB
 [Plants vs. Zombies - Bully For You 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Bully-For-You-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.57MiB
 [Plants vs. Zombies 004 - Grown Sweet Home 01 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-004-Grown-Sweet-Home-01-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.94MiB

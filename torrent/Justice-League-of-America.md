@@ -90,7 +90,7 @@ DC Versus Marvel-Marvel Versus DC 01 (1996) (RoyalRumor-Novus-HD).cbz | 73.24MiB
 DC Versus Marvel-Marvel Versus DC 02 (1996) (RoyalRumor-Novus-HD).cbz | 72.04MiB
 DC Versus Marvel-Marvel Versus DC 03 (1996) (RoyalRumor-Novus-HD).cbz | 78.01MiB
 DC Versus Marvel-Marvel Versus DC 04 (1996) (RoyalRumor-Novus-HD).cbz | 75.81MiB
-Divergence 001 - FCBD (2015) (digital) (Minutemen-Mollylvr).cbr | 45.03MiB
+[Divergence 001 - FCBD (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divergence-001-FCBD-2015-digital-Minutemen-Mollylvr-cbr.md) | 45.03MiB
 &emsp;【Justice League of America/Mini-Series & One-Shots/Formerly Known as the Justice League (001-006) (2003-2004) (digital) (Tithe-Empire)】 | 
 Formerly Known as the Justice League 006 (of 6) (2004) (digital) (tithe-empire).cbr | 29.28MiB
 Formerly Known as the Justice League 01 (of 06) (2003) (digital) (Tithe-Empire).cbr | 26.43MiB
@@ -1441,7 +1441,7 @@ Justice League of America 001 (cover pack ONLY) (2013) (F) (TonyZ - Talon-Novus)
 Justice League of America v01 - World's Most Dangerous (2013) (Digital) (Zone-Empire).cbr | 291.94MiB
 Justice League of America v02 - Survivors of Evil (2014) (Digital) (Zone-Empire).cbr | 305.28MiB
 &emsp;【Justice League of America/Series/15-Justice League of America v4 (001-010)(2015-2016)(digital)】 | 
-Justice League of America 001 (2015) (9 covers) (digital-Empire).cbr | 100.49MiB
+[Justice League of America 001 (2015) (9 covers) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-of-America-001-2015-9-covers-digital-Empire-cbr.md) | 100.49MiB
 [Justice League of America 002 (2015) (3 covers) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-of-America-002-2015-3-covers-digital-Empire-cbr.md) | 53.71MiB
 Justice League of America 003 (2015) (Digital) (Zone-Empire).cbr | 47.07MiB
 [Justice League of America 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-of-America-004-2015-Digital-Zone-Empire-cbr.md) | 35.50MiB

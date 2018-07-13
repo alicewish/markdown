@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [Convergence - Action Comics 001 (2015) (2 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Action-Comics-001-2015-2-covers-digital-Minutemen-Mollylvr-cbr.md) | 33.85MiB
-Convergence - Action Comics 02 (of 02) (2015) (Digital-Empire).cbr | 36.33MiB
+[Convergence - Action Comics 02 (of 02) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Action-Comics-02-of-02-2015-Digital-Empire-cbr.md) | 36.33MiB
 [Convergence - Adventures of Superman 001 (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Adventures-of-Superman-001-2015-digital-Minutemen-Mollylvr-cbr.md) | 37.91MiB
 [Convergence - Adventures of Superman 002 (2015) (2 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Adventures-of-Superman-002-2015-2-covers-digital-Minutemen-Mollylvr-cbr.md) | 43.09MiB
 [Convergence - Aquaman 001 (2015) (2 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Aquaman-001-2015-2-covers-digital-Minutemen-Mollylvr-cbr.md) | 33.92MiB
@@ -90,11 +90,11 @@ Convergence - Booster Gold (2015) 002 (2015) (Digital) (AnHeroGold-Empire).cbz |
 [Convergence - World's Finest 001 (2015) (2 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Worlds-Finest-001-2015-2-covers-digital-Minutemen-Mollylvr-cbr.md) | 43.36MiB
 [Convergence - World's Finest 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Worlds-Finest-002-2015-Digital-ThatGuy-Empire-cbz.md) | 42.27MiB
 [Convergence 000 (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-000-2015-digital-Minutemen-Mollylvr-cbr.md) | 67.51MiB
-Convergence 001 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr | 61.77MiB
-Convergence 002 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr | 44.13MiB
+[Convergence 001 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-001-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 61.77MiB
+[Convergence 002 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-002-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 44.13MiB
 Convergence 003 (2015) (digital) (Minutemen-Mollylvr).cbr | 44.33MiB
-Convergence 004 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr | 44.71MiB
-Convergence 005 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr | 49.02MiB
-Convergence 006 (2015) (digital) (Minutemen-Mollylvr).cbr | 41.83MiB
-Convergence 007 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr | 47.84MiB
-Convergence 08 (2015) (Webrip) (The Last Kryptonian-DCP).cbr | 58.68MiB
+[Convergence 004 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-004-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 44.71MiB
+[Convergence 005 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-005-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 49.02MiB
+[Convergence 006 (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-006-2015-digital-Minutemen-Mollylvr-cbr.md) | 41.83MiB
+[Convergence 007 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-007-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 47.84MiB
+[Convergence 08 (2015) (Webrip) (The Last Kryptonian-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-08-2015-Webrip-Last-Kryptonian-DCP-cbr.md) | 58.68MiB

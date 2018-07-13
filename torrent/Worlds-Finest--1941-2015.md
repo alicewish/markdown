@@ -402,7 +402,7 @@ Batman & Superman Adventures - World's Finest (1997).cbr | 20.40MiB
 Batman Chronicles 07 (Superman Only) - World's Finest - Equal Justice .cbz | 8.15MiB
 Batman and Superman Adventures World's Finest.cbr | 20.54MiB
 &emsp;【World's Finest (1941-2015)/Convergence - Worlds' Finest (001-002)(2015)(digital)】 | 
-Convergence - World's Finest 001 (2015) (Digital) (ThatGuy-Empire).cbz | 43.33MiB
+[Convergence - World's Finest 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Worlds-Finest-001-2015-Digital-ThatGuy-Empire-cbz.md) | 43.33MiB
 [Convergence - World's Finest 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Worlds-Finest-002-2015-Digital-ThatGuy-Empire-cbz.md) | 42.27MiB
 DC Universe Holiday Bash III (World's Finest Christmas ONLY).cbr | 4.71MiB
 &emsp;【World's Finest (1941-2015)/Elseworld's Finest (001-002)(1997)(digital)(Minutemen-Faessla)】 | 

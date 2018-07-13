@@ -11,9 +11,9 @@
 Online | Download
 --- | ---
 &emsp;【Secret Wars (000-009)(2015-2016)(digital)(Minutemen-Spaztastic)】 | 
-Secret Wars 000 - FCBD (2015) (digital) (Minutemen-Spaztastic).cbr | 37.23MiB
-Secret Wars 01 (of 08) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr | 56.34MiB
-Secret Wars 02 (of 08) (2015) (6 covers) (digital) (Minutemen-Spaztastic).cbr | 72.60MiB
+[Secret Wars 000 - FCBD (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-000-FCBD-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.23MiB
+[Secret Wars 01 (of 08) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-01-of-08-2015-9-covers-digital-Minutemen-Spaztastic-cbr.md) | 56.34MiB
+[Secret Wars 02 (of 08) (2015) (6 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-02-of-08-2015-6-covers-digital-Minutemen-Spaztastic-cbr.md) | 72.60MiB
 Secret Wars 03 (of 09) (2015) (8 covers) (digital) (Minutemen-Spaztastic).cbr | 43.64MiB
 Secret Wars 04 (of 09) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr | 46.44MiB
 [Secret Wars 05 (of 08) (2015) (6 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-05-of-08-2015-6-covers-digital-Minutemen-Spaztastic-cbr.md) | 41.90MiB

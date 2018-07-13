@@ -19,4 +19,4 @@ Online | Download
 [Batman Beyond 007 (2016) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-007-2016-Digital-Empire-cbr.md) | 34.55MiB
 [Batman Beyond 008 (2016) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-008-2016-Digital-Empire-cbr.md) | 29.31MiB
 [Batman Beyond 009 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-009-2016-Digital-Zone-Empire-cbr.md) | 28.59MiB
-DC Sneak Peek - Batman Beyond (2015) (Digital) (ThatGuy-Empire).cbz | 15.18MiB
+[DC Sneak Peek - Batman Beyond (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Batman-Beyond-2015-Digital-ThatGuy-Empire-cbz.md) | 15.18MiB

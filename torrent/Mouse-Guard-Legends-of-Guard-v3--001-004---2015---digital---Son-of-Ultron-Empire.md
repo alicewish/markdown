@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Mouse Guard - Legends of the Guard v03 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 54.38MiB
-Mouse Guard - Legends of the Guard v03 02 (of 04) (2015) (digital) (F) (Son of Ultron-Empire).cbr | 59.24MiB
-Mouse Guard - Legends of the Guard v03 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 55.22MiB
-Mouse Guard - Legends of the Guard v03 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 51.93MiB
+[Mouse Guard - Legends of the Guard v03 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-01-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.38MiB
+[Mouse Guard - Legends of the Guard v03 02 (of 04) (2015) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-02-of-04-2015-digital-F-Son-of-Ultron-Empire-cbr.md) | 59.24MiB
+[Mouse Guard - Legends of the Guard v03 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-03-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.22MiB
+[Mouse Guard - Legends of the Guard v03 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.93MiB

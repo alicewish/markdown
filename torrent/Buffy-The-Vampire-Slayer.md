@@ -340,9 +340,9 @@ Buffy the Vampire Slayer Season 10 010 (2014) (Digital) (Minutemen-Wyvern).cbr |
 Buffy the Vampire Slayer Season 10 011 (2015) (Digital) (Minutemen-Wyvern).cbr | 22.68MiB
 Buffy the Vampire Slayer Season 10 012 (2015) (Digital) (Minutemen-Wyvern).cbr | 23.16MiB
 Buffy the Vampire Slayer Season 10 013 (2015) (Digital) (Minutemen-Wyvern).cbr | 21.81MiB
-Buffy the Vampire Slayer Season 10 014 (2015) (Digital) (Cypher 2.0-Empire).cbr | 20.93MiB
-Buffy the Vampire Slayer Season 10 015 (2015) (Digital) (Cypher 2.0-Empire).cbr | 23.75MiB
-Buffy the Vampire Slayer Season 10 016 (2015) (Digital) (Cypher 2.0-Empire).cbr | 19.79MiB
+[Buffy the Vampire Slayer Season 10 014 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-10-014-2015-Digital-Cypher-2-0-Empire-cbr.md) | 20.93MiB
+[Buffy the Vampire Slayer Season 10 015 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-10-015-2015-Digital-Cypher-2-0-Empire-cbr.md) | 23.75MiB
+[Buffy the Vampire Slayer Season 10 016 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-10-016-2015-Digital-Cypher-2-0-Empire-cbr.md) | 19.79MiB
 [Buffy the Vampire Slayer Season 10 017 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-10-017-2015-Digital-Cypher-2-0-Empire-cbr.md) | 22.43MiB
 [Buffy the Vampire Slayer Season 10 018 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-10-018-2015-Digital-Cypher-2-0-Empire-cbr.md) | 19.62MiB
 [Buffy the Vampire Slayer Season 10 019 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-10-019-2015-Digital-Cypher-2-0-Empire-cbr.md) | 19.54MiB

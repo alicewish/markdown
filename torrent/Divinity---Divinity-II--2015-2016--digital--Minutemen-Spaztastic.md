@@ -12,9 +12,9 @@ Online | Download
 --- | ---
 &emsp;【Divinity & Divinity II (2015-2016)(digital)(Minutemen-Spaztastic)/Divinity (001-004)(2015)(digital)(Minutemen-Spaztastic)】 | 
 Divinity 01 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr | 52.69MiB
-Divinity 02 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr | 39.14MiB
-Divinity 03 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr | 43.01MiB
-Divinity 04 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr | 39.56MiB
+[Divinity 02 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-02-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.14MiB
+[Divinity 03 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-03-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 43.01MiB
+[Divinity 04 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-04-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.56MiB
 &emsp;【Divinity & Divinity II (2015-2016)(digital)(Minutemen-Spaztastic)/Divinity II (001-004)(2016)(digital)(Minutemen-Spaztastic)】 | 
 Divinity II 01 (of 04) (2016) (digital) (Minutemen-Spaztastic).cbr | 41.95MiB
 [Divinity II 02 (of 04) (2016) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-II-02-of-04-2016-digital-Minutemen-Spaztastic-cbr.md) | 41.70MiB

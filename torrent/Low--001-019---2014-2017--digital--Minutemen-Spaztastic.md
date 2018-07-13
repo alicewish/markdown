@@ -22,7 +22,7 @@ Low 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.56MiB
 Low 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 47.46MiB
 Low 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 50.25MiB
 Low 006 (2015) (digital) (Minutemen-Spaztastic).cbr | 48.16MiB
-Low 007 (2015) (digital) (Minutemen-Spaztastic).cbr | 49.18MiB
+[Low 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 49.18MiB
 Low 008 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.81MiB
 [Low 009 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-009-2015-digital-Minutemen-Spaztastic-cbr.md) | 44.18MiB
 [Low 010 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-010-2015-digital-Minutemen-Spaztastic-cbr.md) | 41.03MiB

@@ -17,9 +17,9 @@ X-Men '92 001 (2015) (digital) (David Nakayama variant) (Minutemen-Mastodon).cbz
 X-Men '92 001 (2015) (digital) (Ryan Stegman X-Gwen variant) (Minutemen-Mastodon).cbz | 2.29MiB
 X-Men '92 001 (2015) (digital) (Skottie Young variant) (Minutemen-Mastodon).cbz | 2.12MiB
 X-Men '92 001 (2015) (digital) (Zhang Chin Ant-Sized variant) (Minutemen-Mastodon).cbz | 1.96MiB
-X-Men '92 001 (2015) (Digital-Infinite Comic) (F) (BlackManta-Empire).cbr | 61.14MiB
-X-Men '92 002 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr | 61.45MiB
-X-Men '92 003 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr | 55.02MiB
+[X-Men '92 001 (2015) (Digital-Infinite Comic) (F) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-001-2015-Digital-Infinite-Comic-F-BlackManta-Empire-cbr.md) | 61.14MiB
+[X-Men '92 002 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-002-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 61.45MiB
+[X-Men '92 003 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-003-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 55.02MiB
 [X-Men '92 004 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-004-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 51.83MiB
 [X-Men '92 005 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-005-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 53.70MiB
 [X-Men '92 006 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-006-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 52.31MiB

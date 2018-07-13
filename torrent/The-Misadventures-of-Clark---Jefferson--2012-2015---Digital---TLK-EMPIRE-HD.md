@@ -16,6 +16,6 @@ The Misadventures of Clark & Jefferson 002 (2012) (Digital) (TLK-EMPIRE-HD).cbr 
 The Misadventures of Clark & Jefferson 003 (2012) (Digital) (TLK-EMPIRE-HD).cbr | 43.12MiB
 The Misadventures of Clark & Jefferson 004 (2012) (Digital) (TLK-EMPIRE-HD).cbr | 40.78MiB
 &emsp;【The Misadventures of Clark & Jefferson (2012+2015) (Digital) (TLK-EMPIRE-HD)/The Misadventures of Clark & Jefferson - Hairy Things (001-003)(2015)(Digital)(TLK-EMPIRE-HD)】 | 
-The Misadventures of Clark & Jefferson - Hairy Things 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 41.08MiB
-The Misadventures of Clark & Jefferson - Hairy Things 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 43.22MiB
-The Misadventures of Clark & Jefferson - Hairy Things 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 40.47MiB
+[The Misadventures of Clark & Jefferson - Hairy Things 001(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Misadventures-of-Clark-Jefferson-Hairy-Things-001-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.08MiB
+[The Misadventures of Clark & Jefferson - Hairy Things 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Misadventures-of-Clark-Jefferson-Hairy-Things-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 43.22MiB
+[The Misadventures of Clark & Jefferson - Hairy Things 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Misadventures-of-Clark-Jefferson-Hairy-Things-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.47MiB

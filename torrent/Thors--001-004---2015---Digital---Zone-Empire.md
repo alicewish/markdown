@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Thors 001 (2015) (Digital) (Zone-Empire).cbr | 36.53MiB
+[Thors 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thors-001-2015-Digital-Zone-Empire-cbr.md) | 36.53MiB
 Thors 002 (2015) (Digital) (Zone-Empire).cbr | 32.82MiB
 [Thors 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thors-003-2015-Digital-Zone-Empire-cbr.md) | 36.01MiB
 [Thors 004 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thors-004-2016-Digital-Zone-Empire-cbr.md) | 37.21MiB

@@ -483,8 +483,8 @@ Witchblade 177 (2014) (Digital) (Darkness-Empire).cbr | 46.72MiB
 Witchblade 178 (2014) (Digital) (Darkness-Empire).cbr | 46.64MiB
 Witchblade 179 (2014) (Digital) (Darkness-Empire).cbr | 51.42MiB
 Witchblade 180 (2015) (digital-Empire).cbr | 138.70MiB
-Witchblade 181 (2015) (Digital) (Zone-Empire).cbr | 55.59MiB
-Witchblade 182 (2015) (Digital) (Zone-Empire).cbr | 46.55MiB
+[Witchblade 181 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-181-2015-Digital-Zone-Empire-cbr.md) | 55.59MiB
+[Witchblade 182 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-182-2015-Digital-Zone-Empire-cbr.md) | 46.55MiB
 [Witchblade 183 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-183-2015-Digital-Zone-Empire-cbr.md) | 42.58MiB
 [Witchblade 184 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-184-2015-Digital-Zone-Empire-cbr.md) | 39.31MiB
 [Witchblade 185 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-185-2015-Digital-Zone-Empire-cbr.md) | 72.54MiB

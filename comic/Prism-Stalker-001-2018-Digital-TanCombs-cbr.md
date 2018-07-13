@@ -1,5 +1,9 @@
 ## Prism Stalker 001 (2018) (Digital) (TanCombs).cbr
 
+
+[回到 Prism Stalker 目录](https://github.com/alicewish/markdown/blob/master/series/Prism-Stalker.md)
+
+
 ![Prism Stalker 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpesl22vffj21j82cwx6p.jpg)
 
 ![Prism Stalker 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpesl85mf9j21j82cwnc1.jpg)
@@ -63,3 +67,6 @@
 ![Prism Stalker 001-030.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpest3xxhpj21j82cw0wb.jpg)
 
 ![Prism Stalker 001-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpestev96vj21j82cwb2a.jpg)
+
+[回到 Prism Stalker 目录](https://github.com/alicewish/markdown/blob/master/series/Prism-Stalker.md)
+

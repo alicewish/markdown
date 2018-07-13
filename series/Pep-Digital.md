@@ -91,5 +91,6 @@ PEP Digital 097 - World of Archie - Pals VS Gals (2014) (Forsythe-DCP).cbr | 141
 PEP Digital 110 - Betty's Kitchen Creations (2014) (Forsythe-DCP).cbr | 142.18MiB
 PEP Digital 123 - The Best of Josie & the Pussycats Greatest Hits (2014) (Digital) (danke-Empire).cbz | 466.26MiB
 PEP Digital 129 - Archie & Friends Dating Disasters (2015) (Forsythe-DCP).cbr | 225.41MiB
+PEP Digital 160 - Betty & Veronica's Rival Cheryl Blossom - High School Royalty (2015) (Forsythe-DCP).cbr | 125.25MiB
 PEP Digital 161 - Jughead's Time Police (2015) (Digital) (GodMagnus).cbr | 271.47MiB
 PEP Digital 177 - Archie First Appearances (2015) (Digital) (GodMagnus).cbr | 188.02MiB

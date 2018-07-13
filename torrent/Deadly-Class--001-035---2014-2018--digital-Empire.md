@@ -22,8 +22,8 @@ Deadly Class 008 (2014) (Digital-Empire).cbr | 30.83MiB
 Deadly Class 009 (2014) (Digital-Empire).cbr | 49.87MiB
 [Deadly Class 010 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadly-Class-010-2015-Digital-Empire-cbr.md) | 38.97MiB
 Deadly Class 011 (2015) (Digital-Empire).cbr | 35.31MiB
-Deadly Class 012 (2015) (Digital-Empire).cbr | 32.91MiB
-Deadly Class 013 (2015) (Digital-Empire).cbr | 33.99MiB
+[Deadly Class 012 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadly-Class-012-2015-Digital-Empire-cbr.md) | 32.91MiB
+[Deadly Class 013 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadly-Class-013-2015-Digital-Empire-cbr.md) | 33.99MiB
 [Deadly Class 014 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadly-Class-014-2015-Digital-Empire-cbr.md) | 32.05MiB
 [Deadly Class 015 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadly-Class-015-2015-Digital-Empire-cbr.md) | 32.81MiB
 [Deadly Class 016 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadly-Class-016-2015-Digital-Empire-cbr.md) | 33.53MiB

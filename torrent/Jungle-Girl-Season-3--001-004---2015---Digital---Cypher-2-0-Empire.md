@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Jungle Girl Season 3 001 (2015) (Digital) (Cypher 2.0-Empire).cbr | 52.72MiB
-Jungle Girl Season 3 002 (2015) (Digital) (Cypher 2.0-Empire).cbr | 32.97MiB
-Jungle Girl Season 3 003 (2015) (Digital) (Cypher 2.0-Empire).cbr | 40.54MiB
+[Jungle Girl Season 3 001 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jungle-Girl-Season-3-001-2015-Digital-Cypher-2-0-Empire-cbr.md) | 52.72MiB
+[Jungle Girl Season 3 002 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jungle-Girl-Season-3-002-2015-Digital-Cypher-2-0-Empire-cbr.md) | 32.97MiB
+[Jungle Girl Season 3 003 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jungle-Girl-Season-3-003-2015-Digital-Cypher-2-0-Empire-cbr.md) | 40.54MiB
 Jungle Girl Season 3 004 (2015) (Digital) (Cypher 2.0-Empire).cbr | 35.85MiB

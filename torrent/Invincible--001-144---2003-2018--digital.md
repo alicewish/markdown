@@ -174,9 +174,9 @@ Invincible 114 (2014) (digital) (Minutemen-InnerDemons).cbr | 40.51MiB
 Invincible 115 (2014) (digital) (Minutemen-InnerDemons).cbr | 55.35MiB
 [Invincible 116 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-116-2015-digital-Minutemen-InnerDemons-cbr.md) | 41.18MiB
 Invincible 117 (2015) (digital) (Minutemen-InnerDemons).cbr | 44.72MiB
-Invincible 118 (2015) (digital) (Minutemen-InnerDemons).cbr | 41.55MiB
-Invincible 119 (2015) (digital) (Minutemen-InnerDemons).cbr | 30.75MiB
-Invincible 120 (2015) (digital) (Minutemen-InnerDemons).cbr | 39.95MiB
+[Invincible 118 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-118-2015-digital-Minutemen-InnerDemons-cbr.md) | 41.55MiB
+[Invincible 119 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-119-2015-digital-Minutemen-InnerDemons-cbr.md) | 30.75MiB
+[Invincible 120 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-120-2015-digital-Minutemen-InnerDemons-cbr.md) | 39.95MiB
 [Invincible 121 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Invincible-121-2015-digital-Minutemen-Faessla-cbz.md) | 32.55MiB
 [Invincible 122 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Invincible-122-2015-digital-Minutemen-Faessla-cbz.md) | 34.59MiB
 [Invincible 123 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Invincible-123-2015-digital-Minutemen-Faessla-cbz.md) | 30.73MiB

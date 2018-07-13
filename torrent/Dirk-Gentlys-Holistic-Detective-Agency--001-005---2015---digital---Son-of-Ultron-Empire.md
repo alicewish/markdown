@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Dirk Gently's Holistic Detective Agency (001-005) (2015) (digital) (Son of Ultron-Empire)】 | 
-Dirk Gently's Holistic Detective Agency 001 (2015) (digital) (Son of Ultron-Empire).cbr | 39.16MiB
+[Dirk Gently's Holistic Detective Agency 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dirk-Gentlys-Holistic-Detective-Agency-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.16MiB
 [Dirk Gently's Holistic Detective Agency 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dirk-Gentlys-Holistic-Detective-Agency-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.90MiB
 [Dirk Gently's Holistic Detective Agency 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dirk-Gentlys-Holistic-Detective-Agency-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.46MiB
 [Dirk Gently's Holistic Detective Agency 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dirk-Gentlys-Holistic-Detective-Agency-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 30.22MiB

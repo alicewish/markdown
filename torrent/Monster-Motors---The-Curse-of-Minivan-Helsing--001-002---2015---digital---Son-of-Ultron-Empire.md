@@ -10,5 +10,5 @@
 
 Online | Download
 --- | ---
-Monster Motors - The Curse of Minivan Helsing 01 (of 02) (2015) (digital) (Son of Ultron-Empire).cbr | 45.85MiB
-Monster Motors - The Curse of Minivan Helsing 02 (of 02) (2015) (digital) (Son of Ultron-Empire).cbr | 43.46MiB
+[Monster Motors - The Curse of Minivan Helsing 01 (of 02) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monster-Motors-Curse-of-Minivan-Helsing-01-of-02-2015-digital-Son-of-Ultron-Empire-cbr.md) | 45.85MiB
+[Monster Motors - The Curse of Minivan Helsing 02 (of 02) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Monster-Motors-Curse-of-Minivan-Helsing-02-of-02-2015-digital-Son-of-Ultron-Empire-cbr.md) | 43.46MiB

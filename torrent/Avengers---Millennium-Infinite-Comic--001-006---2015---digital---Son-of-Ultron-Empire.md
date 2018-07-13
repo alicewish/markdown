@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-Avengers - Millennium Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 35.76MiB
-Avengers - Millennium Infinite Comic 002 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 39.70MiB
-Avengers - Millennium Infinite Comic 003 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 36.58MiB
-Avengers - Millennium Infinite Comic 004 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 40.53MiB
-Avengers - Millennium Infinite Comic 005 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 39.05MiB
-Avengers - Millennium Infinite Comic 006 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 36.86MiB
+[Avengers - Millennium Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Millennium-Infinite-Comic-001-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 35.76MiB
+[Avengers - Millennium Infinite Comic 002 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Millennium-Infinite-Comic-002-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 39.70MiB
+[Avengers - Millennium Infinite Comic 003 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Millennium-Infinite-Comic-003-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 36.58MiB
+[Avengers - Millennium Infinite Comic 004 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Millennium-Infinite-Comic-004-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 40.53MiB
+[Avengers - Millennium Infinite Comic 005 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Millennium-Infinite-Comic-005-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 39.05MiB
+[Avengers - Millennium Infinite Comic 006 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Millennium-Infinite-Comic-006-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 36.86MiB

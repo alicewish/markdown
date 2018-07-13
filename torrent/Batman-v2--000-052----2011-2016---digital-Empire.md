@@ -55,7 +55,7 @@ Batman 037 (2015) (Digital) (Zone-Empire).cbr | 44.77MiB
 Batman 038 (2015) (Digital) (Zone-Empire).cbr | 40.58MiB
 Batman 039 (2015) (2 covers) (Digital) (Zone-Empire).cbr | 41.58MiB
 [Batman 040 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-040-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 38.26MiB
-Batman 041 (2015) (2 covers) (Digital) (Zone-Empire).cbr | 34.14MiB
+[Batman 041 (2015) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-041-2015-2-covers-Digital-Zone-Empire-cbr.md) | 34.14MiB
 Batman 042 (2015) (2 covers) (Digital) (Zone-Empire).cbr | 35.18MiB
 Batman 043 (2015) (2 covers) (Digital) (Zone-Empire).cbr | 34.52MiB
 [Batman 044 (2015) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-044-2015-2-covers-Digital-Zone-Empire-cbr.md) | 40.74MiB

@@ -29,7 +29,7 @@ Online | Download
 [Amazing X-Men 016 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-X-Men-016-2015-digital-Minutemen-Spaztastic-cbr.md) | 38.44MiB
 [Amazing X-Men 017 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-X-Men-017-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.14MiB
 [Amazing X-Men 018 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-X-Men-018-2015-digital-Minutemen-Spaztastic-cbr.md) | 35.47MiB
-Amazing X-Men 019 (2015) (digital) (Minutemen-Spaztastic).cbr | 39.14MiB
+[Amazing X-Men 019 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-X-Men-019-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.14MiB
 [Amazing X-Men Annual 001 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-X-Men-Annual-001-2014-digital-Minutemen-Spaztastic-cbr.md) | 66.85MiB
 &emsp;【Amazing X-Men (001-019+Extras) (2014-2015) (digital) (Minutemen-Spaztastic)/Variant Covers】 | 
 Amazing X-Men 001 (2014) (Blank Variant) (Cover ONLY) (NN+ArtNet).cbr | 164.59KiB

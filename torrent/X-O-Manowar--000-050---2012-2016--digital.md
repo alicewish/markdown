@@ -34,7 +34,7 @@ X-O Manowar v08 - Enter Armorines (2015) (digital) (Son of Ultron-Empire).cbr | 
 X-O Manowar v09 - Dead Hand (2015) (digital) (Son of Ultron-Empire).cbr | 184.68MiB
 X-O Manowar v10 - Exodus (2015) (digital) (Son of Ultron-Empire).cbr | 218.74MiB
 X-O Manowar v11 - The Kill List (2016) (digital) (Son of Ultron-Empire).cbr | 240.20MiB
-X-O Manowar - 25th Anniversary Special 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 52.69MiB
+[X-O Manowar - 25th Anniversary Special 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-25th-Anniversary-Special-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 52.69MiB
 [X-O Manowar - Commander Trill 000 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-Commander-Trill-000-2015-digital-Minutemen-Spaztastic-cbr.md) | 52.90MiB
 X-O Manowar - Deluxe Edition - Book 01 (2013) (Digital) (Zone-Empire).cbr | 552.43MiB
 X-O Manowar 000 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.84MiB
@@ -73,8 +73,8 @@ X-O Manowar 032 (2015) (digital) (Minutemen-Spaztastic).cbr | 55.63MiB
 X-O Manowar 033 (2015) (digital) (Minutemen-Spaztastic).cbr | 46.47MiB
 X-O Manowar 034 (2015) (digital) (Minutemen-Spaztastic).cbr | 44.90MiB
 [X-O Manowar 035 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-035-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.06MiB
-X-O Manowar 036 (2015) (digital) (Minutemen-Spaztastic).cbr | 48.72MiB
-X-O Manowar 037 (2015) (digital) (Minutemen-Spaztastic).cbr | 51.34MiB
+[X-O Manowar 036 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-036-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.72MiB
+[X-O Manowar 037 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-037-2015-digital-Minutemen-Spaztastic-cbr.md) | 51.34MiB
 [X-O Manowar 038 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-038-2015-digital-Minutemen-Spaztastic-cbr.md) | 66.25MiB
 [X-O Manowar 039 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-039-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.87MiB
 [X-O Manowar 040 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-040-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.96MiB

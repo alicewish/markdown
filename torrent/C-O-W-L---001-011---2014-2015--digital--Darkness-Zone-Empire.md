@@ -18,8 +18,8 @@ C.O.W.L. 005 (2014) (Digital) (Darkness-Empire).cbr | 37.02MiB
 C.O.W.L. 006 (2014) (Digital) (Darkness-Empire).cbr | 120.86MiB
 C.O.W.L. 007 (2014) (Digital) (Darkness-Empire).cbr | 39.67MiB
 C.O.W.L. 008 (2015) (Digital) (Darkness-Empire).cbr | 30.96MiB
-C.O.W.L. 009 (2015) (Digital) (Zone-Empire).cbr | 37.09MiB
-C.O.W.L. 010 (2015) (Digital) (Zone-Empire).cbr | 35.42MiB
+[C.O.W.L. 009 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-009-2015-Digital-Zone-Empire-cbr.md) | 37.09MiB
+[C.O.W.L. 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-010-2015-Digital-Zone-Empire-cbr.md) | 35.42MiB
 [C.O.W.L. 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-011-2015-Digital-Zone-Empire-cbr.md) | 38.18MiB
 C.O.W.L. v01 - Principles of Power (2014) (Digital) (Zone-Empire).cbr | 153.01MiB
 [C.O.W.L. v02 - The Greater Good (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-v02-Greater-Good-2015-Digital-DR-Quinch-Empire-cbr.md) | 223.65MiB

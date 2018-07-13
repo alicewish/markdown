@@ -95,7 +95,7 @@ Booster Gold vol 03 (2009) (digital-Empire).cbz | 269.78MiB
 Booster Gold vol 04 (2010) (digital-Empire).cbz | 241.65MiB
 Booster Gold vol 05 (2010) (digital-Empire).cbz | 244.88MiB
 Booster Gold vol 06 (2011) (digital-Empire).cbz | 277.69MiB
-Convergence - Booster Gold 001 (2015) (Digital) (AnHeroGold-Empire).cbz | 41.55MiB
+[Convergence - Booster Gold 001 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Booster-Gold-001-2015-Digital-AnHeroGold-Empire-cbz.md) | 41.55MiB
 [Convergence - Booster Gold 002 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Booster-Gold-002-2015-Digital-AnHeroGold-Empire-cbz.md) | 46.84MiB
 &emsp;【Booster Gold/Extras】 | 
 &emsp;【Booster Gold/Extras/52 Remix Booster Gold-Somewhere in Time (001-004)】 | 

@@ -63,6 +63,7 @@ Everything's Archie 081 (1980) (c2c) (Titansfan).cbz | 24.60MiB
 Everything's Archie 084 (1980) (c2c) (Titansfan).cbz | 25.18MiB
 Everything's Archie 106 Archie 1983 Titansfan.cbz | 24.40MiB
 Everything's Archie 111 Archie 1984 Titansfan.cbz | 24.09MiB
+Everything's Archie 117 (1985) (c2c).cbr | 21.15MiB
 Everything's Archie 118 Archie 1985 Titansfan.cbz | 25.51MiB
 Everything's Archie 121 Archie 1986 Titansfan.cbz | 24.22MiB
 Everything's Archie 123 (1986) (c2c).cbr | 20.61MiB

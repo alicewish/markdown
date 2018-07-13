@@ -20,8 +20,8 @@ Roche Limit 003 (2014) (Digital) (Vee-Empire).cbr | 31.83MiB
 [Roche Limit 004 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Roche-Limit-004-2015-Digital-Vee-Empire-cbr.md) | 41.16MiB
 Roche Limit 005 (2015) (Digital) (Vee-Empire).cbr | 33.42MiB
 &emsp;【Roche Limit (v1-v3+)(2014-2016)(digital)(Vee+Zone-Empire)/Roche Limit v2 Clandestiny (001-005)(2015)(digital)(Vee-Empire)】 | 
-Roche Limit - Clandestiny 001 (2015) (Digital) (Vee-Empire).cbr | 66.76MiB
-Roche Limit - Clandestiny 002 (2015) (Digital-Empire).cbr | 60.60MiB
+[Roche Limit - Clandestiny 001 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Roche-Limit-Clandestiny-001-2015-Digital-Vee-Empire-cbr.md) | 66.76MiB
+[Roche Limit - Clandestiny 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Roche-Limit-Clandestiny-002-2015-Digital-Empire-cbr.md) | 60.60MiB
 [Roche Limit - Clandestiny 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Roche-Limit-Clandestiny-003-2015-Digital-Empire-cbr.md) | 51.40MiB
 [Roche Limit - Clandestiny 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Roche-Limit-Clandestiny-004-2015-Digital-Empire-cbr.md) | 51.22MiB
 [Roche Limit - Clandestiny 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Roche-Limit-Clandestiny-005-2015-Digital-Empire-cbr.md) | 60.89MiB

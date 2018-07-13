@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Mrs. Deadpool and the Howling Commandos 001 (2015) (Digital) (Mephisto-Empire).cbr | 30.89MiB
+[Mrs. Deadpool and the Howling Commandos 001 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-001-2015-Digital-Mephisto-Empire-cbr.md) | 30.89MiB
 [Mrs. Deadpool and the Howling Commandos 002 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-002-2015-Digital-Mephisto-Empire-cbr.md) | 30.19MiB
 [Mrs. Deadpool and the Howling Commandos 003 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-003-2015-Digital-Mephisto-Empire-cbr.md) | 28.85MiB
 [Mrs. Deadpool and the Howling Commandos 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-004-2015-Digital-Mephisto-Empire-cbr.md) | 33.28MiB

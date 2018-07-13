@@ -14,5 +14,5 @@ Shahrazad 000 (2013) (2 Covers) (c2c-1920px) (Darkness-Empire).cbr | 49.01MiB
 [Shahrazad 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shahrazad-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 56.91MiB
 [Shahrazad 005 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shahrazad-005-2015-Digital-DR-Quinch-Empire-cbr.md) | 54.83MiB
 [Shahrazad 01 (of 05) (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shahrazad-01-of-05-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 51.54MiB
-Shahrazad 02 (of 05) (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 45.94MiB
+[Shahrazad 02 (of 05) (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shahrazad-02-of-05-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 45.94MiB
 [Shahrazad 03 (of 05) (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shahrazad-03-of-05-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 52.87MiB

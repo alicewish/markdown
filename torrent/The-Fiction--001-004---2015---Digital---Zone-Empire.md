@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Fiction 01 (of 04) (2015) (3 covers) (Digital) (Zone-Empire).cbr | 46.87MiB
+[The Fiction 01 (of 04) (2015) (3 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fiction-01-of-04-2015-3-covers-Digital-Zone-Empire-cbr.md) | 46.87MiB
 [The Fiction 02 (of 04) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fiction-02-of-04-2015-Digital-Zone-Empire-cbr.md) | 47.97MiB
 [The Fiction 03 (of 04) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fiction-03-of-04-2015-Digital-Zone-Empire-cbr.md) | 50.95MiB
 [The Fiction 04 (of 04) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fiction-04-of-04-2015-Digital-Zone-Empire-cbr.md) | 44.98MiB

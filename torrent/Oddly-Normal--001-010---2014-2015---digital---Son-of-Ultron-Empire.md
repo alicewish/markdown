@@ -15,8 +15,8 @@ Oddly Normal 002 (2014) (digital) (Son of Ultron-Empire).cbr | 52.60MiB
 Oddly Normal 003 (2014) (digital) (Son of Ultron-Empire).cbr | 42.86MiB
 Oddly Normal 004 (2014) (digital) (Son of Ultron-Empire).cbr | 41.70MiB
 Oddly Normal 005 (2015) (digital) (Son of Ultron-Empire).cbr | 40.73MiB
-Oddly Normal 006 (2015) (digital) (Son of Ultron-Empire).cbr | 35.71MiB
-Oddly Normal 007 (2015) (digital) (Son of Ultron-Empire).cbr | 44.72MiB
+[Oddly Normal 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.71MiB
+[Oddly Normal 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.72MiB
 [Oddly Normal 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.02MiB
 [Oddly Normal 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.43MiB
 [Oddly Normal 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 41.60MiB

@@ -15,7 +15,7 @@ Online | Download
 [Giant Days 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 24.37MiB
 [Giant Days 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 24.84MiB
 [Giant Days 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 26.08MiB
-Giant Days 01 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr | 30.87MiB
+[Giant Days 01 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-01-of-06-2015-digital-Son-of-Ultron-Empire-cbr.md) | 30.87MiB
 [Giant Days 010 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-010-2016-digital-Son-of-Ultron-Empire-cbr.md) | 26.87MiB
 [Giant Days 011 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-011-2016-digital-Son-of-Ultron-Empire-cbr.md) | 26.66MiB
 [Giant Days 012 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-012-2016-digital-Son-of-Ultron-Empire-cbr.md) | 27.39MiB
@@ -25,8 +25,8 @@ Giant Days 01 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr | 30.87MiB
 [Giant Days 016 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-016-2016-digital-Son-of-Ultron-Empire-cbr.md) | 36.35MiB
 [Giant Days 017 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-017-2016-digital-Son-of-Ultron-Empire-cbr.md) | 34.36MiB
 [Giant Days 018 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-018-2016-digital-Son-of-Ultron-Empire-cbr.md) | 36.62MiB
-Giant Days 02 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr | 34.97MiB
-Giant Days 03 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr | 34.55MiB
+[Giant Days 02 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-02-of-06-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.97MiB
+[Giant Days 03 (of 06) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-03-of-06-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.55MiB
 [Giant Days 04 (of 06) (2015) (2 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Giant-Days-04-of-06-2015-2-covers-digital-Son-of-Ultron-Empire-cbr.md) | 37.15MiB
 Giant Days v01 (2015) (digital) (Minutemen-Slayer).cbr | 122.67MiB
 Giant Days v02 (2016) (digital) (Son of Ultron-Empire).cbr | 114.06MiB

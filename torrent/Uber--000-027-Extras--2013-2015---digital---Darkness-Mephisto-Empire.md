@@ -36,8 +36,8 @@ Uber 020 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 40.88MiB
 Uber 021 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.38MiB
 Uber 022 (2015) (Digital) (The Dark VI-Empire).cbr | 36.85MiB
 Uber 023 (2015) (Digital) (The Dark VI-Empire).cbr | 40.14MiB
-Uber 024 (2015) (Digital) (Mephisto-Empire).cbr | 35.38MiB
-Uber 025 (2015) (Digital) (Mephisto-Empire).cbr | 34.37MiB
+[Uber 024 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-024-2015-Digital-Mephisto-Empire-cbr.md) | 35.38MiB
+[Uber 025 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-025-2015-Digital-Mephisto-Empire-cbr.md) | 34.37MiB
 [Uber 026 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-026-2015-Digital-Mephisto-Empire-cbr.md) | 39.83MiB
 [Uber 027 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-027-2015-Digital-Mephisto-Empire-cbr.md) | 36.87MiB
 Uber Special 001 (2014) (7 Covers) (Digital) (Darkness-Empire).cbr | 50.47MiB

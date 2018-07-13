@@ -16,4 +16,4 @@ Django-Zorro 03 (of 07) (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 46
 Django-Zorro 04 (of 07) (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 41.93MiB
 Django-Zorro 05 (of 07) (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 43.06MiB
 Django-Zorro 06 (of 07) (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 42.68MiB
-Django-Zorro 07 (of 07) (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 50.97MiB
+[Django-Zorro 07 (of 07) (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Django-Zorro-07-of-07-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 50.97MiB

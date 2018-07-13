@@ -64,3 +64,4 @@ Steven Universe v01 - Warp Tour (2017) (digital) (Salem-Empire).cbr | 238.91MiB
 Steven Universe Ongoing 012 (2018) (digital) (Salem-Empire).cbr | 32.39MiB
 Steven Universe Ongoing 013 (2018) (digital) (Salem-Empire).cbr | 34.53MiB
 Steven Universe Ongoing 014 (2018) (digital) (Salem-Empire).cbr | 27.17MiB
+Steven Universe Ongoing 015 (2018) (digital) (Salem-Empire).cbr | 26.50MiB

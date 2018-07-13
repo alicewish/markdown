@@ -15,9 +15,9 @@ War Stories 002 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 38.11MiB
 War Stories 003 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 39.81MiB
 [War Stories 004 (2015) (4 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-004-2015-4-Covers-Digital-Darkness-Empire-cbr.md) | 40.30MiB
 War Stories 005 (2015) (Digital) (The Dark VI-Empire).cbr | 35.62MiB
-War Stories 006 (2015) (Digital) (The Dark VI-Empire).cbr | 37.76MiB
+[War Stories 006 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-006-2015-Digital-Dark-VI-Empire-cbr.md) | 37.76MiB
 [War Stories 007 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-007-2015-Digital-DR-Quinch-Empire-cbr.md) | 39.75MiB
-War Stories 008 (2015) (Digital) (Mephisto-Empire).cbr | 34.06MiB
+[War Stories 008 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-008-2015-Digital-Mephisto-Empire-cbr.md) | 34.06MiB
 [War Stories 009 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-009-2015-Digital-Mephisto-Empire-cbr.md) | 35.66MiB
 [War Stories 010 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-010-2015-Digital-Mephisto-Empire-cbr.md) | 40.83MiB
 [War Stories 011 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-011-2015-Digital-Mephisto-Empire-cbr.md) | 37.59MiB

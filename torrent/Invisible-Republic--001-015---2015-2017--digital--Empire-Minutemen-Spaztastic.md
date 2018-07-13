@@ -11,9 +11,9 @@
 Online | Download
 --- | ---
 Invisible Republic 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 53.35MiB
-Invisible Republic 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 55.58MiB
-Invisible Republic 003 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.36MiB
-Invisible Republic 004 (2015) (digital) (Minutemen-Spaztastic).cbr | 49.69MiB
+[Invisible Republic 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invisible-Republic-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 55.58MiB
+[Invisible Republic 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invisible-Republic-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.36MiB
+[Invisible Republic 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invisible-Republic-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 49.69MiB
 [Invisible Republic 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invisible-Republic-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 50.05MiB
 [Invisible Republic 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invisible-Republic-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 52.43MiB
 [Invisible Republic 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invisible-Republic-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 50.65MiB

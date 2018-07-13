@@ -45,4 +45,6 @@ Jughead and Archie Comics Double Digest 024 (2016) (Forsythe-DCP).cbr | 310.26Mi
 Jughead and Archie Comics Double Digest 024 (2017) (Digital) (Asgard-Empire).cbr | 229.78MiB
 Jughead and Archie Comics Double Digest 025 (2017) (Digital) (Asgard-Empire).cbr | 301.77MiB
 Jughead and Archie Comics Double Digest 025 (2017) (Forsythe-DCP).cbr | 405.78MiB
+Jughead and Archie Comics Double Digest 026 (2017) (Forsythe-DCP).cbr | 364.46MiB
 Jughead and Archie Comics Double Digest 027 (2017) (Digital) (Asgard-Empire).cbr | 219.71MiB
+Jughead and Archie Comics Double Digest 027 (2017) (Forsythe-DCP).cbr | 407.05MiB

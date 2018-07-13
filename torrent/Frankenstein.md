@@ -175,8 +175,8 @@ Frankenstein Mobster 07 (2004) (Kman).cbr | 12.95MiB
 The New Adventures of Frankenstein Tome 03 (2001) (c2c) (YZ1).CBR | 38.06MiB
 &emsp;【Frankenstein/Frankenstein Underground (001-005)(2015)(digital)(Minutemen-InnerDemons)】 | 
 Frankenstein Underground 01 (of 05) (2015) (Emerald City Comic-Con Variant) (digital) (Minutemen-MiniDemons).cbr | 482.73KiB
-Frankenstein Underground 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 19.95MiB
-Frankenstein Underground 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 14.48MiB
+[Frankenstein Underground 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-01-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 19.95MiB
+[Frankenstein Underground 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-02-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 14.48MiB
 [Frankenstein Underground 03 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-03-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 16.24MiB
 [Frankenstein Underground 04 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-04-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 16.13MiB
 Frankenstein Underground 05 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 15.73MiB
@@ -186,9 +186,9 @@ Jingle Belle - Santa Claus Vs. Frankenstein 01 (2008) (2 covers) (the scangstas-
 &emsp;【Frankenstein/Joe Frankenstein (001-004+TPB)(2015)(digital)(Son of Ultron-Empire)】 | 
 Joe Frankenstein (2015) (digital) (Minutemen-Slayer).cbr | 185.62MiB
 Joe Frankenstein 001 (2015) (digital) (Son of Ultron-Empire).cbr | 46.75MiB
-Joe Frankenstein 002 (2015) (digital) (Son of Ultron-Empire).cbr | 37.41MiB
-Joe Frankenstein 003 (2015) (digital) (Son of Ultron-Empire).cbr | 36.21MiB
-Joe Frankenstein 004 (2015) (digital) (Son of Ultron-Empire).cbr | 38.92MiB
+[Joe Frankenstein 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.41MiB
+[Joe Frankenstein 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.21MiB
+[Joe Frankenstein 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.92MiB
 Joe Frankenstein 03 (of 04) (2015) (digital) (Graham Nolan Subscription variant) (Minutemen-Mastodon).cbz | 873.93KiB
 &emsp;【Frankenstein/Mary Shelley's Frankenstein (001-004)(1994)(Topps)】 | 
 Mary Shelley's Frankenstein 01 (1994) (Topps) (Deem-DCP).cbr | 13.01MiB

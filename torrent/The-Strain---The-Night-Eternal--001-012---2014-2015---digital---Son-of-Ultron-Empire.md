@@ -16,9 +16,9 @@ The Strain - The Night Eternal 003 (2014) (digital) (Son of Ultron-Empire).cbr |
 The Strain - The Night Eternal 004 (2014) (digital) (Son of Ultron-Empire).cbr | 33.37MiB
 The Strain - The Night Eternal 005 (2015) (digital) (Son of Ultron-Empire).cbr | 36.38MiB
 The Strain - The Night Eternal 006 (2015) (digital) (Son of Ultron-Empire).cbr | 37.90MiB
-The Strain - The Night Eternal 007 (2015) (digital) (Son of Ultron-Empire).cbr | 32.85MiB
-The Strain - The Night Eternal 008 (2015) (digital) (Son of Ultron-Empire).cbr | 29.25MiB
-The Strain - The Night Eternal 009 (2015) (digital) (Son of Ultron-Empire).cbr | 30.33MiB
-The Strain - The Night Eternal 010 (2015) (digital) (Son of Ultron-Empire).cbr | 27.96MiB
+[The Strain - The Night Eternal 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 32.85MiB
+[The Strain - The Night Eternal 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 29.25MiB
+[The Strain - The Night Eternal 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 30.33MiB
+[The Strain - The Night Eternal 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 27.96MiB
 [The Strain - The Night Eternal 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 30.54MiB
 [The Strain - The Night Eternal 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.76MiB

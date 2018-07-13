@@ -13,28 +13,28 @@ Online | Download
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)】 | 
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld】 | 
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Age of Ultron Vs Marvel Zombies (001-004) (2015) (digital) (Minutemen-Faessla)】 | 
-Age of Ultron vs. Marvel Zombies 001 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz | 51.95MiB
+[Age of Ultron vs. Marvel Zombies 001 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-001-2015-6-covers-digital-Minutemen-Faessla-cbz.md) | 51.95MiB
 [Age of Ultron vs. Marvel Zombies 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 47.70MiB
 [Age of Ultron vs. Marvel Zombies 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 45.62MiB
 [Age of Ultron vs. Marvel Zombies 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-004-2015-digital-Minutemen-Faessla-cbz.md) | 42.98MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Ghost Racers (001-004) (2015) (digital) (Minutemen-Spaztastic)】 | 
-Ghost Racers 001 (2015) (4 covers) (digital) (Minutemen-Spaztastic).cbr | 41.10MiB
+[Ghost Racers 001 (2015) (4 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Racers-001-2015-4-covers-digital-Minutemen-Spaztastic-cbr.md) | 41.10MiB
 [Ghost Racers 002 (2015) (2 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Racers-002-2015-2-covers-digital-Minutemen-Spaztastic-cbr.md) | 40.70MiB
 [Ghost Racers 003 (2015) (2 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Racers-003-2015-2-covers-digital-Minutemen-Spaztastic-cbr.md) | 37.66MiB
 [Ghost Racers 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Racers-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.81MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Inhumans - Attilan Rising (001-005) (2015) (digital) (Minutemen-PhD)】 | 
 [Inhumans - Attilan Rising 001 (2015) (5 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-001-2015-5-covers-digital-Minutemen-PhD-cbr.md) | 40.81MiB
-Inhumans - Attilan Rising 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr | 34.19MiB
+[Inhumans - Attilan Rising 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-002-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 34.19MiB
 [Inhumans - Attilan Rising 003 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-003-2015-digital-Minutemen-PhD-cbr.md) | 32.59MiB
 [Inhumans - Attilan Rising 004 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-004-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 34.12MiB
 [Inhumans - Attilan Rising 005 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-005-2015-digital-Minutemen-PhD-cbr.md) | 34.95MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Marvel Zombies (001-004) (2015) (digital) (Minutemen-Faessla)】 | 
-Marvel Zombies 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 36.70MiB
+[Marvel Zombies 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-001-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 36.70MiB
 [Marvel Zombies 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 41.93MiB
 [Marvel Zombies 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 44.46MiB
 [Marvel Zombies 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-004-2015-digital-Minutemen-Faessla-cbz.md) | 40.99MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Master Of Kung Fu (001-004) (2015) (digital) (BlackManta-Empire)】 | 
-Master of Kung Fu 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr | 51.00MiB
+[Master of Kung Fu 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-01-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 51.00MiB
 [Master of Kung Fu 02 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-02-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 49.51MiB
 [Master of Kung Fu 03 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-03-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 47.19MiB
 [Master of Kung Fu 04 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-of-Kung-Fu-04-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 44.76MiB
@@ -43,19 +43,19 @@ Master of Kung Fu 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr | 51.00MiB
 [Red Skull 02 (of 03) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Red-Skull-02-of-03-2015-digital-Minutemen-Faessla-cbz.md) | 35.12MiB
 [Red Skull 03 (of 03) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Red-Skull-03-of-03-2015-digital-Minutemen-Faessla-cbz.md) | 38.12MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Runaways (001-004) (2015) (digital) (Minutemen-Faessla)】 | 
-Runaways 001 (2015)(digital)(Minutemen-Faessla).cbz | 35.73MiB
+[Runaways 001 (2015)(digital)(Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-001-2015-digital-Minutemen-Faessla-cbz.md) | 35.73MiB
 [Runaways 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 38.07MiB
 Runaways 002 (2015) (digital) (Noelle Stevenson variant) (Minutemen-Mastodon).cbz | 1.77MiB
 [Runaways 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-003-2015-digital-Minutemen-Faessla-cbz.md) | 43.42MiB
 [Runaways 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Runaways-004-2015-digital-Minutemen-Faessla-cbz.md) | 42.11MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Secret Wars Battleworld (001-004) (2015) (digital) (Minutemen-Faessla)】 | 
-Secret Wars - Battleworld 01 (of 04) (2015) (4 covers) (digital) (Minutemen-Faessla).cbz | 43.19MiB
+[Secret Wars - Battleworld 01 (of 04) (2015) (4 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-01-of-04-2015-4-covers-digital-Minutemen-Faessla-cbz.md) | 43.19MiB
 [Secret Wars - Battleworld 02 (of 04) (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-02-of-04-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 44.10MiB
 [Secret Wars - Battleworld 03 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-03-of-04-2015-digital-Minutemen-Faessla-cbz.md) | 48.44MiB
 [Secret Wars - Battleworld 04 (of 04) (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-04-of-04-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 50.29MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Secret Wars Journal (001-005) (2015) (digital) (Minutemen-Bluntman)】 | 
-Secret Wars Journal 01 (of 05) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr | 46.46MiB
-Secret Wars Journal 02 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr | 48.66MiB
+[Secret Wars Journal 01 (of 05) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-01-of-05-2015-3-covers-digital-Minutemen-Bluntman-cbr.md) | 46.46MiB
+[Secret Wars Journal 02 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-02-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 48.66MiB
 [Secret Wars Journal 03 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-03-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 36.20MiB
 [Secret Wars Journal 04 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-04-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 43.78MiB
 Secret Wars Journal 05 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr | 35.66MiB
@@ -70,24 +70,24 @@ Secret Wars Journal 05 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr | 35.66
 [Star-Lord and Kitty Pryde 002 (2015) (2 covers) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Star-Lord-Kitty-Pryde-002-2015-2-covers-digital-Minutemen-Ghus-cbz.md) | 40.12MiB
 [Star-Lord and Kitty Pryde 003 (2015) (2 covers) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Star-Lord-Kitty-Pryde-003-2015-2-covers-digital-Minutemen-Ghus-cbz.md) | 40.46MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Thors (001-004) (2015) (digital) (Minutemen-Ghus)】 | 
-Thors 001 (2015) (7 covers) (digital) (Minutemen-Midas).cbr | 48.38MiB
+[Thors 001 (2015) (7 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thors-001-2015-7-covers-digital-Minutemen-Midas-cbr.md) | 48.38MiB
 Thors 002 (2015) (2 covers) (digital) (Minutemen-Ghus).cbz | 33.15MiB
 [Thors 003 (2015) (3 covers) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thors-003-2015-3-covers-digital-Minutemen-Ghus-cbz.md) | 36.55MiB
 Thors 004 (2016) (digital) (Minutemen-Ghus).cbz | 36.59MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Battleworld/Ultimate End (001-005) (2015) (digital) (Minutemen-Midas)】 | 
-Ultimate End 01 (of 05) (2015) (5 covers) (digital) (Minutemen-Midas).cbr | 43.47MiB
+[Ultimate End 01 (of 05) (2015) (5 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-01-of-05-2015-5-covers-digital-Minutemen-Midas-cbr.md) | 43.47MiB
 Ultimate End 02 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 40.40MiB
 [Ultimate End 03 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-03-of-05-2015-digital-Minutemen-Midas-cbr.md) | 36.37MiB
 [Ultimate End 04 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-04-of-05-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 41.09MiB
 Ultimate End 05 (of 05) (2016) (digital) (Minutemen-Midas).cbr | 52.93MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Extras】 | 
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Extras/Deadpool's Secret Secret Wars (001-004)(2015) (digital) (Minutemen-Bluntman)】 | 
-Deadpool's Secret Secret Wars 01 (of 04) (2015) (5 covers) (digital) (Minutemen-Bluntman).cbr | 59.23MiB
-Deadpool's Secret Secret Wars 02 (of 04) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr | 39.26MiB
+[Deadpool's Secret Secret Wars 01 (of 04) (2015) (5 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-01-of-04-2015-5-covers-digital-Minutemen-Bluntman-cbr.md) | 59.23MiB
+[Deadpool's Secret Secret Wars 02 (of 04) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-02-of-04-2015-3-covers-digital-Minutemen-Bluntman-cbr.md) | 39.26MiB
 Deadpool's Secret Secret Wars 03 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr | 32.70MiB
 [Deadpool's Secret Secret Wars 04 (of 04) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-04-of-04-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 34.09MiB
 [Howard the Duck 004 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Duck-004-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 39.88MiB
-Marvel's New York Bulletin Secret Wars Newspaper (2015) (digital) (Minutemen-Faessla).cbz | 16.43MiB
+[Marvel's New York Bulletin Secret Wars Newspaper (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvels-New-York-Bulletin-Secret-Wars-Newspaper-2015-digital-Minutemen-Faessla-cbz.md) | 16.43MiB
 [Secret Wars, Too 001 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Too-001-2016-Digital-Zone-Empire-cbr.md) | 60.81MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Last Days】 | 
 [Ant-Man - Last Days 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ant-Man-Last-Days-001-2015-Digital-Zone-Empire-cbr.md) | 32.14MiB
@@ -102,10 +102,10 @@ Marvel's New York Bulletin Secret Wars Newspaper (2015) (digital) (Minutemen-Fae
 [Loki - Agent of Asgard 016 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Loki-Agent-of-Asgard-016-2015-Digital-Zone-Empire-cbr.md) | 25.39MiB
 [Loki - Agent of Asgard 017 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Loki-Agent-of-Asgard-017-2015-Digital-Zone-Empire-cbr.md) | 22.50MiB
 [Magneto 018 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-018-2015-Digital-Zone-Empire-cbr.md) | 34.85MiB
-Magneto 019 (2015) (Digital) (Zone-Empire).cbr | 35.27MiB
+[Magneto 019 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-019-2015-Digital-Zone-Empire-cbr.md) | 35.27MiB
 [Magneto 020 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-020-2015-Digital-Zone-Empire-cbr.md) | 34.83MiB
 [Magneto 021 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-021-2015-Digital-Zone-Empire-cbr.md) | 39.06MiB
-Ms. Marvel 016 (2015) (Digital) (Zone-Empire).cbr | 55.72MiB
+[Ms. Marvel 016 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-016-2015-Digital-Zone-Empire-cbr.md) | 55.72MiB
 [Ms. Marvel 017 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-017-2015-Digital-Zone-Empire-cbr.md) | 52.33MiB
 [Ms. Marvel 018 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-018-2015-Digital-Zone-Empire-cbr.md) | 50.32MiB
 [Ms. Marvel 019 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-019-2015-Digital-Zone-Empire-cbr.md) | 47.94MiB
@@ -118,7 +118,7 @@ Ms. Marvel 016 (2015) (Digital) (Zone-Empire).cbr | 55.72MiB
 [The Punisher 020 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Punisher-020-2015-digital-Minutemen-Spaztastic-cbr.md) | 27.21MiB
 Reading Order Link.txt | 320.00B
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Secret Wars (000-009)】 | 
-Secret Wars 000 - FCBD (2015) (digital) (Minutemen-Spaztastic).cbr | 37.23MiB
+[Secret Wars 000 - FCBD (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-000-FCBD-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.23MiB
 Secret Wars 01 (of 09) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr | 56.34MiB
 Secret Wars 02 (of 09) (2015) (6 covers) (digital) (Minutemen-Spaztastic).cbr | 72.60MiB
 Secret Wars 03 (of 09) (2015) (8 covers) (digital) (Minutemen-Spaztastic).cbr | 43.64MiB
@@ -261,7 +261,7 @@ Years of Future Past 001 (2015) (digital) (Skottie Young variant) (Minutemen-Mas
 Years of Future Past 002 (2015) (digital) (Mike Norton variant) (Minutemen-Mastodon).cbz | 2.85MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones】 | 
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/1602 Witch Hunter Angela (001-004) (2015) (digital) (Minutemen-Faessla)】 | 
-1602 Witch Hunter Angela 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 36.95MiB
+[1602 Witch Hunter Angela 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-001-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 36.95MiB
 [1602 Witch Hunter Angela 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 31.10MiB
 [1602 Witch Hunter Angela 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 37.60MiB
 [1602 Witch Hunter Angela 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-004-2015-digital-Minutemen-Faessla-cbz.md) | 33.81MiB
@@ -271,7 +271,7 @@ Years of Future Past 002 (2015) (digital) (Mike Norton variant) (Minutemen-Masto
 [1872 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1872-003-2015-digital-Minutemen-Faessla-cbz.md) | 41.00MiB
 [1872 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1872-004-2015-digital-Minutemen-Faessla-cbz.md) | 48.06MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/A-Force (001-005) (2015) (Digital) (Zone-Empire)】 | 
-A-Force 001 (2015) (Digital) (Zone-Empire).cbr | 37.78MiB
+[A-Force 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-001-2015-Digital-Zone-Empire-cbr.md) | 37.78MiB
 [A-Force 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-002-2015-Digital-Zone-Empire-cbr.md) | 39.94MiB
 [A-Force 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-003-2015-Digital-Zone-Empire-cbr.md) | 37.77MiB
 [A-Force 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-004-2015-Digital-Zone-Empire-cbr.md) | 37.90MiB
@@ -290,7 +290,7 @@ A-Force 001 (2015) (Digital) (Zone-Empire).cbr | 37.78MiB
 [Amazing Spider-Man - Renew Your Vows 005 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-Renew-Your-Vows-005-2015-6-covers-digital-Minutemen-Faessla-cbz.md) | 39.93MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Armor Wars (0.5-005) (2015) (digital) (Minutemen-PhD)】 | 
 Armor Wars 0.5 (2015) (Toys 'R' Us Giveaway).cbz | 35.93MiB
-Armor Wars 001 (2015) (8 covers) (digital) (Minutemen-PhD).cbr | 39.81MiB
+[Armor Wars 001 (2015) (8 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Wars-001-2015-8-covers-digital-Minutemen-PhD-cbr.md) | 39.81MiB
 [Armor Wars 002 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Wars-002-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 36.20MiB
 [Armor Wars 003 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Wars-003-2015-digital-Minutemen-PhD-cbr.md) | 33.61MiB
 Armor Wars 004 (2015) (digital) (Minutemen-PhD).cbr | 32.41MiB
@@ -299,7 +299,7 @@ Armor Wars 004 (2015) (digital) (Minutemen-PhD).cbr | 32.41MiB
 [Captain Britain and the Mighty Defenders 001 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Britain-Mighty-Defenders-001-2015-digital-Minutemen-PhD-cbr.md) | 41.33MiB
 [Captain Britain and the Mighty Defenders 002 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Britain-Mighty-Defenders-002-2015-digital-Minutemen-PhD-cbr.md) | 42.69MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Captain Marvel and the Carol Corps (001-004) (2015) (digital) (Minutemen-PhD)】 | 
-Captain Marvel and the Carol Corps 001 (2015) (5 covers) (digital) (Minutemen-PhD).cbr | 32.60MiB
+[Captain Marvel and the Carol Corps 001 (2015) (5 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-001-2015-5-covers-digital-Minutemen-PhD-cbr.md) | 32.60MiB
 [Captain Marvel and the Carol Corps 002 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-002-2015-digital-Minutemen-PhD-cbr.md) | 30.23MiB
 [Captain Marvel and the Carol Corps 003 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-003-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 34.03MiB
 [Captain Marvel and the Carol Corps 004 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-004-2015-digital-Minutemen-PhD-cbr.md) | 39.47MiB
@@ -310,12 +310,12 @@ Captain Marvel and the Carol Corps 001 (2015) (5 covers) (digital) (Minutemen-Ph
 [Civil War 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Civil-War-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 30.32MiB
 [Civil War 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Civil-War-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.88MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/E Is For Extinction (001-004) (2015) (digital) (Minutemen-Thoth)】 | 
-E Is For Extinction 001 (2015) (3 covers) (digital) (Minutemen-Thoth).cbr | 64.07MiB
+[E Is For Extinction 001 (2015) (3 covers) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/E-Is-For-Extinction-001-2015-3-covers-digital-Minutemen-Thoth-cbr.md) | 64.07MiB
 E Is For Extinction 002 (2015) (digital) (Minutemen-Thoth).cbr | 45.03MiB
 [E Is For Extinction 003 (2015) (2 covers) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/E-Is-For-Extinction-003-2015-2-covers-digital-Minutemen-Thoth-cbr.md) | 46.77MiB
 [E Is For Extinction 004 (2015) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/E-Is-For-Extinction-004-2015-digital-Minutemen-Thoth-cbr.md) | 41.03MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Future Imperfect (001-005)(2015)(digital)(Minutemen-PhD)】 | 
-Future Imperfect 001 (2015) (4 covers) (digital) (Minutemen-PhD).cbr | 45.10MiB
+[Future Imperfect 001 (2015) (4 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-001-2015-4-covers-digital-Minutemen-PhD-cbr.md) | 45.10MiB
 [Future Imperfect 002 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-002-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 46.89MiB
 [Future Imperfect 003 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-003-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 36.56MiB
 [Future Imperfect 004 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-004-2015-digital-Minutemen-PhD-cbr.md) | 38.67MiB
@@ -344,48 +344,48 @@ Hail Hydra 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 36.83MiB
 [Howard the Human 01 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Howard-Human-01-2015-digital-Minutemen-PhD-cbr.md) | 30.41MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Inferno (001-005) (2015) (digital) (Minutemen-Bluntman)】 | 
 Inferno 001 (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr | 49.24MiB
-Inferno 002 (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr | 45.68MiB
+[Inferno 002 (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inferno-002-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 45.68MiB
 [Inferno 003 (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inferno-003-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 44.98MiB
 [Inferno 004 (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inferno-004-2015-digital-Minutemen-Bluntman-cbr.md) | 43.15MiB
 [Inferno 005 (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inferno-005-2015-digital-Minutemen-Bluntman-cbr.md) | 46.36MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Infinity Gauntlet (001-005) (2015) (digital) (Minutemen-Midas)】 | 
-Infinity Gauntlet 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 49.44MiB
-Infinity Gauntlet 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 46.17MiB
+[Infinity Gauntlet 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 49.44MiB
+[Infinity Gauntlet 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-002-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 46.17MiB
 [Infinity Gauntlet 003 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-003-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 46.71MiB
 [Infinity Gauntlet 004 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-004-2015-digital-Minutemen-Midas-cbr.md) | 51.08MiB
 [Infinity Gauntlet 005 (2016) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-005-2016-digital-Minutemen-Midas-cbr.md) | 48.63MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Korvac Saga (001-004) (2015) (Digital) (Zone-Empire)】 | 
-Korvac Saga 001 (2015) (Digital) (Zone-Empire).cbr | 41.08MiB
+[Korvac Saga 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Korvac-Saga-001-2015-Digital-Zone-Empire-cbr.md) | 41.08MiB
 [Korvac Saga 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Korvac-Saga-002-2015-Digital-Zone-Empire-cbr.md) | 43.68MiB
 [Korvac Saga 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Korvac-Saga-003-2015-Digital-Zone-Empire-cbr.md) | 42.13MiB
 [Korvac Saga 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Korvac-Saga-004-2015-Digital-Zone-Empire-cbr.md) | 42.27MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/M.O.D.O.K. Assassin (001-005) (2015) (Digital) (Zone-Empire)】 | 
-M.O.D.O.K. Assassin 001 (2015) (Digital) (Zone-Empire).cbr | 41.47MiB
-M.O.D.O.K. Assassin 002 (2015) (Digital) (Zone-Empire).cbr | 42.12MiB
+[M.O.D.O.K. Assassin 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/M-O-D-O-K-Assassin-001-2015-Digital-Zone-Empire-cbr.md) | 41.47MiB
+[M.O.D.O.K. Assassin 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/M-O-D-O-K-Assassin-002-2015-Digital-Zone-Empire-cbr.md) | 42.12MiB
 [M.O.D.O.K. Assassin 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/M-O-D-O-K-Assassin-003-2015-Digital-Zone-Empire-cbr.md) | 45.75MiB
 [M.O.D.O.K. Assassin 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/M-O-D-O-K-Assassin-004-2015-Digital-Zone-Empire-cbr.md) | 45.15MiB
 [M.O.D.O.K. Assassin 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/M-O-D-O-K-Assassin-005-2015-Digital-Zone-Empire-cbr.md) | 42.85MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Mrs. Deadpool and the Howling Commandos (001-004)(2015) (digital) (Minutemen-Faessla)】 | 
-Mrs. Deadpool and the Howling Commandos 001 (2015) (4 covers) (digital) (Minutemen-Faessla).cbz | 32.93MiB
+[Mrs. Deadpool and the Howling Commandos 001 (2015) (4 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-001-2015-4-covers-digital-Minutemen-Faessla-cbz.md) | 32.93MiB
 [Mrs. Deadpool and the Howling Commandos 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 30.78MiB
 [Mrs. Deadpool and the Howling Commandos 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 29.57MiB
 [Mrs. Deadpool and the Howling Commandos 004 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-004-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 34.04MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Old Man Logan (001-005)(2015)(digital)(Minutemen-Faessla)】 | 
-Old Man Logan 001 (2015) (5 covers) (digital) (Minutemen-Faessla).cbz | 48.14MiB
-Old Man Logan 002 (2015) (digital) (Minutemen-Faessla).cbz | 37.81MiB
+[Old Man Logan 001 (2015) (5 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-001-2015-5-covers-digital-Minutemen-Faessla-cbz.md) | 48.14MiB
+[Old Man Logan 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-002-2015-digital-Minutemen-Faessla-cbz.md) | 37.81MiB
 [Old Man Logan 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 33.58MiB
 [Old Man Logan 004 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-004-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 30.58MiB
 [Old Man Logan 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-005-2015-digital-Minutemen-Faessla-cbz.md) | 33.43MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Planet Hulk (001-005) (2015) (digital) (Minutemen-Midas)】 | 
-Planet Hulk 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 59.05MiB
-Planet Hulk 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 45.50MiB
+[Planet Hulk 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 59.05MiB
+[Planet Hulk 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-002-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 45.50MiB
 [Planet Hulk 003 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-003-2015-digital-Minutemen-Midas-cbr.md) | 43.78MiB
 [Planet Hulk 004 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-004-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 42.88MiB
 [Planet Hulk 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-005-2015-digital-Minutemen-Midas-cbr.md) | 42.19MiB
 [Secret Wars - Agents of Atlas 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Agents-of-Atlas-01-2015-digital-Minutemen-Faessla-cbz.md) | 59.53MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Secret Wars 2099 (001-005) (2015) (digital) (Minutemen-Bluntman)】 | 
-Secret Wars 2099 01 (of 05) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr | 33.82MiB
-Secret Wars 2099 02 (of 05) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr | 30.92MiB
+[Secret Wars 2099 01 (of 05) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-2099-01-of-05-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 33.82MiB
+[Secret Wars 2099 02 (of 05) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-2099-02-of-05-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 30.92MiB
 [Secret Wars 2099 03 (of 05) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-2099-03-of-05-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 32.59MiB
 [Secret Wars 2099 04 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-2099-04-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 31.23MiB
 [Secret Wars 2099 05 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-2099-05-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 27.63MiB
@@ -402,26 +402,26 @@ Spider-Island 01 (of 05) (2015) (3 covers) (digital) (Minutemen-Spaztastic).cbr 
 [Spider-Verse 004 (2015) (2 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-004-2015-2-covers-digital-Minutemen-Spaztastic-cbr.md) | 37.81MiB
 [Spider-Verse 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 33.31MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Squadron Sinister (001-004)(2015)(Digital)(TLK-EMPIRE-HD)】 | 
-Squadron Sinister 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 41.02MiB
+[Squadron Sinister 001(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squadron-Sinister-001-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.02MiB
 [Squadron Sinister 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squadron-Sinister-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.40MiB
 [Squadron Sinister 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squadron-Sinister-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.78MiB
 [Squadron Sinister 004(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squadron-Sinister-004-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 39.73MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Weirdworld (001-005) (2015) (digital) (Minutemen-Faessla)】 | 
-Weirdworld 001 (2015) (8 covers) (digital) (Minutemen-Faessla).cbz | 53.78MiB
+[Weirdworld 001 (2015) (8 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Weirdworld-001-2015-8-covers-digital-Minutemen-Faessla-cbz.md) | 53.78MiB
 [Weirdworld 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Weirdworld-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 42.99MiB
 [Weirdworld 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Weirdworld-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 46.42MiB
 [Weirdworld 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Weirdworld-004-2015-digital-Minutemen-Faessla-cbz.md) | 42.12MiB
 [Weirdworld 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Weirdworld-005-2015-digital-Minutemen-Faessla-cbz.md) | 41.71MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/Where Monsters Dwell (001-005)(2015)(Digital)(TLK-EMPIRE-HD)】 | 
-Where Monsters Dwell Vol 2 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 49.75MiB
+[Where Monsters Dwell Vol 2 001(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-001-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.75MiB
 [Where Monsters Dwell Vol 2 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.91MiB
 [Where Monsters Dwell Vol 2 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.37MiB
 [Where Monsters Dwell Vol 2 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 50.81MiB
 [Where Monsters Dwell Vol 2 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 50.34MiB
 &emsp;【Secret Wars (+Tie-Ins&Variant Covers)(2015-2016)/Warzones/X-Men '92 (001-008)(2015)(Digital-Infinite Comic)(BlackManta-Empire)】 | 
-X-Men '92 001 (2015) (Digital-Infinite Comic) (F) (BlackManta-Empire).cbr | 61.14MiB
-X-Men '92 002 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr | 61.45MiB
-X-Men '92 003 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr | 55.02MiB
+[X-Men '92 001 (2015) (Digital-Infinite Comic) (F) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-001-2015-Digital-Infinite-Comic-F-BlackManta-Empire-cbr.md) | 61.14MiB
+[X-Men '92 002 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-002-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 61.45MiB
+[X-Men '92 003 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-003-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 55.02MiB
 [X-Men '92 004 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-004-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 51.83MiB
 [X-Men '92 005 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-005-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 53.70MiB
 [X-Men '92 006 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-006-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 52.31MiB

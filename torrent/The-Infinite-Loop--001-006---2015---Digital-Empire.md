@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-The Infinite Loop 001 (2015) (Digital-Empire).cbr | 40.73MiB
-The Infinite Loop 002 (2015) (Digital-Empire).cbr | 37.02MiB
-The Infinite Loop 003 (2015) (Digital-Empire).cbr | 42.18MiB
+[The Infinite Loop 001 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Loop-001-2015-Digital-Empire-cbr.md) | 40.73MiB
+[The Infinite Loop 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Loop-002-2015-Digital-Empire-cbr.md) | 37.02MiB
+[The Infinite Loop 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Loop-003-2015-Digital-Empire-cbr.md) | 42.18MiB
 [The Infinite Loop 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Loop-004-2015-Digital-Empire-cbr.md) | 47.90MiB
 [The Infinite Loop 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Loop-005-2015-Digital-Empire-cbr.md) | 43.72MiB
 [The Infinite Loop 006 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Loop-006-2015-Digital-Empire-cbr.md) | 46.73MiB

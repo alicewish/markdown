@@ -32,8 +32,8 @@ Zero 011 (2014) (digital) (Minutemen-Spaztastic).cbr | 39.45MiB
 Zero 012 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.78MiB
 Zero 013 (2014) (digital) (Minutemen-Spaztastic).cbr | 39.54MiB
 Zero 014 (2015) (digital) (Minutemen-Spaztastic).cbr | 25.19MiB
-Zero 015 (2015) (digital) (Minutemen-Spaztastic).cbr | 39.97MiB
-Zero 016 (2015) (digital) (Minutemen-Spaztastic).cbr | 37.46MiB
+[Zero 015 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-015-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.97MiB
+[Zero 016 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-016-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.46MiB
 [Zero 017 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-017-2015-digital-Minutemen-Spaztastic-cbr.md) | 31.52MiB
 [Zero 018 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-018-2015-digital-Minutemen-Spaztastic-cbr.md) | 45.24MiB
 Zero v01 - An Emergency (2014) (Digital) (Windrider-Empire).cbr | 185.87MiB

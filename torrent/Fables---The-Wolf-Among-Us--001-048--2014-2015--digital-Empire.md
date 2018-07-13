@@ -23,21 +23,21 @@ Fables - The Wolf Among Us 010 (2015) (digital-Empire).cbr | 14.30MiB
 Fables - The Wolf Among Us 011 (2015) (digital-Empire).cbr | 16.31MiB
 Fables - The Wolf Among Us 012 (2015) (digital-Empire).cbr | 19.93MiB
 Fables - The Wolf Among Us 013 (2015) (digital-Empire).cbr | 13.52MiB
-Fables - The Wolf Among Us 014 (2015) (digital-Empire).cbr | 15.59MiB
-Fables - The Wolf Among Us 015 (2015) (digital-Empire).cbr | 16.62MiB
-Fables - The Wolf Among Us 016 (2015) (digital-Empire).cbr | 12.36MiB
-Fables - The Wolf Among Us 017 (2015) (digital-Empire).cbr | 15.91MiB
+[Fables - The Wolf Among Us 014 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-014-2015-digital-Empire-cbr.md) | 15.59MiB
+[Fables - The Wolf Among Us 015 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-015-2015-digital-Empire-cbr.md) | 16.62MiB
+[Fables - The Wolf Among Us 016 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-016-2015-digital-Empire-cbr.md) | 12.36MiB
+[Fables - The Wolf Among Us 017 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-017-2015-digital-Empire-cbr.md) | 15.91MiB
 [Fables - The Wolf Among Us 018 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-018-2015-digital-Empire-cbr.md) | 15.10MiB
-Fables - The Wolf Among Us 019 (2015) (digital-Empire).cbr | 12.73MiB
-Fables - The Wolf Among Us 020 (2015)(digital-Empire).cbr | 14.91MiB
-Fables - The Wolf Among Us 021 (2015) (digital-Empire).cbr | 13.48MiB
-Fables - The Wolf Among Us 022 (2015) (digita-Empire).cbr | 14.33MiB
-Fables - The Wolf Among Us 023 (2015) (digital-Empire).cbr | 14.59MiB
-Fables - The Wolf Among Us 024 (2015) (digital-Empire).cbr | 16.27MiB
-Fables - The Wolf Among Us 025 (2015) (digital-Empire).cbr | 13.22MiB
+[Fables - The Wolf Among Us 019 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-019-2015-digital-Empire-cbr.md) | 12.73MiB
+[Fables - The Wolf Among Us 020 (2015)(digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-020-2015-digital-Empire-cbr.md) | 14.91MiB
+[Fables - The Wolf Among Us 021 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-021-2015-digital-Empire-cbr.md) | 13.48MiB
+[Fables - The Wolf Among Us 022 (2015) (digita-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-022-2015-digita-Empire-cbr.md) | 14.33MiB
+[Fables - The Wolf Among Us 023 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-023-2015-digital-Empire-cbr.md) | 14.59MiB
+[Fables - The Wolf Among Us 024 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-024-2015-digital-Empire-cbr.md) | 16.27MiB
+[Fables - The Wolf Among Us 025 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-025-2015-digital-Empire-cbr.md) | 13.22MiB
 [Fables - The Wolf Among Us 026 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-026-2015-digital-Empire-cbr.md) | 14.52MiB
-Fables - The Wolf Among Us 027 (2015) (digital-Empire).cbr | 16.08MiB
-Fables - The Wolf Among Us 028 (2015) (digital-Empire).cbr | 14.43MiB
+[Fables - The Wolf Among Us 027 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-027-2015-digital-Empire-cbr.md) | 16.08MiB
+[Fables - The Wolf Among Us 028 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-028-2015-digital-Empire-cbr.md) | 14.43MiB
 [Fables - The Wolf Among Us 029 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-029-2015-digital-Empire-cbr.md) | 18.13MiB
 [Fables - The Wolf Among Us 030 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-030-2015-digital-Empire-cbr.md) | 16.39MiB
 [Fables - The Wolf Among Us 031 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Wolf-Among-Us-031-2015-digital-Empire-cbr.md) | 15.98MiB

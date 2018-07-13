@@ -14,7 +14,7 @@ Deep State 001 (2014) (digital) (Eos-Empire).cbr | 38.13MiB
 Deep State 002 (2014) (digital) (Eos-Empire).cbr | 31.89MiB
 [Deep State 003 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-003-2015-digital-Eos-Empire-cbr.md) | 31.21MiB
 Deep State 004 (2015) (digital) (Eos-Empire).cbr | 37.97MiB
-Deep State 005 (2015) (digital) (Eos-Empire).cbr | 40.63MiB
-Deep State 006 (2015) (Digital) (Zone-Empire).cbr | 44.75MiB
+[Deep State 005 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-005-2015-digital-Eos-Empire-cbr.md) | 40.63MiB
+[Deep State 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-006-2015-Digital-Zone-Empire-cbr.md) | 44.75MiB
 [Deep State 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-007-2015-Digital-Zone-Empire-cbr.md) | 40.83MiB
 Deep State 008 (2015) (Digital) (Zone-Empire).cbr | 48.41MiB

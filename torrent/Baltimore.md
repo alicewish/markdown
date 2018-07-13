@@ -24,7 +24,7 @@ Baltimore - Empty Graves 01 (of 05) (2016) (digital) (Minutemen-InnerDemons).cbr
 [Baltimore - Empty Graves 04 (of 05) (2016) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Empty-Graves-04-of-05-2016-digital-Minutemen-InnerDemons-cbr.md) | 30.80MiB
 [Baltimore - Empty Graves 05 (of 05) (2016) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Empty-Graves-05-of-05-2016-digital-Minutemen-InnerDemons-cbr.md) | 34.34MiB
 &emsp;【Baltimore/Baltimore - The Cult of the Red King (001-005)(2015)(digital)(Minutemen-InnerDemons)】 | 
-Baltimore - The Cult of the Red King 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 18.22MiB
+[Baltimore - The Cult of the Red King 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-01-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.22MiB
 [Baltimore - The Cult of the Red King 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-02-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.22MiB
 [Baltimore - The Cult of the Red King 03 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-03-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.24MiB
 Baltimore - The Cult of the Red King 04 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 17.87MiB

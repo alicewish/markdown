@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Archie vs. Predator 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 46.75MiB
-Archie vs. Predator 02 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 47.02MiB
-Archie vs. Predator 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 43.41MiB
+[Archie vs. Predator 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-01-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.75MiB
+[Archie vs. Predator 02 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-02-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 47.02MiB
+[Archie vs. Predator 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-03-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 43.41MiB
 [Archie vs. Predator 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 50.57MiB

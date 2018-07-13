@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Midnight Society - The Black Lake 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 50.89MiB
+[Midnight Society - The Black Lake 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Midnight-Society-Black-Lake-01-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 50.89MiB
 [Midnight Society - The Black Lake 02 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Midnight-Society-Black-Lake-02-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.36MiB
 [Midnight Society - The Black Lake 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Midnight-Society-Black-Lake-03-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.64MiB
 [Midnight Society - The Black Lake 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Midnight-Society-Black-Lake-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 70.08MiB

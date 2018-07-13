@@ -22,6 +22,7 @@ Drag N' Wheels 47 c2c Charlton June 1971 Gremlin.cbz | 33.45MiB
 Drag N' Wheels 49 Charlton 1971 Titansfan.cbz | 24.38MiB
 Drag N' Wheels 50 Charlton 1971 Titansfan.cbz | 24.88MiB
 Drag N Wheels 52 Charlton Titansfan.cbz | 23.26MiB
+Drag N' Wheels 57 Charlton Dec 1972 ComicWanderer.cbz | 64.37MiB
 Drag N' Wheels 039 (1970) (Charlton) (c2c).cbz | 27.68MiB
 Drag n' Wheels 043 (1970) (Charlton) (c2c) (Titansfan).cbz | 25.79MiB
 Drag n' Wheels 044 (1970) (Charlton) (c2c) (Titansfan).cbz | 25.76MiB

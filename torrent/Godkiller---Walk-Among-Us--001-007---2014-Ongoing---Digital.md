@@ -14,6 +14,6 @@ Godkiller - Walk Among Us 001 (2014) (Digital) (Mephisto-Empire).cbr | 62.16MiB
 Godkiller - Walk Among Us 002 (2014) (Digital) (Mephisto-Empire).cbr | 37.21MiB
 Godkiller - Walk Among Us 003 (2014) (Digital) (Mephisto-Empire).cbr | 95.42MiB
 Godkiller - Walk Among Us 004 (2015) (Digital) (Mephisto-Empire).cbr | 33.21MiB
-Godkiller - Walk Among Us 005 (2014) (Digital) (Mephisto-Empire).cbr | 133.29MiB
+[Godkiller - Walk Among Us 005 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godkiller-Walk-Among-Us-005-2014-Digital-Mephisto-Empire-cbr.md) | 133.29MiB
 Godkiller - Walk Among Us 006 (2015) (Digital) (Mephisto-Empire).cbr | 33.35MiB
 Godkiller - Walk Among Us 007 (2015) (Digital) (Mephisto-Empire).cbr | 36.91MiB

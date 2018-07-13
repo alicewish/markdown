@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【New Avengers (001-033+Extras) (2013-2015) (Digital) (Zone-Empire)】 | 
-New Avengers - Ultron Forever 001 (2015) (Digital) (Zone-Empire).cbr | 75.64MiB
+[New Avengers - Ultron Forever 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-Ultron-Forever-001-2015-Digital-Zone-Empire-cbr.md) | 75.64MiB
 New Avengers 001 (2013) (Digital) (Zone-Empire).cbr | 29.30MiB
 New Avengers 002 (2013) (Digital) (Zone-Empire).cbr | 24.97MiB
 New Avengers 003 (2013) (Digital) (Zone-Empire).cbr | 26.59MiB
@@ -42,9 +42,9 @@ New Avengers 027 (2015) (Digital) (Zone-Empire).cbr | 45.16MiB
 New Avengers 028 (2015) (Digital) (Zone-Empire).cbr | 39.51MiB
 New Avengers 029 (2015) (Digital) (Zone-Empire).cbr | 37.04MiB
 New Avengers 030 (2015) (Digital) (Zone-Empire).cbr | 36.96MiB
-New Avengers 031 (2015) (Digital) (Zone-Empire).cbr | 39.53MiB
-New Avengers 032 (2015) (Digital) (Zone-Empire).cbr | 57.35MiB
-New Avengers 033 (2015) (Digital) (Zone-Empire).cbr | 59.35MiB
+[New Avengers 031 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-031-2015-Digital-Zone-Empire-cbr.md) | 39.53MiB
+[New Avengers 032 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-032-2015-Digital-Zone-Empire-cbr.md) | 57.35MiB
+[New Avengers 033 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-033-2015-Digital-Zone-Empire-cbr.md) | 59.35MiB
 [New Avengers Annual 001 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-Annual-001-2014-Digital-Zone-Empire-cbr.md) | 82.17MiB
 &emsp;【New Avengers (001-033+Extras) (2013-2015) (Digital) (Zone-Empire)/Variant Covers】 | 
 [New Avengers 001 (2013) (2nd Printing Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-001-2013-2nd-Printing-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 623.15KiB

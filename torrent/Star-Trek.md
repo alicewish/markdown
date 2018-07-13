@@ -383,8 +383,8 @@ Star Trek - Legion of Super-Heroes 01 (2011) (RE Cover Only) \[extracted\] (digi
 Star Trek Planet Of The Apes 001(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 40.89MiB
 Star Trek Planet Of The Apes 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 43.55MiB
 Star Trek Planet Of The Apes 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 38.66MiB
-Star Trek Planet Of The Apes 004 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 45.25MiB
-Star Trek Planet Of The Apes 005(2015)(Digital)(TLK-EMPIRE-HD).cbr | 43.94MiB
+[Star Trek Planet Of The Apes 004 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 45.25MiB
+[Star Trek Planet Of The Apes 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 43.94MiB
 &emsp;【Star Trek/Star Trek (IDW)/Crossovers/Star Trek - Planet Of The Apes (001-005+)(2014-2015)(digital)/Variant Covers】 | 
 Star Trek Planet Of The Apes 001(2014)(8 Covers Collection Only).cbr | 19.67MiB
 Star Trek Planet Of The Apes Cover Collection (2014-2015).cbr | 18.87MiB
@@ -465,10 +465,10 @@ Star Trek 039 (2014) (digital-Empire).cbr | 46.66MiB
 [Star Trek 040 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-040-2015-digital-Empire-cbr.md) | 44.41MiB
 Star Trek 041 (2015) (digital-Empire).cbr | 39.08MiB
 Star Trek 042 (2015) (digital-Empire).cbr | 41.61MiB
-Star Trek 043 (2015) (digital-Empire).cbr | 38.84MiB
-Star Trek 044 (2015) (digital-Empire).cbr | 42.26MiB
-Star Trek 045 (2015) (digital-Empire).cbr | 37.67MiB
-Star Trek 046 (2015) (digital-empire).cbr | 31.85MiB
+[Star Trek 043 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-043-2015-digital-Empire-cbr.md) | 38.84MiB
+[Star Trek 044 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-044-2015-digital-Empire-cbr.md) | 42.26MiB
+[Star Trek 045 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-045-2015-digital-Empire-cbr.md) | 37.67MiB
+[Star Trek 046 (2015) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-046-2015-digital-empire-cbr.md) | 31.85MiB
 [Star Trek 047(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-047-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.30MiB
 [Star Trek 048(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-048-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.76MiB
 [Star Trek 049(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-049-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.83MiB
@@ -701,7 +701,7 @@ Star Trek New Visions 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.13MiB
 Star Trek New Visions 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 52.47MiB
 Star Trek New Visions 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 53.15MiB
 Star Trek New Visions 005 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 49.71MiB
-Star Trek New Visions 006(2015)(Digital)(TLK-EMPIRE-HD).cbr | 46.08MiB
+[Star Trek New Visions 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 46.08MiB
 [Star Trek New Visions 007(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-007-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.77MiB
 [Star Trek New Visions 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.96MiB
 [Star Trek New Visions 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 52.65MiB

@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Casanova - Acedia 001 (2015) (Digital) (Zone-EMpire).cbr | 47.78MiB
-Casanova - Acedia 002 (2015) (Digital) (Zone-Empire).cbr | 39.78MiB
+[Casanova - Acedia 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Casanova-Acedia-002-2015-Digital-Zone-Empire-cbr.md) | 39.78MiB
 Casanova - Acedia 003 (2015) (Digital) (Zone-Empire).cbr | 47.98MiB
 [Casanova - Acedia 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Casanova-Acedia-004-2015-Digital-Zone-Empire-cbr.md) | 34.77MiB

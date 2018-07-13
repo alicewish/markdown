@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Sons Of The Devil 001 (2015) (Digital) (Vee-Empire).cbr | 62.96MiB
-Sons Of The Devil 002 (2015) (Digital-Empire).cbr | 54.24MiB
+[Sons Of The Devil 001 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-Of-Devil-001-2015-Digital-Vee-Empire-cbr.md) | 62.96MiB
+[Sons Of The Devil 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-Of-Devil-002-2015-Digital-Empire-cbr.md) | 54.24MiB
 [Sons Of The Devil 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-Of-Devil-003-2015-Digital-Empire-cbr.md) | 53.58MiB
 [Sons Of The Devil 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-Of-Devil-004-2015-Digital-Empire-cbr.md) | 52.47MiB
 [Sons Of The Devil 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-Of-Devil-005-2015-Digital-Empire-cbr.md) | 50.58MiB

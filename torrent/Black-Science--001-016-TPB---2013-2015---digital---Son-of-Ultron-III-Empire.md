@@ -24,8 +24,8 @@ Black Science 010 (2014) (digital) (Son of Ultron-Empire).cbr | 70.46MiB
 Black Science 011 (2014) (digital) (Son of Ultron III-Empire).cbr | 127.02MiB
 Black Science 012 (2015) (digital) (Son of Ultron III-Empire).cbr | 100.96MiB
 [Black Science 013 (2015) (digital) (Son of Ultron III-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-013-2015-digital-Son-of-Ultron-III-Empire-cbr.md) | 103.20MiB
-Black Science 014 (2015) (digital) (Son of Ultron III-Empire).cbr | 93.80MiB
-Black Science 015 (2014) (digital) (Son of Ultron-Empire).cbr | 85.22MiB
+[Black Science 014 (2015) (digital) (Son of Ultron III-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-014-2015-digital-Son-of-Ultron-III-Empire-cbr.md) | 93.80MiB
+[Black Science 015 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-015-2014-digital-Son-of-Ultron-Empire-cbr.md) | 85.22MiB
 [Black Science 016 (2015) (digital) (Son of Ultron III-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-016-2015-digital-Son-of-Ultron-III-Empire-cbr.md) | 184.98MiB
 Black Science Vol.1 How To Fall Forever (2014) (Digital TPB) (Archangel Zone-Empire).cbr | 313.99MiB
 Black Science v02 - Welcome, Nowhere (2015) (Digital) (Archangel+Zone-Empire).cbr | 265.75MiB

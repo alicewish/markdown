@@ -12,10 +12,10 @@ Online | Download
 --- | ---
 &emsp;【Bloodshot Reborn (001-013+) (2015-) (digital) (Minutemen-Spaztastic)】 | 
 [Bloodshot Reborn - The Analog Man - Director's Cut 001 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-Analog-Man-Directors-Cut-001-2016-digital-Son-of-Ultron-Empire-cbr.md) | 60.82MiB
-Bloodshot Reborn 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 53.30MiB
+[Bloodshot Reborn 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 53.30MiB
 Bloodshot Reborn 001 (2015) (digital) (Son of Ultron III-Empire).cbr | 120.92MiB
-Bloodshot Reborn 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.63MiB
-Bloodshot Reborn 003 (2015) (digital) (Minutemen-Spaztastic).cbr | 46.73MiB
+[Bloodshot Reborn 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.63MiB
+[Bloodshot Reborn 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 46.73MiB
 [Bloodshot Reborn 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 38.09MiB
 [Bloodshot Reborn 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 36.77MiB
 [Bloodshot Reborn 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-Reborn-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 36.09MiB

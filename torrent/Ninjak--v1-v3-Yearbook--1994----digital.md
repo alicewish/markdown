@@ -57,9 +57,9 @@ Ninjak 012 (1998) (Digital) (Vee-Empire).cbr | 41.23MiB
 &emsp;【Ninjak (v1-v3+Yearbook)(1994-) (digital)/Ninjak v3 (001-015+)(2015-) (digital) (Minutemen-Spaztastic)】 | 
 [Book Of Death - Fall Of Ninjak 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Book-Of-Death-Fall-Of-Ninjak-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.91MiB
 Ninjak 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 56.75MiB
-Ninjak 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 63.61MiB
-Ninjak 003 (2015) (digital) (Minutemen-Spaztastic).cbr | 58.69MiB
-Ninjak 004 (2015) (digital) (Minutemen-Spaztastic).cbr | 83.65MiB
+[Ninjak 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 63.61MiB
+[Ninjak 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 58.69MiB
+[Ninjak 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 83.65MiB
 [Ninjak 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 65.93MiB
 [Ninjak 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 56.54MiB
 [Ninjak 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ninjak-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 70.08MiB

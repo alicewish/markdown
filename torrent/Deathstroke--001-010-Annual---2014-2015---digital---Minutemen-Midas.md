@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-DC Sneak Peek - Deathstroke 001 (2015) (webrip-DCP).cbr | 16.61MiB
+[DC Sneak Peek - Deathstroke 001 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Deathstroke-001-2015-webrip-DCP-cbr.md) | 16.61MiB
 [Deathstroke 001 (2014) (F) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deathstroke-001-2014-F-digital-Minutemen-Midas-cbr.md) | 37.14MiB
 [Deathstroke 002 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deathstroke-002-2015-digital-Minutemen-Midas-cbr.md) | 36.24MiB
 [Deathstroke 003 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deathstroke-003-2015-digital-Minutemen-Midas-cbr.md) | 34.83MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Age of Ultron Vs Marvel Zombies (001-004) (2015) (digital) (Minutemen-Faessla)】 | 
-Age of Ultron vs. Marvel Zombies 001 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz | 51.95MiB
+[Age of Ultron vs. Marvel Zombies 001 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-001-2015-6-covers-digital-Minutemen-Faessla-cbz.md) | 51.95MiB
 [Age of Ultron vs. Marvel Zombies 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 47.70MiB
 [Age of Ultron vs. Marvel Zombies 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 45.62MiB
 [Age of Ultron vs. Marvel Zombies 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-004-2015-digital-Minutemen-Faessla-cbz.md) | 42.98MiB

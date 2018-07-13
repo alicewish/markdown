@@ -31,8 +31,8 @@ Teen Titans Go! 013 (2014) (digital) (Son of Ultron-Empire).cbr | 20.11MiB
 Teen Titans Go! 014 (2014) (digital) (Son of Ultron-Empire).cbr | 24.44MiB
 Teen Titans Go! 015 (2015) (digital) (Son of Ultron-Empire).cbr | 13.54MiB
 Teen Titans Go! 016 (2015) (digital) (Son of Ultron-Empire).cbr | 12.50MiB
-Teen Titans Go! 017 (2015) (digital) (Son of Ultron-Empire).cbr | 11.67MiB
-Teen Titans Go! 018 (2015) (digital) (Son of Ultron-Empire).cbr | 14.36MiB
-Teen Titans Go! 019 (2015) (digital) (Son of Ultron-Empire).cbr | 12.59MiB
+[Teen Titans Go! 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teen-Titans-Go-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 11.67MiB
+[Teen Titans Go! 018 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teen-Titans-Go-018-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.36MiB
+[Teen Titans Go! 019 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teen-Titans-Go-019-2015-digital-Son-of-Ultron-Empire-cbr.md) | 12.59MiB
 [Teen Titans Go! 020 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teen-Titans-Go-020-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.51MiB
 [Teen Titans Go! 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teen-Titans-Go-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.30MiB

@@ -117,7 +117,7 @@ Tarot - Witch of the Black Rose 087 (2014)(c2c)(TLK-EMPIRE-HD).cbr | 77.09MiB
 Tarot - Witch of the Black Rose 088(2014)(c2c)(TLK-EMPIRE-HD).cbr | 73.53MiB
 Tarot - Witch of the Black Rose 089(2014)(c2c)(TLK-EMPIRE-HD).cbr | 75.37MiB
 Tarot - Witch of the Black Rose 090 (2015) (digital-Empire).cbr | 90.27MiB
-Tarot - Witch of the Black Rose 091 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 101.43MiB
+[Tarot - Witch of the Black Rose 091 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tarot-Witch-of-Black-Rose-091-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 101.43MiB
 Tarot - Witch of the Black Rose 092 (2015) (digital) (Minutemen-Excelsior).cbz | 49.35MiB
 Tarot - Witch of the Black Rose 093 (2015) (digital) (Minutemen-Excelsior).cbz | 31.67MiB
 Tarot - Witch of the Black Rose 094 (2015) (digital) (Minutemen-Excelsior).cbz | 41.44MiB

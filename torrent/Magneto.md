@@ -58,7 +58,7 @@ Magneto - Not a Hero 04 (of 04) (2012) (Minutemen-Meganubis).cbr | 32.63MiB
 [Magneto 016 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-016-2015-Digital-Zone-Empire-cbr.md) | 33.42MiB
 [Magneto 017 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-017-2015-Digital-Zone-Empire-cbr.md) | 33.44MiB
 [Magneto 018 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-018-2015-Digital-Zone-Empire-cbr.md) | 34.85MiB
-Magneto 019 (2015) (Digital) (Zone-Empire).cbr | 35.27MiB
+[Magneto 019 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-019-2015-Digital-Zone-Empire-cbr.md) | 35.27MiB
 [Magneto 020 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-020-2015-Digital-Zone-Empire-cbr.md) | 34.83MiB
 [Magneto 021 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-021-2015-Digital-Zone-Empire-cbr.md) | 39.06MiB
 &emsp;【Magneto/Amalgam】 | 

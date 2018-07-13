@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 Halogen 001 (2015) (Digital) (AnHeroGold-Empire).cbz | 54.85MiB
 [Halogen 002 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Halogen-002-2015-Digital-AnHeroGold-Empire-cbz.md) | 54.44MiB
-Halogen 003 (2015) (Digital) (AnHeroGold-Empire).cbz | 60.99MiB
+[Halogen 003 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Halogen-003-2015-Digital-AnHeroGold-Empire-cbz.md) | 60.99MiB
 [Halogen 004 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Halogen-004-2015-Digital-AnHeroGold-Empire-cbz.md) | 57.08MiB

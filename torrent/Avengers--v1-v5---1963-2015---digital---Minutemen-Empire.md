@@ -589,7 +589,7 @@ The Avengers 033 (2013) (Digital) (Zone-Empire).cbr | 32.66MiB
 The Avengers 034 (2013) (Digital) (Zone-Empire).cbr | 67.22MiB
 &emsp;【Avengers (v1-v5) (1963-2015) (digital) (Minutemen+Empire)/Avengers v5 (001-044+Extras) (2013-2015)】 | 
 [Avengers - No More Bullying 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-No-More-Bullying-001-2015-Digital-Zone-Empire-cbr.md) | 58.56MiB
-Avengers - Operation Hydra 001 \_(2015) (Digital) (Zone-Empire).cbr | 68.67MiB
+[Avengers - Operation Hydra 001 _(2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Operation-Hydra-001-2015-Digital-Zone-Empire-cbr.md) | 68.67MiB
 [Avengers - Rage of Ultron (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Rage-of-Ultron-2015-Digital-Zone-Empire-cbr.md) | 223.11MiB
 Avengers 001 (2013) (Digital) (Zone-Empire).cbr | 30.40MiB
 [Avengers 002 (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-002-2013-Digital-Zone-Empire-cbr.md) | 30.99MiB

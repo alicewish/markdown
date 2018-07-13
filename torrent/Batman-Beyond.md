@@ -172,7 +172,7 @@ Batman Beyond 029 (2013) (digital) (Son of Ultron-Empire).cbr | 18.94MiB
 [Batman Beyond 014 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-014-2016-Digital-Zone-Empire-cbr.md) | 28.96MiB
 [Batman Beyond 015 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-015-2016-Digital-Zone-Empire-cbr.md) | 28.68MiB
 [Batman Beyond 016 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-016-2016-Digital-Zone-Empire-cbr.md) | 31.89MiB
-DC Sneak Peek - Batman Beyond (2015) (Digital) (ThatGuy-Empire).cbz | 15.18MiB
+[DC Sneak Peek - Batman Beyond (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Batman-Beyond-2015-Digital-ThatGuy-Empire-cbz.md) | 15.18MiB
 DC Comics Presents - Batman Beyond 01 (2011) (Bchry-DCP).cbz | 54.54MiB
 &emsp;【Batman Beyond/Variant Covers】 | 
 Batman Beyond 001 (2015) (digital) (Kalman Andrasofsky variant) (Minutemen-Mastodon).cbz | 535.77KiB

@@ -25,6 +25,7 @@ Fightin' Marines 036 (Charlton 1960) (c2c) (Titansfan).cbz | 24.45MiB
 Fightin' Marines 038 (Charlton Nov-1960) (diff ver C2C) (Kracalactaka+DaveH).cbz | 24.80MiB
 Fightin' Marines 039 Charlton Jan 1961 Unk+Kracalactaka.cbz | 34.23MiB
 Fightin' Marines 39 Charlton Titansfan.cbz | 24.24MiB
+Fightin' Marines 40 Charlton Mar 1961 Titansfan.cbz | 67.08MiB
 Fightin' Marines 041 (Charlton 1961) (Titansfan).cbz | 26.44MiB
 Fightin' Marines 046 (Charlton 1962) (c2c) (Titansfan).cbz | 24.92MiB
 Fightin' Marines 47 Charlton Jun 1962 Titansfan.cbz | 24.25MiB

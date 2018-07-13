@@ -15,7 +15,7 @@ Rocket Girl 002 (2013) (digital) (Minutemen-Spaztastic).cbr | 33.71MiB
 Rocket Girl 003 (2014) (digital) (F) (Minutemen-Spaztastic).cbr | 35.87MiB
 Rocket Girl 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 64.45MiB
 Rocket Girl 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 46.76MiB
-Rocket Girl 006 (2015) (digital) (Minutemen-Spaztastic).cbr | 43.06MiB
+[Rocket Girl 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rocket-Girl-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 43.06MiB
 [Rocket Girl 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rocket-Girl-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 43.95MiB
 Rocket Girl 008 (2017) (Digital) (Thornn-Empire).cbr | 78.07MiB
 [Rocket Girl 009 (2017) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rocket-Girl-009-2017-Digital-Thornn-Empire-cbr.md) | 72.18MiB

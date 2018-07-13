@@ -12,6 +12,7 @@
 
 Online | Download
 --- | ---
+Army War Heroes 14 Charlton Jun 1966 ComicWanderer.cbz | 58.04MiB
 Army War Heroes 14 Charlton Jun 1966 Titansfan.cbz | 67.29MiB
 Army War Heroes 17 Charlton Dec 1966 GR2014.cbz | 29.12MiB
 Army War Heroes 18 c2c Charlton Feb 1967 Soothsayr-Kracalactaka-titansfan.cbz | 40.47MiB

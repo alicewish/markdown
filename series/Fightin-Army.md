@@ -20,6 +20,7 @@ Fightin' Army 36 Charlton Jul 1960 Titansfan.cbz | 65.53MiB
 Fightin Army 038 c2c Diff Ver  1960 11 Narf CW.cbz | 70.21MiB
 Fightin' Army 38 Charlton Nov 1960 Titansfan.cbz | 25.08MiB
 Fightin' Army 39 Charlton Jan 1960 Titansfan.cbz | 25.68MiB
+Fightin' Army 40 c2c Charlton Mar 1961 titansfan.cbz | 69.71MiB
 Fightin' Army 045 (Charlton Mar-1962) (Kracalactaka+DaveH).cbz | 25.08MiB
 Fightin' Army 050 (Charlton Jan 1963) (Narfstar-Kracalactaka).cbz | 22.57MiB
 Fightin' Army 050 [diff ver] (Charlton 1963) (Titansfan).cbz | 25.19MiB
@@ -27,16 +28,22 @@ Fightin' Army 056 (Charlton 1964) (Titansfan).cbz | 26.37MiB
 Fightin' Army 66 c2c Charlton Dec 1965 titansfan.cbz | 44.59MiB
 Fightin Army 69 Charlton Jul 1966 Kracalactaka-DMiles.cbz | 24.55MiB
 Fightin' Army 69 (1966 coverless) (Jon-Novus-NMS).cbz | [11.03MiB](https://pan.baidu.com/s/1i5itmYx#list/path=%2FNovus%20-%20Week%20of%202016%20Q1%2FNovus%20-%20Week%20of%202016-01-20%2F%E3%82%AA%E3%82%BD%E3%82%AB%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%BB%E3%82%B1%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%A8%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%A6%E3%82%BB%E3%82%AA%E3%82%AB%E3%82%A4%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%B3%E3%82%BB%E3%82%A8&parentPath=%2FNovus%20-%20Week%20of%202016%20Q1)
+Fightin' Army 71 c2c Charlton Nov 1966 titansfan.cbz | 70.84MiB
 Fightin' Army 74 c2c Charlton titansfan.cbz | 38.21MiB
+Fightin' Army 87 c2c Charlton Sep 1969 titansfan.cbz | 71.38MiB
 Fightin' Army 91 Charlton May 1970 Titansfan misprinted cover.cbz | 27.06MiB
 Fightin' Army 093 (Charlton 1970) (Titansfan).cbz | 27.21MiB
+Fightin' Army 95 c2c Charlton Jan 1971 titansfan.cbz | 68.82MiB
 Fightin' Army 102 (Charlton 1972) (Titansfan).cbz | 25.19MiB
 Fightin' Army 103 c2c Charlton 1972 titansfan.cbz | 42.14MiB
+Fightin' Army 104 c2c Charlton July 1972 titansfan.cbz | 69.56MiB
 Fightin' Army 108 (Charlton) (March 1973) (titansfan).cbz | 27.01MiB
 Fightin' Army 111 Charlton c2c Titansfan.cbz | 22.15MiB
 Fightin' Army 123 Charlton 1976 Titansfan.cbz | 23.52MiB
+Fightin' Army 138 c2c Charlton May 1979 titansfan.cbz | 68.41MiB
 Fightin' Army 158 Charlton 1982 upgrade to c2c Unk+TF.cbz | 23.83MiB
 Fightin' Army 160 Charlton 1982 upgrade to c2c Unk+TF.cbz | 25.91MiB
+Fightin' Army 165 Charlton Aug 1983 Titansfan.cbz | 63.55MiB
 Fightin' Army 167 Charlton 1983 upgrade to c2c Unk+TF.cbz | 16.51MiB
 Fightin' Army 042 (1961) (Charlton) (c2c) (narfstar).cbz | 62.13MiB
 Fightin' Army 047 (1962) (Charlton) (c2c) (narfstar).cbz | 40.88MiB

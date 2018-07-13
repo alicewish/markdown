@@ -47,7 +47,7 @@ Adventure Time 034 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.97MiB
 Adventure Time 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 27.78MiB
 Adventure Time 036 (2015) (digital) (Minutemen-InnerDemons).cbr | 27.31MiB
 Adventure Time 037 (2015) (digital) (Minutemen-InnerDemons).cbr | 35.70MiB
-Adventure Time 038 (2015) (digital) (Minutemen-InnerDemons).cbr | 32.57MiB
-Adventure Time 039 (2015)(digital)(Minutemen-InnerDemons).cbr | 35.21MiB
+[Adventure Time 038 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-038-2015-digital-Minutemen-InnerDemons-cbr.md) | 32.57MiB
+[Adventure Time 039 (2015)(digital)(Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-039-2015-digital-Minutemen-InnerDemons-cbr.md) | 35.21MiB
 Adventure Time 040 (2015) (Digital) (Madvillain-DCP).cbr | 39.41MiB
 [Adventure Time 041 (2015) (Digital) (Madvillain-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-041-2015-Digital-Madvillain-DCP-cbr.md) | 31.66MiB

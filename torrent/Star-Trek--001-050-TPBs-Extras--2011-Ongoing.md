@@ -53,10 +53,10 @@ Star Trek 039 (2014) (digital-Empire).cbr | 46.66MiB
 [Star Trek 040 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-040-2015-digital-Empire-cbr.md) | 44.41MiB
 Star Trek 041 (2015) (digital-Empire).cbr | 39.08MiB
 Star Trek 042 (2015) (digital-Empire).cbr | 41.61MiB
-Star Trek 043 (2015) (digital-Empire).cbr | 38.84MiB
-Star Trek 044 (2015) (digital-Empire).cbr | 42.26MiB
-Star Trek 045 (2015) (digital-Empire).cbr | 37.67MiB
-Star Trek 046 (2015) (digital-empire).cbr | 31.85MiB
+[Star Trek 043 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-043-2015-digital-Empire-cbr.md) | 38.84MiB
+[Star Trek 044 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-044-2015-digital-Empire-cbr.md) | 42.26MiB
+[Star Trek 045 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-045-2015-digital-Empire-cbr.md) | 37.67MiB
+[Star Trek 046 (2015) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-046-2015-digital-empire-cbr.md) | 31.85MiB
 [Star Trek 047(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-047-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.30MiB
 [Star Trek 048(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-048-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.76MiB
 [Star Trek 049(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-049-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.83MiB
@@ -71,7 +71,7 @@ Star Trek Ongoing Vol 05(TPB)(2013)(Digital)(TLK-EMPIRE-HD).cbr | 116.05MiB
 Star Trek Ongoing Vol 06(TPB)(2013)(Digital)(TLK-EMPIRE-HD).cbr | 114.78MiB
 Star Trek Ongoing Vol 07(TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 120.46MiB
 Star Trek Ongoing Vol 08(TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 201.29MiB
-Star Trek Vol. 9 The Q Gambit (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr | 222.31MiB
+[Star Trek Vol. 9 The Q Gambit (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Vol-9-Q-Gambit-TPB-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 222.31MiB
 &emsp;【Star Trek (001-050+TPBs+Extras)(2011-Ongoing)/Variant Covers】 | 
 Star Trek 008 (2012) (RI-A & RI-B Covers Only) \[extracted\] (Re-em-DCP).cbr | 827.61KiB
 Star Trek 009 (2012) (RI-A Cover Only) \[extracted\] (Re-em-DCP).cbr | 603.94KiB

@@ -21,9 +21,9 @@ Satellite Sam 008 (2014) (digital) (DR & Quinch-Empire).cbr | 77.77MiB
 Satellite Sam 009 (2014) (digital) (DR & Quinch-Empire).cbr | 54.15MiB
 Satellite Sam 010 (2014) (Digital) (Vee-Empire).cbr | 70.04MiB
 Satellite Sam 011 (2015) (Digital) (Vee-Empire).cbr | 57.13MiB
-Satellite Sam 012 (2015) (Digital) (Vee-Empire).cbr | 51.96MiB
-Satellite Sam 013 (2015) (Digital) (Vee-Empire).cbr | 62.99MiB
-Satellite Sam 014 (2015) (Digital) (Vee-Empire).cbr | 64.82MiB
+[Satellite Sam 012 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-012-2015-Digital-Vee-Empire-cbr.md) | 51.96MiB
+[Satellite Sam 013 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-013-2015-Digital-Vee-Empire-cbr.md) | 62.99MiB
+[Satellite Sam 014 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-014-2015-Digital-Vee-Empire-cbr.md) | 64.82MiB
 [Satellite Sam 015 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-015-2015-Digital-Empire-cbr.md) | 56.38MiB
 Satellite Sam v01 - The Lonesome Death of Satellite Sam (2014) (Digital) (DR & Quinch-Empire).cbr | 292.17MiB
 Satellite Sam v02 - Satellite Sam and the Snuff-Fuck Kinescope (2014) (Digital) (DR & Quinch-Empire).cbr | 266.65MiB

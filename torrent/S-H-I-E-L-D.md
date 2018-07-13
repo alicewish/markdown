@@ -93,8 +93,8 @@ S.H.I.E.L.D. 04 (of 06) (2012) (2560px) (Minutemen-DTs).cbz | 69.65MiB
 S.H.I.E.L.D. 001 (2015) (digital) (Minutemen-InnerDemons).cbr | 59.82MiB
 S.H.I.E.L.D. 002 (2015) (digital) (Minutemen-InnerDemons).cbr | 35.88MiB
 S.H.I.E.L.D. 003 (2015) (digital) (Minutemen-InnerDemons).cbr | 43.09MiB
-S.H.I.E.L.D. 004 (2015) (2 covers) (digital) (Minutemen-InnerDemons).cbr | 37.48MiB
-S.H.I.E.L.D. 005 (2015) (3 covers) (digital) (Minutemen-InnerDemons).cbr | 32.39MiB
+[S.H.I.E.L.D. 004 (2015) (2 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-004-2015-2-covers-digital-Minutemen-InnerDemons-cbr.md) | 37.48MiB
+[S.H.I.E.L.D. 005 (2015) (3 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-005-2015-3-covers-digital-Minutemen-InnerDemons-cbr.md) | 32.39MiB
 [S.H.I.E.L.D. 006 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-006-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 42.39MiB
 [S.H.I.E.L.D. 007 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-007-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 35.37MiB
 [S.H.I.E.L.D. 008 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-008-2015-digital-Minutemen-PhD-cbr.md) | 36.12MiB
@@ -192,8 +192,8 @@ S.H.I.E.L.D. 001 (2015) (Sara Pichelli Variant) (digital) (Minutemen-Fantomex).c
 S.H.I.E.L.D. 001 (2015) (Skottie Young Variant) (digital) (Minutemen-Fantomex).cbr | 1.07MiB
 S.H.I.E.L.D. 001 (2015) (Steve McNiven Variant) (digital) (Minutemen-Fantomex).cbr | 2.00MiB
 S.H.I.E.L.D. 001 (2015) (Valerio Schiti Variant Only) (digital) (Minutemen-Fantomex).cbr | 3.75MiB
-S.H.I.E.L.D. 003 (2015) (Alan Davis Variant) (digital) (Minutemen-Fantomex).cbr | 3.51MiB
-S.H.I.E.L.D. 003 (2015) (Phil Noto Variant) (digital) (Minutemen-Fantomex).cbr | 3.31MiB
+[S.H.I.E.L.D. 003 (2015) (Alan Davis Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-003-2015-Alan-Davis-Variant-digital-Minutemen-Fantomex-cbr.md) | 3.51MiB
+[S.H.I.E.L.D. 003 (2015) (Phil Noto Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-003-2015-Phil-Noto-Variant-digital-Minutemen-Fantomex-cbr.md) | 3.31MiB
 S.H.I.E.L.D. 004 (2015) (Colleen Doran Women of Marvel Variant) (digital) (Minutemen-Fantomex).cbr | 1.86MiB
 S.H.I.E.L.D. 004 Mike Mayhew Vampire Variant (ScanDog & Minutemen-DTs).cbr | 652.55KiB
 S.H.I.E.L.D. 005 (2015) (Leinil Francis Yu Avengers Variant) (digital) (Minutemen-Fantomex).cbr | 3.14MiB

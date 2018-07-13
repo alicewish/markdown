@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 Creeple Peeple (2015) (Digital-Empire).cbr | 145.22MiB
 [Creeple Peeple 001 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Creeple-Peeple-001-2015-Digital-Empire-cbr.md) | 49.06MiB
-Creeple Peeple 002 (2015) (Digital-Empire).cbr | 44.96MiB
-Creeple Peeple 003 (2015) (Digital-Empire).cbr | 42.22MiB
+[Creeple Peeple 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Creeple-Peeple-002-2015-Digital-Empire-cbr.md) | 44.96MiB
+[Creeple Peeple 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Creeple-Peeple-003-2015-Digital-Empire-cbr.md) | 42.22MiB

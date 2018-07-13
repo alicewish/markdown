@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Captain Marvel and the Carol Corps 001 (2015) (Digital) (Zone-Empire).cbr | 30.69MiB
+[Captain Marvel and the Carol Corps 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-001-2015-Digital-Zone-Empire-cbr.md) | 30.69MiB
 [Captain Marvel and the Carol Corps 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-002-2015-Digital-Zone-Empire-cbr.md) | 30.84MiB
 [Captain Marvel and the Carol Corps 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-003-2015-Digital-Zone-Empire-cbr.md) | 33.76MiB
 [Captain Marvel and the Carol Corps 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-Carol-Corps-004-2015-Digital-Zone-Empire-cbr.md) | 40.08MiB

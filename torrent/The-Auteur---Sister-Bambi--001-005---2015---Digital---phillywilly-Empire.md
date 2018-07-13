@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Auteur - Sister Bambi 001 (2015) (Digital) (phillywilly-Empire).cbr | 36.77MiB
+[The Auteur - Sister Bambi 001 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Auteur-Sister-Bambi-001-2015-Digital-phillywilly-Empire-cbr.md) | 36.77MiB
 [The Auteur - Sister Bambi 002 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Auteur-Sister-Bambi-002-2015-Digital-phillywilly-Empire-cbr.md) | 34.54MiB
 The Auteur - Sister Bambi 003 (2015) (Digital) (phillywilly-Empire).cbr | 28.25MiB
 [The Auteur - Sister Bambi 004 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Auteur-Sister-Bambi-004-2015-Digital-phillywilly-Empire-cbr.md) | 31.55MiB

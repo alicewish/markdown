@@ -176,9 +176,9 @@ B.P.R.D. Hell on Earth 125 - Flesh and Stone (2014) (digital) (Minutemen-InnerDe
 B.P.R.D. Hell on Earth 126 (2014) (digital) (Minutemen-InnerDemons).cbr | 24.87MiB
 [B.P.R.D. Hell on Earth 127 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-127-2015-digital-Minutemen-InnerDemons-cbr.md) | 22.60MiB
 B.P.R.D. Hell on Earth 128 (2015) (digital) (Minutemen-InnerDemons).cbr | 23.45MiB
-B.P.R.D. Hell on Earth 129 (2015) (digital) (Minutemen-InnerDemons).cbr | 26.41MiB
-B.P.R.D. Hell on Earth 130 (2015) (digital) (Minutemen-InnerDemons).cbr | 17.21MiB
-B.P.R.D. Hell on Earth 131 (2015) (digital) (Minutemen-InnerDemons).cbr | 18.46MiB
+[B.P.R.D. Hell on Earth 129 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-129-2015-digital-Minutemen-InnerDemons-cbr.md) | 26.41MiB
+[B.P.R.D. Hell on Earth 130 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-130-2015-digital-Minutemen-InnerDemons-cbr.md) | 17.21MiB
+[B.P.R.D. Hell on Earth 131 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-131-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.46MiB
 B.P.R.D. Hell on Earth 132 (2015) (digital) (Minutemen-InnerDemons).cbr | 17.17MiB
 B.P.R.D. Hell on Earth 133 (2015) (digital) (Minutemen-Azkaban).cbr | 34.46MiB
 B.P.R.D. Hell on Earth 134 (2015) (digital) (Minutemen-Azkaban).cbr | 35.60MiB

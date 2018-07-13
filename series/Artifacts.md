@@ -14,6 +14,10 @@ Building on the success of First Born and Broken Trinity, Top Cow finally reveal
 
 
 
+相关种子⬇Related Torrents
+
+[Artifacts (000 - 039 + Extras) (2010 - Ongoing) (Digital) (DCP+Zone-Nahga-Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Artifacts--000---039---Extras---2010---Ongoing---Digital---DCP-Zone-Nahga-Darkness-Empire.md)
+
 Online | Download
 --- | ---
 Artifacts 05 (of 13) (2011) (3 covers) (c2c) (HW-DCP).cbr | 21.91MiB

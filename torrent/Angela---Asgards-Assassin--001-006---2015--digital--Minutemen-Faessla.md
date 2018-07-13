@@ -15,8 +15,8 @@ Angela - Asgard's Assassin 001 (2015) (digital) (Minutemen-Faessla).cbz | 47.60M
 [Angela - Asgard's Assassin 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-002-2015-digital-Minutemen-Faessla-cbz.md) | 46.79MiB
 Angela - Asgard's Assassin 003 (2015) (digital) (Minutemen-Faessla).cbz | 45.55MiB
 Angela - Asgard's Assassin 004 (2015) (digital) (Minutemen-Faessla).cbz | 42.59MiB
-Angela - Asgard's Assassin 005 (2015) (digital) (Minutemen-Faessla).cbz | 41.45MiB
-Angela - Asgard's Assassin 006 (2015) (digital) (Minutemen-Faessla).cbz | 42.07MiB
+[Angela - Asgard's Assassin 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-005-2015-digital-Minutemen-Faessla-cbz.md) | 41.45MiB
+[Angela - Asgard's Assassin 006 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-006-2015-digital-Minutemen-Faessla-cbz.md) | 42.07MiB
 &emsp;【Angela - Asgard's Assassin (001-006+)(2015)(digital)(Minutemen-Faessla)/Variant Covers】 | 
 Angela Asgard's Assassin 001 (2015) (digital) (Joe Quesada Design variant) (Minutemen-Mastodon).cbz | 2.79MiB
 Angela Asgard's Assassin 001 (2015) (digital) (Phil Jimenez variant) (Minutemen-Mastodon).cbz | 2.88MiB

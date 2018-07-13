@@ -10,15 +10,15 @@
 
 Online | Download
 --- | ---
-All-New Captain America 005 (2015) (Digital) (Zone-Empire).cbr | 34.61MiB
-All-New X-Men 039 (2015) (Digital) (Zone-Empire).cbr | 31.34MiB
-Amazing Spider-Man 016.1 (2015) (Digital) (Zone-Empire).cbr | 46.12MiB
+[All-New Captain America 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Captain-America-005-2015-Digital-Zone-Empire-cbr.md) | 34.61MiB
+[All-New X-Men 039 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-039-2015-Digital-Zone-Empire-cbr.md) | 31.34MiB
+[Amazing Spider-Man 016.1 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-016-1-2015-Digital-Zone-Empire-cbr.md) | 46.12MiB
 [Black Widow 016 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Widow-016-2015-digital-Minutemen-PhD-cbr.md) | 24.67MiB
 [Bucky Barnes - The Winter Soldier 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bucky-Barnes-Winter-Soldier-006-2015-Digital-Zone-Empire-cbr.md) | 42.51MiB
 [Captain America and the Mighty Avengers 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-Mighty-Avengers-006-2015-Digital-Zone-Empire-cbr.md) | 39.69MiB
-Cyclops 011 (2015) (Digital) (Zone-Empire).cbr | 44.08MiB
+[Cyclops 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cyclops-011-2015-Digital-Zone-Empire-cbr.md) | 44.08MiB
 [Guardians Team-Up 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-Team-Up-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.11MiB
-Hulk 013 (2015) (webrip) (GreenGiant-DCP).cbr | 38.20MiB
+[Hulk 013 (2015) (webrip) (GreenGiant-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hulk-013-2015-webrip-GreenGiant-DCP-cbr.md) | 38.20MiB
 [Loki - Agent of Asgard 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Loki-Agent-of-Asgard-012-2015-Digital-Zone-Empire-cbr.md) | 27.31MiB
 [Magneto 016 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magneto-016-2015-Digital-Zone-Empire-cbr.md) | 33.42MiB
 Marvel NOW Checklist.txt | 406.00B

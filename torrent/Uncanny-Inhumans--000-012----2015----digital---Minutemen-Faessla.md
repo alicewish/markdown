@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Uncanny Inhumans (000-012+) (2015-) (digital) (Minutemen-Faessla)】 | 
-Uncanny Inhumans 000 (2015) (7 covers) (digital) (Minutemen-PhD).cbr | 64.49MiB
+[Uncanny Inhumans 000 (2015) (7 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Inhumans-000-2015-7-covers-digital-Minutemen-PhD-cbr.md) | 64.49MiB
 Uncanny Inhumans 001 (2015) (digital) (Minutemen-Faessla).cbz | 62.63MiB
 [Uncanny Inhumans 002 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Inhumans-002-2016-digital-Minutemen-Faessla-cbz.md) | 41.69MiB
 [Uncanny Inhumans 003 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Inhumans-003-2016-digital-Minutemen-Faessla-cbz.md) | 45.51MiB

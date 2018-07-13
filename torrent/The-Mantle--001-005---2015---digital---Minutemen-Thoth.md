@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 The Mantle 001 (2015) (digital) (Minutemen-Thoth).cbr | 51.87MiB
-The Mantle 002 (2015) (digital) (Minutemen-Thoth).cbr | 45.00MiB
+[The Mantle 002 (2015) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mantle-002-2015-digital-Minutemen-Thoth-cbr.md) | 45.00MiB
 [The Mantle 003 (2015) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mantle-003-2015-digital-Minutemen-Thoth-cbr.md) | 58.94MiB
 [The Mantle 004 (2015) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mantle-004-2015-digital-Minutemen-Thoth-cbr.md) | 46.90MiB
 [The Mantle 005 (2015) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mantle-005-2015-digital-Minutemen-Thoth-cbr.md) | 49.45MiB

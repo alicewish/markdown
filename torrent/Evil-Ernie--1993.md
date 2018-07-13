@@ -106,8 +106,8 @@ Evil Ernie v02 001 (2014) (5 covers) (Digital) (DR & Quinch-Empire).cbr | 81.62M
 Evil Ernie v02 002 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 66.20MiB
 [Evil Ernie v02 003 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Ernie-v02-003-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 60.46MiB
 Evil Ernie v02 004 (2015) (Digital) (DR & Quinch-Empire).cbr | 47.91MiB
-Evil Ernie v02 005 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 55.47MiB
-Evil Ernie v02 006 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 77.85MiB
+[Evil Ernie v02 005 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Ernie-v02-005-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 55.47MiB
+[Evil Ernie v02 006 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Ernie-v02-006-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 77.85MiB
 &emsp;【Evil Ernie (1993-)/(Dynamite)/Evil Ernie v3 (001-003)(2016-ongoing)(digital)】 | 
 [Evil Ernie - Godeater 001 (2016) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Ernie-Godeater-001-2016-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 46.30MiB
 [Evil Ernie - Godeater 002 (2016) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Ernie-Godeater-002-2016-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 46.55MiB

@@ -1,7 +1,7 @@
-## Amazing Spider-Man - Who Am I - Infinite Digital Comic 010 (2014) (digital-Empire).cbr
+## The Amazing Spider-Man - Who Am I - Infinite Digital Comic 010 (2014) (digital-Empire).cbr
 
 
-[回到 Amazing Spider-Man - Who Am I - Infinite Digital Comic 目录](https://github.com/alicewish/markdown/blob/master/series/Amazing-Spider-Man-Who-Am-I-Infinite-Digital-Comic.md)
+[回到 The Amazing Spider-Man - Who Am I - Infinite Digital Comic 目录](https://github.com/alicewish/markdown/blob/master/series/Amazing-Spider-Man-Who-Am-I-Infinite-Digital-Comic.md)
 
 
 ![Amazing Spider-Man - Who Am I Infinite Digital Comic 010-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frdb0rsfvxj21kw16o49q.jpg)
@@ -110,5 +110,5 @@
 
 ![Amazing Spider-Man - Who Am I Infinite Digital Comic 010-052.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frdb4x3t03j21kw0e8e82.jpg)
 
-[回到 Amazing Spider-Man - Who Am I - Infinite Digital Comic 目录](https://github.com/alicewish/markdown/blob/master/series/Amazing-Spider-Man-Who-Am-I-Infinite-Digital-Comic.md)
+[回到 The Amazing Spider-Man - Who Am I - Infinite Digital Comic 目录](https://github.com/alicewish/markdown/blob/master/series/Amazing-Spider-Man-Who-Am-I-Infinite-Digital-Comic.md)
 

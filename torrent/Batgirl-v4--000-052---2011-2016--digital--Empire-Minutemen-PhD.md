@@ -68,7 +68,7 @@ Online | Download
 [Batgirl Annual 02 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Annual-02-2014-digital-Minutemen-PhD-cbr.md) | 56.94MiB
 [Batgirl Annual 03 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Annual-03-2015-Digital-Empire-cbr.md) | 43.23MiB
 &emsp;【Batgirl v4 (000-052+)(2011-2016)(digital)(Empire+Minutemen-PhD)/Extras】 | 
-Batgirl - Endgame 001 (2015) (Digital-Empire).cbr | 29.10MiB
+[Batgirl - Endgame 001 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Endgame-001-2015-Digital-Empire-cbr.md) | 29.10MiB
 [Batgirl - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 42.16MiB
 Batgirl Vol. 01 - The Darkest Reflection (2011) (Digital TPB) (Nahga-Empire).cbr | 222.94MiB
 Batgirl v01 - Batgirl of Burnside (2015) (Digital) (Zone-Empire).cbr | 191.53MiB

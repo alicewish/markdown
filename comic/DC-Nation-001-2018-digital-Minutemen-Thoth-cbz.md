@@ -1,5 +1,9 @@
 ## DC Nation 001 (2018) (digital) (Minutemen-Thoth).cbz
 
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+
+
 ![DC Nation (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5qf06wpuj21kw244e81.jpg)
 
 ![DC Nation (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5qf58qcoj21kw2444qp.jpg)
@@ -85,3 +89,6 @@
 ![DC Nation (2018-) 001-041.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5quii0snj21kw2441kx.jpg)
 
 ![DC Nation (2018-) 001-042.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5qv1x9rbj21kw244kjl.jpg)
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+

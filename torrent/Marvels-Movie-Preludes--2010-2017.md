@@ -49,8 +49,8 @@ Marvel's Iron Man 2 Adaptation 002 (2013) (digital) (PeteThePIPster).cbz | 19.84
 Iron Man 3 Prelude 01 (of 2) (2013) (Digital) (G85-Empire).cbr | 39.81MiB
 Iron Man 3 Prelude 02 (of 2) (2013) (Digital) (G85-Empire).cbr | 37.59MiB
 &emsp;【Marvel's Movie Preludes (2010-2017)/Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015)】 | 
-Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 38.51MiB
-Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 38.51MiB
+[Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Ant-Man-Scott-Lang-Small-Time-MCU-Infinite-Comic-001-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 38.51MiB
+[Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Ant-Man-Scott-Lang-Small-Time-MCU-Infinite-Comic-001-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 38.51MiB
 &emsp;【Marvel's Movie Preludes (2010-2017)/Marvel's Ant-Man Prelude (001-002)(2015)(digital)(Zone-Empire)】 | 
 Marvel's Ant-Man Prelude 01 (of 02) (2015) (Digital) (Zone-Empire).cbr | 26.80MiB
 Marvel's Ant-Man Prelude 02 (of 02) (2015) (Digital) (Zone-Empire).cbr | 30.13MiB

@@ -28,4 +28,5 @@ The Irredeemable Ant-Man 009 (2007) (digital) (Minutemen-Faessla).cbz | 24.21MiB
 The Irredeemable Ant-Man 010 (2007) (digital) (Minutemen-Faessla).cbz | 24.76MiB
 The Irredeemable Ant-Man 011 (2007) (digital) (Minutemen-Faessla).cbz | 22.03MiB
 The Irredeemable Ant-Man 012 (2007) (digital) (Minutemen-Faessla).cbz | 23.28MiB
+Irredeemable Ant-Man v01 - Low-Life (2007) (Digital) (Asgard-Empire).cbr | 181.88MiB
 The Irredeemable Ant-Man vol. 01 - Low-Life (2007) (digital TPB) (Minutemen-Faessla).cbz | 177.53MiB

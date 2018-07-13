@@ -139,4 +139,4 @@ Soulfire v5 007 (2014) (2 covers) (Digital) (Thornn-Empire).cbr | 49.76MiB
 Soulfire v5 008 (2014) (2 covers) (Digital) (Thornn-Empire).cbr | 46.55MiB
 Soulfire v5 Annual 001 (2014) (Digital) (Thornn-Empire).cbr | 88.60MiB
 Soulfire v03 (2011) (Digital) (Thornn-Empire).cbr | 309.33MiB
-The Soulfire Sourcebook Vol01 001 (2015) (Digital) (HD) (Thornn-Empire).cbr | 42.13MiB
+[The Soulfire Sourcebook Vol01 001 (2015) (Digital) (HD) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Soulfire-Sourcebook-Vol01-001-2015-Digital-HD-Thornn-Empire-cbr.md) | 42.13MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Mercury Heat - FCBD Edition (2015) (Digital) (Minutemen-WTF).cbr | 35.97MiB
+[Mercury Heat - FCBD Edition (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-FCBD-Edition-2015-Digital-Minutemen-WTF-cbr.md) | 35.97MiB
 [Mercury Heat 001 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-001-2015-Digital-Mephisto-Empire-cbr.md) | 39.86MiB
 [Mercury Heat 002 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-002-2015-Digital-Mephisto-Empire-cbr.md) | 36.00MiB
 [Mercury Heat 003 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-003-2015-Digital-Mephisto-Empire-cbr.md) | 40.34MiB

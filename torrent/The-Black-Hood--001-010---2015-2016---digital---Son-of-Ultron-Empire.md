@@ -11,10 +11,10 @@
 Online | Download
 --- | ---
 The Black Hood 001 (2015) (2 covers) (digital) (Son of Ultron-Empire).cbr | 51.08MiB
-The Black Hood 002 (2015) (digital) (Son of Ultron-Empire).cbr | 54.36MiB
-The Black Hood 003 (2015) (digital) (Son of Ultron-Empire).cbr | 61.03MiB
-The Black Hood 004 (2015) (digital) (Son of Ultron-Empire).cbr | 61.09MiB
-The Black Hood 005 (2015) (digital) (Son of Ultron-Empire).cbr | 60.19MiB
+[The Black Hood 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.36MiB
+[The Black Hood 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 61.03MiB
+[The Black Hood 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 61.09MiB
+[The Black Hood 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 60.19MiB
 [The Black Hood 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.36MiB
 [The Black Hood 007 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-007-2016-digital-Son-of-Ultron-Empire-cbr.md) | 56.04MiB
 [The Black Hood 008 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Hood-008-2016-digital-Son-of-Ultron-Empire-cbr.md) | 42.68MiB

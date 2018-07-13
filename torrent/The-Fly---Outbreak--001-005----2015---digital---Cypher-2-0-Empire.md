@@ -11,9 +11,9 @@
 Online | Download
 --- | ---
 &emsp;【The Fly - Outbreak (001-005+) (2015) (digital) (Cypher 2.0-Empire)】 | 
-The Fly - Outbreak 001 (2015) (Digital) (Cypher 2.0-Empire).cbr | 26.94MiB
-The Fly - Outbreak 002 (2015) (Digital) (Cypher 2.0-Empire).cbr | 19.63MiB
-The Fly - Outbreak 003 (2015) (Digital) (Cypher 2.0-Empire).cbr | 17.00MiB
+[The Fly - Outbreak 001 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fly-Outbreak-001-2015-Digital-Cypher-2-0-Empire-cbr.md) | 26.94MiB
+[The Fly - Outbreak 002 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fly-Outbreak-002-2015-Digital-Cypher-2-0-Empire-cbr.md) | 19.63MiB
+[The Fly - Outbreak 003 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fly-Outbreak-003-2015-Digital-Cypher-2-0-Empire-cbr.md) | 17.00MiB
 [The Fly - Outbreak 004 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fly-Outbreak-004-2015-Digital-Cypher-2-0-Empire-cbr.md) | 15.27MiB
 [The Fly - Outbreak 005 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fly-Outbreak-005-2015-Digital-Cypher-2-0-Empire-cbr.md) | 18.81MiB
 &emsp;【The Fly - Outbreak (001-005+) (2015) (digital) (Cypher 2.0-Empire)/Variant Covers】 | 

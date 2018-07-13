@@ -265,7 +265,7 @@ Booster Gold 003 (2007) (Digital) (JK-Empire).cbr | 33.22MiB
 Booster Gold 007 (2008) (Digital) (JK-Empire).cbr | 31.62MiB
 &emsp;【Jonah Hex (v1-v2+Extras)(1977-2014)/Extras/Convergence - Infinity Inc. (001-002+) (2015)】 | 
 Convergence - Infinity Inc., 2015-04-29 (#01) (Kidd variant) (MaidOfMight-Novus-HD).cbz | 1.19MiB
-Convergence - Infinity Inc., 2015-04-29 (#01) (two covers) (hybrid) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 49.06MiB
+[Convergence - Infinity Inc., 2015-04-29 (#01) (two covers) (hybrid) (OkC.O.M.P.U.T.O.-Novus-HD).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Infinity-Inc-2015-04-29-01-two-covers-hybrid-OkC-O-M-P-U-T-O-Novus-HD-cbz.md) | 49.06MiB
 Convergence - Infinity Inc., 2015-05-27 (#02) (Kidd variant) (MaidOfMight-Novus-HD).cbz | 1.23MiB
 Convergence - Infinity Inc., 2015-05-27 (#02) (two covers) (hybrid) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 53.79MiB
 &emsp;【Jonah Hex (v1-v2+Extras)(1977-2014)/Extras/Crisis on Infinite Earths (003-005,007,012) (1985-1986)】 | 

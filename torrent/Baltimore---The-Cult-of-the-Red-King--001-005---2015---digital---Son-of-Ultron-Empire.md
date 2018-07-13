@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Baltimore - The Cult of the Red King 01 (of 05) (2015) (digital) (Son of Ultron-Empire).cbr | 34.09MiB
+[Baltimore - The Cult of the Red King 01 (of 05) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-01-of-05-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.09MiB
 [Baltimore - The Cult of the Red King 02 (of 05) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-02-of-05-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.22MiB
 [Baltimore - The Cult of the Red King 03 (of 05) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-03-of-05-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.15MiB
 [Baltimore - The Cult of the Red King 04 (of 05) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-04-of-05-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.34MiB

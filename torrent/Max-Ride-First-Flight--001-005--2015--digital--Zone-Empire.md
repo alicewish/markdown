@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Max Ride - First Flight 001 (2015) (Digital) (Zone-Empire).cbr | 34.69MiB
-Max Ride - First Flight 002 (2015) (Digital) (Zone-Empire).cbr | 38.69MiB
-Max Ride - First Flight 003 (2015) (Digital) (Zone-Empire).cbr | 37.57MiB
+[Max Ride - First Flight 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Max-Ride-First-Flight-001-2015-Digital-Zone-Empire-cbr.md) | 34.69MiB
+[Max Ride - First Flight 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Max-Ride-First-Flight-002-2015-Digital-Zone-Empire-cbr.md) | 38.69MiB
+[Max Ride - First Flight 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Max-Ride-First-Flight-003-2015-Digital-Zone-Empire-cbr.md) | 37.57MiB
 [Max Ride - First Flight 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Max-Ride-First-Flight-004-2015-Digital-Zone-Empire-cbr.md) | 35.35MiB
 [Max Ride - First Flight 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Max-Ride-First-Flight-005-2015-Digital-Zone-Empire-cbr.md) | 38.12MiB

@@ -19,7 +19,7 @@ Rai 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 37.70MiB
 Rai 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 42.32MiB
 [Rai 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.66MiB
 Rai 007 (2015) (digital) (Minutemen-Spaztastic).cbr | 38.16MiB
-Rai 008 (2015) (digital) (Minutemen-Spaztastic).cbr | 45.36MiB
+[Rai 008 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-008-2015-digital-Minutemen-Spaztastic-cbr.md) | 45.36MiB
 [Rai 009 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-009-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.81MiB
 [Rai 010 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-010-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.49MiB
 [Rai 011 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-011-2015-digital-Minutemen-Spaztastic-cbr.md) | 45.01MiB

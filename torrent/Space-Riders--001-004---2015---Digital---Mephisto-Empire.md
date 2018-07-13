@@ -12,6 +12,6 @@ Online | Download
 --- | ---
 Space Riders 001 (2015) (2nd print cover only) (Digital) (Mephisto-Empire).cbr | 2.31MiB
 [Space Riders 001 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Space-Riders-001-2015-Digital-Mephisto-Empire-cbr.md) | 67.67MiB
-Space Riders 002 (2015) (Digital) (Mephisto-Empire).cbr | 150.46MiB
+[Space Riders 002 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Space-Riders-002-2015-Digital-Mephisto-Empire-cbr.md) | 150.46MiB
 Space Riders 003 (2015) (F) (Digital) (Mephisto-Empire).cbr | 48.66MiB
 [Space Riders 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Space-Riders-004-2015-Digital-Mephisto-Empire-cbr.md) | 64.84MiB

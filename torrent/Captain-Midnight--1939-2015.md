@@ -34,10 +34,10 @@ Captain Midnight 017 (2014) (Digital) (Minutemen-Wyvern).cbr | 21.47MiB
 Captain Midnight 018 (2014) (Digital) (Minutemen-Wyvern).cbr | 30.39MiB
 Captain Midnight 019 (2015) (Digital) (Minutemen-Wyvern).cbr | 30.91MiB
 Captain Midnight 020 (2015) (Digital) (Minutemen-Wyvern).cbr | 24.33MiB
-Captain Midnight 021 (2015) (digital) (Son of Ultron-Empire).cbr | 46.11MiB
-Captain Midnight 022 (2015) (digital) (Son of Ultron-Empire).cbr | 47.51MiB
-Captain Midnight 023 (2015) (digital) (Son of Ultron-Empire).cbr | 51.89MiB
-Captain Midnight 024 (2015) (digital) (Son of Ultron-Empire).cbr | 53.70MiB
+[Captain Midnight 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.11MiB
+[Captain Midnight 022 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-022-2015-digital-Son-of-Ultron-Empire-cbr.md) | 47.51MiB
+[Captain Midnight 023 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-023-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.89MiB
+[Captain Midnight 024 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-024-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.70MiB
 &emsp;【Captain Midnight (1939-2015)/Captain Midnight (1942-1948)(Fawcett)】 | 
 Captain Midnight 001 (1942) (Fawcett) (c2c) (Darkmark & Icarus-DCP).cbr | 34.20MiB
 Captain Midnight 002 (1942) (Fawcett) (INC) \[-ifc,bc\] (krf-rangerhouse-loftypilot).cbz | 48.02MiB

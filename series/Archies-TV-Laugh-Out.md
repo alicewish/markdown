@@ -34,6 +34,7 @@ Archie's TV Laugh-Out 035 (1975) (Archie) (c2c) (ComicsCastle).cbr | 17.34MiB
 Archie's TV Laugh-Out 045 (1976) (Archie) (c2c) (ComicsCastle).cbr | 17.27MiB
 Archie's TV Laugh-Out 054 (1977) (c2c).cbr | 21.33MiB
 Archie's TV Laugh-Out 057 (1978) (Archie) (c2c) (ComicsCastle).cbr | 18.07MiB
+Archie's TV Laugh-Out 058 (1978) (Archie) (c2c) (ComicsCastle).cbr | 17.35MiB
 Archie's TV Laugh-Out 069 (1979) (Archie) (c2c) (ComicsCastle).cbr | 17.98MiB
 Archie's TV Laugh-Out 076 (1980) (Archie) (c2c) (ComicsCastle).cbr | 18.60MiB
 Archie's TV Laugh-Out 099 (1985) (c2c).cbr | 21.47MiB

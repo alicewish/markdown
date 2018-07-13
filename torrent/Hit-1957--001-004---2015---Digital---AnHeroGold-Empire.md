@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Hit - 1957 003 (2015) (Digital) (AnHeroGold-Empire).cbz | 39.79MiB
+[Hit - 1957 003 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Hit-1957-003-2015-Digital-AnHeroGold-Empire-cbz.md) | 39.79MiB
 [Hit - 1957 004 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Hit-1957-004-2015-Digital-AnHeroGold-Empire-cbz.md) | 43.38MiB
-Hit - 1957 01 (of 04) (2015) (Digital) (Zone-Empire).cbr | 37.46MiB
-Hit - 1957 02 (of 04) (2015) (Digital) (AnHeroGold-Empire).cbz | 44.67MiB
+[Hit - 1957 01 (of 04) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hit-1957-01-of-04-2015-Digital-Zone-Empire-cbr.md) | 37.46MiB
+[Hit - 1957 02 (of 04) (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Hit-1957-02-of-04-2015-Digital-AnHeroGold-Empire-cbz.md) | 44.67MiB

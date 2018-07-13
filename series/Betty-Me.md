@@ -53,6 +53,7 @@ Betty and Me 060 (1974) (c2c) (titansfan).cbz | 24.48MiB
 Betty and Me 061 (1974) (Archie) (c2c) (ComicsCastle).cbr | 63.32MiB
 Betty and Me 064 (1975) (Archie) (c2c) (ComicsCastle).cbr | 17.19MiB
 Betty and Me 065 (1975) (Archie) (c2c) (ComicsCastle).cbr | 61.14MiB
+Betty and Me 067 (1975) (Archie) (c2c - includes insert) (ComicsCastle).cbr | 18.89MiB
 Betty & Me 068 (1975) (c2c) (Titansfan).cbz | 23.46MiB
 Betty and Me 071 (1975) (Archie Comics) (titansfan).cbz | 24.82MiB
 Betty and Me 072 (1976) (c2c) (K Paxman53).cbz | 32.78MiB

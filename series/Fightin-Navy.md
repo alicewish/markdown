@@ -14,6 +14,7 @@ Online | Download
 --- | ---
 Fightin' Navy 081 (Charlton 1958) (Titansfan).cbz | 27.97MiB
 Fightin' Navy 091 (Charlton 1960) (Titansfan).cbz | 26.03MiB
+Fightin' Navy 92 Charlton May 1962 Titansfan.cbz | 65.13MiB
 Fightin' Navy 095 (Charlton 1960) (c2c) (Titansfan).cbz | 25.74MiB
 Fightin' Navy 099 (1961 Charlton) (c2c) (KingFaraday Collection-rangerhouse-movielover-Novus).cbz | [39.28MiB](https://pan.baidu.com/s/1dpxOvBCZZJqCnGU3MRpbpA#list/path=%2FNovus%20-%20Week%20of%202015%20Q2%2FNovus%20-%20Week%20of%202015-04-22%2F%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%A6%E3%82%BF%E3%82%A6%E3%82%BF%E3%82%AD%E3%82%B1%E3%82%A6%E3%82%AA%E3%82%B5%E3%82%A6%E3%82%A6%E3%82%B5%E3%82%BD%E3%82%AA%E3%82%AF%E3%82%BF%E3%82%AA%E3%82%B9%E3%82%BB%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%B3%E3%82%B1%E3%82%B5%E3%82%A2%E3%82%AF&parentPath=%2FNovus%20-%20Week%20of%202015%20Q2)
 Fightin' Navy 100 Charlton Sep 1961 c2c 36p.cbz | 16.96MiB

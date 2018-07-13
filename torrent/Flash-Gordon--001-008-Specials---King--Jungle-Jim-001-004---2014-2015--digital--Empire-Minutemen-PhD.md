@@ -23,6 +23,6 @@ Flash Gordon Annual 2014 (2014) (digital) (Minutemen-PhD).cbr | 79.18MiB
 Flash Gordon Holiday Special 2014 (digital) (Son of Ultron-Empire).cbr | 54.62MiB
 &emsp;【Flash Gordon (001-008+Specials & King- Jungle Jim 001-004) (2014-2015)(digital)(Empire+Minutemen-PhD)/King - Jungle Jim (001-004)(2015)(digital)】 | 
 King - Jungle Jim 001 (2015) (digital) (Son of Ultron-Empire).cbr | 43.22MiB
-King - Jungle Jim 002 (2015) (digital) (Son of Ultron-Empire).cbr | 37.19MiB
-King - Jungle Jim 003 (2015) (digital) (Son of Ultron-Empire).cbr | 33.73MiB
-King - Jungle Jim 004 (2015) (digital) (Son of Ultron-Empire).cbr | 39.26MiB
+[King - Jungle Jim 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Jungle-Jim-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.19MiB
+[King - Jungle Jim 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Jungle-Jim-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.73MiB
+[King - Jungle Jim 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Jungle-Jim-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.26MiB

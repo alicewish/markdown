@@ -224,7 +224,7 @@ Batgirl 024 (2011) (Digital) (Booster-Empire).cbz | 9.99MiB
 [Batgirl 037 (2015) (Darwyn Cooke Variant) (Minutemen-Resin).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-037-2015-Darwyn-Cooke-Variant-Minutemen-Resin-cbr.md) | 1.31MiB
 &emsp;【Batgirl (v1-v4+Extras)(2003-Ongoing)/Extras】 | 
 Batgirl & Robin - Thrillkiller (1997).cbz | 26.67MiB
-Batgirl - Endgame 001 (2015) (Digital-Empire).cbr | 29.10MiB
+[Batgirl - Endgame 001 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Endgame-001-2015-Digital-Empire-cbr.md) | 29.10MiB
 [Batgirl - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 42.16MiB
 &emsp;【Batgirl (v1-v4+Extras)(2003-Ongoing)/Extras/Batgirl - Motion Comics】 | 
 Batgirl 1 - Masquerade Parts 1-3.avi | 113.23MiB

@@ -23,9 +23,9 @@ Ms. Marvel 010 (2015) (Digital) (Zone-Empire).cbr | 53.27MiB
 Ms. Marvel 011 (2015) (Digital) (Zone-Empire).cbr | 52.71MiB
 Ms. Marvel 012 (2015) (Digital) (Zone-Empire).cbr | 53.69MiB
 Ms. Marvel 013 (2015) (Digital) (Zone-Empire).cbr | 52.38MiB
-Ms. Marvel 014 (2015) (Digital) (Zone-Empire).cbr | 49.53MiB
-Ms. Marvel 015 (2015) (Digital) (Zone-Empire).cbr | 48.82MiB
-Ms. Marvel 016 (2015) (Digital) (Zone-Empire).cbr | 55.72MiB
+[Ms. Marvel 014 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-014-2015-Digital-Zone-Empire-cbr.md) | 49.53MiB
+[Ms. Marvel 015 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-015-2015-Digital-Zone-Empire-cbr.md) | 48.82MiB
+[Ms. Marvel 016 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-016-2015-Digital-Zone-Empire-cbr.md) | 55.72MiB
 [Ms. Marvel 017 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-017-2015-Digital-Zone-Empire-cbr.md) | 52.33MiB
 [Ms. Marvel 018 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-018-2015-Digital-Zone-Empire-cbr.md) | 50.32MiB
 [Ms. Marvel 019 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-019-2015-Digital-Zone-Empire-cbr.md) | 47.94MiB

@@ -18,6 +18,8 @@ In 1939, Phineas Horton unveils a new type of life form. In present day, a young
 
 [Avengers Icons - Vision (01 - 04) (2002 - 2003) (Digital) (AnPymGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Avengers-Icons---Vision--01---04---2002---2003---Digital---AnPymGold-Empire.md)
 
+[Avengers Icons - Vision v1 (01 - 04)](https://github.com/alicewish/markdown/blob/master/torrent/Avengers-Icons---Vision-v1--01---04.md)
+
 Online | Download
 --- | ---
 Avengers Icons - Vision 001 (2002) (Digital) (Shadowcat-Empire).cbz | 38.40MiB

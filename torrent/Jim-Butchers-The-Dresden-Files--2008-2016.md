@@ -14,9 +14,9 @@ Online | Download
 &emsp;【Jim Butcher's The Dresden Files (2008-2016)/The Dresden Files - Down Town (001-006)(2015)(digital)(DR & Quinch-Empire)】 | 
 Jim Butcher's The Dresden Files - Down Town 001 (2015) (Digital) (DR & Quinch-Empire).cbr | 58.35MiB
 Jim Butcher's The Dresden Files - Down Town 002 (2015) (Digital) (DR & Quinch-Empire).cbr | 51.14MiB
-Jim Butcher's The Dresden Files - Down Town 003 (2015) (Digital) (DR & Quinch-Empire).cbr | 77.72MiB
-The Dresden Files - Down Town 004 (2015) (Digital) (DR & Quinch-Empire).cbr | 96.35MiB
-The Dresden Files - Down Town 005 (2015) (Digital) (DR & Quinch-Empire).cbr | 102.18MiB
+[Jim Butcher's The Dresden Files - Down Town 003 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jim-Butchers-Dresden-Files-Down-Town-003-2015-Digital-DR-Quinch-Empire-cbr.md) | 77.72MiB
+[The Dresden Files - Down Town 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dresden-Files-Down-Town-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 96.35MiB
+[The Dresden Files - Down Town 005 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dresden-Files-Down-Town-005-2015-Digital-DR-Quinch-Empire-cbr.md) | 102.18MiB
 [The Dresden Files - Down Town 006 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dresden-Files-Down-Town-006-2015-Digital-DR-Quinch-Empire-cbr.md) | 110.34MiB
 The Dresden Files - Down Town v01 TPB (2015) (Digital) (DR & Quinch-Empire).cbr | 264.21MiB
 &emsp;【Jim Butcher's The Dresden Files (2008-2016)/The Dresden Files - Fool Moon (001-008)(2010-2012)(digital)(K6-Empire)】 | 

@@ -95,10 +95,10 @@ Fathom - Kiani v3 002 (2014) (Digital) (K6-Empire).cbr | 43.71MiB
 Fathom - Kiani v3 003 (2014) (Digital) (K6-Empire).cbr | 44.83MiB
 Fathom - Kiani v3 004 (2014) (Digital) (K6-Empire).cbr | 43.05MiB
 &emsp;【Fathom/Fathom (Aspen)/Kiani (v1-v4)(2011-2015)(digital)/v4 (001-004)(2015)(digital)(DR & Quinch+Thornn-Empire)】 | 
-Fathom - Kiani Vol04 003 (2015) (HD) (Digital) (Thornn-Empire).cbr | 37.56MiB
-Fathom - Kiani Vol04 004 (2015) (HD) (Digital) (Thornn-Empire).cbr | 33.90MiB
+[Fathom - Kiani Vol04 003 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fathom-Kiani-Vol04-003-2015-HD-Digital-Thornn-Empire-cbr.md) | 37.56MiB
+[Fathom - Kiani Vol04 004 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fathom-Kiani-Vol04-004-2015-HD-Digital-Thornn-Empire-cbr.md) | 33.90MiB
 Michael Turner's Fathom - Kiani v04 001 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 43.23MiB
-Michael Turner's Fathom - Kiani v04 002 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 44.03MiB
+[Michael Turner's Fathom - Kiani v04 002 (2015) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Michael-Turners-Fathom-Kiani-v04-002-2015-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 44.03MiB
 &emsp;【Fathom/Fathom (Aspen)/Killian's Tide (001-004+)(2016)(digital)】 | 
 Fathom - Killian's Tide (2016) (Collection cover) (digital) (DR & Quinch-Empire).cbr | 4.29MiB
 Michael Turner's Fathom - Killian's Tide 01 (of 04) (2016 edition) (2 covers) (digital) (DR & Quinch-Empire).cbr | 59.01MiB

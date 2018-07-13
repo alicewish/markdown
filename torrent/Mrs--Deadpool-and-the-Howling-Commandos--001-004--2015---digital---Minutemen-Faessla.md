@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Mrs. Deadpool and the Howling Commandos (001-004)(2015) (digital) (Minutemen-Faessla)】 | 
-Mrs. Deadpool and the Howling Commandos 001 (2015) (4 covers) (digital) (Minutemen-Faessla).cbz | 32.93MiB
+[Mrs. Deadpool and the Howling Commandos 001 (2015) (4 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-001-2015-4-covers-digital-Minutemen-Faessla-cbz.md) | 32.93MiB
 [Mrs. Deadpool and the Howling Commandos 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 30.78MiB
 [Mrs. Deadpool and the Howling Commandos 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 29.57MiB
 [Mrs. Deadpool and the Howling Commandos 004 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-004-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 34.04MiB

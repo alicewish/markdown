@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 King - Mandrake the Magician 001 (2015) (digital) (Son fo Ultron-Empire).cbr | 42.41MiB
-King - Mandrake the Magician 002 (2015) (digital) (Son of Ultron-Empire).cbr | 47.04MiB
+[King - Mandrake the Magician 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Mandrake-Magician-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 47.04MiB
 [King - Mandrake the Magician 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Mandrake-Magician-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.83MiB
 [King - Mandrake the Magician 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Mandrake-Magician-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.04MiB

@@ -16,6 +16,8 @@ Kid Loki's all grown up - and the God of Mischief is stronger, smarter, sexier a
 
 相关种子⬇Related Torrents
 
+[Loki - Agent of Asgard (v01-v02)(2014-2015)(digital)(Asgard-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Loki---Agent-of-Asgard--v01-v02--2014-2015--digital--Asgard-Empire.md)
+
 [Loki Agent Of Asgard (001 - 008) (2014 - Ongoing) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Loki-Agent-Of-Asgard--001---008---2014---Ongoing---Digital---Zone-Empire.md)
 
 [Loki Agent Of Asgard (001-017) (2014-2015) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Loki-Agent-Of-Asgard--001-017---2014-2015---Digital---Zone-Empire.md)

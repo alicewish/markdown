@@ -18,8 +18,8 @@ Elfquest - The Final Quest 004 (2014) (digital) (Son of Ultron-Empire).cbr | 54.
 Elfquest - The Final Quest 005 (2014) (digital) (Son of Ultron-Empire).cbr | 54.35MiB
 Elfquest - The Final Quest 006 (2014) (digital) (Son of Ultron-Empire).cbr | 54.42MiB
 Elfquest - The Final Quest 007 (2015) (digital) (Son of Ultron-Empire).cbr | 53.30MiB
-Elfquest - The Final Quest 008 (2015) (digital) (Son of Ultron-Empire).cbr | 54.45MiB
-Elfquest - The Final Quest 009 (2015) (digital) (Son of Ultron-Empire).cbr | 58.57MiB
+[Elfquest - The Final Quest 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elfquest-Final-Quest-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.45MiB
+[Elfquest - The Final Quest 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elfquest-Final-Quest-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 58.57MiB
 [Elfquest - The Final Quest 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elfquest-Final-Quest-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 60.64MiB
 [Elfquest - The Final Quest 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elfquest-Final-Quest-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.13MiB
 [Elfquest - The Final Quest 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elfquest-Final-Quest-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 74.99MiB

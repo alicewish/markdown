@@ -75,8 +75,8 @@ Online | Download
 [Action Comics - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Action-Comics-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 42.77MiB
 Action Comics v01 - Superman and the Men of Steel (2012) (digital-Empire).cbr | 542.22MiB
 &emsp;【Action Comics v2 (000-052+Extras)(2011-2016)(digital-Empire)/Extras/Convergence - Action Comics (001-002)(2015)(digital-Empire)】 | 
-Convergence - Action Comics 01 (of 02) (2015) (Digital-Empire).cbr | 33.44MiB
-Convergence - Action Comics 02 (of 02) (2015) (Digital-Empire).cbr | 36.33MiB
+[Convergence - Action Comics 01 (of 02) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Action-Comics-01-of-02-2015-Digital-Empire-cbr.md) | 33.44MiB
+[Convergence - Action Comics 02 (of 02) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Action-Comics-02-of-02-2015-Digital-Empire-cbr.md) | 36.33MiB
 [DC Sneak Peek - Action Comics (2015) (DIgital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Action-Comics-2015-DIgital-ThatGuy-Empire-cbz.md) | 14.97MiB
 &emsp;【Action Comics v2 (000-052+Extras)(2011-2016)(digital-Empire)/Variant Covers】 | 
 [Action Comics 001 (2011) (2012 ComicsPRO Variant) (Cover ONLY) (ScanDog).cbr](https://github.com/alicewish/markdown/blob/master/comic/Action-Comics-001-2011-2012-ComicsPRO-Variant-Cover-ONLY-ScanDog-cbr.md) | 838.65KiB

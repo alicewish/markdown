@@ -18,6 +18,8 @@
 
 [Charismagic v2 (01 - 06)](https://github.com/alicewish/markdown/blob/master/torrent/Charismagic-v2--01---06.md)
 
+[Charismagic v3 (001-006)(2018)(digital)(Thornn-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Charismagic-v3--001-006--2018--digital--Thornn-Empire.md)
+
 Online | Download
 --- | ---
 Charismagic 00 (of 06) (2012) (2 covers) (digital-SD) (Minutemen-Slayer).cbr | 5.79MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [George Romero's Empire of the Dead - Act Three 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Three-001-2015-Digital-Zone-Empire-cbr.md) | 32.30MiB
-George Romero's Empire of the Dead - Act Three 002 (2015) (Digital) (Zone-Empire).cbr | 34.50MiB
-George Romero's Empire of the Dead - Act Three 003 (2015) (Digital) (Zone-Empire).cbr | 28.27MiB
+[George Romero's Empire of the Dead - Act Three 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Three-002-2015-Digital-Zone-Empire-cbr.md) | 34.50MiB
+[George Romero's Empire of the Dead - Act Three 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Three-003-2015-Digital-Zone-Empire-cbr.md) | 28.27MiB
 [George Romero's Empire of the Dead - Act Three 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Three-004-2015-Digital-Zone-Empire-cbr.md) | 32.91MiB
 [George Romero's Empire of the Dead - Act Three 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Three-005-2015-Digital-Zone-Empire-cbr.md) | 28.40MiB

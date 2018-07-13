@@ -10,10 +10,10 @@
 
 Online | Download
 --- | ---
-Southern Cross 001 (2015) (Digital) (Vee-Empire).cbr | 48.89MiB
-Southern Cross 002 (2015) (Digital) (Vee-Empire).cbr | 49.58MiB
-Southern Cross 003 (2015) (Digital) (Vee-Empire).cbr | 46.09MiB
-Southern Cross 004 (2015) (Digital-Empire).cbr | 44.75MiB
+[Southern Cross 001 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-001-2015-Digital-Vee-Empire-cbr.md) | 48.89MiB
+[Southern Cross 002 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-002-2015-Digital-Vee-Empire-cbr.md) | 49.58MiB
+[Southern Cross 003 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-003-2015-Digital-Vee-Empire-cbr.md) | 46.09MiB
+[Southern Cross 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-004-2015-Digital-Empire-cbr.md) | 44.75MiB
 [Southern Cross 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-005-2015-Digital-Empire-cbr.md) | 46.79MiB
 [Southern Cross 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-006-2015-Digital-Zone-Empire-cbr.md) | 50.82MiB
 [Southern Cross 007 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Cross-007-2016-Digital-Zone-Empire-cbr.md) | 46.39MiB

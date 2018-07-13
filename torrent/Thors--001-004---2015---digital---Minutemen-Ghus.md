@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Thors (001-004) (2015) (digital) (Minutemen-Ghus)】 | 
-Thors 001 (2015) (7 covers) (digital) (Minutemen-Midas).cbr | 48.38MiB
+[Thors 001 (2015) (7 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thors-001-2015-7-covers-digital-Minutemen-Midas-cbr.md) | 48.38MiB
 Thors 002 (2015) (2 covers) (digital) (Minutemen-Ghus).cbz | 33.15MiB
 [Thors 003 (2015) (3 covers) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thors-003-2015-3-covers-digital-Minutemen-Ghus-cbz.md) | 36.55MiB
 Thors 004 (2016) (digital) (Minutemen-Ghus).cbz | 36.59MiB

@@ -14,7 +14,10 @@ Online | Download
 --- | ---
 Cheyenne Kid 14 (1958 Charlton) (c2c) (JVJ-Soothsayer-DMiles-Novus).cbz | [20.02MiB](https://pan.baidu.com/s/1qYMGmcO#list/path=%2FNovus%20-%20Week%20of%202016%20Q4%2FNovus%20-%20Week%20of%202016-12-28%2F%E3%82%A2%E3%82%AA%E3%82%B7%E3%82%BB%E3%82%AA%E3%82%A6%E3%82%B3%E3%82%AB%E3%82%B5%E3%82%BD%E3%82%A8%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%AA%E3%82%AF%E3%82%BD%E3%82%BB%E3%82%AD%E3%82%A2%E3%82%A4%E3%82%B7%E3%82%A8%E3%82%A8%E3%82%B3%E3%82%B1%E3%82%A4%E3%82%BF%E3%82%BD%E3%82%B3%E3%82%AB%E3%82%A8&parentPath=%2FNovus%20-%20Week%20of%202016%20Q4)
 Cheyenne Kid 15 (1959 Charlton) (c2c) (JVJ-Soothsayer-DMiles-Novus).cbz | [20.44MiB](https://pan.baidu.com/s/1qYMGmcO#list/path=%2FNovus%20-%20Week%20of%202016%20Q4%2FNovus%20-%20Week%20of%202016-12-28%2F%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%B3%E3%82%B3%E3%82%B5%E3%82%B5%E3%82%AB%E3%82%B9%E3%82%BB%E3%82%AD%E3%82%B3%E3%82%B3%E3%82%A2%E3%82%AA%E3%82%BF%E3%82%B9%E3%82%BB%E3%82%B3%E3%82%BB%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%AF%E3%82%B3%E3%82%B1%E3%82%AA%E3%82%A2%E3%82%BB%E3%82%AA%E3%82%BD%E3%82%BF&parentPath=%2FNovus%20-%20Week%20of%202016%20Q4)
+Cheyenne Kid 22 Charlton May 1960 ComicWanderer.cbz | 55.54MiB
 Cheyenne Kid 023 (Charlton 1960) (c2c) (Titansfan).cbz | 26.40MiB
+Cheyenne Kid 24 Charlton Sep 1960 ComicWanderer.cbz | 55.55MiB
+Cheyenne Kid 25 Charlton Nov 1960 ComicWanderer.cbz | 59.43MiB
 Cheyenne Kid 27 c2c Charlton Mar 1961 GR2014.cbz | 32.83MiB
 Cheyenne Kid 28 c2c Charlton May 1961 GR2014.cbz | 33.71MiB
 Cheyenne Kid 31 (1961 Charlton) (c2c) (KingFaraday Collection-rangerhouse-movielover-Novus).cbz | [39.87MiB](https://pan.baidu.com/s/1_e7iQr0XWO9DiZ85etPdBA#list/path=%2FNovus%20-%20Week%20of%202015%20Q2%2FNovus%20-%20Week%20of%202015-04-15%2F%E3%82%BD%E3%82%BF%E3%82%A8%E3%82%B5%E3%82%A4%E3%82%BD%E3%82%B9%E3%82%B3%E3%82%AA%E3%82%AB%E3%82%A8%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%A4%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%AA%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%AA%E3%82%B5%E3%82%A2%E3%82%B9%E3%82%AA%E3%82%B9%E3%82%B5&parentPath=%2FNovus%20-%20Week%20of%202015%20Q2)

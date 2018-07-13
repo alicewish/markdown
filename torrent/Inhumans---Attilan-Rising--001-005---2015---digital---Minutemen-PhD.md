@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Inhumans - Attilan Rising (001-005) (2015) (digital) (Minutemen-PhD)】 | 
 [Inhumans - Attilan Rising 001 (2015) (5 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-001-2015-5-covers-digital-Minutemen-PhD-cbr.md) | 40.81MiB
-Inhumans - Attilan Rising 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr | 34.19MiB
+[Inhumans - Attilan Rising 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-002-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 34.19MiB
 [Inhumans - Attilan Rising 003 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-003-2015-digital-Minutemen-PhD-cbr.md) | 32.59MiB
 [Inhumans - Attilan Rising 004 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-004-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 34.12MiB
 [Inhumans - Attilan Rising 005 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-005-2015-digital-Minutemen-PhD-cbr.md) | 34.95MiB

@@ -20,6 +20,8 @@ From the people that bring you the acclaimed Haunted Horror comic comes a horror
 
 [WEIRD Love (001-015+)(2014-)(digital)(TLK+phillywilly-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/WEIRD-Love--001-015---2014---digital--TLK-phillywilly-Empire.md)
 
+[WEIRD Love (001-024+)(2014-)(digital)(TLK-Empire+)](https://github.com/alicewish/markdown/blob/master/torrent/WEIRD-Love--001-024---2014---digital--TLK-Empire.md)
+
 Online | Download
 --- | ---
 Weird Love 001 (2014) (digital) (Minutemen-InnerDemons).cbr | [151.11MiB](https://pan.baidu.com/s/1kVGePvT#list/path=%2F0-Day%20Week%20of%202014%20Q2%2F0-Day%20Week%20of%202014.05.14%2F%E3%82%B1%E3%82%B5%E3%82%AD%E3%82%AF%E3%82%AF%E3%82%AD%E3%82%A6%E3%82%A4%E3%82%BD%E3%82%BF%E3%82%AB%E3%82%B7%E3%82%AD%E3%82%BB%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AA%E3%82%BD%E3%82%AB%E3%82%A4%E3%82%BD%E3%82%A6%E3%82%AB%E3%82%AF%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q2)
@@ -34,9 +36,9 @@ WEIRD Love 004 (2014) (Digital) (phillywilly-Empire).cbr | [149.43MiB](https://p
 WEIRD Love 005 (2015) (digital) (Oroboros-DCP).cbr | 132.57MiB
 WEIRD Love 005 (2015) (Digital) (phillywilly-Empire).cbr | [132.24MiB](https://pan.baidu.com/s/1gfKW8qZ#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.21%2F%E3%82%AD%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%A8%E3%82%B5%E3%82%B7%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%BB%E3%82%B9%E3%82%BD%E3%82%B7%E3%82%A4%E3%82%BB%E3%82%A2%E3%82%A8%E3%82%BB%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%AF%E3%82%AD%E3%82%A6%E3%82%B1%E3%82%A8%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%B3%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
 WEIRD Love 006 (2015) (digital) (Oroboros-DCP).cbr | 140.81MiB
-WEIRD Love 006 (2015) (Digital) (phillywilly-Empire).cbr | [140.47MiB](https://pan.baidu.com/s/1TE0c228WAw07Pbo1ygMmFg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.08%2F%E3%82%B1%E3%82%BF%E3%82%A6%E3%82%B7%E3%82%AD%E3%82%BF%E3%82%BF%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%AF%E3%82%B3%E3%82%BF%E3%82%B1%E3%82%A2%E3%82%A6%E3%82%BD%E3%82%AA%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%BF%E3%82%BD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[WEIRD Love 006 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-006-2015-Digital-phillywilly-Empire-cbr.md) | [140.47MiB](https://pan.baidu.com/s/1TE0c228WAw07Pbo1ygMmFg#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.04.08%2F%E3%82%B1%E3%82%BF%E3%82%A6%E3%82%B7%E3%82%AD%E3%82%BF%E3%82%BF%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%AF%E3%82%B3%E3%82%BF%E3%82%B1%E3%82%A2%E3%82%A6%E3%82%BD%E3%82%AA%E3%82%A2%E3%82%A2%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%BF%E3%82%BD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
 WEIRD Love 007 (2015) (digital) (Oroboros-DCP).cbr | 145.93MiB
-WEIRD Love 007 (2015) (Digital) (phillywilly-Empire).cbr | [145.59MiB](https://pan.baidu.com/s/1hsOsqHm#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.20%2F%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%B7%E3%82%B5%E3%82%BB%E3%82%A6%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%AF%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%A4%E3%82%AD%E3%82%A8%E3%82%AB%E3%82%BF%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%BB%E3%82%B5%E3%82%A2%E3%82%AD%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[WEIRD Love 007 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-007-2015-Digital-phillywilly-Empire-cbr.md) | [145.59MiB](https://pan.baidu.com/s/1hsOsqHm#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.20%2F%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%B7%E3%82%B5%E3%82%BB%E3%82%A6%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%AF%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%A4%E3%82%AD%E3%82%A8%E3%82%AB%E3%82%BF%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%AF%E3%82%B3%E3%82%BB%E3%82%B5%E3%82%A2%E3%82%AD%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
 WEIRD Love 008 (2015) (digital) (Oroboros-DCP).cbr | 154.83MiB
 [WEIRD Love 008 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-008-2015-Digital-phillywilly-Empire-cbr.md) | [154.49MiB](https://pan.baidu.com/s/1skVjmxB#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.29%2F%E3%82%BD%E3%82%A4%E3%82%A2%E3%82%AD%E3%82%B9%E3%82%B3%E3%82%B5%E3%82%B7%E3%82%BF%E3%82%BF%E3%82%BB%E3%82%B7%E3%82%A6%E3%82%A8%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%B3%E3%82%A4%E3%82%BF%E3%82%B7%E3%82%B5%E3%82%AB%E3%82%B7%E3%82%B1%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%B5%E3%82%B1%E3%82%A6%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202015%20Q3)
 WEIRD Love 009 (2015) (digital) (Oroboros-DCP).cbr | 152.90MiB
@@ -61,4 +63,5 @@ WEIRD Love 021(2017)(Digital)(TLK-EMPIRE-HD).cbr | 301.90MiB
 Weird Love v05 - Unlucky in Love (2017) (Digital) (Bean-Empire).cbz | 422.16MiB
 WEIRD Love 022(2018)(Digital)(TLK-EMPIRE-HD).cbr | 273.40MiB
 WEIRD Love 023(2018)(Digital)(TLK-EMPIRE-HD).cbr | 175.76MiB
+WEIRD Love 024(2018)(Digital)(TLK-EMPIRE-HD).cbr | 166.68MiB
 WEIRD Love v06 - So This Is Love (2018) (Digital) (Bean-Empire).cbz | 503.55MiB

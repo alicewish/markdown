@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 &emsp;【Deadpool's Secret Secret Wars (001-004)(2015) (digital) (Minutemen-Bluntman)】 | 
-Deadpool's Secret Secret Wars 01 (of 04) (2015) (5 covers) (digital) (Minutemen-Bluntman).cbr | 59.23MiB
-Deadpool's Secret Secret Wars 02 (of 04) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr | 39.26MiB
+[Deadpool's Secret Secret Wars 01 (of 04) (2015) (5 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-01-of-04-2015-5-covers-digital-Minutemen-Bluntman-cbr.md) | 59.23MiB
+[Deadpool's Secret Secret Wars 02 (of 04) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-02-of-04-2015-3-covers-digital-Minutemen-Bluntman-cbr.md) | 39.26MiB
 Deadpool's Secret Secret Wars 03 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr | 32.70MiB
 [Deadpool's Secret Secret Wars 04 (of 04) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-04-of-04-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 34.09MiB
 &emsp;【Deadpool's Secret Secret Wars (001-004)(2015) (digital) (Minutemen-Bluntman)/Variant Covers】 | 

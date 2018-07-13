@@ -27,7 +27,7 @@ Hinterkind 013 (2015) (Digital) (Minutemen-Acan).cbr | 31.40MiB
 Hinterkind 015 (2015) (Digital) (Minutemen-Acan).cbr | 36.12MiB
 Hinterkind 016 (2015) (Digital) (Minutemen-Acan).cbr | 30.73MiB
 [Hinterkind 017 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-017-2015-Digital-Minutemen-Acan-cbr.md) | 28.97MiB
-Hinterkind 018 (2015) (Digital) (Minutemen-Acan).cbr | 27.35MiB
+[Hinterkind 018 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-018-2015-Digital-Minutemen-Acan-cbr.md) | 27.35MiB
 Hinterkind v01 - The Waking World (2014) (digital) (DR & Quinch-Empire).cbr | 305.24MiB
 Hinterkind v02 - Written In Blood (2014) (digital) (DR & Quinch-Empire).cbr | 173.01MiB
 Hinterkind v03 - The Hot Zone (2015) (Digital) (DR & Quinch-Empire).cbr | 178.72MiB

@@ -69,10 +69,10 @@ Conan Red Sonja 04 (of 04) (2015) (digital) (Minutemen-Slayer).cbr | 25.42MiB
 Frank Thorne's Red Sonja - Art Edition Vol. 01 (2014) (digital) (Minutemen-Slayer).cbr | 237.37MiB
 &emsp;【Red Sonja (1975-)/Dynamite/Legenderry Red Sonja (001-005)(2015)(digital)(TLK-EMPIRE-HD)】 | 
 Legenderry Red Sonja 001(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.04MiB
-Legenderry Red Sonja 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 45.04MiB
+[Legenderry Red Sonja 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-002-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 45.04MiB
 Legenderry Red Sonja 003 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 41.03MiB
 [Legenderry Red Sonja 004(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-004-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 39.17MiB
-Legenderry Red Sonja 005(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 41.04MiB
+[Legenderry Red Sonja 005(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-005-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 41.04MiB
 &emsp;【Red Sonja (1975-)/Dynamite/Legends of Red Sonja (001-005+)(2013-2014)(digital)(Minutemen-Slayer)】 | 
 Legends of Red Sonja 001 (2013) (digital) (Minutemen-Slayer).cbr | 52.17MiB
 Legends of Red Sonja 002 (2013) (digital) (Minutemen-Slayer).cbr | 49.30MiB

@@ -12,6 +12,6 @@ Online | Download
 --- | ---
 [Big Man Plans (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Man-Plans-2015-digital-Son-of-Ultron-Empire-cbr.md) | 182.91MiB
 Big Man Plans 01 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 64.68MiB
-Big Man Plans 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 49.89MiB
+[Big Man Plans 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Man-Plans-02-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 49.89MiB
 Big Man Plans 03 (of 04) (2015) (digital) (Minutemen-Faessla).cbz | 47.35MiB
 Big Man Plans 04 (of 04) (2015) (digital) (Minutemen-Faessla).cbz | 49.20MiB

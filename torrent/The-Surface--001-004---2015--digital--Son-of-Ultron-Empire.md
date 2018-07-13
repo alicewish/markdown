@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 The Surface 001 (2015) (digital) (Son of Ultron-Empire).cbr | 70.39MiB
-The Surface 002 (2015) (digital) (Son of Ultron-Empire).cbr | 87.01MiB
-The Surface 003 (2015) (digital) (Son of Ultron-Empire).cbr | 79.16MiB
+[The Surface 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Surface-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 87.01MiB
+[The Surface 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Surface-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 79.16MiB
 [The Surface 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Surface-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 62.23MiB
 The Surface v01 (2015) (Digital) (Zone-Empire).cbr | 311.84MiB

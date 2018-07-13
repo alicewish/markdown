@@ -16,6 +16,8 @@ Paizo's incredible award-winning, best-selling fantasy world, fiction line and t
 
 相关种子⬇Related Torrents
 
+[Pathfinder](https://github.com/alicewish/markdown/blob/master/torrent/Pathfinder.md)
+
 [Pathfinder (001-012+) (2012-2013) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Pathfinder--001-012----2012-2013---digital---Minutemen-Faessla.md)
 
 Online | Download

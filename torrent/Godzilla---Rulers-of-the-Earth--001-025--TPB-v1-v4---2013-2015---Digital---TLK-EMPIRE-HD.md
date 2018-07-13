@@ -32,9 +32,9 @@ Godzilla Rulers Of Earth 018(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.77MiB
 Godzilla Rulers Of Earth 019 (2014) (Digital) (TLK-EMPIRE-HD).cbr | 38.91MiB
 Godzilla Rulers Of Earth 020(2015)(Digital)(TLK-EMPIRE-HD).cbr | 36.15MiB
 Godzilla Rulers Of Earth 021 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 39.71MiB
-Godzilla Rulers Of Earth 022(2015)(Digital)(TLK-EMPIRE-HD).cbr | 69.68MiB
-Godzilla Rulers Of Earth 023(2015)(Digital)(TLK-EMPIRE-HD).cbr | 35.19MiB
-Godzilla Rulers Of Earth 024(2015)(Digital)(TLK-EMPIRE-HD).cbr | 32.06MiB
+[Godzilla Rulers Of Earth 022(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-022-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 69.68MiB
+[Godzilla Rulers Of Earth 023(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-023-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 35.19MiB
+[Godzilla Rulers Of Earth 024(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-024-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.06MiB
 [Godzilla Rulers Of Earth 025(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-025-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 79.74MiB
 Godzilla Rulers Of Earth Vol 1(TPB)(2013)(Digital)(TLK-EMPIRE-HD).cbr | 155.99MiB
 Godzilla Rulers Of Earth Vol 2(TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 145.91MiB

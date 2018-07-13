@@ -14,7 +14,7 @@ The Metabarons 01 - Othon (2012) (Digital) (phillywilly-Empire).cbr | 114.79MiB
 The Metabarons 02 - Honorata (2012) (Digital) (phillywilly-Empire).cbr | 142.62MiB
 The Metabarons 03 - Aghnar (2012) (Digital) (phillywilly-Empire).cbr | 124.84MiB
 The Metabarons 04 - Oda (2012) (Digital) (phillywilly-Empire).cbr | 125.50MiB
-The Metabarons 05 - Steelhead (2012) (Digital) (phillywilly-Empire).cbr | 147.56MiB
-The Metabarons 06 - Dona Vicenta (2012) (Digital) (phillywilly-Empire).cbr | 140.40MiB
-The Metabarons 07 - Aghora (2012) (Digital) (phillywilly-Empire).cbr | 131.27MiB
-The Metabarons 08 - No Name, The Last Metabaron (2012) (Digital) (phillywilly-Empire).cbr | 137.02MiB
+[The Metabarons 05 - Steelhead (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-05-Steelhead-2012-Digital-phillywilly-Empire-cbr.md) | 147.56MiB
+[The Metabarons 06 - Dona Vicenta (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-06-Dona-Vicenta-2012-Digital-phillywilly-Empire-cbr.md) | 140.40MiB
+[The Metabarons 07 - Aghora (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-07-Aghora-2012-Digital-phillywilly-Empire-cbr.md) | 131.27MiB
+[The Metabarons 08 - No Name, The Last Metabaron (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-08-No-Name-Last-Metabaron-2012-Digital-phillywilly-Empire-cbr.md) | 137.02MiB

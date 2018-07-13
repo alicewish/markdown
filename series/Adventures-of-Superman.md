@@ -83,6 +83,12 @@ The Adventures of Superman, 1988-03-00 (#440) (digital) (Glorith-Novus-HD).cbz |
 Adventures of Superman 441 (1988) (Digital) (AnHeroGold-Empire).cbz | 32.03MiB
 The Adventures of Superman 444 (1988-07) (digital) (Glorith-Novus-HD).cbz | [36.19MiB](https://pan.baidu.com/s/1bl8eUzr6Pw_VIt0kBJJlqA#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-12-30%2F%E3%82%A2%E3%82%AD%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%A8%E3%82%A4%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%BF%E3%82%B7%E3%82%B9%E3%82%AB%E3%82%AF%E3%82%A6%E3%82%AA%E3%82%AB%E3%82%B1%E3%82%B3%E3%82%AB%E3%82%AF%E3%82%B3%E3%82%B5%E3%82%AF%E3%82%A2%E3%82%A2%E3%82%A2%E3%82%A2%E3%82%A2%E3%82%A4%E3%82%A8&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)
 The Adventures of Superman, 1988-07-00 (#444) (digital) (Glorith-Novus-HD).cbz | 36.19MiB
+The Adventures of Superman, 1988-08-00 (#445) (scan) (MaidOfMight-HD).cbz | 43.01MiB
+The Adventures of Superman, 1988-09-00 (#446) (scan) (MaidOfMight-HD).cbz | 45.02MiB
+The Adventures of Superman, 1988-10-00 (#447) (scan) (MaidOfMight-HD).cbz | 45.49MiB
+The Adventures of Superman, 1988-10-00 (#448) (scan) (MaidOfMight-HD).cbz | 44.99MiB
+The Adventures of Superman, 1988-10-00 (#449) (scan) (MaidOfMight-HD).cbz | 46.43MiB
+The Adventures of Superman, 1988-11-00 (#450) (scan) (MaidOfMight-HD).cbz | 44.55MiB
 The Adventures of Superman 452 (1989-01) (digital) (Glorith-Novus-HD).cbz | [34.11MiB](https://pan.baidu.com/s/1bl8eUzr6Pw_VIt0kBJJlqA#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-12-30%2F%E3%82%B3%E3%82%AA%E3%82%A6%E3%82%B7%E3%82%AA%E3%82%B5%E3%82%B5%E3%82%B3%E3%82%A4%E3%82%B1%E3%82%B5%E3%82%A2%E3%82%A2%E3%82%BB%E3%82%BB%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%B5%E3%82%B9%E3%82%B7%E3%82%A8%E3%82%AB%E3%82%A2%E3%82%BD%E3%82%AD%E3%82%BF%E3%82%B5%E3%82%B5&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)
 The Adventures of Superman, 1989-01-00 (#452) (digital) (Glorith-Novus-HD).cbz | 34.11MiB
 The Adventures of Superman 453 (1989-02) (digital) (Glorith-Novus-HD).cbz | [33.29MiB](https://pan.baidu.com/s/1bl8eUzr6Pw_VIt0kBJJlqA#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-12-30%2F%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%A4%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%B7%E3%82%BB%E3%82%A8%E3%82%AA%E3%82%A2%E3%82%AF%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%AD%E3%82%BD%E3%82%BB%E3%82%B1%E3%82%BF%E3%82%B1%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%A2%E3%82%BB%E3%82%AA%E3%82%BB%E3%82%BF%E3%82%B7%E3%82%AA&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)

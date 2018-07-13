@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr | 59.04MiB
+[All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Captain-America-Special-001-2015-Digital-Zone-Empire-cbr.md) | 59.04MiB
 [Amazing Spider-Man Special 01 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-Special-01-2015-digital-Minutemen-InnerDemons-cbr.md) | 63.86MiB
 [Inhuman Special 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-Special-01-2015-digital-Minutemen-Faessla-cbz.md) | 71.73MiB

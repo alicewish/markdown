@@ -54,9 +54,9 @@ Judge Dredd 024 (2014) (Digital-Empire).cbr | 39.76MiB
 Judge Dredd 025 (2014) (Digital-Empire).cbr | 33.68MiB
 Judge Dredd 026 (2014) (Digital-Empire).cbr | 35.79MiB
 Judge Dredd 027 (2015) (Digital-Empire).cbr | 36.33MiB
-Judge Dredd 028 (2015) (Digital-Empire).cbr | 37.67MiB
-Judge Dredd 029 (2015) (Digital) (Cypher 2.0-Empire).cbr | 32.76MiB
-Judge Dredd 030 (2015) (Digital) (Cypher 2.0-Empire).cbr | 32.24MiB
+[Judge Dredd 028 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-028-2015-Digital-Empire-cbr.md) | 37.67MiB
+[Judge Dredd 029 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-029-2015-Digital-Cypher-2-0-Empire-cbr.md) | 32.76MiB
+[Judge Dredd 030 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-030-2015-Digital-Cypher-2-0-Empire-cbr.md) | 32.24MiB
 &emsp;【Judge Dredd (2012-2017)/Judge Dredd (001-030+)(2012-2015)(digital)/Judge Dredd TPBs (v01-v07)(2013-2015)(digital)】 | 
 Judge Dredd v01 (2013) (digital) (Minutemen-Thoth).cbr | 211.86MiB
 Judge Dredd v02 (2013) (digital) (Minutemen-Thoth).cbr | 151.10MiB

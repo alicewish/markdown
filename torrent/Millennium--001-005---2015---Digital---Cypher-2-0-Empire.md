@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [Millennium 001 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Millennium-001-2015-Digital-Cypher-2-0-Empire-cbr.md) | 24.33MiB
-Millennium 002 (2015) (Digital) (Cypher 2.0-Empire).cbr | 20.36MiB
+[Millennium 002 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Millennium-002-2015-Digital-Cypher-2-0-Empire-cbr.md) | 20.36MiB
 [Millennium 003 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Millennium-003-2015-Digital-Cypher-2-0-Empire-cbr.md) | 19.31MiB
-Millennium 004 (2015) (Digital) (Cypher 2.0-Empire).cbr | 18.60MiB
+[Millennium 004 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Millennium-004-2015-Digital-Cypher-2-0-Empire-cbr.md) | 18.60MiB
 [Millennium 005 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Millennium-005-2015-Digital-Cypher-2-0-Empire-cbr.md) | 21.81MiB

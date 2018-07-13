@@ -42,6 +42,7 @@ Eerie Archives v12 (2013) (Digital-Empire).cbr | 578.97MiB
 Eerie Archives v13 (2013) (Digital-Empire).cbr | 537.13MiB
 Eerie Archives v14 (2013) (Digital-Empire).cbr | 523.71MiB
 Eerie Archives v15 (2014) (Digital-Empire).cbr | 594.33MiB
+Eerie Archives v16 (2014) (Digital-Empire).cbr | 622.78MiB
 Eerie Archives v19 (2015) (Digital-Empire).cbr | 318.18MiB
 Eerie Archives v20 (2015) (Digital-Empire).cbr | 273.31MiB
 Eerie Archives v21 (2016) (Digital) (Bean-Empire).cbz | 431.59MiB

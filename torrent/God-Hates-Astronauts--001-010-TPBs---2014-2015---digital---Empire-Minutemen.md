@@ -18,8 +18,8 @@ God Hates Astronauts 004 (2014) (digital) (Eos-Empire).cbr | 57.18MiB
 [God Hates Astronauts 005 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-005-2015-digital-Eos-Empire-cbr.md) | 51.78MiB
 God Hates Astronauts 006 (2015) (digital) (Eos-Empire).cbr | 59.00MiB
 [God Hates Astronauts 007 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-007-2015-digital-Eos-Empire-cbr.md) | 62.90MiB
-God Hates Astronauts 008 (2015) (Digital-Empire).cbr | 58.98MiB
-God Hates Astronauts 009 (2015) (Digital-Empire).cbr | 55.27MiB
+[God Hates Astronauts 008 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-008-2015-Digital-Empire-cbr.md) | 58.98MiB
+[God Hates Astronauts 009 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-009-2015-Digital-Empire-cbr.md) | 55.27MiB
 [God Hates Astronauts 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-010-2015-Digital-Zone-Empire-cbr.md) | 55.17MiB
 God Hates Astronauts v01 (2013) (digital) (Minutemen-Spaztastic).cbr | 315.53MiB
 God Hates Astronauts v02 - A Star Is Born (2015) (digital) (Minutemen-Bluntman).cbr | 256.56MiB

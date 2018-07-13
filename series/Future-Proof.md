@@ -16,7 +16,7 @@ Bliss On Tap
 
 Online | Download
 --- | ---
-Future Proof 004 (2015) (digital-Empire).cbr | [40.01MiB](https://pan.baidu.com/s/1skOxALv#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.25%2F%E3%82%AD%E3%82%A2%E3%82%BB%E3%82%A6%E3%82%A8%E3%82%A6%E3%82%B7%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%AA%E3%82%B3%E3%82%AF%E3%82%B1%E3%82%AF%E3%82%A8%E3%82%BB%E3%82%A8%E3%82%B7%E3%82%A4%E3%82%AF%E3%82%AA%E3%82%AA%E3%82%B9%E3%82%BD%E3%82%BF%E3%82%AF%E3%82%AA%E3%82%BD%E3%82%B3%E3%82%B5%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[Future Proof 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Proof-004-2015-digital-Empire-cbr.md) | [40.01MiB](https://pan.baidu.com/s/1skOxALv#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.03.25%2F%E3%82%AD%E3%82%A2%E3%82%BB%E3%82%A6%E3%82%A8%E3%82%A6%E3%82%B7%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%AA%E3%82%B3%E3%82%AF%E3%82%B1%E3%82%AF%E3%82%A8%E3%82%BB%E3%82%A8%E3%82%B7%E3%82%A4%E3%82%AF%E3%82%AA%E3%82%AA%E3%82%B9%E3%82%BD%E3%82%BF%E3%82%AF%E3%82%AA%E3%82%BD%E3%82%B3%E3%82%B5%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
 Future Proof 005 (2015) (Digital) (LostNerevarine-Empire).cbz | 42.44MiB
 Future Proof 006 (2015) (Digital) (LostNerevarine-Empire).cbz | 37.39MiB
 Future Proof 007 (2015) (Digital) (LostNerevarine-Empire).cbz | 29.48MiB

@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 &emsp;【Secret Wars Journal (001-005) (2015) (digital) (Minutemen-Bluntman)】 | 
-Secret Wars Journal 01 (of 05) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr | 46.46MiB
-Secret Wars Journal 02 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr | 48.66MiB
+[Secret Wars Journal 01 (of 05) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-01-of-05-2015-3-covers-digital-Minutemen-Bluntman-cbr.md) | 46.46MiB
+[Secret Wars Journal 02 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-02-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 48.66MiB
 [Secret Wars Journal 03 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-03-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 36.20MiB
 [Secret Wars Journal 04 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Journal-04-of-05-2015-digital-Minutemen-Bluntman-cbr.md) | 43.78MiB
 Secret Wars Journal 05 (of 05) (2015) (digital) (Minutemen-Bluntman).cbr | 35.66MiB

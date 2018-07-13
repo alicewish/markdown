@@ -13,8 +13,8 @@ Online | Download
 Imperium - Prelude (2015) (digital) (Son of Ultron-Empire).cbr | 4.71MiB
 Imperium 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.07MiB
 Imperium 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 43.69MiB
-Imperium 003 (2015) (digital) (Minutemen-Spaztastic).cbr | 48.44MiB
-Imperium 004 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.55MiB
+[Imperium 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.44MiB
+[Imperium 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.55MiB
 [Imperium 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.81MiB
 [Imperium 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 51.09MiB
 [Imperium 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.54MiB

@@ -17,8 +17,8 @@ The Tower Chronicles, Book 2 - DreadStalker 004 (2014) (digital) (Son of Ultron-
 The Tower Chronicles, Book 2 - DreadStalker 005 (2014) (digital) (Son of Ultron-Empire).cbr | 45.05MiB
 The Tower Chronicles, Book 2 - DreadStalker 006 (2015) (digital) (Son of Ultron-Empire).cbr | 42.07MiB
 The Tower Chronicles, Book 2 - DreadStalker 007 (2015) (digital) (Son of Ultron-Empire).cbr | 37.53MiB
-The Tower Chronicles, Book 2 - DreadStalker 008 (2015) (digital) (Son of Ultron-Empire).cbr | 41.09MiB
-The Tower Chronicles, Book 2 - DreadStalker 009 (2015) (digital) (Son of Ultron-Empire).cbr | 40.77MiB
-The Tower Chronicles, Book 2 - DreadStalker 010 (2015) (digital) (Son of Ultron-Empire).cbr | 42.65MiB
-The Tower Chronicles, Book 2 - DreadStalker 011 (2015) (digital) (Son of Ultron-Empire).cbr | 40.24MiB
+[The Tower Chronicles, Book 2 - DreadStalker 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 41.09MiB
+[The Tower Chronicles, Book 2 - DreadStalker 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.77MiB
+[The Tower Chronicles, Book 2 - DreadStalker 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.65MiB
+[The Tower Chronicles, Book 2 - DreadStalker 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.24MiB
 [The Tower Chronicles, Book 2 - DreadStalker 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.96MiB

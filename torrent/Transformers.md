@@ -557,9 +557,9 @@ The Transformers - More Than Meets the Eye 035 (2014) (digital) (Minutemen-Phant
 The Transformers - More Than Meets the Eye 036 (2014) (digital) (Minutemen-Phantasm).cbz | 46.52MiB
 The Transformers - More Than Meets the Eye 037 (2015) (2 covers) (digital) (Minutemen-Phantasm).cbz | 52.03MiB
 The Transformers - More Than Meets the Eye 038 (2015) (digital) (Minutemen-Phantasm).cbz | 42.24MiB
-The Transformers - More Than Meets the Eye 039 (2015) (digital) (Minutemen-Phantasm).cbz | 35.59MiB
-The Transformers - More Than Meets the Eye 040 (2015) (F) (3 covers) (digital) (Minutemen-Phantasm).cbz | 35.10MiB
-The Transformers - More Than Meets the Eye 041 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz | 38.31MiB
+[The Transformers - More Than Meets the Eye 039 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-039-2015-digital-Minutemen-Phantasm-cbz.md) | 35.59MiB
+[The Transformers - More Than Meets the Eye 040 (2015) (F) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-040-2015-F-3-covers-digital-Minutemen-Phantasm-cbz.md) | 35.10MiB
+[The Transformers - More Than Meets the Eye 041 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-041-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 38.31MiB
 [The Transformers - More Than Meets the Eye 042 (2015) (2 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-042-2015-2-covers-digital-Minutemen-Phantasm-cbz.md) | 39.37MiB
 The Transformers - More Than Meets the Eye 043 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz | 40.46MiB
 [The Transformers - More Than Meets the Eye 044 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-044-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 37.01MiB
@@ -738,10 +738,10 @@ The Transformers 035 (2014) (digital) (Minutemen-Phantasm).cbz | 35.16MiB
 The Transformers 036 (2014) (digital) (Minutemen-Phantasm).cbz | 40.59MiB
 The Transformers 037 (2015) (digital) (Minutemen-Phantasm).cbz | 36.17MiB
 The Transformers 038 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz | 44.61MiB
-The Transformers 039 (2015) (digital) (Minutemen-Phantasm).cbz | 32.85MiB
-The Transformers 040 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz | 34.51MiB
-The Transformers 041 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz | 32.57MiB
-The Transformers 042 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz | 29.39MiB
+[The Transformers 039 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-039-2015-digital-Minutemen-Phantasm-cbz.md) | 32.85MiB
+[The Transformers 040 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-040-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 34.51MiB
+[The Transformers 041 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-041-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 32.57MiB
+[The Transformers 042 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-042-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 29.39MiB
 [The Transformers 043 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-043-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 34.89MiB
 [The Transformers 044 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-044-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 31.95MiB
 [The Transformers 045 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-045-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 34.18MiB

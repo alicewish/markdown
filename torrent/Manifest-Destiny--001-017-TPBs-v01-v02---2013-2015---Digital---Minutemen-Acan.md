@@ -21,8 +21,8 @@ Manifest Destiny 010 (2014) (Digital) (Minutemen-Acan).cbr | 64.50MiB
 Manifest Destiny 011 (2014) (Digital) (Minutemen-Acan).cbr | 61.71MiB
 Manifest Destiny 012 (2014) (Digital) (Minutemen-Acan).cbr | 68.69MiB
 Manifest Destiny 013 (2015) (Digital) (Minutemen-Acan).cbr | 64.10MiB
-Manifest Destiny 014 (2015) (Digital) (Minutemen-Acan).cbr | 65.39MiB
-Manifest Destiny 015 (2015) (Digital) (Minutemen-Acan).cbr | 63.92MiB
+[Manifest Destiny 014 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-014-2015-Digital-Minutemen-Acan-cbr.md) | 65.39MiB
+[Manifest Destiny 015 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-015-2015-Digital-Minutemen-Acan-cbr.md) | 63.92MiB
 [Manifest Destiny 016 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-016-2015-Digital-Minutemen-Acan-cbr.md) | 64.88MiB
 [Manifest Destiny 017 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-017-2015-Digital-Minutemen-Acan-cbr.md) | 60.50MiB
 Manifest Destiny v01 - Flora and Fauna (2014) (Digital) (Zone-Empire).cbr | 272.76MiB

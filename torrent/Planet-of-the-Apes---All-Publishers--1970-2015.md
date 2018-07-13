@@ -85,8 +85,8 @@ Dawn of the Planet of the Apes 01 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cb
 Dawn of the Planet of the Apes 02 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cbr | 38.77MiB
 Dawn of the Planet of the Apes 03 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cbz | 38.12MiB
 Dawn of the Planet of the Apes 04 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz | 41.99MiB
-Dawn of the Planet of the Apes 05 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz | 42.74MiB
-Dawn of the Planet of the Apes 06 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz | 43.03MiB
+[Dawn of the Planet of the Apes 05 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-05-of-6-2015-Digital-Rip-Harkonnen-DCP-cbz.md) | 42.74MiB
+[Dawn of the Planet of the Apes 06 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-06-of-6-2015-Digital-Rip-Harkonnen-DCP-cbz.md) | 43.03MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2015)/Boom! (2011-2015)/Dawn Of The Planet Of The Apes (001-006)(2014-2015)(Digital)(Harkonnen-DCP)/Extras】 | 
 Dawn of the Planet of the Apes - Contagion (2014) (SDCC) (Pirate-Empire & GreenGiant-DCP).cbr | 34.84MiB
 Dawn of the Planet of the Apes 01 (2014) (2 Variants Only) \[extracted\] (Jojo).cbr | 1.54MiB
@@ -119,8 +119,8 @@ Planet of the Apes Spectacular 01 (2013) (digital) (Minutemen-InnerPhDemons).cbr
 Star Trek Planet Of The Apes 001(2014)(4 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 50.34MiB
 Star Trek Planet Of The Apes 002(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 55.46MiB
 Star Trek Planet Of The Apes 003(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 51.32MiB
-Star Trek Planet Of The Apes 004(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 57.00MiB
-Star Trek Planet Of The Apes 005(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 56.70MiB
+[Star Trek Planet Of The Apes 004(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-004-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 57.00MiB
+[Star Trek Planet Of The Apes 005(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-005-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 56.70MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2015)/Curtis (1974-1977)】 | 
 Planet of the Apes Magazine 001 (1974).cbz | 22.38MiB
 Planet of the Apes Magazine 002 (1974) (c2c) (Mal32-Gambit).cbz | 57.03MiB

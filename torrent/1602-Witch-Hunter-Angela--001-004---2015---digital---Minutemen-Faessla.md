@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-1602 Witch Hunter Angela 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 36.95MiB
+[1602 Witch Hunter Angela 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-001-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 36.95MiB
 [1602 Witch Hunter Angela 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 31.10MiB
 [1602 Witch Hunter Angela 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 37.60MiB
 [1602 Witch Hunter Angela 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/1602-Witch-Hunter-Angela-004-2015-digital-Minutemen-Faessla-cbz.md) | 33.81MiB

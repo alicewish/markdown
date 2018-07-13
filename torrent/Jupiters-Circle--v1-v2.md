@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 &emsp;【Jupiter's Circle (v1-v2)/Jupiter's Circle v1 (001-006+)(2015)(digital)(Minutemen-Spaztastic)】 | 
-Jupiter's Circle 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.53MiB
-Jupiter's Circle 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 38.02MiB
+[Jupiter's Circle 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jupiters-Circle-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.53MiB
+[Jupiter's Circle 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jupiters-Circle-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 38.02MiB
 [Jupiter's Circle 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jupiters-Circle-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 37.98MiB
 [Jupiter's Circle 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jupiters-Circle-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 35.08MiB
 [Jupiter's Circle 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jupiters-Circle-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 36.21MiB

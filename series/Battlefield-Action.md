@@ -37,6 +37,7 @@ Battlefield Action 75 Charlton 1982 upgrade to c2c Unk+TF.cbz | 26.42MiB
 Battlefield Action 76 Charlton 1982 upgrade to c2c Unk+TF.cbz | 23.93MiB
 Battlefield Action 078 (Charlton 1982) (c2c) (titansfan).cbz | 26.67MiB
 Battlefield Action 81 Charlton 1983 Titansfan.cbz | 25.89MiB
+Battlefield Action 088 Charlton Sep 1984 ComicWanderer.cbz | 49.60MiB
 Battlefield Action 033 (1960) (Charlton) (c2c) (narfstar).cbz | 10.75MiB
 Battlefield Action 034 (1960) (Charlton) (c2c) (narfstar).cbz | 53.12MiB
 Battlefield Action 035 (1961) (Charlton) (INC).cbr | 22.34MiB

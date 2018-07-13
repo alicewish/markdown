@@ -32,10 +32,10 @@ The X-Files - Season 10 017 (2014) (Digital) (Darkness-Empire).cbr | 29.51MiB
 The X-Files - Season 10 018 (2014) (Digital) (Darkness-Empire).cbr | 19.38MiB
 The X-Files - Season 10 019 (2014) (Digital) (Darkness-Empire).cbr | 33.76MiB
 The X-Files - Season 10 020 (2015) (Digital) (Darkness-Empire).cbr | 32.36MiB
-The X-Files - Season 10 021 (2015) (Digital) (AnHeroGold-Empire).cbz | 32.76MiB
+[The X-Files - Season 10 021 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Files-Season-10-021-2015-Digital-AnHeroGold-Empire-cbz.md) | 32.76MiB
 [The X-Files - Season 10 022 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Files-Season-10-022-2015-Digital-AnHeroGold-Empire-cbz.md) | 18.68MiB
-The X-Files - Season 10 023 (2015) (Digital) (AnHeroGold-Empire).cbz | 19.93MiB
-The X-Files - Season 10 024 (2015) (Digital) (AnHeroGold-Empire).cbz | 22.46MiB
+[The X-Files - Season 10 023 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Files-Season-10-023-2015-Digital-AnHeroGold-Empire-cbz.md) | 19.93MiB
+[The X-Files - Season 10 024 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Files-Season-10-024-2015-Digital-AnHeroGold-Empire-cbz.md) | 22.46MiB
 [The X-Files - Season 10 025 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Files-Season-10-025-2015-Digital-AnHeroGold-Empire-cbz.md) | 55.15MiB
 The X-Files - Season 10 v02 (2014) (Digital) (DR & Quinch-Empire).cbr | 156.65MiB
 The X-Files - Season 10 v03 (2014) (Digital) (DR & Quinch-Empire).cbr | 121.16MiB

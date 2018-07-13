@@ -14,9 +14,9 @@ Star Wars 001 (2015) (4-page preview) (digital) (atomicmass77-DCP).cbr | 3.25MiB
 [Star Wars 001 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-001-2015-digital-Minutemen-Midas-cbr.md) | 64.04MiB
 Star Wars 001 (2015) 53 Different Variant Covers Only (b0bafett).cbr | 29.03MiB
 Star Wars 002 (2015) (digital) (Minutemen-Midas).cbr | 35.48MiB
-Star Wars 003 (2015) (digital) (Minutemen-Midas).cbr | 36.67MiB
-Star Wars 004 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 33.85MiB
-Star Wars 005 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 33.09MiB
+[Star Wars 003 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-003-2015-digital-Minutemen-Midas-cbr.md) | 36.67MiB
+[Star Wars 004 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-004-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 33.85MiB
+[Star Wars 005 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-005-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 33.09MiB
 [Star Wars 006 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-006-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 36.46MiB
 [Star Wars 007 (2015) (5 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-007-2015-5-covers-digital-Minutemen-Midas-cbr.md) | 35.79MiB
 [Star Wars 008 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-008-2015-digital-Minutemen-Midas-cbr.md) | 37.93MiB

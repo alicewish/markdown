@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Where Monsters Dwell Vol 2 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 49.75MiB
+[Where Monsters Dwell Vol 2 001(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-001-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.75MiB
 [Where Monsters Dwell Vol 2 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.91MiB
 [Where Monsters Dwell Vol 2 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.37MiB
 [Where Monsters Dwell Vol 2 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Where-Monsters-Dwell-Vol-2-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 50.81MiB

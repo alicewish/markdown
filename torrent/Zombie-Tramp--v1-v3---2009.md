@@ -60,10 +60,10 @@ Zombie Tramp v3 004 (2014) (Digital) (Monafekk-Empire).cbr | 29.03MiB
 [Zombie Tramp v3 005 (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-005-2014-Digital-Monafekk-Empire-cbr.md) | 35.48MiB
 Zombie Tramp v3 006 (2015) (Digital) (Monafekk-Empire).cbr | 35.72MiB
 [Zombie Tramp v3 007 (2015) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-007-2015-Digital-Monafekk-Empire-cbr.md) | 35.50MiB
-Zombie Tramp v3 008 (2015) (Digital) (Monafekk-Empire).cbr | 32.96MiB
+[Zombie Tramp v3 008 (2015) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-008-2015-Digital-Monafekk-Empire-cbr.md) | 32.96MiB
 [Zombie Tramp v3 009 (2015) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-009-2015-Digital-Monafekk-Empire-cbr.md) | 32.19MiB
-Zombie Tramp v3 010 (2015) (Digital) (Monafekk-Empire).cbr | 36.64MiB
-Zombie Tramp v3 011 (2015) (Digital) (Monafekk-Empire).cbr | 28.34MiB
+[Zombie Tramp v3 010 (2015) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-010-2015-Digital-Monafekk-Empire-cbr.md) | 36.64MiB
+[Zombie Tramp v3 011 (2015) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-011-2015-Digital-Monafekk-Empire-cbr.md) | 28.34MiB
 Zombie Tramp v3 012 (2015) (Digital) (Monafekk-Empire).cbr | 27.90MiB
 [Zombie Tramp v3 013 (2015) (Digital) (TheArchivist-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-013-2015-Digital-TheArchivist-Empire-cbr.md) | 24.94MiB
 [Zombie Tramp v3 014 (2015) (Digital) (TheArchivist-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-014-2015-Digital-TheArchivist-Empire-cbr.md) | 40.31MiB

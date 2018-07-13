@@ -204,10 +204,10 @@ Scooby-Doo Team-Up 013 (2014) (digital) (Son of Ultron-Empire).cbr | 26.10MiB
 Scooby-Doo Team-Up 014 (2014) (digital) (Son of Ultron-Empire).cbr | 23.69MiB
 [Scooby-Doo Team-Up 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.18MiB
 Scooby-Doo Team-Up 016 (2015) (digital) (Son of Ultron-Empire).cbr | 14.51MiB
-Scooby-Doo Team-Up 017 (2015) (digital) (Son of Ultron-Empire).cbr | 14.82MiB
-Scooby-Doo Team-Up 018 (2015) (digital) (Son of Ultron-Empire).cbr | 15.68MiB
-Scooby-Doo Team-Up 019 (2015) (digital) (Son of Ultron-Empire).cbr | 15.06MiB
-Scooby-Doo Team-Up 020 (2015) (digital) (Son of Ultron-Empire).cbr | 18.80MiB
+[Scooby-Doo Team-Up 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.82MiB
+[Scooby-Doo Team-Up 018 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-018-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.68MiB
+[Scooby-Doo Team-Up 019 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-019-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.06MiB
+[Scooby-Doo Team-Up 020 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-020-2015-digital-Son-of-Ultron-Empire-cbr.md) | 18.80MiB
 [Scooby-Doo Team-Up 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 13.30MiB
 [Scooby-Doo Team-Up 022 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-022-2015-digital-Son-of-Ultron-Empire-cbr.md) | 12.74MiB
 &emsp;【Scooby-Doo/Scooby Doo (DC)/Scooby-Doo Where Are You (001-060)(2010-2015)】 | 
@@ -266,10 +266,10 @@ Scooby-Doo, Where Are You 051 (2015) (digital) (Son of Ultron-Empire).cbr | 50.0
 Scooby-Doo, Where Are You 052 (2015) (digital) (Son of Ultron-Empire).cbr | 46.93MiB
 [Scooby-Doo, Where Are You 053 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-053-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.79MiB
 Scooby-Doo, Where Are You 054 (2015) (digital) (Son of Ultron-Empire).cbr | 31.55MiB
-Scooby-Doo, Where Are You 055 (2015) (digital) (Son of Ultron-Empire).cbr | 31.05MiB
-Scooby-Doo, Where Are You 056 (2015) (digital) (Son of Ultron-Empire).cbr | 30.55MiB
-Scooby-Doo, Where Are You 057 (2015) (digital) (Son of Ultron-Empire).cbr | 31.64MiB
-Scooby-Doo, Where Are You 058 (2015) (digital) (Son of Ultron-Empire).cbr | 27.91MiB
+[Scooby-Doo, Where Are You 055 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-055-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.05MiB
+[Scooby-Doo, Where Are You 056 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-056-2015-digital-Son-of-Ultron-Empire-cbr.md) | 30.55MiB
+[Scooby-Doo, Where Are You 057 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-057-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.64MiB
+[Scooby-Doo, Where Are You 058 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-058-2015-digital-Son-of-Ultron-Empire-cbr.md) | 27.91MiB
 [Scooby-Doo, Where Are You 059 (2015) (digital) (Li'l Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-059-2015-digital-Lil-Ultron-Empire-cbr.md) | 19.00MiB
 &emsp;【Scooby-Doo/Scooby Doo (Gold Key)/Mystery Comics (017-021,024,025,027)(1973-1974)】 | 
 Scooby Doo Mystery Comics 017 (1973) (Gold Key) (c2c).cbr | 7.03MiB

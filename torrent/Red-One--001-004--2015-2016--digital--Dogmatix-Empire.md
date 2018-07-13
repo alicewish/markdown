@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Red One 001 (2015) (Digital) (Zone-Empire).cbr | 54.58MiB
-Red One 002 (2015) (uHD) (Digital) (Dogmatix-Empire).cbr | 92.67MiB
+[Red One 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-One-001-2015-Digital-Zone-Empire-cbr.md) | 54.58MiB
+[Red One 002 (2015) (uHD) (Digital) (Dogmatix-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-One-002-2015-uHD-Digital-Dogmatix-Empire-cbr.md) | 92.67MiB
 [Red One 003 (2016) (Digital) (Dogmatix-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-One-003-2016-Digital-Dogmatix-Empire-cbr.md) | 81.01MiB
 [Red One 004 (2016) (Digital) (Dogmatix-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-One-004-2016-Digital-Dogmatix-Empire-cbr.md) | 71.90MiB

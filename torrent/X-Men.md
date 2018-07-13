@@ -51,7 +51,7 @@ Online | Download
 [All-New X-Men 038 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-038-2015-digital-Minutemen-Faessla-cbz.md) | 34.45MiB
 [All-New X-Men 039 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-039-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 34.43MiB
 [All-New X-Men 040 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-040-2015-digital-Minutemen-Faessla-cbz.md) | 32.70MiB
-All-New X-Men 041 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 33.19MiB
+[All-New X-Men 041 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-041-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 33.19MiB
 [All-New X-Men Annual 01 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-Annual-01-2015-digital-Minutemen-PhD-cbr.md) | 52.40MiB
 [All-New X-Men Special 01 (2013) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-Special-01-2013-digital-Minutemen-PhD-cbr.md) | 51.49MiB
 &emsp;【X-Men/New X-Men v1 (114-156+Annual 01) (2001-2004) (digital) (Minutemen-Bluntman)】 | 
@@ -636,4 +636,4 @@ X-Men Giant-Size 01 (2011) (digital) (Minutemen-PhD).cbr | 48.04MiB
 [X-Men 023 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-023-2015-digital-Minutemen-PhD-cbr.md) | 35.88MiB
 [X-Men 024 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Men-024-2015-digital-Minutemen-Faessla-cbz.md) | 31.91MiB
 [X-Men 025 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Men-025-2015-digital-Minutemen-Faessla-cbz.md) | 29.65MiB
-X-Men 026 (2015) (digital) (Minutemen-Faessla).cbz | 33.63MiB
+[X-Men 026 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/X-Men-026-2015-digital-Minutemen-Faessla-cbz.md) | 33.63MiB

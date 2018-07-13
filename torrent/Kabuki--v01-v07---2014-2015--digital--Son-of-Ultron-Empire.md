@@ -43,31 +43,31 @@ Kabuki v02 002 - Dreams (2014) (digital) (Son of Ultron-Empire).cbr | 50.52MiB
 Kabuki v03 001 - Masks of the Noh (2015) (digital) (Son fo Ultron-Empire).cbr | 36.35MiB
 Kabuki v03 002 - Masks of the Noh (2015) (digital) (Son of Ultron-Empire).cbr | 33.49MiB
 Kabuki v03 003 - Masks of the Noh (2015) (digital) (Son of Ultron-Empire).cbr | 35.14MiB
-Kabuki v03 004 - Masks of the Noh (2015) (digital) (Son of Ultron-Empire).cbr | 39.88MiB
+[Kabuki v03 004 - Masks of the Noh (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v03-004-Masks-of-Noh-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.88MiB
 &emsp;【Kabuki (v01-v07+)(2014-2015)(digital)(Son of Ultron-Empire)/Kabuki v03 (001-004) (2015) (digital) (Son fo Ultron-Empire)/Variant Covers】 | 
 Kabuki - Masks of the Noh v1 001 (Gold Combo variant)(1996)(cover only)(PeteThePIPster).cbz | 800.79KiB
 Kabuki - Masks of the Noh v1 001 (Scarab variant)(1996)(cover only)(PeteThePIPster).cbz | 736.11KiB
 Kabuki - Masks of the Noh v1 001 (Siamese variant)(1996)(cover only)(PeteThePIPster).cbz | 936.41KiB
 &emsp;【Kabuki (v01-v07+)(2014-2015)(digital)(Son of Ultron-Empire)/Kabuki v04 (001-003) (2015) (digital) (Son of Ultron-Empire)】 | 
-Kabuki v04 001 - Skin Deep (2015) (digital) (Son of Ultron-Empire).cbr | 62.15MiB
-Kabuki v04 002 - Skin Deep (2015) (digital) (Son of Ultron-Empire).cbr | 81.51MiB
+[Kabuki v04 001 - Skin Deep (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v04-001-Skin-Deep-2015-digital-Son-of-Ultron-Empire-cbr.md) | 62.15MiB
+[Kabuki v04 002 - Skin Deep (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v04-002-Skin-Deep-2015-digital-Son-of-Ultron-Empire-cbr.md) | 81.51MiB
 [Kabuki v04 003 - Skin Deep (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v04-003-Skin-Deep-2015-digital-Son-of-Ultron-Empire-cbr.md) | 94.64MiB
 &emsp;【Kabuki (v01-v07+)(2014-2015)(digital)(Son of Ultron-Empire)/Kabuki v05 (001-009) (2015) (digital) (Son of Ultron-Empire)】 | 
 Kabuki - Metamorphosis 004 (1998) (Variant Cover Only) (Image) (PeteThePIPster).cbz | 912.68KiB
-Kabuki v05 001 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 97.47MiB
-Kabuki v05 002 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 75.12MiB
-Kabuki v05 003 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 79.37MiB
-Kabuki v05 004 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 58.09MiB
-Kabuki v05 005 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 72.51MiB
-Kabuki v05 006 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 71.93MiB
-Kabuki v05 007 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 65.73MiB
-Kabuki v05 008 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr | 64.44MiB
+[Kabuki v05 001 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-001-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 97.47MiB
+[Kabuki v05 002 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-002-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 75.12MiB
+[Kabuki v05 003 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-003-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 79.37MiB
+[Kabuki v05 004 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-004-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 58.09MiB
+[Kabuki v05 005 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-005-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 72.51MiB
+[Kabuki v05 006 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-006-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 71.93MiB
+[Kabuki v05 007 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-007-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 65.73MiB
+[Kabuki v05 008 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-008-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 64.44MiB
 [Kabuki v05 009 - Metamorphosis (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v05-009-Metamorphosis-2015-digital-Son-of-Ultron-Empire-cbr.md) | 89.67MiB
 &emsp;【Kabuki (v01-v07+)(2014-2015)(digital)(Son of Ultron-Empire)/Kabuki v06 (001-008) (2015) (digital) (Son of Ultron-Empire)】 | 
 Kabuki Agents - Scarab 01 (1999) (3 Variants Only).cbr | 745.38KiB
-Kabuki v06 001 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr | 37.39MiB
-Kabuki v06 002 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr | 31.22MiB
-Kabuki v06 003 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr | 43.45MiB
+[Kabuki v06 001 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v06-001-Scarab-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.39MiB
+[Kabuki v06 002 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v06-002-Scarab-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.22MiB
+[Kabuki v06 003 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v06-003-Scarab-2015-digital-Son-of-Ultron-Empire-cbr.md) | 43.45MiB
 [Kabuki v06 004 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v06-004-Scarab-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.74MiB
 [Kabuki v06 005 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v06-005-Scarab-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.88MiB
 [Kabuki v06 006 - Scarab (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kabuki-v06-006-Scarab-2015-digital-Son-of-Ultron-Empire-cbr.md) | 27.81MiB

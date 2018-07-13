@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Enormous - Field Guide 001 (2015) (digital) (DR & Quinch-Empire).cbr | 79.73MiB
+[Enormous - Field Guide 001 (2015) (digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Enormous-Field-Guide-001-2015-digital-DR-Quinch-Empire-cbr.md) | 79.73MiB
 Enormous 001 (2014) (Digital) (DR & Quinch-Empire).cbr | 84.97MiB
 Enormous 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 48.77MiB
 Enormous 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 47.28MiB

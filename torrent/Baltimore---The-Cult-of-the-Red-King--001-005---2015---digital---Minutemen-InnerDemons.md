@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Baltimore - The Cult of the Red King 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 18.22MiB
+[Baltimore - The Cult of the Red King 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-01-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.22MiB
 [Baltimore - The Cult of the Red King 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-02-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.22MiB
 [Baltimore - The Cult of the Red King 03 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Cult-of-Red-King-03-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.24MiB
 Baltimore - The Cult of the Red King 04 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 17.87MiB

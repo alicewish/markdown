@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Shaper 001 (2015) (digital) (Son of Ultron-Empire).cbr | 55.04MiB
-Shaper 002 (2015) (digital) (Son of Ultron-Empire).cbr | 38.13MiB
-Shaper 003 (2015) (digital) (Son of Ultron-Empire).cbr | 33.46MiB
-Shaper 004 (2015) (digital) (Son of Ultron-Empire).cbr | 34.88MiB
+[Shaper 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shaper-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.04MiB
+[Shaper 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shaper-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.13MiB
+[Shaper 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shaper-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.46MiB
+[Shaper 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shaper-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.88MiB
 [Shaper 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shaper-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.10MiB

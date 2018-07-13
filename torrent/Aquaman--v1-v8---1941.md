@@ -309,7 +309,7 @@ Aquaman - Sword of Atlantis 057 (2007) (1920) (Minutemen-TheDTsAndMe).cbr | 42.1
 [Aquaman 037 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-037-2015-Digital-BlackManta-Empire-cbr.md) | 37.87MiB
 [Aquaman 038 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-038-2015-Digital-BlackManta-Empire-cbr.md) | 44.42MiB
 [Aquaman 039 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-039-2015-Digital-BlackManta-Empire-cbr.md) | 44.64MiB
-Aquaman 040 (2015) (Digital) (BlackManta-Empire).cbr | 51.67MiB
+[Aquaman 040 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-040-2015-Digital-BlackManta-Empire-cbr.md) | 51.67MiB
 [Aquaman 041 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-041-2015-Digital-BlackManta-Empire-cbr.md) | 40.93MiB
 [Aquaman 042 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-042-2015-Digital-BlackManta-Empire-cbr.md) | 39.18MiB
 [Aquaman 043 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-043-2015-Digital-BlackManta-Empire-cbr.md) | 41.17MiB

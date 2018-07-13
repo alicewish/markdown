@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-Hellbreak 001 (2015) (Digital) (Mephisto-Empire).cbr | 45.27MiB
-Hellbreak 002 (2015) (Digital) (Mephisto-Empire).cbr | 33.68MiB
-Hellbreak 003 (2015) (Digital) (Mephisto-Empire).cbr | 29.71MiB
+[Hellbreak 001 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellbreak-001-2015-Digital-Mephisto-Empire-cbr.md) | 45.27MiB
+[Hellbreak 002 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellbreak-002-2015-Digital-Mephisto-Empire-cbr.md) | 33.68MiB
+[Hellbreak 003 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellbreak-003-2015-Digital-Mephisto-Empire-cbr.md) | 29.71MiB
 [Hellbreak 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellbreak-004-2015-Digital-Mephisto-Empire-cbr.md) | 30.95MiB
 [Hellbreak 005 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellbreak-005-2015-Digital-Mephisto-Empire-cbr.md) | 33.51MiB
 [Hellbreak 006 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellbreak-006-2015-Digital-Mephisto-Empire-cbr.md) | 28.20MiB

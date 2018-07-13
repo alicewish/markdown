@@ -20,4 +20,4 @@ Online | Download
 [Mercury Heat 008 (2016) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-008-2016-Digital-Mephisto-Empire-cbr.md) | 41.10MiB
 [Mercury Heat 009 (2016) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-009-2016-Digital-Mephisto-Empire-cbr.md) | 43.45MiB
 [Mercury Heat 010 (2016) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-010-2016-Digital-Mephisto-Empire-cbr.md) | 47.15MiB
-Mercury Heat Debut FCBD (2015) (Digital) (DR & Quinch-Empire).cbr | 37.21MiB
+[Mercury Heat Debut FCBD (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercury-Heat-Debut-FCBD-2015-Digital-DR-Quinch-Empire-cbr.md) | 37.21MiB

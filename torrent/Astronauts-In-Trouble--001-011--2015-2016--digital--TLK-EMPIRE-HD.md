@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Astronauts In Trouble 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.45MiB
+[Astronauts In Trouble 001(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Astronauts-In-Trouble-001-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.45MiB
 [Astronauts In Trouble 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Astronauts-In-Trouble-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.20MiB
 [Astronauts In Trouble 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Astronauts-In-Trouble-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 29.45MiB
 [Astronauts In Trouble 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Astronauts-In-Trouble-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 28.51MiB

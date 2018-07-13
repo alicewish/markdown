@@ -855,7 +855,7 @@ Captain America - Sam Wilson v01 (2016) (Digital) (Zone-Empire).cbr | 228.85MiB
 [Captain America - Steve Rogers 004 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-Steve-Rogers-004-2016-Digital-Zone-Empire-cbr.md) | 49.00MiB
 Captain America - Castaway In Dimension Z - Book 1 (2013) (Digital HC) (BroadCast-Empire).cbz | 280.98MiB
 Captain America - Castaway In Dimension Z - Book 2 (2014) (Digital) (BlackManta-Empire).cbr | 237.29MiB
-Captain America And The Falcon - Madbomb (TPB)(2016)(Digital)(TLK-EMPIRE-HD).cbr | 287.91MiB
+[Captain America And The Falcon - Madbomb (TPB)(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-Falcon-Madbomb-TPB-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 287.91MiB
 Captain America Golden Age Masterworks v01 (2005) (Digital) (Kileko-Empire).cbr | 379.97MiB
 Captain America Masterworks v1 (2010) (Digital) (AnHeroGold-Empire).cbz | 517.40MiB
 Captain America Masterworks v2 (2012) (Digital) (AnHeroGold-Empire).cbz | 452.01MiB
@@ -912,7 +912,7 @@ All-New Captain America - Fear Him Infinite Comic 003 (2014) (+ cover) (digital-
 All-New Captain America - Fear Him Infinite Comic 004 (2014) (+ cover) (digital-Empire).cbr | 37.07MiB
 All-New Captain America - Fear Him Infinite Comic 005 (2014) (+ cover) (digital-Empire).cbr | 35.13MiB
 All-New Captain America - Fear Him Infinite Comic 006 (2014) (+ cover) (digital-Empire).cbr | 36.62MiB
-All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr | 59.04MiB
+[All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Captain-America-Special-001-2015-Digital-Zone-Empire-cbr.md) | 59.04MiB
 Captain America - A Little Help 001 (2011) (digital-Empire).cbr | 7.62MiB
 Captain America - Aurora Scenes Booklet (original art).cbr | 2.27MiB
 &emsp;【Captain America/One-Shots & Limited Series/Captain America - Black Panther - Flags of Our Fathers (001-004)(2010)(digital)】 | 

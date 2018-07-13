@@ -635,7 +635,7 @@ Avengers 034 (2013) (Final Issue Variant) (Cover ONLY) (ScanDog).cbr | 1.17MiB
 Avengers Annual 01 (2012) (2nd Printing Variant) (Cover ONLY) (ScanDog).cbr | 843.63KiB
 &emsp;【Avengers/05-Avengers v5 (001-044+Extras) (2013-2015)】 | 
 [Avengers - No More Bullying 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-No-More-Bullying-001-2015-Digital-Zone-Empire-cbr.md) | 58.56MiB
-Avengers - Operation Hydra 001 (2015) (Digital) (Zone-Empire).cbr | 68.67MiB
+[Avengers - Operation Hydra 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Operation-Hydra-001-2015-Digital-Zone-Empire-cbr.md) | 68.67MiB
 Avengers 001 (2013) (digital) (Minutemen-PhD).cbr | 39.57MiB
 Avengers 002 (2013) (digital) (Minutemen-PhD).cbr | 39.66MiB
 Avengers 003 (2013) (digital) (Minutemen-PhD).cbr | 42.04MiB
@@ -680,7 +680,7 @@ Avengers 040 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.01MiB
 Avengers 041 (2015) (digital) (Minutemen-InnerDemons).cbr | 38.66MiB
 [Avengers 042 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-042-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.65MiB
 [Avengers 043 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-043-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.35MiB
-Avengers 044 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr | 77.78MiB
+[Avengers 044 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-044-2015-5-covers-digital-Minutemen-InnerDemons-cbr.md) | 77.78MiB
 Avengers Annual 2013 (2014) (digital) (Minutemen-PhD).cbr | 49.13MiB
 &emsp;【Avengers/05-Avengers v5 (001-044+Extras) (2013-2015)/Variant Covers】 | 
 Avengers 001 (2013) (10 variant covers) \[extracted\] (Meganubis-Novus).cbr | 14.31MiB
@@ -1140,7 +1140,7 @@ All-New All-Different Avengers - A Little Help From My Friends 01 (2017) (Digita
 Avengers - Another Day To Save 01 (2016) (digital) (Minutemen-Ranger1966).cbr | 16.23MiB
 Avengers - Cause for Alarm 01 (2016) (Marvel) (MidnightRider).cbr | 3.10MiB
 Avengers - Endless Wartime + Once Upon A Time Free Preview (2013) (c2c) (PeteThePIPster).cbz | 14.33MiB
-Avengers - Free Comic Book Day 2015 01 (2015) (c2c) (GreenManGroup-DCP).cbr | 33.59MiB
+[Avengers - Free Comic Book Day 2015 01 (2015) (c2c) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Free-Comic-Book-Day-2015-01-2015-c2c-GreenManGroup-DCP-cbr.md) | 33.59MiB
 [Avengers - King of the Road 01 (2016) (Marvel & Audi) (Webrip) (Ranger1966).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-King-of-Road-01-2016-Marvel-Audi-Webrip-Ranger1966-cbr.md) | 5.94MiB
 Avengers - The Enemy Within flyer (2013).cbz | 754.57KiB
 Avengers 01 (FCBD) (2009) (Minutemen-TipsyGirl-DCP).cbr | 26.36MiB
@@ -1420,7 +1420,7 @@ Avengers Icons - The Vision 02 (of 04) (2002) (Digital) (Zone-Empire).cbr | 44.2
 Avengers Icons - The Vision 03 (of 04) (2002) (Digital) (Zone-Empire).cbr | 45.60MiB
 Avengers Icons - The Vision 04 (of 04) (2003) (Digital) (Zone-Empire).cbr | 43.58MiB
 Avengers Log 001 (1994).cbz | 25.09MiB
-Avengers Magazine 001 (2015) (Digital) (Zone-Empire).cbr | 117.60MiB
+[Avengers Magazine 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Magazine-001-2015-Digital-Zone-Empire-cbr.md) | 117.60MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Avengers Millennium Comic (001-006)(2015)(digital)(Minutemen-Faessla)】 | 
 Avengers - Millennium Infinite Comic 001 (2015) (digital) (Minutemen-Faessla).cbz | 34.19MiB
 Avengers - Millennium Infinite Comic 002 (2015) (digital) (Minutemen-Faessla).cbz | 38.01MiB
@@ -1496,7 +1496,7 @@ Avengers Universe 006 (2001) (c2c) (ILoveReprints-DCP).cbz | 20.62MiB
 Avengers VS 001 (2015) (digital) (Minutemen-Faessla).cbz | 20.35MiB
 Avengers VS 002 (2015) (digital) (Minutemen-Faessla).cbz | 21.44MiB
 Avengers VS 003 (2015) (digital) (Minutemen-Faessla).cbz | 22.45MiB
-Avengers VS 004 (2015) (digital) (Minutemen-Faessla).cbz | 19.30MiB
+[Avengers VS 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Avengers-VS-004-2015-digital-Minutemen-Faessla-cbz.md) | 19.30MiB
 Avengers West Coast 101 (1993) (digital) (Minutemen-Bluntman).cbr | 42.83MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Avengers X-Sanction (001-004+)(2012)(digital+scans)】 | 
 Avengers X-Sanction 01 (of 4) (2012) (Digital) (Zone-Empire).cbr | 32.52MiB
@@ -2023,7 +2023,7 @@ A+X 010 (2013) (Digital) (Zone-Empire).cbr | 29.23MiB
 [A+X 04 (2013) (Mark Brooks Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/A-X-04-2013-Mark-Brooks-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 935.92KiB
 [A+X 05 (2013) (Mike Del Mundo Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/A-X-05-2013-Mike-Del-Mundo-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 701.91KiB
 &emsp;【Avengers/Spin-Off Series/A-Force (001-005)(2015)(digital)(Minutemen-PhD)】 | 
-A-Force 001 (2015) (7 covers) (digital) (Minutemen-PhD).cbr | 41.13MiB
+[A-Force 001 (2015) (7 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-001-2015-7-covers-digital-Minutemen-PhD-cbr.md) | 41.13MiB
 [A-Force 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-002-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 42.76MiB
 [A-Force 003 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-003-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 38.13MiB
 [A-Force 004 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-004-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 37.87MiB
@@ -2806,7 +2806,7 @@ Uncanny Avengers v05 - AXIS Prelude (2015) (digital TPB) (Minutemen-Slayer).cbr 
 Uncanny Avengers 001 (2015) (Digital) (Minutemen-WTF).cbr | 36.09MiB
 Uncanny Avengers 002 (2015) (Digital) (Minutemen-WTF).cbr | 32.80MiB
 Uncanny Avengers 003 (2015) (3 covers) (Digital) (Minutemen-WTF).cbr | 41.62MiB
-Uncanny Avengers 004 (2015) (Digital) (Minutemen-WTF).cbr | 37.74MiB
+[Uncanny Avengers 004 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-004-2015-Digital-Minutemen-WTF-cbr.md) | 37.74MiB
 Uncanny Avengers 005 (2015) (2 covers) (Digital) (Minutemen-WTF).cbr | 38.82MiB
 &emsp;【Avengers/Spin-Off Series/Uncanny Avengers (v1-v3+)(2012-2017)(digital)/Uncanny Avengers v2 (001-005+)(2015)(digital)(Minutemen-WTF)/Variant Covers】 | 
 Uncanny Avengers 001 (2015) (digital) (Daniel Acuna Teaser variant) (Minutemen-Mastodon).cbz | 1.54MiB

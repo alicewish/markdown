@@ -18,10 +18,10 @@ The October Faction 001 (2014) (digital-Empire).cbr | 26.87MiB
 The October Faction 002 (2014) (digital-Empire).cbr | 22.87MiB
 The October Faction 003 (2014) (digital-Empire).cbr | 29.58MiB
 The October Faction 004 (2015) (digital-Empire).cbr | 23.73MiB
-The October Faction 005 (2015) (digital-Empire).cbr | 22.91MiB
-The October Faction 006 (2015) (digital-Empire).cbr | 22.88MiB
-The October Faction 007 (2015) (digital-Empire).cbr | 30.34MiB
-The October Faction 008 (2015) (digital-Empire).cbr | 29.19MiB
+[The October Faction 005 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-005-2015-digital-Empire-cbr.md) | 22.91MiB
+[The October Faction 006 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-006-2015-digital-Empire-cbr.md) | 22.88MiB
+[The October Faction 007 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-007-2015-digital-Empire-cbr.md) | 30.34MiB
+[The October Faction 008 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-008-2015-digital-Empire-cbr.md) | 29.19MiB
 [The October Faction 009 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-009-2015-digital-Empire-cbr.md) | 27.69MiB
 [The October Faction 010 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-010-2015-digital-Empire-cbr.md) | 24.73MiB
 [The October Faction 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.57MiB

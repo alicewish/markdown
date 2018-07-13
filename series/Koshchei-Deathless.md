@@ -22,6 +22,10 @@ Mignola returns to Hell and to the bizarre folklore that's filled some of his gr
 
 
 
+相关种子⬇Related Torrents
+
+[Koshchei the Deathless (001-006)(2018)(digital)(Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Koshchei-the-Deathless--001-006--2018--digital--Son-of-Ultron-Empire.md)
+
 Online | Download
 --- | ---
 [Koshchei the Deathless 01 (of 06) (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Koshchei-Deathless-01-of-06-2017-digital-Son-of-Ultron-Empire-cbr.md) | [61.53MiB](https://pan.baidu.com/s/1pM6QU75#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.01.03%2F%E3%82%BB%E3%82%B1%E3%82%A4%E3%82%A4%E3%82%B7%E3%82%AB%E3%82%B3%E3%82%B7%E3%82%B9%E3%82%B5%E3%82%AD%E3%82%B3%E3%82%B1%E3%82%BF%E3%82%BB%E3%82%AA%E3%82%B1%E3%82%AB%E3%82%AF%E3%82%AD%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%AB%E3%82%B3%E3%82%A4%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%BB%E3%82%AF%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202018%20Q1)

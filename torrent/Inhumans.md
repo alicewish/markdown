@@ -67,7 +67,7 @@ The Marvel Saga 23 - The Inhumans(1987)(C2C)(FB-DCP).cbr | 21.43MiB
 [Uncanny X-Men v03 - The Good, The Bad, The Inhuman (2014) (Digital HC) (DarkZone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-X-Men-v03-Good-Bad-Inhuman-2014-Digital-HC-DarkZone-Empire-cbr.md) | 165.54MiB
 [What If Infinity - Inhumans 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/What-If-Infinity-Inhumans-01-2015-digital-Minutemen-Faessla-cbz.md) | 39.24MiB
 &emsp;【Inhumans/Inhuman Error (001-003) (2015)(digital) (Empire+Minutemen)】 | 
-All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr | 59.04MiB
+[All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Captain-America-Special-001-2015-Digital-Zone-Empire-cbr.md) | 59.04MiB
 [Amazing Spider-Man Special 01 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-Special-01-2015-digital-Minutemen-InnerDemons-cbr.md) | 63.86MiB
 [Inhuman Special 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-Special-01-2015-digital-Minutemen-Faessla-cbz.md) | 71.73MiB
 &emsp;【Inhumans/Inhuman v1 (001-014+)(2014-2015)(digital)(Minutemen-Faessla)】 | 
@@ -84,8 +84,8 @@ All-New Captain America Special 001 (2015) (Digital) (Zone-Empire).cbr | 59.04Mi
 [Inhuman 011 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-011-2015-digital-Minutemen-Faessla-cbz.md) | 40.82MiB
 [Inhuman 012 (2015) (digital) (Mintuemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-012-2015-digital-Mintuemen-Faessla-cbz.md) | 39.42MiB
 [Inhuman 013 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-013-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 43.82MiB
-Inhuman 014 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 40.11MiB
-Inhuman Annual 01 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 66.42MiB
+[Inhuman 014 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-014-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 40.11MiB
+[Inhuman Annual 01 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-Annual-01-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 66.42MiB
 [Inhuman Special 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Inhuman-Special-01-2015-digital-Minutemen-Faessla-cbz.md) | 71.73MiB
 &emsp;【Inhumans/Inhumanity (001-002)(2014)(digital)(Minutemen-PhD+Faessla)】 | 
 [Inhumanity 001 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumanity-001-2014-digital-Minutemen-PhD-cbr.md) | 54.16MiB
@@ -121,7 +121,7 @@ Reading Order.txt | 1.23KiB
 &emsp;【Inhumans/Inhumans - Attilan Rising (001-005) (2015) (digital) (Minutemen-PhD)】 | 
 [Inhumans - Attilan Rising 001 (2015) (5 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-001-2015-5-covers-digital-Minutemen-PhD-cbr.md) | 40.81MiB
 Inhumans - Attilan Rising 001 (2015) (digital) (Blank Cover variant) (Minutemen-Mastodon).cbz | 363.98KiB
-Inhumans - Attilan Rising 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr | 34.19MiB
+[Inhumans - Attilan Rising 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-002-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 34.19MiB
 [Inhumans - Attilan Rising 003 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-003-2015-digital-Minutemen-PhD-cbr.md) | 32.59MiB
 [Inhumans - Attilan Rising 004 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-004-2015-3-covers-digital-Minutemen-PhD-cbr.md) | 34.12MiB
 [Inhumans - Attilan Rising 005 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Inhumans-Attilan-Rising-005-2015-digital-Minutemen-PhD-cbr.md) | 34.95MiB
@@ -200,7 +200,7 @@ Secret Invasion - Inhumans 02 (of 04) (2008) (digital) (Minutemen-Faessla).cbz |
 Secret Invasion - Inhumans 03 (of 04) (2008) (digital) (Minutemen-Faessla).cbz | 37.33MiB
 Secret Invasion - Inhumans 04 (of 04) (2009) (digital) (Minutemen-Faessla).cbz | 40.25MiB
 &emsp;【Inhumans/Uncanny Inhumans (000-013+) (2015-) (digital) (Minutemen-Faessla)】 | 
-Uncanny Inhumans 000 (2015) (7 covers) (digital) (Minutemen-PhD).cbr | 64.49MiB
+[Uncanny Inhumans 000 (2015) (7 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Inhumans-000-2015-7-covers-digital-Minutemen-PhD-cbr.md) | 64.49MiB
 Uncanny Inhumans 001 (2015) (digital) (Minutemen-Faessla).cbz | 62.63MiB
 [Uncanny Inhumans 002 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Inhumans-002-2016-digital-Minutemen-Faessla-cbz.md) | 41.69MiB
 [Uncanny Inhumans 003 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Inhumans-003-2016-digital-Minutemen-Faessla-cbz.md) | 45.51MiB

@@ -40,8 +40,8 @@ Skullkickers 027 (2014) (digital) (Minutemen-Spaztastic).cbr | 39.13MiB
 Skullkickers 028 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.31MiB
 Skullkickers 029 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.83MiB
 Skullkickers 030 (2014) (digital) (Minutemen-Spaztastic).cbr | 72.32MiB
-Skullkickers 031 (2015) (digital) (Minutemen-Spaztastic).cbr | 42.52MiB
-Skullkickers 032 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.26MiB
+[Skullkickers 031 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Skullkickers-031-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.52MiB
+[Skullkickers 032 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Skullkickers-032-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.26MiB
 [Skullkickers 033 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Skullkickers-033-2015-digital-Minutemen-Spaztastic-cbr.md) | 46.05MiB
 [Skullkickers 100 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Skullkickers-100-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.46MiB
 The All-New Secret Skullkickers 01 (2013) (Digital) (Fawkes-Empire).cbr | 44.25MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Archie vs. Predator 01 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr | 42.83MiB
-Archie vs. Predator 02 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr | 43.27MiB
-Archie vs. Predator 03 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr | 41.15MiB
+[Archie vs. Predator 01 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-01-of-04-2015-digital-Minutemen-Bluntman-cbr.md) | 42.83MiB
+[Archie vs. Predator 02 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-02-of-04-2015-digital-Minutemen-Bluntman-cbr.md) | 43.27MiB
+[Archie vs. Predator 03 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-03-of-04-2015-digital-Minutemen-Bluntman-cbr.md) | 41.15MiB
 [Archie vs. Predator 04 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-vs-Predator-04-of-04-2015-digital-Minutemen-Bluntman-cbr.md) | 45.43MiB

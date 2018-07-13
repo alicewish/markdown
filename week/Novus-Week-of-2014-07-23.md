@@ -150,7 +150,7 @@ The Batman Chronicles 08 (1997-01) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 5
 The Batman Chronicles 09 (1997-01) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 63.96MiB
 The Batman Chronicles 22 (2000-10) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 54.67MiB
 The Batman Chronicles 23 (2001-11) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 59.58MiB
-The Flash 33 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr | 41.37MiB
+[The Flash 33 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-33-2014-Digital-Shining-Knight-SCC-Novus-HD-cbr.md) | 41.37MiB
 The New Titans 67 (1990-06) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 63.95MiB
 Torrent downloaded from demonoid.ph.txt | 46.00B
 Who's Who in the Legion of Super-Heroes 06 (1988-10) (TolEressea-Novus-HD).cbz | 71.27MiB

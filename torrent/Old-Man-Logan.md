@@ -12,8 +12,8 @@ Online | Download
 --- | ---
 &emsp;【Old Man Logan】 | 
 &emsp;【Old Man Logan/Old Man Logan (001-005)(2015)(digital)(Minutemen-Faessla)】 | 
-Old Man Logan 001 (2015) (5 covers) (digital) (Minutemen-Faessla).cbz | 48.14MiB
-Old Man Logan 002 (2015) (digital) (Minutemen-Faessla).cbz | 37.81MiB
+[Old Man Logan 001 (2015) (5 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-001-2015-5-covers-digital-Minutemen-Faessla-cbz.md) | 48.14MiB
+[Old Man Logan 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-002-2015-digital-Minutemen-Faessla-cbz.md) | 37.81MiB
 [Old Man Logan 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 33.58MiB
 [Old Man Logan 004 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-004-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 30.58MiB
 [Old Man Logan 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Old-Man-Logan-005-2015-digital-Minutemen-Faessla-cbz.md) | 33.43MiB

@@ -13,7 +13,7 @@ Online | Download
 Future Proof 001 (2014) (digital-Empire).cbr | 35.97MiB
 Future Proof 002 (2014) (digital-Empire).cbr | 56.39MiB
 Future Proof 003 (2015) (digital-Empire).cbr | 37.01MiB
-Future Proof 004 (2015) (digital-Empire).cbr | 40.01MiB
+[Future Proof 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Proof-004-2015-digital-Empire-cbr.md) | 40.01MiB
 Future Proof 005 (2015) (Digital) (LostNerevarine-Empire).cbz | 42.44MiB
 Future Proof 006 (2015) (Digital) (LostNerevarine-Empire).cbz | 37.39MiB
 Future Proof 007 (2015) (Digital) (LostNerevarine-Empire).cbz | 29.48MiB

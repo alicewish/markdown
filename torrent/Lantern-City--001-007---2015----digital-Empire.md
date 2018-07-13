@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Lantern City 001 (2015) (digital-Empire).cbr | 48.71MiB
-Lantern City 002 (2015) (digital-Empire).cbr | 51.21MiB
+[Lantern City 001 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lantern-City-001-2015-digital-Empire-cbr.md) | 48.71MiB
+[Lantern City 002 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lantern-City-002-2015-digital-Empire-cbr.md) | 51.21MiB
 [Lantern City 003 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lantern-City-003-2015-digital-Empire-cbr.md) | 53.81MiB
 [Lantern City 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lantern-City-004-2015-Digital-Empire-cbr.md) | 52.05MiB
 [Lantern City 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lantern-City-005-2015-Digital-Empire-cbr.md) | 51.51MiB

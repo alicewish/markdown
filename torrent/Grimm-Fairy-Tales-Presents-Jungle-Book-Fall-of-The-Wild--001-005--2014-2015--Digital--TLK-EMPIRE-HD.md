@@ -14,4 +14,4 @@ Online | Download
 Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 002 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 36.45MiB
 Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 43.21MiB
 [Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Jungle-Book-Fall-Of-Wild-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 38.06MiB
-Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 005(2015)(Digital)(TLK-EMPIRE-HD).cbr | 35.78MiB
+[Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Jungle-Book-Fall-Of-Wild-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 35.78MiB

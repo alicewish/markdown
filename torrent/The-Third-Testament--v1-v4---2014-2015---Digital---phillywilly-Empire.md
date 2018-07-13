@@ -13,4 +13,4 @@ Online | Download
 The Third Testament v1 - The Lion Awakes (2014) (Digital) (phillywilly-Empire).cbr | 107.85MiB
 The Third Testament v2 - The Angel's Face (2014) (Digital) (phillywilly-Empire).cbr | 80.75MiB
 The Third Testament v3 - The Might of the Ox (2015) (Digital) (phillywilly-Empire).cbr | 109.14MiB
-The Third Testament v4 - The Day Of The Raven (2015) (Digital) (phillywilly-Empire).cbr | 159.04MiB
+[The Third Testament v4 - The Day Of The Raven (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Third-Testament-v4-Day-Of-Raven-2015-Digital-phillywilly-Empire-cbr.md) | 159.04MiB

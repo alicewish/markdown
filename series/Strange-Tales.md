@@ -34,6 +34,8 @@ A special one-shot featuring Thing, Doctor Strange, Human Torch and more!
 
 [Strange Tales (v1 - v5 + Strange Tales II v1) (1951 - 2011)](https://github.com/alicewish/markdown/blob/master/torrent/Strange-Tales--v1---v5---Strange-Tales-II-v1---1951---2011.md)
 
+[Strange Tales (v1-v5+)(1951-2011)(digital+)](https://github.com/alicewish/markdown/blob/master/torrent/Strange-Tales--v1-v5---1951-2011--digital.md)
+
 [Strange Tales (135-150)(1965-1966)(Digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Strange-Tales--135-150--1965-1966--Digital--TLK-EMPIRE-HD.md)
 
 Online | Download

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Secret Wars Battleworld (001-004+Variant Covers) (2015) (digital) (Minutemen-Faessla)】 | 
-Secret Wars - Battleworld 01 (of 04) (2015) (4 covers) (digital) (Minutemen-Faessla).cbz | 43.19MiB
+[Secret Wars - Battleworld 01 (of 04) (2015) (4 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-01-of-04-2015-4-covers-digital-Minutemen-Faessla-cbz.md) | 43.19MiB
 [Secret Wars - Battleworld 02 (of 04) (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-02-of-04-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 44.10MiB
 [Secret Wars - Battleworld 03 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-03-of-04-2015-digital-Minutemen-Faessla-cbz.md) | 48.44MiB
 [Secret Wars - Battleworld 04 (of 04) (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Battleworld-04-of-04-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 50.29MiB

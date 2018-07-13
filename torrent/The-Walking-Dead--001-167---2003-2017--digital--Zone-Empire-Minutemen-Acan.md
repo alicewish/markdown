@@ -163,11 +163,11 @@ The Walking Dead 134 (2014) (Digital) (Zone-Empire).cbr | 43.01MiB
 The Walking Dead 135 (2014) (Digital) (Zone-Empire).cbr | 36.31MiB
 [The Walking Dead 136 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-136-2015-Digital-Zone-Empire-cbr.md) | 34.23MiB
 The Walking Dead 137 (2015) (Digital) (Zone-Empire).cbr | 34.21MiB
-The Walking Dead 138 (2015)(Digital) (Zone-Empire).cbr | 34.61MiB
-The Walking Dead 139 (2015) (Digital) (Minutemen-Acan).cbr | 36.10MiB
-The Walking Dead 140 (2015) (Digital) (Minutemen-Acan).cbr | 38.33MiB
-The Walking Dead 141 (2015) (Digital) (Minutemen-Acan).cbr | 37.62MiB
-The Walking Dead 142 (2015) (Digital) (Minutemen-Acan).cbr | 37.49MiB
+[The Walking Dead 138 (2015)(Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-138-2015-Digital-Zone-Empire-cbr.md) | 34.61MiB
+[The Walking Dead 139 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-139-2015-Digital-Minutemen-Acan-cbr.md) | 36.10MiB
+[The Walking Dead 140 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-140-2015-Digital-Minutemen-Acan-cbr.md) | 38.33MiB
+[The Walking Dead 141 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-141-2015-Digital-Minutemen-Acan-cbr.md) | 37.62MiB
+[The Walking Dead 142 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-142-2015-Digital-Minutemen-Acan-cbr.md) | 37.49MiB
 [The Walking Dead 143 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-143-2015-Digital-Minutemen-Acan-cbr.md) | 35.44MiB
 [The Walking Dead 144 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-144-2015-Digital-Minutemen-Acan-cbr.md) | 40.42MiB
 [The Walking Dead 145 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-145-2015-Digital-Minutemen-Acan-cbr.md) | 35.82MiB

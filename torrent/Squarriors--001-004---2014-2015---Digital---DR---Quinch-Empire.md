@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Squarriors 01 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr | 71.25MiB
-Squarriors 02 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr | 61.30MiB
+[Squarriors 02 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squarriors-02-of-04-2014-Digital-DR-Quinch-Empire-cbr.md) | 61.30MiB
 [Squarriors 03 (of 04) (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squarriors-03-of-04-2015-Digital-DR-Quinch-Empire-cbr.md) | 42.84MiB
 [Squarriors 04 (of 04) (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Squarriors-04-of-04-2015-Digital-DR-Quinch-Empire-cbr.md) | 47.77MiB

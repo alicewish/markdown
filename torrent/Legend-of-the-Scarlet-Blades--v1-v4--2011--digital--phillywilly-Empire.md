@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Legend of the Scarlet Blades v1 - The City that Speaks to the Sky (2011) (Digital) (phillywilly-Empire).cbr | 100.82MiB
-Legend of the Scarlet Blades v2 - Like Leaves in the Wind (2011) (Digital) (phillywilly-Empire).cbr | 101.17MiB
-Legend of the Scarlet Blades v3 - The Perfect Stroke (2011) (Digital) (phillywilly-Empire).cbr | 85.25MiB
-Legend of the Scarlet Blades v4 - The Abomination's Hidden Flower (2011) (Digital) (phillywilly-Empire).cbr | 95.89MiB
+[Legend of the Scarlet Blades v1 - The City that Speaks to the Sky (2011) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legend-of-Scarlet-Blades-v1-City-that-Speaks-to-Sky-2011-Digital-phillywilly-Empire-cbr.md) | 100.82MiB
+[Legend of the Scarlet Blades v2 - Like Leaves in the Wind (2011) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legend-of-Scarlet-Blades-v2-Like-Leaves-in-Wind-2011-Digital-phillywilly-Empire-cbr.md) | 101.17MiB
+[Legend of the Scarlet Blades v3 - The Perfect Stroke (2011) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legend-of-Scarlet-Blades-v3-Perfect-Stroke-2011-Digital-phillywilly-Empire-cbr.md) | 85.25MiB
+[Legend of the Scarlet Blades v4 - The Abomination's Hidden Flower (2011) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legend-of-Scarlet-Blades-v4-Abominations-Hidden-Flower-2011-Digital-phillywilly-Empire-cbr.md) | 95.89MiB

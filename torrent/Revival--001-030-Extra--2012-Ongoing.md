@@ -42,7 +42,7 @@ Revival 025 (2014) (digital) (Minutemen-InnerDemons).cbr | 54.64MiB
 Revival 027 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.61MiB
 Revival 028 (2015) (digital) (Minutemen-InnerDemons).cbr | 56.91MiB
 Revival 029 (2015) (digital) (Minutemen-InnerDemons).cbr | 55.61MiB
-Revival 030 (2015) (Digital) (Zone-Empire).cbr | 54.13MiB
+[Revival 030 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Revival-030-2015-Digital-Zone-Empire-cbr.md) | 54.13MiB
 &emsp;【Revival (001-030+Extra)(2012-Ongoing)/Trades (v01-v04)(TPBs) (digital)】 | 
 Revival v1 - You're Among Friends (2012) (Digital TPB) (Zone-Empire).cbr | 148.95MiB
 Revival v2 - Live Like You Mean It (2013) (Digital TPB) (The Darkness Zone-Empire).cbr | 230.88MiB

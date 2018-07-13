@@ -25,10 +25,10 @@ Lumberjanes 008 (2014) (digital) (Son of Ultron-Empire).cbr | 47.34MiB
 Lumberjanes 009 (2014) (digital) (Son of Ultron-Empire).cbr | 43.96MiB
 [Lumberjanes 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.03MiB
 Lumberjanes 011 (2015) (digital) (Son of Ultron-Empire).cbr | 52.13MiB
-Lumberjanes 012 (2015) (digital) (Son of Ultron-Empire).cbr | 52.15MiB
-Lumberjanes 013 (2015) (digital) (Son of Ultron-Empire).cbr | 51.17MiB
-Lumberjanes 014 (2015) (digital) (Son of Ultron-Empire).cbr | 44.82MiB
-Lumberjanes 015 (2015) (2 covers) (digital) (Son of Ultron-Empire).cbr | 46.60MiB
+[Lumberjanes 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 52.15MiB
+[Lumberjanes 013 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-013-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.17MiB
+[Lumberjanes 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.82MiB
+[Lumberjanes 015 (2015) (2 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-015-2015-2-covers-digital-Son-of-Ultron-Empire-cbr.md) | 46.60MiB
 [Lumberjanes 016 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-016-2015-digital-Son-of-Ultron-Empire-cbr.md) | 48.02MiB
 [Lumberjanes 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 47.68MiB
 [Lumberjanes 018 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-018-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.45MiB

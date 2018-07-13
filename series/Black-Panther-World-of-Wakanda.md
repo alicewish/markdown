@@ -20,6 +20,7 @@ Black Panther: World of Wakanda (2016-2017)
 
 Online | Download
 --- | ---
+Black Panther - World of Wakanda (2017) (Digital) (Asgard-Empire).cbr | 226.18MiB
 Black Panther - World of Wakanda 001 (2017) (Digital) (Shadowcat-Empire).cbz | 54.34MiB
 [Black Panther - World of Wakanda 001 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Panther-World-of-Wakanda-001-2017-Digital-Zone-Empire-cbr.md) | [54.67MiB](https://pan.baidu.com/s/1jIciXoE#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.09%2F%E3%82%A2%E3%82%A8%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%B1%E3%82%B9%E3%82%AB%E3%82%B9%E3%82%A6%E3%82%A6%E3%82%BF%E3%82%A6%E3%82%AF%E3%82%AF%E3%82%BB%E3%82%B1%E3%82%B3%E3%82%AA%E3%82%BF%E3%82%B5%E3%82%B9%E3%82%AA%E3%82%A8%E3%82%A4%E3%82%B7%E3%82%B7%E3%82%B7%E3%82%B5%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
 Black Panther - World of Wakanda 002 (2017) (Digital) (Shadowcat-Empire).cbz | 32.79MiB

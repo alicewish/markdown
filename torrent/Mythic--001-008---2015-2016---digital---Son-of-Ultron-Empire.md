@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Mythic 001 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr | 83.65MiB
-Mythic 002 (2015) (digital) (Son of Ultron-Empire).cbr | 55.46MiB
+[Mythic 001 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mythic-001-2015-3-covers-digital-Son-of-Ultron-Empire-cbr.md) | 83.65MiB
+[Mythic 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mythic-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.46MiB
 [Mythic 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mythic-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 56.85MiB
 [Mythic 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mythic-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.53MiB
 [Mythic 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mythic-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.84MiB

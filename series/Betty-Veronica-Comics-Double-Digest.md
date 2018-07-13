@@ -54,3 +54,7 @@ Betty & Veronica Comics Double Digest 250 (2017) (Digital) (Asgard-Empire).cbr |
 Betty & Veronica Comics Double Digest 251 (2017) (Digital) (Asgard-Empire).cbr | 182.84MiB
 Betty & Veronica Comics Double Digest 251 (2017) (Forsythe-DCP).cbr | 245.82MiB
 Betty & Veronica Comics Double Digest 252 (2017) (Forsythe-DCP).cbr | 429.62MiB
+Betty & Veronica Comics Double Digest 253 (2017) (Forsythe-DCP).cbr | 294.44MiB
+Betty & Veronica Comics Double Digest 254 (2017) (Forsythe-DCP).cbr | 352.88MiB
+Betty & Veronica Comics Double Digest 255 (2017) (Forsythe-DCP).cbr | 592.96MiB
+Betty & Veronica Comics Double Digest 256 (2017) (Forsythe-DCP).cbr | 345.78MiB

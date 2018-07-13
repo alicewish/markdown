@@ -799,7 +799,7 @@ Peter Parker - Spider-Man v2 050 (2003) (Digital) (AnPymGold - Empire).cbz | 34.
 [Secret Wars - Secret Love 01 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Secret-Love-01-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 52.69MiB
 [Ultimate End 005 (2016) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-005-2016-digital-Minutemen-Midas-cbr.md) | 52.93MiB
 Ultimate End 02 (of 05) (2015) (digital) (Chip Zdarsky Brian Michael Gwendis variant) (Minutemen-Mastodon).cbz | 2.15MiB
-Ultimate End 02 (of 05) (2015) (two covers) (digital) (Minutemen-Midas).cbr | 40.40MiB
+[Ultimate End 02 (of 05) (2015) (two covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-02-of-05-2015-two-covers-digital-Minutemen-Midas-cbr.md) | 40.40MiB
 &emsp;【The Many Loves of Spider-Man.III/Gwen Stacy/Sensational Spider-Man】 | 
 Sensational Spider-Man v2 032 (2007) (digital) (Minutemen-Faessla).cbz | 39.37MiB
 &emsp;【The Many Loves of Spider-Man.III/Gwen Stacy/Spectacular Spider-Man】 | 
@@ -863,7 +863,7 @@ Spectacular Spider-Man v2  026.cbr | 7.57MiB
 Spider-Man - The Kiss.cbr | 4.69MiB
 &emsp;【The Many Loves of Spider-Man.III/Gwen Stacy/Spider-Man Daily Strip】 | 
 Spider-Man Daily Strip 2014-02 (webrip by Lusiphur-DCP).cbz | 9.86MiB
-Spider-Man Daily Strip 2015-04 (webrip by Lusiphur-DCP).cbz | 9.53MiB
+[Spider-Man Daily Strip 2015-04 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-04-webrip-by-Lusiphur-DCP-cbz.md) | 9.53MiB
 &emsp;【The Many Loves of Spider-Man.III/Gwen Stacy/Spider-Man Family】 | 
 Spider-Man Family 02 (2007).cbr | 46.25MiB
 Spider-Man Family 07 (2008).cbr | 47.70MiB

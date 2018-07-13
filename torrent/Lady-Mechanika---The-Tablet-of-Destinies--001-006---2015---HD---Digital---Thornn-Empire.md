@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-Lady Mechanika - The Tablet of Destinies Vol01 001 (2015) (HD) (Digital) (Thornn-Empire).cbr | 52.26MiB
-Lady Mechanika - The Tablet of Destinies Vol01 002 (2015) (HD) (Digital) (Thornn-Empire).cbr | 42.50MiB
-Lady Mechanika - The Tablet of Destinies Vol01 003 (2015) (HD) (Digital) (Thornn-Empire).cbr | 44.91MiB
+[Lady Mechanika - The Tablet of Destinies Vol01 001 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Mechanika-Tablet-of-Destinies-Vol01-001-2015-HD-Digital-Thornn-Empire-cbr.md) | 52.26MiB
+[Lady Mechanika - The Tablet of Destinies Vol01 002 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Mechanika-Tablet-of-Destinies-Vol01-002-2015-HD-Digital-Thornn-Empire-cbr.md) | 42.50MiB
+[Lady Mechanika - The Tablet of Destinies Vol01 003 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Mechanika-Tablet-of-Destinies-Vol01-003-2015-HD-Digital-Thornn-Empire-cbr.md) | 44.91MiB
 [Lady Mechanika - The Tablet of Destinies Vol01 004 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Mechanika-Tablet-of-Destinies-Vol01-004-2015-HD-Digital-Thornn-Empire-cbr.md) | 40.70MiB
 [Lady Mechanika - The Tablet of Destinies Vol01 005 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Mechanika-Tablet-of-Destinies-Vol01-005-2015-HD-Digital-Thornn-Empire-cbr.md) | 50.46MiB
 [Lady Mechanika - The Tablet of Destinies Vol01 006 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Mechanika-Tablet-of-Destinies-Vol01-006-2015-HD-Digital-Thornn-Empire-cbr.md) | 51.78MiB

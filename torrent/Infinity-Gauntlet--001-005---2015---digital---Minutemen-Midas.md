@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 &emsp;【Infinity Gauntlet (001-005) (2015) (digital) (Minutemen-Midas)】 | 
-Infinity Gauntlet 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 49.44MiB
-Infinity Gauntlet 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 46.17MiB
+[Infinity Gauntlet 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 49.44MiB
+[Infinity Gauntlet 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-002-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 46.17MiB
 [Infinity Gauntlet 003 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-003-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 46.71MiB
 [Infinity Gauntlet 004 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-004-2015-digital-Minutemen-Midas-cbr.md) | 51.08MiB
 [Infinity Gauntlet 005 (2016) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Gauntlet-005-2016-digital-Minutemen-Midas-cbr.md) | 48.63MiB

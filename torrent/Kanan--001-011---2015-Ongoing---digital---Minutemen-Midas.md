@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 [Kanan - The Last Padawan 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 39.06MiB
-Kanan - The Last Padawan 002 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 37.15MiB
-Kanan - The Last Padawan 003 (2015) (Digital) (Zone-Empire).cbr | 39.21MiB
+[Kanan - The Last Padawan 002 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-002-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 37.15MiB
+[Kanan - The Last Padawan 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-003-2015-Digital-Zone-Empire-cbr.md) | 39.21MiB
 [Kanan - The Last Padawan 004 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-004-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 35.07MiB
 [Kanan - The Last Padawan 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-005-2015-digital-Minutemen-Midas-cbr.md) | 39.50MiB
 [Kanan - The Last Padawan 006 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-006-2015-digital-Minutemen-Midas-cbr.md) | 30.38MiB

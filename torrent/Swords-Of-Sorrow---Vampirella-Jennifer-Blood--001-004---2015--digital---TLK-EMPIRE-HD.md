@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Swords Of Sorrow - Vampirella & Jennifer Blood 001(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 35.43MiB
-Swords Of Sorrow - Vampirella & Jennifer Blood 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 41.00MiB
+[Swords Of Sorrow - Vampirella & Jennifer Blood 001(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swords-Of-Sorrow-Vampirella-Jennifer-Blood-001-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 35.43MiB
+[Swords Of Sorrow - Vampirella & Jennifer Blood 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swords-Of-Sorrow-Vampirella-Jennifer-Blood-002-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 41.00MiB
 [Swords Of Sorrow - Vampirella & Jennifer Blood 003(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swords-Of-Sorrow-Vampirella-Jennifer-Blood-003-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 34.00MiB
 [Swords Of Sorrow Vampirella & Jennifer Blood 004(2015)(Digita)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swords-Of-Sorrow-Vampirella-Jennifer-Blood-004-2015-Digita-TLK-EMPIRE-HD-cbr.md) | 33.86MiB

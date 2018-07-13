@@ -134,7 +134,7 @@ Marvel Universe Guardians of the Galaxy Infinite Comic 001 (2015) (Digital) (Zon
 [Marvel Universe Guardians of the Galaxy Infinite Comic 009 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Universe-Guardians-of-Galaxy-Infinite-Comic-009-2016-Digital-Zone-Empire-cbr.md) | 23.42MiB
 [Marvel Universe Guardians of the Galaxy Infinite Comic 010 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Universe-Guardians-of-Galaxy-Infinite-Comic-010-2016-Digital-Zone-Empire-cbr.md) | 30.52MiB
 &emsp;【Marvel Infinite Comics (2012-2016)/Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015)】 | 
-Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 38.51MiB
+[Marvel's Ant-Man - Scott Lang - Small Time MCU Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Ant-Man-Scott-Lang-Small-Time-MCU-Infinite-Comic-001-2015-cover-digital-Son-of-Ultron-Empire-cbr.md) | 38.51MiB
 &emsp;【Marvel Infinite Comics (2012-2016)/Marvel's Captain America - Civil War Prelude Infinite Comic 001 (2016)】 | 
 [Marvel's Captain America - Civil War Prelude Infinite Comic 001 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Captain-America-Civil-War-Prelude-Infinite-Comic-001-2016-digital-Son-of-Ultron-Empire-cbr.md) | 56.67MiB
 &emsp;【Marvel Infinite Comics (2012-2016)/Marvel's Guardians of the Galaxy Prequel Infinite Comic 001 (2014)】 | 
@@ -204,9 +204,9 @@ X-Men '92 001 (2015) (digital) (David Nakayama variant) (Minutemen-Mastodon).cbz
 X-Men '92 001 (2015) (digital) (Ryan Stegman X-Gwen variant) (Minutemen-Mastodon).cbz | 2.29MiB
 X-Men '92 001 (2015) (digital) (Skottie Young variant) (Minutemen-Mastodon).cbz | 2.12MiB
 X-Men '92 001 (2015) (digital) (Zhang Chin Ant-Sized variant) (Minutemen-Mastodon).cbz | 1.96MiB
-X-Men '92 001 (2015) (Digital-Infinite Comic) (F) (BlackManta-Empire).cbr | 61.14MiB
-X-Men '92 002 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr | 61.45MiB
-X-Men '92 003 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr | 55.02MiB
+[X-Men '92 001 (2015) (Digital-Infinite Comic) (F) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-001-2015-Digital-Infinite-Comic-F-BlackManta-Empire-cbr.md) | 61.14MiB
+[X-Men '92 002 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-002-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 61.45MiB
+[X-Men '92 003 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-003-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 55.02MiB
 [X-Men '92 004 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-004-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 51.83MiB
 [X-Men '92 005 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-005-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 53.70MiB
 [X-Men '92 006 (2015) (Digital-Infinite Comic) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-92-006-2015-Digital-Infinite-Comic-BlackManta-Empire-cbr.md) | 52.31MiB

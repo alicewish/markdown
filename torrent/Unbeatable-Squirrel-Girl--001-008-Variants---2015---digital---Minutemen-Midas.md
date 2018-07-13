@@ -26,7 +26,7 @@ The Unbeatable Squirrel Girl 001 (2015) (digital) (Siya Oum variant) (Minutemen-
 The Unbeatable Squirrel Girl 001 (2015) (digital) (Skottie Young variant) (Minutemen-Mastodon).cbz | 1.63MiB
 The Unbeatable Squirrel Girl 002 (2015) (Joe Quinones Variant) (digital) (Minutemen-Fantomex).cbr | 3.06MiB
 The Unbeatable Squirrel Girl 002 (2015) (digital) (Erica Henderson 3rd Printing variant) (Minutemen-Mastodon).cbz | 292.80KiB
-The Unbeatable Squirrel Girl 003 (2015) (Gurihiru Variant) (digital) (Minutemen-Fantomex).cbr | 1.98MiB
-The Unbeatable Squirrel Girl 003 (2015) (Jill Thompson Variant) (digital) (Minutemen-Fantomex).cbr | 3.72MiB
+[The Unbeatable Squirrel Girl 003 (2015) (Gurihiru Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Unbeatable-Squirrel-Girl-003-2015-Gurihiru-Variant-digital-Minutemen-Fantomex-cbr.md) | 1.98MiB
+[The Unbeatable Squirrel Girl 003 (2015) (Jill Thompson Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Unbeatable-Squirrel-Girl-003-2015-Jill-Thompson-Variant-digital-Minutemen-Fantomex-cbr.md) | 3.72MiB
 The Unbeatable Squirrel Girl 003 (2015) (digital) (Erica Henderson 2nd Printing variant) (Minutemen-Mastodon).cbz | 349.67KiB
 The Unbeatable Squirrel Girl 004 (2015) (digital) (Erica Henderson 2nd Printing variant) (Minutemen-Mastodon).cbz | 200.19KiB

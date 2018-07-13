@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [DC Sneak Peek - Earth 2 - Society (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Earth-2-Society-2015-Digital-ThatGuy-Empire-cbz.md) | 12.69MiB
-Earth 2 - Society 001 (2015) (Digital) (ThatGuy-Empire).cbz | 33.91MiB
+[Earth 2 - Society 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Earth-2-Society-001-2015-Digital-ThatGuy-Empire-cbz.md) | 33.91MiB
 [Earth 2 - Society 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Earth-2-Society-002-2015-Digital-ThatGuy-Empire-cbz.md) | 30.43MiB
 [Earth 2 - Society 003 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Earth-2-Society-003-2015-Digital-ThatGuy-Empire-cbz.md) | 35.43MiB
 Earth 2 - Society 004 (2015) (Digital-Empire).cbr | 30.91MiB

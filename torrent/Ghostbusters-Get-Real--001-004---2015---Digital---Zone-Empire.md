@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Ghostbusters - Get Real 001 (2015) (Digital) (Zone-Empire).cbr | 33.83MiB
+[Ghostbusters - Get Real 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-001-2015-Digital-Zone-Empire-cbr.md) | 33.83MiB
 [Ghostbusters - Get Real 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-002-2015-Digital-Zone-Empire-cbr.md) | 27.97MiB
 [Ghostbusters - Get Real 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-003-2015-Digital-Zone-Empire-cbr.md) | 28.93MiB
 [Ghostbusters - Get Real 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-004-2015-Digital-Zone-Empire-cbr.md) | 30.22MiB

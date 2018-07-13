@@ -40,8 +40,8 @@ Bravest Warriors 026 (2014) (digital) (CompetentRipper-Empire).cbr | 45.24MiB
 Bravest Warriors 027 (2014) (digital-Empire).cbr | 32.99MiB
 [Bravest Warriors 028 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-028-2015-digital-Empire-cbr.md) | 33.62MiB
 Bravest Warriors 029 (2015) (digital-Empire).cbr | 32.97MiB
-Bravest Warriors 030 (2015) (digital-Empire).cbr | 41.03MiB
-Bravest Warriors 031 (2015) (digital-Empire).cbr | 39.59MiB
-Bravest Warriors 032 (2015) (digital-Empire).cbr | 36.34MiB
+[Bravest Warriors 030 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-030-2015-digital-Empire-cbr.md) | 41.03MiB
+[Bravest Warriors 031 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-031-2015-digital-Empire-cbr.md) | 39.59MiB
+[Bravest Warriors 032 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-032-2015-digital-Empire-cbr.md) | 36.34MiB
 [Bravest Warriors 033 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-033-2015-digital-Empire-cbr.md) | 33.11MiB
 [Bravest Warriors 034 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-034-2015-digital-Empire-cbr.md) | 34.33MiB

@@ -22,15 +22,17 @@ A-Force, Assemble! From the ashes of Battleworld, Marvel’s newest hero Singula
 
 相关种子⬇Related Torrents
 
+[A-Force (001-005) (2015) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/A-Force--001-005---2015---Digital---Zone-Empire.md)
+
 [A-Force (001-010) (2016) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/A-Force--001-010---2016---digital---Minutemen-Faessla.md)
 
 [A-Force (001-010)(2016)(Digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/A-Force--001-010--2016--Digital--TLK-EMPIRE-HD.md)
 
 Online | Download
 --- | ---
-A-Force 001 (2015) (7 covers) (digital) (Minutemen-PhD).cbr | [41.13MiB](https://pan.baidu.com/s/1c2rq6ac#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.27%2F%E3%82%BD%E3%82%B7%E3%82%BF%E3%82%B3%E3%82%BB%E3%82%A6%E3%82%B9%E3%82%BF%E3%82%B1%E3%82%A8%E3%82%AF%E3%82%AD%E3%82%BD%E3%82%B1%E3%82%BD%E3%82%A6%E3%82%A4%E3%82%AB%E3%82%BD%E3%82%AA%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%A2%E3%82%A2%E3%82%B3%E3%82%BF%E3%82%B9%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[A-Force 001 (2015) (7 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-001-2015-7-covers-digital-Minutemen-PhD-cbr.md) | [41.13MiB](https://pan.baidu.com/s/1c2rq6ac#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.27%2F%E3%82%BD%E3%82%B7%E3%82%BF%E3%82%B3%E3%82%BB%E3%82%A6%E3%82%B9%E3%82%BF%E3%82%B1%E3%82%A8%E3%82%AF%E3%82%AD%E3%82%BD%E3%82%B1%E3%82%BD%E3%82%A6%E3%82%A4%E3%82%AB%E3%82%BD%E3%82%AA%E3%82%AF%E3%82%BF%E3%82%B5%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%A2%E3%82%A2%E3%82%B3%E3%82%BF%E3%82%B9%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
 A-Force 001 (2015) (Digital) (Shadowcat-Empire).cbz | 37.44MiB
-A-Force 001 (2015) (Digital) (Zone-Empire).cbr | [37.78MiB](https://pan.baidu.com/s/1hsOsqHm#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.20%2F%E3%82%B3%E3%82%B7%E3%82%A4%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%A4%E3%82%BD%E3%82%B5%E3%82%B3%E3%82%BF%E3%82%B5%E3%82%AA%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%B9%E3%82%A8%E3%82%AB%E3%82%A6%E3%82%B1%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%AD%E3%82%AD%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%BF%E3%82%B9%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[A-Force 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-001-2015-Digital-Zone-Empire-cbr.md) | [37.78MiB](https://pan.baidu.com/s/1hsOsqHm#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.05.20%2F%E3%82%B3%E3%82%B7%E3%82%A4%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%A4%E3%82%BD%E3%82%B5%E3%82%B3%E3%82%BF%E3%82%B5%E3%82%AA%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%B9%E3%82%A8%E3%82%AB%E3%82%A6%E3%82%B1%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%AD%E3%82%AD%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%BF%E3%82%B9%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
 A-Force 002 (2015) (digital) (Kris Anka variant) (Minutemen-Mastodon).cbz | 2.45MiB
 A-Force 002 (2015) (digital) (Siya Oum Comixology Exclusive variant) (Minutemen-Mastodon).cbz | 4.51MiB
 [A-Force 002 (2015) (3 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/A-Force-002-2015-3-covers-digital-Minutemen-PhD-cbr.md) | [42.76MiB](https://pan.baidu.com/s/1kVb1aSJ#list/path=%2F0-Day%20Week%20of%202015%20Q3%2F0-Day%20Week%20of%202015.07.08%2F%E3%82%A4%E3%82%AB%E3%82%BB%E3%82%BB%E3%82%BB%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%BB%E3%82%B7%E3%82%A8%E3%82%B3%E3%82%AB%E3%82%BB%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%AB%E3%82%A6%E3%82%B9%E3%82%AB%E3%82%AF%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B1%E3%82%B9%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202015%20Q3)

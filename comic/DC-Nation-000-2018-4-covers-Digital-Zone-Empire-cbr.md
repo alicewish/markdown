@@ -1,5 +1,9 @@
 ## DC Nation 000 (2018) (4 covers) (Digital) (Zone-Empire).cbr
 
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+
+
 ![DC Nation (2018-) 000-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fraii7v67ij21j82cw7wh.jpg)
 
 ![DC Nation (2018-) 000-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fraiidecuyj21j82cwnhj.jpg)
@@ -79,3 +83,6 @@
 ![DC Nation (2018-) 000-038.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frainl7spkj21j82cwqst.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxs2wnsgzj21kw1c84il.jpg)
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+

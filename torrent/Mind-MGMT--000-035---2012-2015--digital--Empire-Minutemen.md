@@ -47,7 +47,7 @@ Mind MGMT 028 (2014) (digital) (Minutemen-Wyvern).cbr | 39.40MiB
 Mind MGMT 029 (2014) (digital) (Minutemen-Wyvern).cbr | 37.57MiB
 Mind MGMT 030 (2015) (digital) (Minutemen-Wyvern).cbr | 45.61MiB
 Mind MGMT 031 (2015) (digital) (Minutemen-Wyvern).cbr | 42.63MiB
-Mind MGMT 032 (2015) (digital) (Son of Ultron-Empire).cbr | 69.23MiB
-Mind MGMT 033 (2015) (digital) (Son of Ultron-Empire).cbr | 66.75MiB
-Mind MGMT 034 (2015) (digital) (Son of Ultron-Empire).cbr | 65.68MiB
+[Mind MGMT 032 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mind-MGMT-032-2015-digital-Son-of-Ultron-Empire-cbr.md) | 69.23MiB
+[Mind MGMT 033 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mind-MGMT-033-2015-digital-Son-of-Ultron-Empire-cbr.md) | 66.75MiB
+[Mind MGMT 034 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mind-MGMT-034-2015-digital-Son-of-Ultron-Empire-cbr.md) | 65.68MiB
 [Mind MGMT 035 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mind-MGMT-035-2015-digital-Son-of-Ultron-Empire-cbr.md) | 86.36MiB

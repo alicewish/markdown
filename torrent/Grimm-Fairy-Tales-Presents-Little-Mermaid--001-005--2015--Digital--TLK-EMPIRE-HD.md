@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Grimm Fairy Tales Presents The Little Mermaid 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 50.36MiB
-Grimm Fairy Tales Presents The Little Mermaid 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.60MiB
-Grimm Fairy Tales Presents The Little Mermaid 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 42.36MiB
-Grimm Fairy Tales Presents The Little Mermaid 004(2015)(Digital)(TLK-EMPIRE-HD).cbr | 42.29MiB
-Grimm Fairy Tales Presents The Little Mermaid 005(2015)(Digital)(TLK-EMPIRE-HD).cbr | 44.95MiB
+[Grimm Fairy Tales Presents The Little Mermaid 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.60MiB
+[Grimm Fairy Tales Presents The Little Mermaid 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.36MiB
+[Grimm Fairy Tales Presents The Little Mermaid 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.29MiB
+[Grimm Fairy Tales Presents The Little Mermaid 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 44.95MiB

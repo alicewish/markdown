@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Resident Alien - The Sam Hain Mystery 00 (of 03) (2015) (digital) (Son of Ultron-Empire).cbr | 36.41MiB
-Resident Alien - The Sam Hain Mystery 01 (of 03) (2015) (digital) (Son of Ultron-Empire).cbr | 31.86MiB
+[Resident Alien - The Sam Hain Mystery 00 (of 03) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-Sam-Hain-Mystery-00-of-03-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.41MiB
+[Resident Alien - The Sam Hain Mystery 01 (of 03) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-Sam-Hain-Mystery-01-of-03-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.86MiB
 [Resident Alien - The Sam Hain Mystery 02 (of 03) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-Sam-Hain-Mystery-02-of-03-2015-digital-Son-of-Ultron-Empire-cbr.md) | 29.58MiB
 Resident Alien - The Sam Hain Mystery 03 (of 03) (2015) (digital) (Son of Ultron-Empire).cbr | 27.10MiB

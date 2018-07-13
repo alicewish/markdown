@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 The Thrilling Adventure Hour Presents - Sparks Nevada - Marshal on Mars 001 (2015) (digital) (Son of Ultron-Empire).cbr | 66.60MiB
-The Thrilling Adventure Hour Presents - Sparks Nevada - Marshal on Mars 002 (2015) (digital) (Son of Ultron-Empire).cbr | 46.66MiB
-The Thrilling Adventure Hour Presents - Sparks Nevada - Marshal on Mars 003 (2015) (digital) (Son of Ultron-Empire).cbr | 50.27MiB
+[The Thrilling Adventure Hour Presents - Sparks Nevada - Marshal on Mars 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thrilling-Adventure-Hour-Presents-Sparks-Nevada-Marshal-on-Mars-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.66MiB
+[The Thrilling Adventure Hour Presents - Sparks Nevada - Marshal on Mars 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thrilling-Adventure-Hour-Presents-Sparks-Nevada-Marshal-on-Mars-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 50.27MiB
 [The Thrilling Adventure Hour Presents - Sparks Nevada - Marshal on Mars 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thrilling-Adventure-Hour-Presents-Sparks-Nevada-Marshal-on-Mars-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.53MiB

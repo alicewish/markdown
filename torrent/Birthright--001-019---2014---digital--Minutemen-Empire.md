@@ -15,8 +15,8 @@ Birthright 002 (2014) (digital) (Minutemen-Ghus).cbz | 56.10MiB
 Birthright 003 (2014) (digital) (Minutemen-Ghus).cbz | 61.68MiB
 Birthright 004 (2015) (digital) (Minutemen-Ghus).cbz | 50.61MiB
 Birthright 005 (2015) (digital) (Minutemen-Ghus).cbz | 44.44MiB
-Birthright 006 (2015) (digital) (Minutemen-Ghus).cbz | 49.25MiB
-Birthright 007 (2015) (digital) (Minutemen-Ghus).cbz | 48.86MiB
+[Birthright 006 (2015) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Birthright-006-2015-digital-Minutemen-Ghus-cbz.md) | 49.25MiB
+[Birthright 007 (2015) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Birthright-007-2015-digital-Minutemen-Ghus-cbz.md) | 48.86MiB
 Birthright 008 (2015) (digital) (Minutemen-Ghus).cbz | 48.68MiB
 [Birthright 009 (2015) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Birthright-009-2015-digital-Minutemen-Ghus-cbz.md) | 57.43MiB
 [Birthright 010 (2015) (digital) (Minutemen-Ghus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Birthright-010-2015-digital-Minutemen-Ghus-cbz.md) | 58.56MiB

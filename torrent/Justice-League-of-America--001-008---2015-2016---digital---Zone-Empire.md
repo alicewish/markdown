@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Justice League of America 001 (2015) (9 covers) (digital-Empire).cbr | 100.49MiB
+[Justice League of America 001 (2015) (9 covers) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-of-America-001-2015-9-covers-digital-Empire-cbr.md) | 100.49MiB
 [Justice League of America 002 (2015) (3 covers) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-of-America-002-2015-3-covers-digital-Empire-cbr.md) | 53.71MiB
 Justice League of America 003 (2015) (Digital) (Zone-Empire).cbr | 47.07MiB
 [Justice League of America 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-of-America-004-2015-Digital-Zone-Empire-cbr.md) | 35.50MiB

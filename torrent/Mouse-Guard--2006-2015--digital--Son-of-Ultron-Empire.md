@@ -28,10 +28,10 @@ Mouse Guard - Legends of the Guard v02 02 (of 04) (2013) (HD) (digital-Empire).c
 Mouse Guard - Legends of the Guard v02 03 (of 04) (2013) (HD) (digital-Empire).cbz | 46.36MiB
 Mouse Guard - Legends of the Guard v02 04 (of 04) (2013) (HD) (digital-Empire).cbz | 43.88MiB
 &emsp;【Mouse Guard (2006-2015)(digital)(Son of Ultron-Empire)/Legends of the Guard v3 (001-004)(2015)(digital)(Son of Ultron-Empire)】 | 
-Mouse Guard - Legends of the Guard v03 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 54.38MiB
-Mouse Guard - Legends of the Guard v03 02 (of 04) (2015) (digital) (F) (Son of Ultron-Empire).cbr | 59.24MiB
-Mouse Guard - Legends of the Guard v03 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 55.22MiB
-Mouse Guard - Legends of the Guard v03 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 51.93MiB
+[Mouse Guard - Legends of the Guard v03 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-01-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.38MiB
+[Mouse Guard - Legends of the Guard v03 02 (of 04) (2015) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-02-of-04-2015-digital-F-Son-of-Ultron-Empire-cbr.md) | 59.24MiB
+[Mouse Guard - Legends of the Guard v03 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-03-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.22MiB
+[Mouse Guard - Legends of the Guard v03 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mouse-Guard-Legends-of-Guard-v03-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.93MiB
 Mouse Guard - Art of Bricks (2016) (digital) (Son of Ultron-Empire).cbr | 211.35MiB
 Mouse Guard - Baldwin the Brave & Other Tales (2014) (digital) (Son of Ultron-Empire).cbr | 110.02MiB
 &emsp;【Mouse Guard (2006-2015)(digital)(Son of Ultron-Empire)/Mouse Guard - Fall 1152 (001-006)(2006-2007)(digital)(Son of Ultron-Empire)】 | 

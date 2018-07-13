@@ -20,19 +20,19 @@ Mortal Kombat X 007 (2015) (digital) (Son of Ultron-Empire).cbr | 21.73MiB
 Mortal Kombat X 008 (2015) (digital) (Son of Ultron-Empire).cbr | 21.94MiB
 Mortal Kombat X 009 (2015) (digital) (Son of Ultron-Empire).cbr | 20.87MiB
 Mortal Kombat X 010 (2015) (digital) (Son of Ultron-Empire).cbr | 20.38MiB
-Mortal Kombat X 011 (2015) (digital) (Son of Ultron-Empire).cbr | 15.88MiB
-Mortal Kombat X 012 (2015) (digital) (Son of Ultron-Empire).cbr | 38.55MiB
-Mortal Kombat X 013 (2015) (digital) (Son of Ultron-Empire).cbr | 35.79MiB
+[Mortal Kombat X 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.88MiB
+[Mortal Kombat X 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.55MiB
+[Mortal Kombat X 013 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-013-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.79MiB
 [Mortal Kombat X 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.92MiB
-Mortal Kombat X 015 (2015) (digital) (Son of Ultron-Empire).cbr | 21.14MiB
-Mortal Kombat X 016 (2015) (digital) (Son of Ultron-Empire).cbr | 25.08MiB
-Mortal Kombat X 017 (2015) (digital) (Son of Ultron-Empire).cbr | 28.88MiB
-Mortal Kombat X 018 (2015) (digital) (Son of Ultron-Empire).cbr | 29.25MiB
-Mortal Kombat X 019 (2015) (digital) (Son of Ultron-Empire).cbr | 27.64MiB
-Mortal Kombat X 020 (2015) (digital) (Son of Ultron-Empire).cbr | 20.63MiB
-Mortal Kombat X 021 (2015) (digital) (Son of Ultron-Empire).cbr | 20.07MiB
-Mortal Kombat X 022 (2015) (digital) (Son of Ultron-Empire).cbr | 26.27MiB
+[Mortal Kombat X 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 21.14MiB
+[Mortal Kombat X 016 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-016-2015-digital-Son-of-Ultron-Empire-cbr.md) | 25.08MiB
+[Mortal Kombat X 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.88MiB
+[Mortal Kombat X 018 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-018-2015-digital-Son-of-Ultron-Empire-cbr.md) | 29.25MiB
+[Mortal Kombat X 019 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-019-2015-digital-Son-of-Ultron-Empire-cbr.md) | 27.64MiB
+[Mortal Kombat X 020 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-020-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.63MiB
+[Mortal Kombat X 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.07MiB
+[Mortal Kombat X 022 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-022-2015-digital-Son-of-Ultron-Empire-cbr.md) | 26.27MiB
 [Mortal Kombat X 023 (2015) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-023-2015-digital-F-Son-of-Ultron-Empire-cbr.md) | 19.18MiB
 [Mortal Kombat X 024 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-024-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.07MiB
-Mortal Kombat X 025 (2015) (digital) (Son of Ultron-Empire).cbr | 20.63MiB
+[Mortal Kombat X 025 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-025-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.63MiB
 [Mortal Kombat X 026 (2015) (digital)(Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-026-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.56MiB

@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 Frankenstein Underground 01 (of 05) (2015) (Emerald City Comic-Con Variant) (digital) (Minutemen-MiniDemons).cbr | 482.73KiB
-Frankenstein Underground 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 19.95MiB
-Frankenstein Underground 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 14.48MiB
+[Frankenstein Underground 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-01-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 19.95MiB
+[Frankenstein Underground 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-02-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 14.48MiB
 [Frankenstein Underground 03 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-03-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 16.24MiB
 [Frankenstein Underground 04 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Frankenstein-Underground-04-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 16.13MiB
 Frankenstein Underground 05 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 15.73MiB

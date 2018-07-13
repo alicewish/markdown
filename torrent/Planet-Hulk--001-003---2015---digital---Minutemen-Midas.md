@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Planet Hulk 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 59.05MiB
-Planet Hulk 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 45.50MiB
+[Planet Hulk 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 59.05MiB
+[Planet Hulk 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-002-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 45.50MiB
 [Planet Hulk 003 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-003-2015-digital-Minutemen-Midas-cbr.md) | 43.78MiB

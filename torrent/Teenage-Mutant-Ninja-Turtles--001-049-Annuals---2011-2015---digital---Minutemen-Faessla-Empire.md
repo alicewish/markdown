@@ -57,7 +57,7 @@ Teenage Mutant Ninja Turtles 042 (2015) (3 covers) (digital) (Minutemen-Faessla)
 Teenage Mutant Ninja Turtles 043 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 53.63MiB
 Teenage Mutant Ninja Turtles 044 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 56.34MiB
 Teenage Mutant Ninja Turtles 045 (2015) (2 Covers) (Digital) (BlackManta-Empire).cbr | 52.08MiB
-Teenage Mutant Ninja Turtles 046 (2015) (Digital) (BlackManta-Empire).cbr | 49.70MiB
+[Teenage Mutant Ninja Turtles 046 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-046-2015-Digital-BlackManta-Empire-cbr.md) | 49.70MiB
 [Teenage Mutant Ninja Turtles 047 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-047-2015-Digital-BlackManta-Empire-cbr.md) | 56.68MiB
 [Teenage Mutant Ninja Turtles 048 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-048-2015-Digital-BlackManta-Empire-cbr.md) | 55.73MiB
 [Teenage Mutant Ninja Turtles 049 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-049-2015-Digital-BlackManta-Empire-cbr.md) | 47.13MiB

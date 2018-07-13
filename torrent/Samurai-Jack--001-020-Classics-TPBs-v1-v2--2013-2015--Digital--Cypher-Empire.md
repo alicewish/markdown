@@ -26,9 +26,9 @@ Samurai Jack 013 (2014) (Digital) (Cypher-Empire).cbr | 42.32MiB
 Samurai Jack 014 (2014) (Digital) (Cypher 2.0-Empire).cbr | 50.64MiB
 Samurai Jack 015 (2014) (Digital) (Cypher 2.0-Empire).cbr | 63.28MiB
 Samurai Jack 016 (2015) (Digital) (Cypher 2.0-Empire).cbr | 41.49MiB
-Samurai Jack 017 (2015) (Digital) (F) (Cypher 2.0-Empire).cbr | 36.27MiB
-Samurai Jack 018 (2015) (Digital) (Cypher 2.0-Empire).cbr | 36.51MiB
-Samurai Jack 019 (2015) (Digital) (Cypher 2.0-Empire).cbr | 36.07MiB
+[Samurai Jack 017 (2015) (Digital) (F) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Samurai-Jack-017-2015-Digital-F-Cypher-2-0-Empire-cbr.md) | 36.27MiB
+[Samurai Jack 018 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Samurai-Jack-018-2015-Digital-Cypher-2-0-Empire-cbr.md) | 36.51MiB
+[Samurai Jack 019 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Samurai-Jack-019-2015-Digital-Cypher-2-0-Empire-cbr.md) | 36.07MiB
 [Samurai Jack 020 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Samurai-Jack-020-2015-Digital-Cypher-2-0-Empire-cbr.md) | 47.85MiB
 Samurai Jack Classics v1 (2013) (Digital) (BlurPixel-Empire).cbr | 225.89MiB
 Samurai Jack Classics v2 (2014) (Digital) (BlurPixel-Empire).cbr | 164.36MiB

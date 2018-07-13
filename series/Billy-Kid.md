@@ -26,6 +26,7 @@ Billy the Kid 023 (Charlton 1962) (c2c) (Titansfan).cbz | 24.68MiB
 Billy the Kid 24 Charlton Sep 1960 Bumblebee Man-Kracalactaka.cbz | 35.96MiB
 Billy the Kid 26 c2c Charlton Jan 1960 GR2014.cbz | 33.78MiB
 Billy the Kid 27 Charlton Mar 1961 Titansfan.cbz | 24.34MiB
+Billy the Kid 030 Charlton Sep 1961 GR2014.cbz | 33.10MiB
 Billy the Kid 32 Charlton Jan 1962 Titansfan.cbz | 25.13MiB
 Billy the Kid 33 c2c Charlton 1962 GR2014.cbz | 30.85MiB
 Billy the Kid 33 Charlton Apr 1962 Titansfan.cbz | 25.63MiB
@@ -38,11 +39,13 @@ Billy the Kid 40 Charlton Jun 1963 Titansfan.cbz | 22.18MiB
 Billy the Kid 45 Charlton May 1964 Titansfan.cbz | 24.26MiB
 Billy the Kid 46 c2c Charlton July 1964 titansfan.cbz | 41.18MiB
 Billy the Kid 048 Charlton Jan 1965 Narfstar-Kracalactaka.cbz | 48.08MiB
+Billy the Kid 049 Charlton Mar 1965 Gremlin.cbz | 33.02MiB
 Billy the Kid 54 c2c Charlton 1966 GR2014.cbz | 29.87MiB
 Billy the Kid 54 Charlton Feb-Mar 1966 Titansfan.cbz | 24.75MiB
 Billy the Kid 57 Charlton Titansfan.cbz | 25.92MiB
 Billy the Kid 59 Charlton Jan 1967 titansfan.cbz | 26.65MiB
 Billy the Kid 062 (Charlton 1967) (c2c) (Titansfan).cbz | 25.54MiB
+Billy the Kid 076 Charlton 1970 Gremlin.cbz | 29.99MiB
 Billy the Kid 80 c2c Charlton Sep 1970 GR2014.cbz | 31.22MiB
 Billy the Kid 81 c2c Charlton 1970 GR2014.cbz | 27.02MiB
 Billy the Kid 081 (Charlton 1970) (c2c) (Titansfan).cbz | 24.82MiB
@@ -57,6 +60,7 @@ Billy the Kid 95 c2c Charlton 1972 titansfan.cbz | 41.02MiB
 Billy the Kid 96 Charlton 1972 Titansfan.cbz | 25.81MiB
 Billy the Kid 101 Charlton Titansfan.cbz | 23.15MiB
 Billy the Kid 105 (Charlton 1973) (c2c) (Titansfan).cbz | 26.02MiB
+Billy the Kid 106 Charlton 1973 Gremlin.cbz | 34.02MiB
 Billy the Kid 109 c2c Charlton 1974 GR2014.cbz | 34.60MiB
 Billy the Kid 109 Charlton Titansfan.cbz | 25.80MiB
 Billy the Kid 113 Charlton 1975 Titansfan.cbz | 26.18MiB

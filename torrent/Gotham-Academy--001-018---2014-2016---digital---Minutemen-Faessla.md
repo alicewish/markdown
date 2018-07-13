@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-DC Sneak Peek - Gotham Academy 001 (2015) (webrip-DCP).cbr | 9.30MiB
+[DC Sneak Peek - Gotham Academy 001 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Gotham-Academy-001-2015-webrip-DCP-cbr.md) | 9.30MiB
 [Gotham Academy - Endgame 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Gotham-Academy-Endgame-01-2015-digital-Minutemen-Faessla-cbz.md) | 29.87MiB
 [Gotham Academy 001 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Gotham-Academy-001-2014-digital-Minutemen-Faessla-cbz.md) | 27.27MiB
 [Gotham Academy 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Gotham-Academy-002-2015-digital-Minutemen-Faessla-cbz.md) | 25.64MiB

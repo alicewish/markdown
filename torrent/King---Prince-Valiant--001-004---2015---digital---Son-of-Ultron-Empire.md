@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 King - Prince Valiant 001 (2015) (digital) (Son of Ultron-Empire).cbr | 31.13MiB
-King - Prince Valiant 002 (2015) (digital) (Son of Ultron-Empire).cbr | 36.53MiB
+[King - Prince Valiant 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Prince-Valiant-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.53MiB
 [King - Prince Valiant 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Prince-Valiant-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.64MiB
 [King - Prince Valiant 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Prince-Valiant-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.92MiB

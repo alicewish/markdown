@@ -17,4 +17,4 @@ The Red Ten 003 (2013) (Digital) (Darkness-Empire).cbr | 58.21MiB
 The Red Ten 004 (2013) (Digital) (Darkness-Empire).cbr | 47.23MiB
 The Red Ten 005 (2014) (Digital) (Darkness-Empire).cbr | 51.12MiB
 The Red Ten 006 (2014) (Digital) (Darkness-Empire).cbr | 53.14MiB
-The Red Ten 007 (2015) (Digital) (AnHeroGold-Empire).cbz | 46.59MiB
+[The Red Ten 007 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Red-Ten-007-2015-Digital-AnHeroGold-Empire-cbz.md) | 46.59MiB

@@ -1,5 +1,9 @@
 ## Prism Stalker 004 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Prism Stalker 目录](https://github.com/alicewish/markdown/blob/master/series/Prism-Stalker.md)
+
+
 ![Prism Stalker 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5nq8bq0cj21j82cwqv5.jpg)
 
 ![Prism Stalker 004-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5nqdbgg1j21j82cwh05.jpg)
@@ -79,3 +83,6 @@
 ![Prism Stalker 004-038.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5o28iab7j21j82cwkjm.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5gmgdz0fj21kw1c84il.jpg)
+
+[回到 Prism Stalker 目录](https://github.com/alicewish/markdown/blob/master/series/Prism-Stalker.md)
+

@@ -14,9 +14,9 @@ The Fade Out 001 (2014) (Digital) (Archangel+Zone-Empire).cbr | 50.40MiB
 The Fade Out 002 (2014) (Digital) (Zone-Empire).cbr | 48.18MiB
 The Fade Out 003 (2014) (Digital) (Archangel+Zone-Empire).cbr | 51.03MiB
 [The Fade Out 004 (2015) (Digital) (Archangel+Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-004-2015-Digital-Archangel-Zone-Empire-cbr.md) | 46.87MiB
-The Fade Out 005 (2015) (Digital) (Zone-Empire).cbr | 49.50MiB
-The Fade Out 006 (2015) (Digital) (Zone-Empire).cbr | 49.94MiB
-The Fade Out 007 (2015) (Digital) (Zone-Empire).cbr | 50.30MiB
+[The Fade Out 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-005-2015-Digital-Zone-Empire-cbr.md) | 49.50MiB
+[The Fade Out 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-006-2015-Digital-Zone-Empire-cbr.md) | 49.94MiB
+[The Fade Out 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-007-2015-Digital-Zone-Empire-cbr.md) | 50.30MiB
 [The Fade Out 008 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-008-2015-Digital-Zone-Empire-cbr.md) | 45.44MiB
 [The Fade Out 009 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-009-2015-Digital-Zone-Empire-cbr.md) | 48.32MiB
 [The Fade Out 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-010-2015-Digital-Zone-Empire-cbr.md) | 46.28MiB

@@ -15,4 +15,4 @@ Annihilator 002 (2014) (Digital) (Zone-Empire).cbr | 55.40MiB
 Annihilator 003 (2014) (Digital) (Zone-Empire).cbr | 60.49MiB
 Annihilator 004 (2014) (Digital) (Zone-Empire).cbr | 74.32MiB
 Annihilator 005 (2015) (Digital) (Zone-Empire).cbr | 66.24MiB
-Annihilator 006 (2015) (Digital) (Zone-Empire).cbr | 85.17MiB
+[Annihilator 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Annihilator-006-2015-Digital-Zone-Empire-cbr.md) | 85.17MiB

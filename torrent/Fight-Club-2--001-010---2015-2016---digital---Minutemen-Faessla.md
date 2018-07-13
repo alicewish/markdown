@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Fight Club (FCBD 2015) (digital) (Minutemen-Saxon).cbz | 26.33MiB
-Fight Club 2 001 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 42.21MiB
+[Fight Club (FCBD 2015) (digital) (Minutemen-Saxon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Fight-Club-FCBD-2015-digital-Minutemen-Saxon-cbz.md) | 26.33MiB
+[Fight Club 2 001 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Fight-Club-2-001-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 42.21MiB
 [Fight Club 2 002 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Fight-Club-2-002-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 34.57MiB
 [Fight Club 2 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Fight-Club-2-003-2015-digital-Minutemen-Faessla-cbz.md) | 35.43MiB
 Fight Club 2 004 (2015) (digital) (Minutemen-Faessla).cbz | 38.87MiB

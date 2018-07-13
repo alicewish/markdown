@@ -113,11 +113,11 @@ Batman '66 054 (2015) (digital) (Son fo Ultron-Empire).cbr | 57.10MiB
 Batman '66 055 (2015) (digital) (Son of Ultron-Empire).cbr | 37.29MiB
 Batman '66 056 (2015) (digital) (Son of Ultron-Empire).cbr | 56.14MiB
 [Batman '66 057 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-057-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.39MiB
-Batman '66 058 (2015) (digital) (Son of Ultron-Empire).cbr | 64.04MiB
-Batman '66 059 (2015) (digital) (Son of Ultron-Empire).cbr | 72.66MiB
-Batman '66 060 (2015) (digital) (Son of Ultron-Empire).cbr | 118.02MiB
-Batman '66 061 (2015) (digital) (Son of Ultron-Empire).cbr | 146.27MiB
-Batman '66 062 (2015) (digital) (Son of Ultron-Empire).cbr | 20.02MiB
+[Batman '66 058 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-058-2015-digital-Son-of-Ultron-Empire-cbr.md) | 64.04MiB
+[Batman '66 059 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-059-2015-digital-Son-of-Ultron-Empire-cbr.md) | 72.66MiB
+[Batman '66 060 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-060-2015-digital-Son-of-Ultron-Empire-cbr.md) | 118.02MiB
+[Batman '66 061 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-061-2015-digital-Son-of-Ultron-Empire-cbr.md) | 146.27MiB
+[Batman '66 062 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-062-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.02MiB
 [Batman '66 063 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-063-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.82MiB
 [Batman '66 064 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-064-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.56MiB
 [Batman '66 065 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-065-2015-digital-Son-of-Ultron-Empire-cbr.md) | 17.85MiB
@@ -1688,20 +1688,20 @@ Batman - The Jiro Kuwata Batmanga 033 (2015) (digital) (Son of Ultron-Empire).cb
 Batman - The Jiro Kuwata Batmanga 034 (2015) (digital) (Son of Ultron-Empire).cbr | 16.95MiB
 Batman - The Jiro Kuwata Batmanga 035 (2015) (digital) (Son of Ultron-Empire).cbr | 14.43MiB
 Batman - The Jiro Kuwata Batmanga 036 (2015) (digital) (Son of Ultron-Empire).cbr | 16.78MiB
-Batman - The Jiro Kuwata Batmanga 037 (2015) (digital) (Son of Ultron-Empire).cbr | 16.34MiB
-Batman - The Jiro Kuwata Batmanga 038 (2015) (digital) (Son of Ultron-Empire).cbr | 16.87MiB
-Batman - The Jiro Kuwata Batmanga 039 (2015) (digital) (Son of Ultron-Empire).cbr | 16.61MiB
+[Batman - The Jiro Kuwata Batmanga 037 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-037-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.34MiB
+[Batman - The Jiro Kuwata Batmanga 038 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-038-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.87MiB
+[Batman - The Jiro Kuwata Batmanga 039 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-039-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.61MiB
 [Batman - The Jiro Kuwata Batmanga 040 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-040-2015-digital-Son-of-Ultron-Empire-cbr.md) | 13.69MiB
-Batman - The Jiro Kuwata Batmanga 041 (2015) (digital) (Son of Ultron-Empire).cbr | 15.84MiB
-Batman - The Jiro Kuwata Batmanga 042 (2015) (digital) (Son of Ultron-Empire).cbr | 13.71MiB
-Batman - The Jiro Kuwata Batmanga 043 (2015) (digital) (Son of Ultron-Empire).cbr | 13.64MiB
-Batman - The Jiro Kuwata Batmanga 044 (2015) (digital) (Son of Ultron-Empire).cbr | 35.24MiB
-Batman - The Jiro Kuwata Batmanga 045 (2015) (digital) (Son of Ultron-Empire).cbr | 25.19MiB
-Batman - The Jiro Kuwata Batmanga 046 (2015) (digital) (Son of Ultron-Empire).cbr | 25.10MiB
-Batman - The Jiro Kuwata Batmanga 047 (2015) (digital) (Son of Ultron-Empire).cbr | 23.36MiB
-Batman - The Jiro Kuwata Batmanga 048 (2015) (digital) (Son of Ultron-Empire).cbr | 24.86MiB
+[Batman - The Jiro Kuwata Batmanga 041 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-041-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.84MiB
+[Batman - The Jiro Kuwata Batmanga 042 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-042-2015-digital-Son-of-Ultron-Empire-cbr.md) | 13.71MiB
+[Batman - The Jiro Kuwata Batmanga 043 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-043-2015-digital-Son-of-Ultron-Empire-cbr.md) | 13.64MiB
+[Batman - The Jiro Kuwata Batmanga 044 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-044-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.24MiB
+[Batman - The Jiro Kuwata Batmanga 045 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-045-2015-digital-Son-of-Ultron-Empire-cbr.md) | 25.19MiB
+[Batman - The Jiro Kuwata Batmanga 046 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-046-2015-digital-Son-of-Ultron-Empire-cbr.md) | 25.10MiB
+[Batman - The Jiro Kuwata Batmanga 047 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-047-2015-digital-Son-of-Ultron-Empire-cbr.md) | 23.36MiB
+[Batman - The Jiro Kuwata Batmanga 048 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-048-2015-digital-Son-of-Ultron-Empire-cbr.md) | 24.86MiB
 [Batman - The Jiro Kuwata Batmanga 049 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-049-2015-digital-Son-of-Ultron-Empire-cbr.md) | 22.43MiB
-Batman - The Jiro Kuwata Batmanga 050 (2015) (digital) (Son of Ultron-Empire).cbr | 20.17MiB
+[Batman - The Jiro Kuwata Batmanga 050 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-050-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.17MiB
 &emsp;【Batman (1937-)/Batman Series/Batman Adventures (v1-v2+)(1992-2015)】 | 
 &emsp;【Batman (1937-)/Batman Series/Batman Adventures (v1-v2+)(1992-2015)/Batman Adventures - The Lost Years (001-005)(1998)(GCPD-OCD)】 | 
 Batman Adventures - The Lost Years 01 (1998) (GCPD-OCD).cbr | 8.08MiB
@@ -3635,7 +3635,7 @@ Detective Comics Vol. 03 - Emperor Penguin (2013) (digital) (Minutemen-PhD).cbr 
 Detective Comics Vol. 04 - The Wrath (2014) (digital) (Minutemen-PhD).cbr | 351.57MiB
 Detective Comics Vol. 05 - Gothtopia (2014) (digital) (Minutemen-PhD).cbr | 324.35MiB
 &emsp;【Batman (1937-)/Batman Series/Detective Comics (v1-v2,Rebirth+)(1937-)/2-Detective Comics v2 (001-052+)(2011-2016)(digital)/Extras】 | 
-Convergence - Detective Comics 001 (2015) (Digital) (ThatGuy-Empire).cbz | 45.45MiB
+[Convergence - Detective Comics 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Detective-Comics-001-2015-Digital-ThatGuy-Empire-cbz.md) | 45.45MiB
 [Convergence - Detective Comics 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Detective-Comics-002-2015-Digital-ThatGuy-Empire-cbz.md) | 44.90MiB
 [DC Sneak Peek - Detective Comics (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Detective-Comics-2015-Digital-ThatGuy-Empire-cbz.md) | 15.12MiB
 [Detective Comics - Endgame 001 (2015) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-Endgame-001-2015-digital-empire-cbr.md) | 35.01MiB
@@ -5159,21 +5159,21 @@ Batman - Arkham Knight 000.cbr | 6.58MiB
 Batman - Arkham Knight 001 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.41MiB
 Batman - Arkham Knight 002 (2015) (Digital) (Cypher 2.0-Empire).cbr | 14.99MiB
 Batman - Arkham Knight 003 (2015) (Digital) (Cypher 2.0-Empire).cbr | 15.24MiB
-Batman - Arkham Knight 004 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.25MiB
-Batman - Arkham Knight 005 (2015) (Digital) (Cypher 2.0-Empire).cbr | 14.44MiB
-Batman - Arkham Knight 006 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.17MiB
+[Batman - Arkham Knight 004 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-004-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.25MiB
+[Batman - Arkham Knight 005 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-005-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.44MiB
+[Batman - Arkham Knight 006 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-006-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.17MiB
 [Batman - Arkham Knight 007 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-007-2015-Digital-Cypher-2-0-Empire-cbr.md) | 15.56MiB
-Batman - Arkham Knight 008 (2015) (Digital) (Cypher 2.0-Empire).cbr | 15.57MiB
-Batman - Arkham Knight 009 (2015) (Digital) (Cypher 2.0-Empire).cbr | 17.70MiB
-Batman - Arkham Knight 010 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.23MiB
-Batman - Arkham Knight 011 (2015) (Digital) (Cypher 2.0-Empire).cbr | 14.98MiB
-Batman - Arkham Knight 012 (2015) (Digital) (Cypher 2.0-Empire).cbr | 14.02MiB
-Batman - Arkham Knight 013 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.38MiB
-Batman - Arkham Knight 014 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.23MiB
-Batman - Arkham Knight 015 (2015) (Digital) (Cypher 2.0-Empire).cbr | 15.94MiB
+[Batman - Arkham Knight 008 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-008-2015-Digital-Cypher-2-0-Empire-cbr.md) | 15.57MiB
+[Batman - Arkham Knight 009 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-009-2015-Digital-Cypher-2-0-Empire-cbr.md) | 17.70MiB
+[Batman - Arkham Knight 010 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-010-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.23MiB
+[Batman - Arkham Knight 011 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-011-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.98MiB
+[Batman - Arkham Knight 012 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-012-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.02MiB
+[Batman - Arkham Knight 013 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-013-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.38MiB
+[Batman - Arkham Knight 014 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-014-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.23MiB
+[Batman - Arkham Knight 015 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-015-2015-Digital-Cypher-2-0-Empire-cbr.md) | 15.94MiB
 [Batman - Arkham Knight 016 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-016-2015-Digital-Cypher-2-0-Empire-cbr.md) | 18.10MiB
-Batman - Arkham Knight 017 (2015) (Digital) (Cypher 2.0-Empire).cbr | 17.96MiB
-Batman - Arkham Knight 018 (2015) (Digital) (Cypher 2.0-Empire).cbr | 20.95MiB
+[Batman - Arkham Knight 017 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-017-2015-Digital-Cypher-2-0-Empire-cbr.md) | 17.96MiB
+[Batman - Arkham Knight 018 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-018-2015-Digital-Cypher-2-0-Empire-cbr.md) | 20.95MiB
 [Batman - Arkham Knight 019 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-019-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.98MiB
 [Batman - Arkham Knight 020 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-020-2015-Digital-Cypher-2-0-Empire-cbr.md) | 13.49MiB
 [Batman - Arkham Knight 021 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-021-2015-Digital-Cypher-2-0-Empire-cbr.md) | 13.13MiB
@@ -5200,9 +5200,9 @@ Batman - Arkham Knight 018 (2015) (Digital) (Cypher 2.0-Empire).cbr | 20.95MiB
 Batman - Arkham Knight 002 (2015) (digital) (Jae Lee variant) (Minutemen-Mastodon).cbz | 410.96KiB
 &emsp;【Batman (1937-)/Spin-Offs/Batman - Arkham (2011-2016)/Batman - Arkham Knight (001-012)(2015-2016)(Digital-Print Version)(Bobafett+Zone-Empire)】 | 
 Batman - Arkham Knight 001 (2015) (Digital, print version) (Zone-Empire).cbr | 39.65MiB
-Batman - Arkham Knight 002 (2015) (Digital, print version) (Zone-Empire).cbr | 41.07MiB
-Batman - Arkham Knight 003 (2015) (Digital, print version) (Zone-Empire).cbr | 43.92MiB
-Batman - Arkham Knight 004 (2015) (Digital, print version) (Zone-Empire).cbr | 39.47MiB
+[Batman - Arkham Knight 002 (2015) (Digital, print version) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-002-2015-Digital-print-version-Zone-Empire-cbr.md) | 41.07MiB
+[Batman - Arkham Knight 003 (2015) (Digital, print version) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-003-2015-Digital-print-version-Zone-Empire-cbr.md) | 43.92MiB
+[Batman - Arkham Knight 004 (2015) (Digital, print version) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-004-2015-Digital-print-version-Zone-Empire-cbr.md) | 39.47MiB
 [Batman - Arkham Knight 005 (2015) (Digital, print version) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-005-2015-Digital-print-version-Zone-Empire-cbr.md) | 44.54MiB
 [Batman - Arkham Knight 006 (2015) (Digital, print version) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-006-2015-Digital-print-version-Zone-Empire-cbr.md) | 51.05MiB
 [Batman - Arkham Knight 007 (2015) (Digital, print version) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-007-2015-Digital-print-version-Zone-Empire-cbr.md) | 36.63MiB
@@ -5442,7 +5442,7 @@ Batman Beyond 029 (2013) (digital) (Son of Ultron-Empire).cbr | 18.94MiB
 [Batman Beyond 014 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-014-2016-Digital-Zone-Empire-cbr.md) | 28.96MiB
 [Batman Beyond 015 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-015-2016-Digital-Zone-Empire-cbr.md) | 28.68MiB
 [Batman Beyond 016 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-016-2016-Digital-Zone-Empire-cbr.md) | 31.89MiB
-DC Sneak Peek - Batman Beyond (2015) (Digital) (ThatGuy-Empire).cbz | 15.18MiB
+[DC Sneak Peek - Batman Beyond (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Batman-Beyond-2015-Digital-ThatGuy-Empire-cbz.md) | 15.18MiB
 DC Comics Presents - Batman Beyond 01 (2011) (Bchry-DCP).cbz | 54.54MiB
 &emsp;【Batman (1937-)/Spin-Offs/Batman Beyond/Variant Covers】 | 
 Batman Beyond 001 (2015) (digital) (Kalman Andrasofsky variant) (Minutemen-Mastodon).cbz | 535.77KiB
@@ -5501,7 +5501,7 @@ Gotham Academy v01 - Welcome to Gotham Academy (2015) (Digital) (Zone-Empire).cb
 Gotham Academy v02 - Calamity (2016) (digital) (Son of Ultron-Empire).cbr | 127.90MiB
 Gotham Academy v03 - Yearbook (2016) (digital) (Son of Ultron-Empire).cbr | 212.77MiB
 &emsp;【Batman (1937-)/Spin-Offs/Gotham Academy/Gotham Academy v1 (001-018+)(2014-2016)(digital)(Minutemen-Faessla)】 | 
-DC Sneak Peek - Gotham Academy 001 (2015) (webrip-DCP).cbr | 9.30MiB
+[DC Sneak Peek - Gotham Academy 001 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Gotham-Academy-001-2015-webrip-DCP-cbr.md) | 9.30MiB
 [Gotham Academy - Endgame 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Gotham-Academy-Endgame-01-2015-digital-Minutemen-Faessla-cbz.md) | 29.87MiB
 [Gotham Academy 001 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Gotham-Academy-001-2014-digital-Minutemen-Faessla-cbz.md) | 27.27MiB
 [Gotham Academy 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Gotham-Academy-002-2015-digital-Minutemen-Faessla-cbz.md) | 25.64MiB

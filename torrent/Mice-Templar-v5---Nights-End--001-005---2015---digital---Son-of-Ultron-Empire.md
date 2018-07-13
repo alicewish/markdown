@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-The Mice Templar v5 - Night's End 001 (2015) (digital) (Son of Ultron-Empire).cbr | 46.88MiB
-The Mice Templar v5 - Night's End 002 (2015) (digital) (Son of Ultron-Empire).cbr | 77.52MiB
+[The Mice Templar v5 - Night's End 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mice-Templar-v5-Nights-End-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.88MiB
+[The Mice Templar v5 - Night's End 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mice-Templar-v5-Nights-End-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 77.52MiB
 [The Mice Templar v5 - Night's End 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mice-Templar-v5-Nights-End-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 48.14MiB
 [The Mice Templar v5 - Night's End 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mice-Templar-v5-Nights-End-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 95.66MiB
 [The Mice Templar v5 - Night's End 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mice-Templar-v5-Nights-End-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 58.39MiB

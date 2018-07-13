@@ -26,8 +26,8 @@ Lazarus 012 (2014) (digital) (Minutemen-PhD).cbr | 39.22MiB
 Lazarus 013 (2014) (digital) (Minutemen-PhD).cbr | 34.38MiB
 [Lazarus 014 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lazarus-014-2015-digital-Minutemen-PhD-cbr.md) | 42.51MiB
 Lazarus 015 (2015) (digital) (Minutemen-PhD).cbr | 42.88MiB
-Lazarus 016 (2015) (digital) (Minutemen-PhD).cbr | 41.63MiB
-Lazarus 017 (2015) (digital) (Minutemen-PhD).cbr | 41.21MiB
+[Lazarus 016 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lazarus-016-2015-digital-Minutemen-PhD-cbr.md) | 41.63MiB
+[Lazarus 017 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lazarus-017-2015-digital-Minutemen-PhD-cbr.md) | 41.21MiB
 Lazarus 018 (2015) (digital) (Minutemen-InnerDemons).cbr | 40.53MiB
 Lazarus 019 (2015) (digital) (Minutemen-InnerDemons).cbr | 63.64MiB
 Lazarus 020 (2015) (digital) (Minutemen-InnerDemons).cbr | 41.00MiB

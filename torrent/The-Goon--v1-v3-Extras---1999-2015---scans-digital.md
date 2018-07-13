@@ -45,7 +45,7 @@ The Goon - Occasion of Revenge 04 (of 04) (2014) (digital) (Minutemen-InnerDemon
 &emsp;【The Goon (v1-v3+Extras) (1999-2015) (scans+digital)/Once Upon a Hard Time (001-004)(2015)(digital)】 | 
 The Goon - Once Upon a Hard Time 01 (of 4) (2015) (Digital-Empire).cbr | 24.58MiB
 The Goon - Once Upon a Hard Time 02 (of 4) (2015) (Digital-Empire).cbr | 27.76MiB
-The Goon - Once Upon a Hard Time 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr | 33.65MiB
+[The Goon - Once Upon a Hard Time 03 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Goon-Once-Upon-a-Hard-Time-03-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.65MiB
 [The Goon - Once Upon a Hard Time 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Goon-Once-Upon-a-Hard-Time-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.28MiB
 [The Goon - Theatre Bizarre (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Goon-Theatre-Bizarre-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.75MiB
 &emsp;【The Goon (v1-v3+Extras) (1999-2015) (scans+digital)/The Goon Noir (001-003+TPB)(2006-2007)】 | 

@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Sons of the Devil 001 (2015) (digital) (Minutemen-Faessla).cbz | 62.92MiB
-Sons of the Devil 002 (2015) (digital) (Minutemen-Faessla).cbz | 54.24MiB
+[Sons of the Devil 001 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Devil-001-2015-digital-Minutemen-Faessla-cbz.md) | 62.92MiB
+[Sons of the Devil 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Devil-002-2015-digital-Minutemen-Faessla-cbz.md) | 54.24MiB
 [Sons of the Devil 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Devil-003-2015-digital-Minutemen-Faessla-cbz.md) | 53.55MiB
 [Sons of the Devil 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Devil-004-2015-digital-Minutemen-Faessla-cbz.md) | 52.44MiB
 [Sons of the Devil 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Devil-005-2015-digital-Minutemen-Faessla-cbz.md) | 50.55MiB

@@ -12,8 +12,8 @@ Online | Download
 --- | ---
 Chilling Adventures of Sabrina 001 (2014) (2 covers) (digital) (Minutemen-InnerDemons).cbr | 105.17MiB
 Chilling Adventures of Sabrina 001 (2014) (Robert Hack Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 2.06MiB
-Chilling Adventures of Sabrina 002 (2015) (2 covers) (Digital+) (Salem-Empire).cbr | 105.03MiB
-Chilling Adventures of Sabrina 003 (2015) (Digital) (Salem-Empire).cbr | 87.34MiB
+[Chilling Adventures of Sabrina 002 (2015) (2 covers) (Digital+) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chilling-Adventures-of-Sabrina-002-2015-2-covers-Digital-Salem-Empire-cbr.md) | 105.03MiB
+[Chilling Adventures of Sabrina 003 (2015) (Digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chilling-Adventures-of-Sabrina-003-2015-Digital-Salem-Empire-cbr.md) | 87.34MiB
 [Chilling Adventures of Sabrina 004 (2015) (Digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chilling-Adventures-of-Sabrina-004-2015-Digital-Salem-Empire-cbr.md) | 84.21MiB
 [Chilling Adventures of Sabrina 005 (2016) (Digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chilling-Adventures-of-Sabrina-005-2016-Digital-Salem-Empire-cbr.md) | 76.25MiB
 [Chilling Adventures of Sabrina 006 (2016) (Digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chilling-Adventures-of-Sabrina-006-2016-Digital-Salem-Empire-cbr.md) | 90.87MiB

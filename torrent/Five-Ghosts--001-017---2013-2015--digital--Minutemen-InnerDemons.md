@@ -26,7 +26,7 @@ Five Ghosts 012 (2014) (digital) (Minutemen-InnerDemons).cbr | 55.39MiB
 Five Ghosts 013 (2014) (digital) (Minutemen-InnerDemons).cbr | 49.81MiB
 Five Ghosts 014 (2014) (digital) (Minutemen-InnerDemons).cbr | 49.01MiB
 Five Ghosts 015 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.91MiB
-Five Ghosts 016 (2015) (digital) (Minutemen-InnerDemons).cbr | 53.21MiB
+[Five Ghosts 016 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Five-Ghosts-016-2015-digital-Minutemen-InnerDemons-cbr.md) | 53.21MiB
 Five Ghosts 017 (2015) (digital) (Minutemen-Faessla).cbz | 75.82MiB
 Five Ghosts Special 01 (2015) (digital) (Minutemen-Faessla).cbz | 118.18MiB
 &emsp;【Five Ghosts (001-017+)(2013-2015)(digital)(Minutemen-InnerDemons+)/TPBs (v01-v03)】 | 

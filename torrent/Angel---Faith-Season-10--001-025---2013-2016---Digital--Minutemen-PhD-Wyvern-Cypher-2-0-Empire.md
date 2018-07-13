@@ -23,7 +23,7 @@ Angel & Faith Season 10 010 (2015) (Digital) (Minutemen-Wyvern).cbr | 26.61MiB
 Angel & Faith Season 10 011 (2015) (Digital) (Minutemen-Wyvern).cbr | 22.68MiB
 Angel & Faith Season 10 012 (2015) (Digital) (Minutemen-Wyvern).cbr | 25.64MiB
 Angel & Faith Season 10 013 (2015) (Digital) (Minutemen-Wyvern).cbr | 23.10MiB
-Angel & Faith Season 10 014 (2015) (Digital) (Cypher 2.0-Empire).cbr | 24.52MiB
+[Angel & Faith Season 10 014 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Angel-Faith-Season-10-014-2015-Digital-Cypher-2-0-Empire-cbr.md) | 24.52MiB
 [Angel & Faith Season 10 015 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Angel-Faith-Season-10-015-2015-Digital-Cypher-2-0-Empire-cbr.md) | 24.75MiB
 [Angel & Faith Season 10 016 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Angel-Faith-Season-10-016-2015-Digital-Cypher-2-0-Empire-cbr.md) | 25.33MiB
 [Angel & Faith Season 10 017 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Angel-Faith-Season-10-017-2015-Digital-Cypher-2-0-Empire-cbr.md) | 22.05MiB

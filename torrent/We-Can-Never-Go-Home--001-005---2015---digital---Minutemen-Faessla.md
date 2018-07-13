@@ -12,6 +12,6 @@ Online | Download
 --- | ---
 We Can Never Go Home 01 (of 05) (2015) (digital) (Minutemen-Faessla).cbz | 57.05MiB
 We Can Never Go Home 02 (of 05) (2015) (digital) (Minutemen-Faessla).cbz | 93.94MiB
-We Can Never Go Home 03 (of 05) (2015) (digital) (Minutemen-Faessla).cbz | 92.87MiB
+[We Can Never Go Home 03 (of 05) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/We-Can-Never-Go-Home-03-of-05-2015-digital-Minutemen-Faessla-cbz.md) | 92.87MiB
 [We Can Never Go Home 04 (of 05) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/We-Can-Never-Go-Home-04-of-05-2015-digital-Minutemen-Faessla-cbz.md) | 47.47MiB
 [We Can Never Go Home 05 (of 05) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/We-Can-Never-Go-Home-05-of-05-2015-digital-Minutemen-Faessla-cbz.md) | 38.43MiB

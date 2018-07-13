@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [No Mercy 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/No-Mercy-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 56.55MiB
-No Mercy 002 (2015) (digital) (The Magicians-Empire).cbr | 47.11MiB
+[No Mercy 002 (2015) (digital) (The Magicians-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/No-Mercy-002-2015-digital-Magicians-Empire-cbr.md) | 47.11MiB
 [No Mercy 003 (2015) (digital) (The Magicians-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/No-Mercy-003-2015-digital-Magicians-Empire-cbr.md) | 52.36MiB
 [No Mercy 004 (2015) (digital) (The Magicians-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/No-Mercy-004-2015-digital-Magicians-Empire-cbr.md) | 86.03MiB
 [No Mercy 005 (2015) (digital) (The Magicians-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/No-Mercy-005-2015-digital-Magicians-Empire-cbr.md) | 75.78MiB

@@ -175,10 +175,10 @@ Charmed Season 10 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 33.27MiB
 Charmed Season 10 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 30.57MiB
 [Charmed Season 10 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 32.99MiB
 Charmed Season 10 005 (2015) (Digital) (DR & Quinch-Empire).cbr | 31.99MiB
-Charmed Season 10 006 (2015) (Digital) (DR & Quinch-Empire).cbr | 35.43MiB
-Charmed Season 10 007(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.99MiB
-Charmed Season 10 008(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.03MiB
-Charmed Season 10 009(2015)(Digital)(TLK-EMPIRE-HD).cbr | 29.86MiB
+[Charmed Season 10 006 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-006-2015-Digital-DR-Quinch-Empire-cbr.md) | 35.43MiB
+[Charmed Season 10 007(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-007-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.99MiB
+[Charmed Season 10 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.03MiB
+[Charmed Season 10 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 29.86MiB
 [Charmed Season 10 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.19MiB
 [Charmed Season 10 011(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-011-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.51MiB
 [Charmed Season 10 012(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-012-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.04MiB
@@ -296,8 +296,8 @@ Grimm Fairy Tales Presents Realm War 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.
 Grimm Fairy Tales Presents Realm War 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.81MiB
 [Grimm Fairy Tales Presents Realm War 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.57MiB
 Grimm Fairy Tales Presents Realm War 007(2015)(Digital)(TLK-EMPIRE-HD).cbr | 38.25MiB
-Grimm Fairy Tales Presents Realm War 008(2015)(Digital)(TLK-EMPIRE-HD).cbr | 40.66MiB
-Grimm Fairy Tales Presents Realm War 009(2015)(Digital)(TLK-EMPIRE-HD).cbr | 40.92MiB
+[Grimm Fairy Tales Presents Realm War 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.66MiB
+[Grimm Fairy Tales Presents Realm War 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.92MiB
 [Grimm Fairy Tales Presents Realm War 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.82MiB
 [Grimm Fairy Tales Presents Realm War 011 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-011-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.83MiB
 [Grimm Fairy Tales Presents Realm War 012(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-012-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 56.98MiB
@@ -306,7 +306,7 @@ Grimm Fairy Tales Presents The Dark One Age of Darkness (OS)(2014)(Digital)(TLK-
 &emsp;【Zenescope/Grimm Fairy Tales - Age Of Darkness - collected (2013-2015)(digital)/Grimm Fairy Tales Presents White Queen (001-003)(2015)(Digital)(TLK-EMPIRE-HD)】 | 
 Grimm Fairy Tales Presents White Queen 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.62MiB
 Grimm Fairy Tales Presents White Queen 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 34.22MiB
-Grimm Fairy Tales Presents White Queen 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 32.81MiB
+[Grimm Fairy Tales Presents White Queen 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-White-Queen-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.81MiB
 Grimm Fairy Tales Presents Wonderland Age Of Darkness 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 45.05MiB
 &emsp;【Zenescope/Grimm Fairy Tales - Age Of Darkness - collected (2013-2015)(digital)/Grimm Fairy Tales Presents Wonderland Clash Of Queens (001-005)(2014)(Digital)(TLK-EMPIRE-HD)】 | 
 Grimm Fairy Tales Presents Wonderland Clash Of Queens 001 (2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.46MiB
@@ -433,8 +433,8 @@ Grimm Fairy Tales Myths & Legends 025(2013)(Digital)(TLK-EMPIRE-HD).cbr | 65.29M
 Grimm Fairy Tales Pinocchio Collection (2009) (YZ1).cbr | 26.92MiB
 Grimm Fairy Tales Presents - Tales From Neverland (2012) (Digital) (K6-Empire).cbr | 92.33MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents 10th Anniversary Special (001-006)(2015)(Digital)】 | 
-Grimm Fairy Tales Presents 10th Anniversary Special 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 52.57MiB
-Grimm Fairy Tales Presents 10th Anniversary Special 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 48.68MiB
+[Grimm Fairy Tales Presents 10th Anniversary Special 001(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-10th-Anniversary-Special-001-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 52.57MiB
+[Grimm Fairy Tales Presents 10th Anniversary Special 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-10th-Anniversary-Special-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 48.68MiB
 [Grimm Fairy Tales Presents 10th Anniversary Special 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-10th-Anniversary-Special-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 56.41MiB
 [Grimm Fairy Tales Presents 10th Anniversary Special 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-10th-Anniversary-Special-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 64.65MiB
 [Grimm Fairy Tales Presents 10th Anniversary Special 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-10th-Anniversary-Special-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 56.23MiB
@@ -621,7 +621,7 @@ Grimm Fairy Tales Presents Oz 004(2013)(Digital)(TLK-EMPIRE-HD).cbr | 26.39MiB
 Grimm Fairy Tales Presents Oz 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 26.17MiB
 Grimm Fairy Tales Presents Oz 006(2014)(Digital)(TLK-EMPIRE-HD).cbr | 28.85MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Oz Reign Of The Witch Queen (001-006+)(2015)(digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Oz Reign Of The Witch Queen 001(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 57.69MiB
+[Grimm Fairy Tales Presents Oz Reign Of The Witch Queen 001(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Oz-Reign-Of-Witch-Queen-001-2015-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 57.69MiB
 Grimm Fairy Tales Presents Oz Reign Of The Witch Queen 001(2015)(Digital)(TLK-EMP.cbr | 47.52MiB
 [Grimm Fairy Tales Presents Oz Reign Of The Witch Queen 002(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Oz-Reign-Of-Witch-Queen-002-2015-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 56.73MiB
 [Grimm Fairy Tales Presents Oz Reign Of The Witch Queen 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Oz-Reign-Of-Witch-Queen-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.41MiB
@@ -647,8 +647,8 @@ Grimm Fairy Tales Presents Realm War 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.
 Grimm Fairy Tales Presents Realm War 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.81MiB
 [Grimm Fairy Tales Presents Realm War 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.57MiB
 Grimm Fairy Tales Presents Realm War 007(2015)(Digital)(TLK-EMPIRE-HD).cbr | 38.25MiB
-Grimm Fairy Tales Presents Realm War 008(2015)(Digital)(TLK-EMPIRE-HD).cbr | 40.66MiB
-Grimm Fairy Tales Presents Realm War 009(2015)(Digital)(TLK-EMPIRE-HD).cbr | 40.92MiB
+[Grimm Fairy Tales Presents Realm War 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.66MiB
+[Grimm Fairy Tales Presents Realm War 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.92MiB
 [Grimm Fairy Tales Presents Realm War 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.82MiB
 [Grimm Fairy Tales Presents Realm War 011 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-011-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.83MiB
 [Grimm Fairy Tales Presents Realm War 012(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-012-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 56.98MiB
@@ -673,10 +673,10 @@ Grimm Fairy Tales Presents Robyn Hood 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38
 Grimm Fairy Tales Presents Robyn Hood 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.45MiB
 Grimm Fairy Tales Presents Robyn Hood 006(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.05MiB
 Grimm Fairy Tales Presents Robyn Hood 007(2015)(Digital)(TLK-EMPIRE-HD).cbr | 32.10MiB
-Grimm Fairy Tales Presents Robyn Hood 008(2015)(Digital)(TLK-EMPIRE-HD).cbr | 33.15MiB
+[Grimm Fairy Tales Presents Robyn Hood 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.15MiB
 [Grimm Fairy Tales Presents Robyn Hood 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.39MiB
-Grimm Fairy Tales Presents Robyn Hood 010(2015)(Digital)(TLK-EMPIRE-HD).cbr | 37.47MiB
-Grimm Fairy Tales Presents Robyn Hood 011(2015)(Digital)(TLK-EMPIRE-HD).cbr | 35.22MiB
+[Grimm Fairy Tales Presents Robyn Hood 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.47MiB
+[Grimm Fairy Tales Presents Robyn Hood 011(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-011-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 35.22MiB
 [Grimm Fairy Tales Presents Robyn Hood 012(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-012-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.99MiB
 Grimm Fairy Tales Presents Robyn Hood 013(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.75MiB
 [Grimm Fairy Tales Presents Robyn Hood 014(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-014-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 45.23MiB
@@ -695,10 +695,10 @@ Grimm Fairy Tales Presents Robyn Hood 004(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-
 Grimm Fairy Tales Presents Robyn Hood 005(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 48.35MiB
 Grimm Fairy Tales Presents Robyn Hood 006(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 37.83MiB
 Grimm Fairy Tales Presents Robyn Hood 007(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 40.12MiB
-Grimm Fairy Tales Presents Robyn Hood 008(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 42.09MiB
+[Grimm Fairy Tales Presents Robyn Hood 008(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-008-2015-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 42.09MiB
 [Grimm Fairy Tales Presents Robyn Hood 009(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-009-2015-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 43.05MiB
-Grimm Fairy Tales Presents Robyn Hood 010(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 48.30MiB
-Grimm Fairy Tales Presents Robyn Hood 011(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 45.72MiB
+[Grimm Fairy Tales Presents Robyn Hood 010(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-010-2015-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 48.30MiB
+[Grimm Fairy Tales Presents Robyn Hood 011(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-011-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 45.72MiB
 [Grimm Fairy Tales Presents Robyn Hood 012(2015)(c2c)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-012-2015-c2c-TLK-EMPIRE-HD-cbr.md) | 74.50MiB
 Grimm Fairy Tales Presents Robyn Hood 013(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD)(1).cbr | 39.48MiB
 [Grimm Fairy Tales Presents Robyn Hood 014(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-014-2015-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 43.58MiB
@@ -737,7 +737,7 @@ Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 002 (2015) (Digital) (TL
 Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 002(2015)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 47.05MiB
 Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 43.21MiB
 [Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Jungle-Book-Fall-Of-Wild-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 38.06MiB
-Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 005(2015)(Digital)(TLK-EMPIRE-HD).cbr | 35.78MiB
+[Grimm Fairy Tales Presents Jungle Book Fall Of The Wild 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Jungle-Book-Fall-Of-Wild-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 35.78MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents The Jungle Book - Last of the Species (001-005)(2013)(digital)(TLK-EMPIRE-HD)】 | 
 Grimm Fairy Tales Presents the Jungle Book - Last of the Species 01 (of 05) (2013) (digital) (TLK-EMPIRE-HD).cbr | 50.93MiB
 Grimm Fairy Tales Presents the Jungle Book - Last of the Species 02 (of 05) (2013) (digital) (TLK-EMPIRE-HD).cbr | 49.79MiB
@@ -752,10 +752,10 @@ Grimm Fairy Tales Presents - The Library 004 (2011) (Digital-HD) (JK-Empire).cbz
 Grimm Fairy Tales Presents - The Library 005 (2011) (Digital-HD) (JK-Empire).cbz | 27.45MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents The Little Mermaid (001-005)(2015)(digital)(TLK-EMPIRE-HD)】 | 
 Grimm Fairy Tales Presents The Little Mermaid 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 50.36MiB
-Grimm Fairy Tales Presents The Little Mermaid 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.60MiB
-Grimm Fairy Tales Presents The Little Mermaid 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 42.36MiB
-Grimm Fairy Tales Presents The Little Mermaid 004(2015)(Digital)(TLK-EMPIRE-HD).cbr | 42.29MiB
-Grimm Fairy Tales Presents The Little Mermaid 005(2015)(Digital)(TLK-EMPIRE-HD).cbr | 44.95MiB
+[Grimm Fairy Tales Presents The Little Mermaid 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.60MiB
+[Grimm Fairy Tales Presents The Little Mermaid 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.36MiB
+[Grimm Fairy Tales Presents The Little Mermaid 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.29MiB
+[Grimm Fairy Tales Presents The Little Mermaid 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Little-Mermaid-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 44.95MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Vampires The Eternal (001-003)(2013)(digital)】 | 
 Grimm Fairy Tales Presents Vampires The Eternal 001(2013)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 45.30MiB
 Grimm Fairy Tales Presents Vampires The Eternal 002 (2013) (Digital) (TLK-EMPIRE-HD).cbr | 21.42MiB
@@ -780,7 +780,7 @@ Grimm Fairy Tales Presents Werewolves The Hunger 003(2013)(Digital)(TLK-EMPIRE-H
 &emsp;【Zenescope/Grimm Fairy Tales Presents White Queen (001-003)(2015)(digital)(TLK-EMPIRE-HD)】 | 
 Grimm Fairy Tales Presents White Queen 001(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.62MiB
 Grimm Fairy Tales Presents White Queen 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 34.22MiB
-Grimm Fairy Tales Presents White Queen 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 32.81MiB
+[Grimm Fairy Tales Presents White Queen 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-White-Queen-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.81MiB
 Grimm Fairy Tales Presents Wonderland Age Of Darkness 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 45.05MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Wonderland Asylum (001-005)(2014)(digital)】 | 
 Grimm Fairy Tales Presents Wonderland Asylum 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 25.27MiB
@@ -840,9 +840,9 @@ Grimm Fairy Tales Presents Wonderland V2 029(2014)(Digital)(TLK-EMPIRE-HD).cbr |
 Grimm Fairy Tales Presents Wonderland V2 030(2014)(Digital)(TLK-EMPIRE-HD).cbr | 44.81MiB
 [Grimm Fairy Tales Presents Wonderland V2 031(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-031-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 36.11MiB
 Grimm Fairy Tales Presents Wonderland V2 032(2015)(Digital)(TLK-EMPIRE-HD).cbr | 42.49MiB
-Grimm Fairy Tales Presents Wonderland V2 033(2015)(Digital)(TLK-EMPIRE-HD).cbr | 34.18MiB
-Grimm Fairy Tales Presents Wonderland V2 034(2015)(Digital)(TLK-EMPIRE-HD).cbr | 39.98MiB
-Grimm Fairy Tales Presents Wonderland V2 035(2015)(Digital)(TLK-EMPIRE-HD).cbr | 41.62MiB
+[Grimm Fairy Tales Presents Wonderland V2 033(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-033-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 34.18MiB
+[Grimm Fairy Tales Presents Wonderland V2 034(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-034-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.98MiB
+[Grimm Fairy Tales Presents Wonderland V2 035(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-035-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.62MiB
 [Grimm Fairy Tales Presents Wonderland V2 036(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-036-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 21.96MiB
 [Grimm Fairy Tales Presents Wonderland V2 037(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-037-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.37MiB
 [Grimm Fairy Tales Presents Wonderland V2 038(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-038-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.69MiB
@@ -1131,10 +1131,10 @@ Grimm Fairy Tales 104(2014)(Digital)(TLK-EMPIRE-HD).cbr | 39.53MiB
 Grimm Fairy Tales 105(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.88MiB
 [Grimm Fairy Tales 106(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-106-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.79MiB
 Grimm Fairy Tales 107(2015)(Digital)(TLK-EMPIRE-HD).cbr | 33.05MiB
-Grimm Fairy Tales 108(2015)(Digital)(TLK-EMPIRE-HD).cbr | 34.49MiB
-Grimm Fairy Tales 109(2015)(Digital)(TLK-EMPIRE-HD).cbr | 39.68MiB
-Grimm Fairy Tales 110(2015)(Digital)(TLK-EMPIRE-HD).cbr | 17.17MiB
-Grimm Fairy Tales 111(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.76MiB
+[Grimm Fairy Tales 108(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-108-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 34.49MiB
+[Grimm Fairy Tales 109(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-109-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.68MiB
+[Grimm Fairy Tales 110(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-110-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 17.17MiB
+[Grimm Fairy Tales 111(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-111-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.76MiB
 [Grimm Fairy Tales 112(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-112-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 44.52MiB
 [Grimm Fairy Tales 113(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-113-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.79MiB
 [Grimm Fairy Tales 114(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-114-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.12MiB
@@ -1176,9 +1176,9 @@ Grimm Tales Of Terror 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 30.89MiB
 [Grimm Tales Of Terror 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.33MiB
 Grimm Tales Of Terror 007(2015)(Digital)(TLK-EMPIRE-HD).cbr | 35.29MiB
 Grimm Tales Of Terror 008(2015)(Digital)(TLK-EMPIRE-HD).cbr | 33.00MiB
-Grimm Tales Of Terror 009(2015)(Digital)(TLK-EMPIRE-HD).cbr | 32.78MiB
-Grimm Tales Of Terror 010(2015)(Digital)(TLK-EMPIRE-HD).cbr | 24.34MiB
-Grimm Tales Of Terror 011(2015)(Digital)(TLK-EMPIRE-HD).cbr | 45.29MiB
+[Grimm Tales Of Terror 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.78MiB
+[Grimm Tales Of Terror 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 24.34MiB
+[Grimm Tales Of Terror 011(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-011-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 45.29MiB
 [Grimm Tales Of Terror 012(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-012-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 36.75MiB
 [Grimm Tales Of Terror 013(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-013-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 34.64MiB
 &emsp;【Zenescope/Grimm Tales Of Terror v2 (001-013)(2015-2016)(digital)】 | 

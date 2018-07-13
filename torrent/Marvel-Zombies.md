@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Marvel Zombies】 | 
 &emsp;【Marvel Zombies/Age of Ultron Vs Marvel Zombies (001-004)(2015)(digital)(Minutemen-Faessla)】 | 
-Age of Ultron vs. Marvel Zombies 001 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz | 51.95MiB
+[Age of Ultron vs. Marvel Zombies 001 (2015) (6 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-001-2015-6-covers-digital-Minutemen-Faessla-cbz.md) | 51.95MiB
 [Age of Ultron vs. Marvel Zombies 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 47.70MiB
 [Age of Ultron vs. Marvel Zombies 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 45.62MiB
 [Age of Ultron vs. Marvel Zombies 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-vs-Marvel-Zombies-004-2015-digital-Minutemen-Faessla-cbz.md) | 42.98MiB
@@ -75,7 +75,7 @@ Marvel Zombies 03 (of 05) (2006) (digital) (Minutemen-PhD).cbr | 27.22MiB
 Marvel Zombies 04 (of 05) (2006) (digital) (Minutemen-PhD).cbr | 21.46MiB
 Marvel Zombies 05 (of 05) (2006) (digital) (Minutemen-PhD).cbr | 22.69MiB
 &emsp;【Marvel Zombies/Marvel Zombies v2 (001-004)(2015)(digital)(Minutemen-Faessla)】 | 
-Marvel Zombies 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz | 36.70MiB
+[Marvel Zombies 001 (2015) (3 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-001-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 36.70MiB
 [Marvel Zombies 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 41.93MiB
 [Marvel Zombies 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 44.46MiB
 [Marvel Zombies 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Zombies-004-2015-digital-Minutemen-Faessla-cbz.md) | 40.99MiB

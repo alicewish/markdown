@@ -18,11 +18,11 @@ All-New Invaders 002 (2014) (digital) (2nd Printing variant) (Minutemen-Mastodon
 All-New X-Men 031 (2014) (digital) (Mike Del Mundo Agents of S.H.I.E.L.D. variant) (Minutemen-Mastodon).cbz | 1016.09KiB
 [All-New X-Men 034 (2015) (digital) (Jock Rocket Raccoon & Groot variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-034-2015-digital-Jock-Rocket-Raccoon-Groot-variant-Minutemen-Mastodon-cbz.md) | 2.29MiB
 All-New X-Men Annual 01 (2015) (digital) (Dustin Nguyen variant) (Minutemen-Mastodon).cbz | 3.72MiB
-Big Thunder Mountain Railroad 01 (of 05) (2015) (Blank Variant) (digital) (Minutemen-Fantomex).cbr | 254.69KiB
-Big Thunder Mountain Railroad 01 (of 05) (2015) (Brian Crosby Connecting Variant A) (digital) (Minutemen-Fantomex).cbr | 1.76MiB
-Big Thunder Mountain Railroad 01 (of 05) (2015) (Phantom Variant) (digital) (Minutemen-Fantomex).cbr | 1.08MiB
-Big Thunder Mountain Railroad 01 (of 05) (2015) (Tom Raney Variant) (digital) (Minutemen-Fantomex).cbr | 2.90MiB
-Darth Vader 003 (2015) (Salvador Larroca Variant) (digital) (Minutemen-Fantomex).cbr | 1.12MiB
+[Big Thunder Mountain Railroad 01 (of 05) (2015) (Blank Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Thunder-Mountain-Railroad-01-of-05-2015-Blank-Variant-digital-Minutemen-Fantomex-cbr.md) | 254.69KiB
+[Big Thunder Mountain Railroad 01 (of 05) (2015) (Brian Crosby Connecting Variant A) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Thunder-Mountain-Railroad-01-of-05-2015-Brian-Crosby-Connecting-Variant-A-digital-Minutemen-Fantomex-cbr.md) | 1.76MiB
+[Big Thunder Mountain Railroad 01 (of 05) (2015) (Phantom Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Thunder-Mountain-Railroad-01-of-05-2015-Phantom-Variant-digital-Minutemen-Fantomex-cbr.md) | 1.08MiB
+[Big Thunder Mountain Railroad 01 (of 05) (2015) (Tom Raney Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Thunder-Mountain-Railroad-01-of-05-2015-Tom-Raney-Variant-digital-Minutemen-Fantomex-cbr.md) | 2.90MiB
+[Darth Vader 003 (2015) (Salvador Larroca Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-003-2015-Salvador-Larroca-Variant-digital-Minutemen-Fantomex-cbr.md) | 1.12MiB
 Death of Wolverine - The Logan Legacy 04 (of 07) (2015) (digital) (Canada variant) (Minutemen-Mastodon).cbz | 3.33MiB
 Death of Wolverine - The Logan Legacy 06 (of 07) (2015) (digital) (Canada variant) (Minutemen-Mastodon).cbz | 3.17MiB
 Death of Wolverine - The Logan Legacy 07 (of 07) (2015) (digital) (Canada variant) (Minutemen-Mastodon).cbz | 3.70MiB
@@ -55,7 +55,7 @@ Original Sin 05.2 - Thor & Loki 02 (of 05) (2014) (digital) (Simone Bianchi vari
 [Storm 001 (2014) (digital) (Simone Bianchi variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Storm-001-2014-digital-Simone-Bianchi-variant-Minutemen-Mastodon-cbz.md) | 814.83KiB
 [Storm 001 (2014) (digital) (Skottie Young variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Storm-001-2014-digital-Skottie-Young-variant-Minutemen-Mastodon-cbz.md) | 472.77KiB
 [Storm 003 (2014) (digital) (Stephanie Hans variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Storm-003-2014-digital-Stephanie-Hans-variant-Minutemen-Mastodon-cbz.md) | 717.81KiB
-The Dark Tower - The Drawing of the Three - House of Cards 01 (of 05) (2015) (Mike McKone Variant) (digital) (Minutemen-Fantomex).cbr | 2.91MiB
+[The Dark Tower - The Drawing of the Three - House of Cards 01 (of 05) (2015) (Mike McKone Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-House-of-Cards-01-of-05-2015-Mike-McKone-Variant-digital-Minutemen-Fantomex-cbr.md) | 2.91MiB
 The Punisher 011 (2014) (digital) (Street King Energy variant) (Minutemen-Mastodon).cbz | 1.23MiB
 Thor - God of Thunder 025 (2014) (digital) (Milo Manara variant) (Minutemen-Mastodon).cbz | 975.03KiB
 Thor - God of Thunder 025 (2014) (digital) (R.M. Guera variant) (Minutemen-Mastodon).cbz | 1.05MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Future Imperfect (001-005+Variant Covers)(2015)(digital)(Minutemen-PhD)】 | 
-Future Imperfect 001 (2015) (4 covers) (digital) (Minutemen-PhD).cbr | 45.10MiB
+[Future Imperfect 001 (2015) (4 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-001-2015-4-covers-digital-Minutemen-PhD-cbr.md) | 45.10MiB
 [Future Imperfect 002 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-002-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 46.89MiB
 [Future Imperfect 003 (2015) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-003-2015-2-covers-digital-Minutemen-PhD-cbr.md) | 36.56MiB
 [Future Imperfect 004 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Future-Imperfect-004-2015-digital-Minutemen-PhD-cbr.md) | 38.67MiB

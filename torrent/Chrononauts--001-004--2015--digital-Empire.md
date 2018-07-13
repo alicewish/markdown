@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Chrononauts 001 (2015) (Digital) (Zone-Empire).cbr | 80.18MiB
-Chrononauts 002 (2015) (digital) (Son of Ultron-Empire).cbr | 87.33MiB
-Chrononauts 003 (2015) (digital) (Son of Ultron-Empire).cbr | 130.42MiB
-Chrononauts 004 (2015) (digital) (Son of Ultron-Empire).cbr | 114.21MiB
+[Chrononauts 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chrononauts-001-2015-Digital-Zone-Empire-cbr.md) | 80.18MiB
+[Chrononauts 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chrononauts-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 87.33MiB
+[Chrononauts 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chrononauts-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 130.42MiB
+[Chrononauts 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chrononauts-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 114.21MiB

@@ -15,7 +15,7 @@ Dream Police 002 (2014) (Digital) (Zone-Empire).cbr | 51.66MiB
 Dream Police 003 (2014) (Digital) (Zone-Empire).cbr | 50.78MiB
 Dream Police 004 (2014) (Digital) (Zone-Empire).cbr | 45.15MiB
 Dream Police 005 (2014) (Digital) (Zone-Empire).cbr | 46.95MiB
-Dream Police 006 (2015) (Digital) (Zone-Empire).cbr | 48.40MiB
+[Dream Police 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-006-2015-Digital-Zone-Empire-cbr.md) | 48.40MiB
 [Dream Police 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-007-2015-Digital-Zone-Empire-cbr.md) | 47.60MiB
 [Dream Police 008 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-008-2016-Digital-Zone-Empire-cbr.md) | 54.25MiB
 [Dream Police 009 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-009-2016-Digital-Zone-Empire-cbr.md) | 49.92MiB

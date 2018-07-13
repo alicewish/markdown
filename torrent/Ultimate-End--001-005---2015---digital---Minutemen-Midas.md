@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Ultimate End (001-005) (2015) (digital) (Minutemen-Midas)】 | 
 [Ultimate End 005 (2016) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-005-2016-digital-Minutemen-Midas-cbr.md) | 52.93MiB
-Ultimate End 01 (of 05) (2015) (5 covers) (digital) (Minutemen-Midas).cbr | 43.47MiB
+[Ultimate End 01 (of 05) (2015) (5 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-01-of-05-2015-5-covers-digital-Minutemen-Midas-cbr.md) | 43.47MiB
 Ultimate End 02 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 40.40MiB
 [Ultimate End 03 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-03-of-05-2015-digital-Minutemen-Midas-cbr.md) | 36.37MiB
 [Ultimate End 04 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-04-of-05-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 41.09MiB

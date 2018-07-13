@@ -1106,8 +1106,8 @@ Monster-Size Hulk 01 (2008) (greengiant-DCP).cbr | 20.65MiB
 &emsp;【Hulk/Mini-Series One-Shots & Extras/Planet Hulk (001-005+)(2015)(digital)】 | 
 Planet Hulk (Checklist Promo Card) (2006) (Bug-DCP).cbr | 834.65KiB
 Planet Hulk - Gladiator Guidebook (2006) (Reiu-DCP).cbr | 20.50MiB
-Planet Hulk 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 59.05MiB
-Planet Hulk 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 45.50MiB
+[Planet Hulk 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 59.05MiB
+[Planet Hulk 002 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-002-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 45.50MiB
 [Planet Hulk 003 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-003-2015-digital-Minutemen-Midas-cbr.md) | 43.78MiB
 [Planet Hulk 004 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-004-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 42.88MiB
 [Planet Hulk 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Planet-Hulk-005-2015-digital-Minutemen-Midas-cbr.md) | 42.19MiB

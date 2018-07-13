@@ -36,7 +36,13 @@ In Ancient Egypt, he was known as Prince Khufu. Today he is called Carter Hall. 
 
 Online | Download
 --- | ---
+Hawkman 007 (1965) (Digital) (Shadowcat-Empire).cbz | 31.87MiB
+Hawkman 008 (1965) (Digital) (Shadowcat-Empire).cbz | 30.95MiB
+Hawkman 009 (1965) (Digital) (Shadowcat-Empire).cbz | 56.08MiB
 Hawkman 018 (1967) (Digital) (Shadowcat-Empire).cbz | 30.81MiB
+Hawkman 007 (1987) (Digital) (Shadowcat-Empire).cbz | 29.24MiB
+Hawkman 008 (1987) (Digital) (Shadowcat-Empire).cbz | 31.08MiB
+Hawkman 009 (1987) (Digital) (Shadowcat-Empire).cbz | 28.79MiB
 Hawkman 000 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 13.15MiB
 Hawkman 013 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 12.32MiB
 Hawkman 001 (2002) (Digital-SD) (Shadowcat-Empire).cbz | 12.14MiB
@@ -91,3 +97,4 @@ Hawkman 047 (2006) (Digital-SD) (Shadowcat-Empire).cbz | 13.12MiB
 Hawkman 048 (2006) (Digital-SD) (Shadowcat-Empire).cbz | 11.94MiB
 Hawkman 049 (2006) (Digital-SD) (Shadowcat-Empire).cbz | 11.82MiB
 [Hawkman 001 (2018) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkman-001-2018-2-covers-Digital-Zone-Empire-cbr.md) | [33.64MiB](https://pan.baidu.com/s/1sOrtXhLqrcFH_yfomlVypQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.13%2F%E3%82%AD%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%B1%E3%82%A6%E3%82%AF%E3%82%AA%E3%82%B7%E3%82%AF%E3%82%BD%E3%82%B1%E3%82%A4%E3%82%B9%E3%82%B3%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%B7%E3%82%BD%E3%82%B9%E3%82%A8%E3%82%A6%E3%82%A8%E3%82%AF%E3%82%A4%E3%82%A6%E3%82%AF%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+Hawkman 002 (2018) (2 covers) (Digital) (Zone-Empire).cbr | [36.31MiB](https://pan.baidu.com/s/1N4TjaGfusclNn0MXYin8PA#list/path=%2FDC%20Week%202018%20Q3%2FDC%20Week%2B%20%2807-11-2018%29%2F%E3%82%AB%E3%82%AA%E3%82%B9%E3%82%A2%E3%82%B9%E3%82%BB%E3%82%A8%E3%82%B5%E3%82%A6%E3%82%A8%E3%82%B5%E3%82%BB%E3%82%B3%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%BF%E3%82%AD%E3%82%B9%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%B1%E3%82%AA%E3%82%AF%E3%82%AD%E3%82%BF%E3%82%B9%E3%82%A6%E3%82%AD&parentPath=%2FDC%20Week%202018%20Q3)

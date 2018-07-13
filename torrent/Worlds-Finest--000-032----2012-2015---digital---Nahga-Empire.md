@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Worlds' Finest (000-032+) (2012-2015) (digital) (Nahga-Empire)】 | 
-Convergence - World's Finest 001 (2015) (Digital) (ThatGuy-Empire).cbz | 43.33MiB
+[Convergence - World's Finest 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Worlds-Finest-001-2015-Digital-ThatGuy-Empire-cbz.md) | 43.33MiB
 [Convergence - World's Finest 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Worlds-Finest-002-2015-Digital-ThatGuy-Empire-cbz.md) | 42.27MiB
 [Worlds Finest - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Worlds-Finest-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 41.96MiB
 &emsp;【Worlds' Finest (000-032+) (2012-2015) (digital) (Nahga-Empire)/Worlds Finest TPBs (v01-v05) (2013-2015) (digital) (Minutemen-FlynnLives)】 | 

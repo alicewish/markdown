@@ -12,6 +12,6 @@ Online | Download
 --- | ---
 Battlestar Galactica Six 001 (2014) (2 Covers) (Digital) (Cypher-Empire).cbr | 44.60MiB
 Battlestar Galactica Six 002 (2015) (2 Covers) (Digital) (Cypher 2.0-Empire).cbr | 48.84MiB
-Battlestar Galactica Six 003 (2015) (2 Covers) (Digital) (Cypher 2.0-Empire).cbr | 45.14MiB
-Battlestar Galactica Six 004 (2015) (Digital) (Cypher 2.0-Empire).cbr | 30.14MiB
-Battlestar Galactica Six 005 (2015) (3 Covers) (Digital) (Cypher 2.0-Empire).cbr | 28.84MiB
+[Battlestar Galactica Six 003 (2015) (2 Covers) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Battlestar-Galactica-Six-003-2015-2-Covers-Digital-Cypher-2-0-Empire-cbr.md) | 45.14MiB
+[Battlestar Galactica Six 004 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Battlestar-Galactica-Six-004-2015-Digital-Cypher-2-0-Empire-cbr.md) | 30.14MiB
+[Battlestar Galactica Six 005 (2015) (3 Covers) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Battlestar-Galactica-Six-005-2015-3-Covers-Digital-Cypher-2-0-Empire-cbr.md) | 28.84MiB

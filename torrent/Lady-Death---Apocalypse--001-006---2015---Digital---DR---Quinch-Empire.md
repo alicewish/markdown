@@ -14,8 +14,8 @@ Online | Download
 Lady Death - Apocalypse 001 (2015) (Digital) (DR & Quinch-Empire).cbr | 75.94MiB
 Lady Death - Apocalypse 002 (2015) (Digital) (DR & Quinch-Empire).cbr | 39.13MiB
 [Lady Death - Apocalypse 003 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Death-Apocalypse-003-2015-Digital-DR-Quinch-Empire-cbr.md) | 41.20MiB
-Lady Death - Apocalypse 004 (2015) (Digital) (DR & Quinch-Empire).cbr | 41.17MiB
-Lady Death - Apocalypse 005 (2015) (Digital) (DR & Quinch-Empire).cbr | 38.88MiB
+[Lady Death - Apocalypse 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Death-Apocalypse-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 41.17MiB
+[Lady Death - Apocalypse 005 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Death-Apocalypse-005-2015-Digital-DR-Quinch-Empire-cbr.md) | 38.88MiB
 [Lady Death - Apocalypse 006 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Death-Apocalypse-006-2015-Digital-DR-Quinch-Empire-cbr.md) | 69.64MiB
 &emsp;【Lady Death - Apocalypse (001-006) (2015) (Digital) (DR & Quinch-Empire)/Variant Covers】 | 
 Lady Death - Apocalypse 001 (2015) (10 covers only) (Digital) (DR & Quinch-Empire).cbr | 24.07MiB

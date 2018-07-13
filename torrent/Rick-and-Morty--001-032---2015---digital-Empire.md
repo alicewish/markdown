@@ -25,8 +25,8 @@ Rick and Morty - Lil' Poopy Superstar 005 (2016) (digital) (d'argh-Empire).cbr |
 [Rick and Morty - Pocket Like You Stole It 004 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-Pocket-Like-You-Stole-It-004-2017-digital-dargh-Empire-cbr.md) | 74.10MiB
 [Rick and Morty - Pocket Like You Stole It 005 (2017) (digital) (d'argh-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-Pocket-Like-You-Stole-It-005-2017-digital-dargh-Empire-cbr.md) | 71.84MiB
 [Rick and Morty 001 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-001-2015-Digital-AnHeroGold-Empire-cbz.md) | 26.32MiB
-Rick and Morty 002 (2015) (Digital) (AnHeroGold-Empire).cbz | 24.75MiB
-Rick and Morty 003 (2015) (Digital) (AnHeroGold-Empire).cbz | 20.09MiB
+[Rick and Morty 002 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-002-2015-Digital-AnHeroGold-Empire-cbz.md) | 24.75MiB
+[Rick and Morty 003 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-003-2015-Digital-AnHeroGold-Empire-cbz.md) | 20.09MiB
 [Rick and Morty 004 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-004-2015-Digital-AnHeroGold-Empire-cbz.md) | 24.11MiB
 [Rick and Morty 005 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-005-2015-Digital-AnHeroGold-Empire-cbz.md) | 26.77MiB
 [Rick and Morty 006 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rick-Morty-006-2015-Digital-AnHeroGold-Empire-cbz.md) | 27.84MiB

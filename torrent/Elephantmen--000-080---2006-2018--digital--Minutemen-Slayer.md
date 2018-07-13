@@ -105,7 +105,7 @@ Elephantmen - 2260 Vol. 05 - Up Close & Personal (2017) (digital) (Minutemen-Sla
 Elephantmen - Goodnight Kiss  (Thought Bubble Anthology 2015).cbr | 1.08MiB
 Elephantmen - Mammoth Book 01 (2014) (digital) (Minutemen-Slayer).cbr | 685.11MiB
 Elephantmen - Man and Elephantman 01 (2011) (5 covers) (digital-SD) (Minutemen-Slayer).cbr | 12.99MiB
-Elephantmen - Shots (2015) (digital) (F) (Son of Ultron-Empire).cbr | 115.36MiB
+[Elephantmen - Shots (2015) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-Shots-2015-digital-F-Son-of-Ultron-Empire-cbr.md) | 115.36MiB
 Elephantmen - The Pilot (2007) (2 covers) (digital-SD) (Minutemen-Slayer).cbr | 16.86MiB
 Elephantmen - The Watering Hole  (Damaged Goods TPB).cbr | 24.61MiB
 &emsp;【Elephantmen (000-080+)(2006-2018)(digital)(Minutemen-Slayer+)/Extras/Elephantmen - War Toys (001-003)(2007-2008)(digital-SD)(Minutemen-Slayer)】 | 

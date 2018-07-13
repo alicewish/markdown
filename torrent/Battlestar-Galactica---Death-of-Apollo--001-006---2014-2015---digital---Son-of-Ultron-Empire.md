@@ -15,4 +15,4 @@ Online | Download
 (Classic) Battlestar Galactica - The Death of Apollo 003 (2015) (digital) (Son of Ultron-Empire).cbr | 44.27MiB
 (Classic) Battlestar Galactica - The Death of Apollo 004 (2015) (digital) (Son of Ultron-Empire).cbr | 40.35MiB
 [(Classic) Battlestar Galactica - The Death of Apollo 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Classic-Battlestar-Galactica-Death-of-Apollo-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.66MiB
-(Classic) Battlestar Galactica - The Death of Apollo 006 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr | 43.49MiB
+[(Classic) Battlestar Galactica - The Death of Apollo 006 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Classic-Battlestar-Galactica-Death-of-Apollo-006-2015-3-covers-digital-Son-of-Ultron-Empire-cbr.md) | 43.49MiB

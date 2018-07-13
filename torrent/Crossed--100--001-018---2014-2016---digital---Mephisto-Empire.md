@@ -13,8 +13,8 @@ Online | Download
 Crossed +100 001 (2014) (10 Covers) (Digital) (Darkness-Empire).cbr | 63.23MiB
 [Crossed +100 002 (2015) (7 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-002-2015-7-Covers-Digital-Darkness-Empire-cbr.md) | 56.38MiB
 Crossed +100 003 (2015) (Digital) (The Dark VI-Empire).cbr | 49.49MiB
-Crossed +100 004 (2015) (Digital) (DR & Quinch-Empire).cbr | 50.39MiB
-Crossed +100 005 (2015) (Digital) (Mephisto-Empire).cbr | 46.46MiB
+[Crossed +100 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 50.39MiB
+[Crossed +100 005 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-005-2015-Digital-Mephisto-Empire-cbr.md) | 46.46MiB
 [Crossed +100 006 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-006-2015-Digital-Mephisto-Empire-cbr.md) | 49.27MiB
 [Crossed +100 007 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-007-2015-Digital-Mephisto-Empire-cbr.md) | 43.17MiB
 [Crossed +100 008 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-008-2015-Digital-Mephisto-Empire-cbr.md) | 39.22MiB

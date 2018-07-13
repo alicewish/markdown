@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Legenderry Red Sonja 001(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.04MiB
-Legenderry Red Sonja 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 45.04MiB
-Legenderry Red Sonja 003(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 41.03MiB
+[Legenderry Red Sonja 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-002-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 45.04MiB
+[Legenderry Red Sonja 003(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-003-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 41.03MiB
 [Legenderry Red Sonja 004(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-004-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 39.17MiB
-Legenderry Red Sonja 005(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 41.04MiB
+[Legenderry Red Sonja 005(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-005-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 41.04MiB

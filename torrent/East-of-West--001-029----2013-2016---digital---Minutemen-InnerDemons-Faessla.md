@@ -35,7 +35,7 @@ East of West 013 (2014) (digital) (Minutemen-InnerDemons).cbr | 38.16MiB
 East of West 014 (2014) (digital) (Minutemen-InnerDemons).cbr | 32.69MiB
 East of West 015 (2014) (digital) (Minutemen-InnerDemons).cbr | 29.26MiB
 East of West 016 (2014) (9 covers - 2048px - c2c) (RedResin-Minutemen-Novus-HD).cbr | 70.17MiB
-East of West 016 (2015) (digital) (Minutemen-InnerDemons).cbr | 36.25MiB
+[East of West 016 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-016-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.25MiB
 East of West 017 (2015) (digital) (Minutemen-Faessla).cbz | 26.02MiB
 East of West 018 (2015) (digital) (Minutemen-Faessla).cbz | 24.36MiB
 East of West 019 (2015) (digital) (Minutemen-Faessla).cbz | 34.17MiB

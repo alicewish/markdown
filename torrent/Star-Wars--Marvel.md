@@ -20,11 +20,11 @@ Chewbacca 04 (of 05) (2016) (digital) (Minutemen-Midas).cbr | 40.95MiB
 Star Wars - Chewbacca (2016) (Digital) (Kileko-Empire).cbr | 221.28MiB
 &emsp;【Star Wars (Marvel)/(2015-)/Darth Vader (001-024)(2015-)(digital)(Minutemen-Midas)】 | 
 Darth Vader 001 (2015) (digital) (Minutemen-Midas).cbr | 47.65MiB
-Darth Vader 001 Director's Cut (2015) (digital) (Minutemen-Midas).cbr | 64.21MiB
+[Darth Vader 001 Director's Cut (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-001-Directors-Cut-2015-digital-Minutemen-Midas-cbr.md) | 64.21MiB
 Darth Vader 002 (2015) (digital) (Minutemen-Midas).cbr | 33.80MiB
-Darth Vader 003 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 32.98MiB
-Darth Vader 004 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 33.51MiB
-Darth Vader 005 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 34.77MiB
+[Darth Vader 003 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-003-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 32.98MiB
+[Darth Vader 004 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-004-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 33.51MiB
+[Darth Vader 005 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-005-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 34.77MiB
 [Darth Vader 006 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-006-2015-digital-Minutemen-Midas-cbr.md) | 30.59MiB
 [Darth Vader 007 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-007-2015-digital-Minutemen-Midas-cbr.md) | 36.50MiB
 [Darth Vader 008 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-008-2015-digital-Minutemen-Midas-cbr.md) | 36.82MiB
@@ -58,7 +58,7 @@ Darth Vader 001 (2015) (Movie Variant) (digital) (Minutemen-Fantomex).cbr | 2.09
 Darth Vader 001 (2015) (Skottie Young Variant) (digital) (Minutemen-Fantomex).cbr | 1.74MiB
 Darth Vader 001 (2015) (Whilce Portacio Variant) (digital) (Minutemen-Fantomex).cbr | 1.87MiB
 Darth Vader 001 (2015) (digital) (Minutemen-Midas).cbr | 47.65MiB
-Darth Vader 003 (2015) (Salvador Larroca Variant) (digital) (Minutemen-Fantomex).cbr | 1.12MiB
+[Darth Vader 003 (2015) (Salvador Larroca Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darth-Vader-003-2015-Salvador-Larroca-Variant-digital-Minutemen-Fantomex-cbr.md) | 1.12MiB
 Darth Vader 004 (2015) (Salvador Larroca Variant) (digital) (Minutemen-Fantomex).cbr | 1.06MiB
 Darth Vader 005 (2015) (digital) (Salvador Larroca variant) (Minutemen-Mastodon).cbz | 2.42MiB
 &emsp;【Star Wars (Marvel)/(2015-)/Journey To Star Wars - The Force Awakens - Shattered Empire (001-004) (2015) (digital) (Minutemen-Midas)】 | 
@@ -68,8 +68,8 @@ Darth Vader 005 (2015) (digital) (Salvador Larroca variant) (Minutemen-Mastodon)
 [Journey to Star Wars - The Force Awakens - Shattered Empire 04 (of 04) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Journey-to-Star-Wars-Force-Awakens-Shattered-Empire-04-of-04-2015-digital-Minutemen-Midas-cbr.md) | 37.27MiB
 &emsp;【Star Wars (Marvel)/(2015-)/Kanan (001-012+)(2015-2016)(digital)(Minutemen-Midas)】 | 
 [Kanan - The Last Padawan 001 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-001-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 39.06MiB
-Kanan - The Last Padawan 002 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 37.15MiB
-Kanan - The Last Padawan 003 (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 39.15MiB
+[Kanan - The Last Padawan 002 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-002-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 37.15MiB
+[Kanan - The Last Padawan 003 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-003-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 39.15MiB
 [Kanan - The Last Padawan 004 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-004-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 35.07MiB
 [Kanan - The Last Padawan 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-005-2015-digital-Minutemen-Midas-cbr.md) | 39.50MiB
 [Kanan - The Last Padawan 006 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kanan-Last-Padawan-006-2015-digital-Minutemen-Midas-cbr.md) | 30.38MiB
@@ -106,7 +106,7 @@ Lando 01 (of 05) (2015) (digital) (Skottie Young variant) (Minutemen-Mastodon).c
 &emsp;【Star Wars (Marvel)/(2015-)/Princess Leia (001-005+)(2015)(digital)(Minutemen-Midas)】 | 
 Princess Leia 002 (2015) (digital) (Minutemen-Midas).cbr | 36.92MiB
 Princess Leia 01 (of 05) (2015) (digital) (Minutemen-Midas).cbr | 41.89MiB
-Princess Leia 03 (of 05) (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 39.71MiB
+[Princess Leia 03 (of 05) (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Leia-03-of-05-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 39.71MiB
 [Princess Leia 04 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Leia-04-of-05-2015-digital-Minutemen-Midas-cbr.md) | 31.17MiB
 [Princess Leia 05 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Leia-05-of-05-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 40.28MiB
 &emsp;【Star Wars (Marvel)/(2015-)/Princess Leia (001-005+)(2015)(digital)(Minutemen-Midas)/Variant Covers】 | 
@@ -121,7 +121,7 @@ Princess Leia 001 (2015) (John Tyler Christopher Action Figure Variant) (digital
 Princess Leia 001 (2015) (Mark Brooks Variant) (digital) (Minutemen-Fantomex).cbr | 2.16MiB
 Princess Leia 001 (2015) (Movie Variant) (digital) (Minutemen-Fantomex).cbr | 2.32MiB
 Princess Leia 001 (2015) (Skottie Young Variant) (digital) (Minutemen-Fantomex).cbr | 1.93MiB
-Princess Leia 002 (2015) (Alex Maleev Variant) (digital) (Minutemen-Fantomex).cbr | 2.63MiB
+[Princess Leia 002 (2015) (Alex Maleev Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Leia-002-2015-Alex-Maleev-Variant-digital-Minutemen-Fantomex-cbr.md) | 2.63MiB
 Princess Leia 03 (of 05) (2015) (Francesco Francavilla Variant) (digital) (Minutemen-Fantomex).cbr | 2.16MiB
 Princess Leia 03 (of 05) (2015) (Gabriele Dell'Otto Mile High Comics Variant) (digital) (Minutemen-Fantomex).cbr | 3.46MiB
 Princess Leia 03 (of 05) (2015) (Phil Noto Books-A-Million Variant) (digital) (Minutemen-Fantomex).cbr | 1.97MiB
@@ -130,9 +130,9 @@ Star Wars 001 (2015) (4-page preview) (digital) (atomicmass77-DCP).cbr | 3.25MiB
 [Star Wars 001 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-001-2015-digital-Minutemen-Midas-cbr.md) | 64.04MiB
 Star Wars 001 (2015, Director's Cut) (digital) (Minutemen-Midas).cbr | 63.41MiB
 Star Wars 002 (2015) (digital) (Minutemen-Midas).cbr | 35.48MiB
-Star Wars 003 (2015) (digital) (Minutemen-Midas).cbr | 36.67MiB
-Star Wars 004 (2015) (4 covers) (digital) (Minutemen-Midas).cbr | 33.85MiB
-Star Wars 005 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 33.09MiB
+[Star Wars 003 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-003-2015-digital-Minutemen-Midas-cbr.md) | 36.67MiB
+[Star Wars 004 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-004-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 33.85MiB
+[Star Wars 005 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-005-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 33.09MiB
 [Star Wars 006 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-006-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 36.46MiB
 [Star Wars 007 (2015) (5 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-007-2015-5-covers-digital-Minutemen-Midas-cbr.md) | 35.79MiB
 [Star Wars 008 (2015) (4 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-008-2015-4-covers-digital-Minutemen-Midas-cbr.md) | 40.19MiB

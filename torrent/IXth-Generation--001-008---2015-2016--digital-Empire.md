@@ -10,10 +10,10 @@
 
 Online | Download
 --- | ---
-IXth Generation - Hidden Files 001 (2015) (Digital) (Zone-Empire).cbr | 46.79MiB
+[IXth Generation - Hidden Files 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/IXth-Generation-Hidden-Files-001-2015-Digital-Zone-Empire-cbr.md) | 46.79MiB
 [IXth Generation 001 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/IXth-Generation-001-2015-Digital-Darkness-Empire-cbr.md) | 39.26MiB
 IXth Generation 002 (2015) (digital-Empire).cbr | 39.44MiB
-IXth Generation 003 (2015) (Digital) (Zone-Empire).cbr | 41.25MiB
+[IXth Generation 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/IXth-Generation-003-2015-Digital-Zone-Empire-cbr.md) | 41.25MiB
 [IXth Generation 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/IXth-Generation-004-2015-Digital-Zone-Empire-cbr.md) | 39.33MiB
 [IXth Generation 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/IXth-Generation-005-2015-Digital-Zone-Empire-cbr.md) | 54.60MiB
 [IXth Generation 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/IXth-Generation-006-2015-Digital-Zone-Empire-cbr.md) | 181.19MiB

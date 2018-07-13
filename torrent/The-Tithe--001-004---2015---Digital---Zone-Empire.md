@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Tithe 001 (2015) (Digital) (Zone-Empire).cbr | 43.68MiB
-The Tithe 002 (2015) (Digital) (Zone-Empire).cbr | 53.60MiB
-The Tithe 003 (2015) (Digital) (Zone-Empire).cbr | 52.95MiB
+[The Tithe 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tithe-001-2015-Digital-Zone-Empire-cbr.md) | 43.68MiB
+[The Tithe 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tithe-002-2015-Digital-Zone-Empire-cbr.md) | 53.60MiB
+[The Tithe 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tithe-003-2015-Digital-Zone-Empire-cbr.md) | 52.95MiB
 [The Tithe 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tithe-004-2015-Digital-Zone-Empire-cbr.md) | 52.92MiB

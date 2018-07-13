@@ -81,3 +81,4 @@ Doctor Who Magazine 522 (2018) (digital) (Minutemen-Bookworm).cbr | 56.57MiB
 Doctor Who Magazine 524 (2018) (digital) (AncientOne).cbz | 259.28MiB
 Doctor Who Magazine 525 (2018) (AncientOne).cbz | 346.88MiB
 Doctor Who Magazine 526 (2018) (digital) (AncientOne).cbz | 257.70MiB
+Doctor Who Magazine 527 (2018) (digital) (AncientOne).cbz | 261.42MiB

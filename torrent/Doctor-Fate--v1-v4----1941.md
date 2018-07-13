@@ -114,7 +114,7 @@ Helmet of Fate - Sargon the Sorcerer (2007) (Minutemen-Dizzy).cbr | 9.08MiB
 Helmet of Fate - Zauriel (2007) (Minutemen-Dizzy).cbr | 16.85MiB
 &emsp;【Doctor Fate (v1-v4+) (1941-)/07-Doctor Fate v4 (001-016+)(2015-)(digital)(BlackManta-Empire)】 | 
 [DC Sneak Peek - Dr. Fate (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Dr-Fate-2015-Digital-ThatGuy-Empire-cbz.md) | 12.79MiB
-Doctor Fate 001 (2015) (Digital) (ThatGuy-Empire).cbz | 31.35MiB
+[Doctor Fate 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Fate-001-2015-Digital-ThatGuy-Empire-cbz.md) | 31.35MiB
 [Doctor Fate 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Fate-002-2015-Digital-ThatGuy-Empire-cbz.md) | 32.16MiB
 Doctor Fate 003 (2015) (Digital-Empire).cbr | 29.92MiB
 [Doctor Fate 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Fate-004-2015-Digital-Empire-cbr.md) | 29.35MiB

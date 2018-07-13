@@ -18,11 +18,11 @@ Southern Bastards 005 (2014) (digital) (Minutemen-Faessla).cbz | 60.07MiB
 Southern Bastards 006 (2014) (digital) (Minutemen-Faessla).cbz | 60.31MiB
 Southern Bastards 007 (2015) (digital) (Minutemen-Faessla).cbz | 55.27MiB
 [Southern Bastards 008 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-008-2015-digital-Minutemen-Faessla-cbz.md) | 50.73MiB
-Southern Bastards 009 (2015) (digital) (Minutemen-Faessla).cbz | 46.15MiB
+[Southern Bastards 009 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-009-2015-digital-Minutemen-Faessla-cbz.md) | 46.15MiB
 [Southern Bastards 010 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-010-2015-digital-Minutemen-Faessla-cbz.md) | 55.28MiB
 [Southern Bastards 011 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-011-2015-digital-Minutemen-Faessla-cbz.md) | 52.23MiB
 [Southern Bastards 012 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-012-2015-digital-Minutemen-Faessla-cbz.md) | 59.75MiB
 [Southern Bastards 013 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-013-2016-digital-Minutemen-Faessla-cbz.md) | 58.47MiB
 [Southern Bastards 014 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-014-2016-digital-Minutemen-Faessla-cbz.md) | 51.40MiB
 Southern Bastards v01 - Here Was A Man (2014) (Digital) (Zone-Empire).cbr | 256.41MiB
-Southern Bastards v02 - Gridiron (2015) (Digital) (Zone-Empire).cbr | 197.57MiB
+[Southern Bastards v02 - Gridiron (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-v02-Gridiron-2015-Digital-Zone-Empire-cbr.md) | 197.57MiB

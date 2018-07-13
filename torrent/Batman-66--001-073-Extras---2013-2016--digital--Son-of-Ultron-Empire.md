@@ -69,11 +69,11 @@ Batman '66 054 (2015) (digital) (Son fo Ultron-Empire).cbr | 57.10MiB
 Batman '66 055 (2015) (digital) (Son of Ultron-Empire).cbr | 37.29MiB
 Batman '66 056 (2015) (digital) (Son of Ultron-Empire).cbr | 56.14MiB
 [Batman '66 057 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-057-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.39MiB
-Batman '66 058 (2015) (digital) (Son of Ultron-Empire).cbr | 64.04MiB
-Batman '66 059 (2015) (digital) (Son of Ultron-Empire).cbr | 72.66MiB
-Batman '66 060 (2015) (digital) (Son of Ultron-Empire).cbr | 118.02MiB
-Batman '66 061 (2015) (digital) (Son of Ultron-Empire).cbr | 146.27MiB
-Batman '66 062 (2015) (digital) (Son of Ultron-Empire).cbr | 20.02MiB
+[Batman '66 058 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-058-2015-digital-Son-of-Ultron-Empire-cbr.md) | 64.04MiB
+[Batman '66 059 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-059-2015-digital-Son-of-Ultron-Empire-cbr.md) | 72.66MiB
+[Batman '66 060 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-060-2015-digital-Son-of-Ultron-Empire-cbr.md) | 118.02MiB
+[Batman '66 061 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-061-2015-digital-Son-of-Ultron-Empire-cbr.md) | 146.27MiB
+[Batman '66 062 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-062-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.02MiB
 [Batman '66 063 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-063-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.82MiB
 [Batman '66 064 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-064-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.56MiB
 [Batman '66 065 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-065-2015-digital-Son-of-Ultron-Empire-cbr.md) | 17.85MiB

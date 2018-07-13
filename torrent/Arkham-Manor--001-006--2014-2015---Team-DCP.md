@@ -15,4 +15,4 @@ Arkham Manor 002 (2015) (Team-DCP).cbr | 28.08MiB
 Arkham Manor 003 (2015) (Team-DCP).cbr | 31.46MiB
 Arkham Manor 004 (2015) (Team-DCP).cbr | 32.79MiB
 Arkham Manor 005 (2015) (Team-DCP).cbr | 28.78MiB
-Arkham Manor 006 (2015) (Team-DCP).cbr | 35.52MiB
+[Arkham Manor 006 (2015) (Team-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arkham-Manor-006-2015-Team-DCP-cbr.md) | 35.52MiB

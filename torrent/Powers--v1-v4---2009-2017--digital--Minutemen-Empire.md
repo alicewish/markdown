@@ -135,8 +135,8 @@ Powers 010 (2012) (Digital) (Zone-Empire).cbr | 23.96MiB
 Powers 011 (2012) (Digital) (Zone-Empire).cbr | 26.88MiB
 &emsp;【Powers (v1-v4+)(2009-2017)(digital)(Minutemen+Empire)/Powers v4 (001-008)(2015-2017)(digital)(Minutemen-Midas)】 | 
 [Powers 001 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-001-2015-digital-Minutemen-Midas-cbr.md) | 36.62MiB
-Powers 002 (2015) (digital) (Minutemen-Midas).cbr | 24.70MiB
-Powers 003 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 24.86MiB
+[Powers 002 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-002-2015-digital-Minutemen-Midas-cbr.md) | 24.70MiB
+[Powers 003 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-003-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 24.86MiB
 Powers 004 (2015) (digital) (Minutemen-Midas).cbr | 34.41MiB
 [Powers 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-005-2015-digital-Minutemen-Midas-cbr.md) | 24.57MiB
 [Powers 006 (2016) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-006-2016-3-covers-digital-Minutemen-Midas-cbr.md) | 32.41MiB

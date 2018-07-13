@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-Rebels 001 (2015) (digital) (Son of Ultron-Empire).cbr | 63.14MiB
-Rebels 002 (2015) (digital) (Son of Ultron-Empire).cbr | 50.11MiB
-Rebels 003 (2015) (digital) (Son of Ultron-Empire).cbr | 53.22MiB
+[Rebels 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 63.14MiB
+[Rebels 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 50.11MiB
+[Rebels 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.22MiB
 [Rebels 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.27MiB
 [Rebels 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.48MiB
 [Rebels 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.54MiB

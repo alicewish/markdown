@@ -41,3 +41,7 @@ Archie's Funhouse Comics Double Digest 022 (2016) (Forsythe-DCP).cbr | 413.13MiB
 Archie's Funhouse Comics Double Digest 023 (2017) (Digital) (Asgard-Empire).cbr | 232.18MiB
 Archie's Funhouse Comics Double Digest 024 (2017) (Digital) (Asgard-Empire).cbr | 224.01MiB
 Archie's Funhouse Comics Double Digest 024 (2017) (Forsythe-DCP).cbr | 299.34MiB
+Archie's Funhouse Comics Double Digest 025 (2017) (Forsythe-DCP).cbr | 259.54MiB
+Archie's Funhouse Comics Double Digest 026 (2017) (Forsythe-DCP).cbr | 393.92MiB
+Archie's Funhouse Comics Double Digest 027 (2017) (Forsythe-DCP).cbr | 432.40MiB
+Archie's Funhouse Comics Double Digest 028 (2017) (Forsythe-DCP).cbr | 362.48MiB

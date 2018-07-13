@@ -47,3 +47,4 @@ Adventure Time Comics Vol. 01 (2017) (digital) (Minutemen-Slayer).cbr | 158.03Mi
 Adventure Time Comics 019 (2018) (digital) (Salem-Empire).cbr | 110.02MiB
 Adventure Time Comics 020 (2018) (digital) (Salem-Empire).cbr | 34.21MiB
 Adventure Time Comics 021 (2018) (digital) (Salem-Empire).cbr | 51.95MiB
+Adventure Time Comics 022 (2018) (digital) (Salem-Empire).cbr | 38.00MiB

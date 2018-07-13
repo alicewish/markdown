@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Mega Man - Worlds Unite Battles 001 (2015) (digital-empire).cbr | 39.02MiB
+[Mega Man - Worlds Unite Battles 001 (2015) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-Worlds-Unite-Battles-001-2015-digital-empire-cbr.md) | 39.02MiB
 Mega Man 001 (2011) (Chad Thomas Sketch Variant Cover) (Minutemen-TwiztiD-T).cbz | 888.62KiB
 Mega Man 001 (2011) (Minutemen-DTs).cbz | 21.81MiB
 Mega Man 002 (2011) (Minutemen-DTs).cbz | 22.00MiB
@@ -63,10 +63,10 @@ Mega Man 043 (2014) (digital) (CompetentRipper-Empire).cbr | 35.71MiB
 Mega Man 044 (2015) (digital-Empire).cbr | 31.57MiB
 Mega Man 045 (2015) (digital-Empire).cbr | 31.60MiB
 Mega Man 046 (2015) (digital-Empire).cbr | 30.46MiB
-Mega Man 047 (2015) (digital-Empire).cbr | 34.35MiB
-Mega Man 048 (2015) (digital-Empire).cbr | 37.05MiB
-Mega Man 049 (2015) (digital-Empire).cbr | 32.02MiB
-Mega Man 050 (2015) (digital-empire).cbr | 54.80MiB
+[Mega Man 047 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-047-2015-digital-Empire-cbr.md) | 34.35MiB
+[Mega Man 048 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-048-2015-digital-Empire-cbr.md) | 37.05MiB
+[Mega Man 049 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-049-2015-digital-Empire-cbr.md) | 32.02MiB
+[Mega Man 050 (2015) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-050-2015-digital-empire-cbr.md) | 54.80MiB
 [Mega Man 051 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-051-2015-Digital-AnHeroGold-Empire-cbz.md) | 35.89MiB
 Mega Man v01 (2012) (Digital) (Lovag-Empire).cbr | 60.73MiB
 Mega Man v02 (2012) (Digital) (Lovag-Empire).cbr | 50.59MiB

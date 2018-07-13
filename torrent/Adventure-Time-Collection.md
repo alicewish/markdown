@@ -48,8 +48,8 @@ Adventure Time 034 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.97MiB
 Adventure Time 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 27.78MiB
 Adventure Time 036 (2015) (digital) (Minutemen-InnerDemons).cbr | 27.31MiB
 Adventure Time 037 (2015) (digital) (Minutemen-InnerDemons).cbr | 35.70MiB
-Adventure Time 038 (2015) (digital) (Minutemen-InnerDemons).cbr | 32.57MiB
-Adventure Time 039 (2015) (digital) (Minutemen-InnerDemons).cbr | 35.21MiB
+[Adventure Time 038 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-038-2015-digital-Minutemen-InnerDemons-cbr.md) | 32.57MiB
+[Adventure Time 039 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-039-2015-digital-Minutemen-InnerDemons-cbr.md) | 35.21MiB
 Adventure Time 040 (2015) (Digital) (AnHeroGold-Empire).cbz | 38.57MiB
 Adventure Time 041 (2015) (Digital) (AnHeroGold-Empire).cbz | 30.56MiB
 [Adventure Time 042 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-042-2015-Digital-AnHeroGold-Empire-cbz.md) | 27.43MiB
@@ -101,9 +101,9 @@ Adventure Time - Ice King 06 (of 06) (2016) (digital) (Minutemen-Slayer).cbr | 2
 &emsp;【Adventure Time Collection/Adventure Time - Marceline Gone Adrift (001-006)(2015)(digital)(Minutemen-InnerDemons)】 | 
 [Adventure Time - Marceline Gone Adrift 01 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-Marceline-Gone-Adrift-01-of-06-2015-digital-Minutemen-InnerDemons-cbr.md) | 30.85MiB
 Adventure Time - Marceline Gone Adrift 02 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr | 24.52MiB
-Adventure Time - Marceline Gone Adrift 03 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr | 24.99MiB
-Adventure Time - Marceline Gone Adrift 04 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr | 27.51MiB
-Adventure Time - Marceline Gone Adrift 05 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr | 31.91MiB
+[Adventure Time - Marceline Gone Adrift 03 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-Marceline-Gone-Adrift-03-of-06-2015-digital-Minutemen-InnerDemons-cbr.md) | 24.99MiB
+[Adventure Time - Marceline Gone Adrift 04 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-Marceline-Gone-Adrift-04-of-06-2015-digital-Minutemen-InnerDemons-cbr.md) | 27.51MiB
+[Adventure Time - Marceline Gone Adrift 05 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-Marceline-Gone-Adrift-05-of-06-2015-digital-Minutemen-InnerDemons-cbr.md) | 31.91MiB
 Adventure Time - Marceline Gone Adrift 06 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr | 29.10MiB
 &emsp;【Adventure Time Collection/Adventure Time - Marceline and the Scream Queens (001-006)(2012)(digital)(Minutemen-InnerDemons)】 | 
 Adventure Time - Marceline and the Scream Queens 01 (of 06) (2012) (5 covers) (digital) (Minutemen-InnerDemons).cbr | 35.71MiB

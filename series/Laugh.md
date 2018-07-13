@@ -23,6 +23,7 @@ Laugh 253 Archie Titansfan.cbz | 23.05MiB
 Laugh 255 Archie Titansfan.cbz | 24.50MiB
 Laugh 258 Archie Titansfan.cbz | 23.73MiB
 Laugh 260 Archie Titansfan.cbz | 24.75MiB
+Laugh 276 (Archie Mar 1974) (c2c) (Symm-NWG).cbz | 41.46MiB
 Laugh 114 (1960) (c2c).cbr | 24.54MiB
 Laugh 120 (1961) (Archie) (c2c) (ComicsCastle).cbr | 18.74MiB
 Laugh 126 (1961) (Archie) (c2c) (ComicsCastle).cbr | 18.52MiB

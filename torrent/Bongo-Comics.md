@@ -178,7 +178,7 @@ Futurama - Simpsons Infinitely Secret Crossover Crisis 001 (2002).cbz | 11.81MiB
 Futurama - Simpsons Infinitely Secret Crossover Crisis 002 (2002).cbz | 12.02MiB
 &emsp;【Bongo Comics/Futurama Comics (001-072+)(2000-2016)】 | 
 Bongo Comics Presents Futurama Comics 073 (2014) (Harkonnen-DCP).cbz | 38.43MiB
-Bongo Comics Presents Futurama Comics 074 (2015) (Harkonnen-DCP).cbz | 37.83MiB
+[Bongo Comics Presents Futurama Comics 074 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-074-2015-Harkonnen-DCP-cbz.md) | 37.83MiB
 [Bongo Comics Presents Futurama Comics 075 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-075-2015-Harkonnen-DCP-cbz.md) | 30.97MiB
 [Bongo Comics Presents Futurama Comics 076 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-076-2015-Harkonnen-DCP-cbz.md) | 32.38MiB
 Bongo Comics Presents Futurama Comics 077 (2015) (GreenManGroup-DCP).cbr | 30.56MiB
@@ -548,8 +548,8 @@ Simpsons Comics 215 (2014) (Harkonnen-DCP).cbz | 37.15MiB
 Simpsons Comics 216 (2014) (Harkonnen-DCP).cbz | 37.17MiB
 Simpsons Comics 217 (2015) (Harkonnen-DCP).cbz | 36.15MiB
 Simpsons Comics 218 (2015) (Harkonnen-DCP).cbz | 34.31MiB
-Simpsons Comics 219 (2015) (Harkonnen-DCP).cbz | 33.61MiB
-Simpsons Comics 220 (2015) (Harkonnen-DCP).cbz | 34.03MiB
+[Simpsons Comics 219 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-219-2015-Harkonnen-DCP-cbz.md) | 33.61MiB
+[Simpsons Comics 220 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-220-2015-Harkonnen-DCP-cbz.md) | 34.03MiB
 [Simpsons Comics 221 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-221-2015-Harkonnen-DCP-cbz.md) | 32.11MiB
 [Simpsons Comics 222 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-222-2015-Harkonnen-DCP-cbz.md) | 30.89MiB
 [Simpsons Comics 223 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-223-2015-Harkonnen-DCP-cbz.md) | 33.38MiB

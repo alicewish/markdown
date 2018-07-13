@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 EI8HT 001 (2015) (digital) (Son fo Ultron-Empire).cbr | 41.50MiB
-EI8HT 002 (2015) (digital) (Son of Ultron-Empire).cbr | 40.20MiB
-EI8HT 003 (2015) (digital) (Son of Ultron-Empire).cbr | 42.03MiB
-EI8HT 004 (2015) (digital) (Son of Ultron-Empire).cbr | 42.54MiB
-EI8HT 005 (2015) (digital) (Son of Ultron-Empire).cbr | 40.23MiB
+[EI8HT 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EI8HT-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.20MiB
+[EI8HT 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EI8HT-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.03MiB
+[EI8HT 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EI8HT-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.54MiB
+[EI8HT 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EI8HT-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.23MiB

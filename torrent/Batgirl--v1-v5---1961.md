@@ -225,7 +225,7 @@ Batgirl 001 (2009) (Cully Hamner Variant Only) (ScanDog).cbr | 630.90KiB
 &emsp;【Batgirl (v1-v5+)(1961-)/Extras】 | 
 Adam Hughes-Catwoman Batgirl Batman.cbr | 3.69MiB
 Batgirl & Robin - Thrillkiller (1997).cbz | 26.67MiB
-Batgirl - Endgame 001 (2015) (Digital-Empire).cbr | 29.10MiB
+[Batgirl - Endgame 001 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Endgame-001-2015-Digital-Empire-cbr.md) | 29.10MiB
 [Batgirl - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 42.16MiB
 &emsp;【Batgirl (v1-v5+)(1961-)/Extras/Batgirl - Motion Comics】 | 
 Batgirl 1 - Masquerade Parts 1-3.avi | 113.23MiB

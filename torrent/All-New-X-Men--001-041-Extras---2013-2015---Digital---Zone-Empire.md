@@ -47,10 +47,10 @@ All-New X-Men 033 (2014) (Digital) (Zone-Empire).cbr | 29.67MiB
 All-New X-Men 034 (2015) (Digital) (Zone-Empire).cbr | 30.19MiB
 [All-New X-Men 035 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-035-2015-Digital-Zone-Empire-cbr.md) | 32.57MiB
 All-New X-Men 036 (2015) (Digital) (Zone-Empire).cbr | 32.80MiB
-All-New X-Men 037 (2015) (Digital)(Zone-Empire).cbr | 37.69MiB
+[All-New X-Men 037 (2015) (Digital)(Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-037-2015-Digital-Zone-Empire-cbr.md) | 37.69MiB
 All-New X-Men 038 (2015) (Digital) (Zone-Empire).cbr | 35.07MiB
-All-New X-Men 039 (2015) (Digital) (Zone-Empire).cbr | 31.34MiB
-All-New X-Men 040 (2015) (Digital) (Zone-Empire).cbr | 33.30MiB
+[All-New X-Men 039 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-039-2015-Digital-Zone-Empire-cbr.md) | 31.34MiB
+[All-New X-Men 040 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-040-2015-Digital-Zone-Empire-cbr.md) | 33.30MiB
 [All-New X-Men 041 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-041-2015-Digital-Zone-Empire-cbr.md) | 32.73MiB
 All-New X-Men Special 001 (2013) (Digital) (Zone-Empire).cbr | 42.47MiB
 All-New X-Men v1 - Yesterday's X-Men (2013) (Digital) (Meganubis-Empire).cbz | 223.79MiB
@@ -107,7 +107,7 @@ All-New X-Men 002 (2013) ((Pasqual Ferry Variant) \[extracted\] (Meganubis-Novus
 [All-New X-Men 020 (2014) (Arthur Adams X-Men 50th Anniversary Variant) (Cover ONLY) (TaruNet-Novus).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-020-2014-Arthur-Adams-X-Men-50th-Anniversary-Variant-Cover-ONLY-TaruNet-Novus-cbz.md) | 1.44MiB
 All-New X-Men 031 (2014) (digital) (Mike Del Mundo Agents of S.H.I.E.L.D. variant) (Minutemen-Mastodon).cbz | 1016.09KiB
 [All-New X-Men 034 (2015) (digital) (Jock Rocket Raccoon & Groot variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-034-2015-digital-Jock-Rocket-Raccoon-Groot-variant-Minutemen-Mastodon-cbz.md) | 2.29MiB
-All-New X-Men 039 (2015) (Andrea Sorrentino Variant) (digital) (Minutemen-Fantomex).cbr | 2.21MiB
+[All-New X-Men 039 (2015) (Andrea Sorrentino Variant) (digital) (Minutemen-Fantomex).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-039-2015-Andrea-Sorrentino-Variant-digital-Minutemen-Fantomex-cbr.md) | 2.21MiB
 All-New X-Men 039 (2015) (digital) (Faith Erin Hicks Women of Marvel variant) (Minutemen-Mastodon).cbz | 2.67MiB
 All-New X-Men 041 (2015) (digital) (Shawn Crystal WTD variant) (Minutemen-Mastodon).cbz | 4.27MiB
 All-New X-Men Annual 01 (2015) (digital) (Dustin Nguyen variant) (Minutemen-Mastodon).cbz | 3.72MiB

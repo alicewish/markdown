@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Reanimator 001(2015)(4 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 46.66MiB
-Reanimator 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 37.75MiB
-Reanimator 003(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 34.98MiB
+[Reanimator 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Reanimator-002-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 37.75MiB
+[Reanimator 003(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Reanimator-003-2015-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 34.98MiB
 [Reanimator 004(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Reanimator-004-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 36.18MiB

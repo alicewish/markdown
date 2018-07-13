@@ -10,6 +10,10 @@
 
 
 
+相关种子⬇Related Torrents
+
+[Angel & Faith TPBs (Season 9 - v01-v05+Season 10 v01-v03)(2012-2015)(digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Angel---Faith-TPBs--Season-9---v01-v05-Season-10-v01-v03--2012-2015--digital-Empire.md)
+
 Online | Download
 --- | ---
 Angel & Faith 05 (2011) (two covers) (fixed) (Minutemen-DTs).cbz | [29.70MiB](https://pan.baidu.com/s/1mi3R8zI#list/path=%2F0-Day%20Week%20of%202012%20Q1%2F0-Day%20Week%20of%202012.01.11%2F%E3%82%A6%E3%82%AD%E3%82%BF%E3%82%B9%E3%82%B7%E3%82%B5%E3%82%BB%E3%82%B5%E3%82%B9%E3%82%AF%E3%82%BF%E3%82%B1%E3%82%A6%E3%82%A6%E3%82%B7%E3%82%BF%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%AB%E3%82%BF%E3%82%AF%E3%82%BD%E3%82%B3%E3%82%B5%E3%82%BF%E3%82%BD%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%BD%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202012%20Q1)

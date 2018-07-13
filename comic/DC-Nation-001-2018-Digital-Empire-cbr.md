@@ -1,5 +1,9 @@
 ## DC Nation 001 (2018) (Digital-Empire).cbr
 
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+
+
 ![DC Nation (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsepyw95mcj21kw244e81.jpg)
 
 ![DC Nation (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsepz0tw4bj21kw2444qp.jpg)
@@ -85,3 +89,6 @@
 ![DC Nation (2018-) 001-041.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fseq8c5xy2j21kw2441kx.jpg)
 
 ![DC Nation (2018-) 001-042.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fseq8maotkj21kw244kjl.jpg)
+
+[回到 DC Nation 目录](https://github.com/alicewish/markdown/blob/master/series/DC-Nation.md)
+

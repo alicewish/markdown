@@ -15,7 +15,7 @@ Chroma-Tick 01 (1992) (NEC).cbr | 25.32MiB
 &emsp;【The Tick/FCBD】 | 
 The Tick (FCBD) (2013) (c2c) (Mint Julep-DCP).cbr | 50.53MiB
 The Tick - Free Comic Book Day 2011 (2011) (FCBD) (Minutemen).cbz | 22.85MiB
-The Tick - Free Comic Book Day 2015 (2015) (c2c) (GreenGiant-DCP).cbr | 45.03MiB
+[The Tick - Free Comic Book Day 2015 (2015) (c2c) (GreenGiant-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tick-Free-Comic-Book-Day-2015-2015-c2c-GreenGiant-DCP-cbr.md) | 45.03MiB
 [The Tick - Free Comic Book Day 2016 (GreenGiant-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tick-Free-Comic-Book-Day-2016-GreenGiant-DCP-cbr.md) | 44.16MiB
 The Ticks Free Comic Book Day Special Edition (2010) (c2c) (FCBD) (Team-CPS).cbr | 14.77MiB
 &emsp;【The Tick/Incomplete Series/The Edlund Epic (01) (of 12)(2010)(Minutemen-Kame House)】 | 

@@ -19,6 +19,6 @@ Robocop 006 (2014) (digital-Empire).cbr | 54.91MiB
 [Robocop 007 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-007-2015-digital-Empire-cbr.md) | 63.75MiB
 Robocop 008 (2015) (digital-Empire).cbr | 54.78MiB
 Robocop 009 (2015) (digital-Empire).cbr | 47.39MiB
-Robocop 010 (2015) (digital-Empire).cbr | 49.34MiB
-Robocop 011 (2015) (digital-Empire).cbr | 53.59MiB
-Robocop 012 (2015) (digital-Empire).cbr | 39.86MiB
+[Robocop 010 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-010-2015-digital-Empire-cbr.md) | 49.34MiB
+[Robocop 011 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-011-2015-digital-Empire-cbr.md) | 53.59MiB
+[Robocop 012 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-012-2015-digital-Empire-cbr.md) | 39.86MiB

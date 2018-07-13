@@ -23,7 +23,7 @@ Tomb Raider 010 (2014) (digital) (Son of Ultron-Empire).cbr | 34.76MiB
 Tomb Raider 011 (2014) (digital) (Son of Ultron-Empire).cbr | 27.83MiB
 Tomb Raider 012 (2015) (digital) (Son of Ultron-Empire).cbr | 28.60MiB
 Tomb Raider 013 (2015) (digital) (Son of Ultron-Empire).cbr | 36.98MiB
-Tomb Raider 014 (2015) (digital) (Son of Ultron-Empire).cbr | 40.51MiB
-Tomb Raider 015 (2015) (digital) (Son of Ultron-Empire).cbr | 42.71MiB
-Tomb Raider 016 (2015) (digital) (Son of Ultron-Empire).cbr | 49.05MiB
-Tomb Raider 017 (2015) (digital) (Son of Ultron-Empire).cbr | 42.48MiB
+[Tomb Raider 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tomb-Raider-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.51MiB
+[Tomb Raider 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tomb-Raider-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.71MiB
+[Tomb Raider 016 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tomb-Raider-016-2015-digital-Son-of-Ultron-Empire-cbr.md) | 49.05MiB
+[Tomb Raider 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tomb-Raider-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.48MiB

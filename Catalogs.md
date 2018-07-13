@@ -931,6 +931,8 @@
 
 [Batman - Death and the Maidens](https://github.com/alicewish/markdown/blob/master/series/Batman-Death-Maidens.md)
 
+[Batman - Detective Comics](https://github.com/alicewish/markdown/blob/master/series/Batman-Detective-Comics.md)
+
 [Batman - Europa](https://github.com/alicewish/markdown/blob/master/series/Batman-Europa.md)
 
 [Batman - Gates of Gotham](https://github.com/alicewish/markdown/blob/master/series/Batman-Gates-of-Gotham.md)
@@ -3741,6 +3743,8 @@
 
 [Hopalong Cassidy](https://github.com/alicewish/markdown/blob/master/series/Hopalong-Cassidy.md)
 
+[Hoppy the Marvel Bunny](https://github.com/alicewish/markdown/blob/master/series/Hoppy-Marvel-Bunny.md)
+
 [Horizon](https://github.com/alicewish/markdown/blob/master/series/Horizon.md)
 
 [Hot Damn](https://github.com/alicewish/markdown/blob/master/series/Hot-Damn.md)
@@ -4797,6 +4801,8 @@
 
 [Marvel 1602](https://github.com/alicewish/markdown/blob/master/series/Marvel-1602.md)
 
+[Marvel 1985](https://github.com/alicewish/markdown/blob/master/series/Marvel-1985.md)
+
 [Marvel Adventures Fantastic Four](https://github.com/alicewish/markdown/blob/master/series/Marvel-Adventures-Fantastic-Four.md)
 
 [Marvel Adventures Hulk](https://github.com/alicewish/markdown/blob/master/series/Marvel-Adventures-Hulk.md)
@@ -5286,6 +5292,8 @@
 [New Lone Wolf and Cub](https://github.com/alicewish/markdown/blob/master/series/New-Lone-Wolf-Cub.md)
 
 [New Mutants](https://github.com/alicewish/markdown/blob/master/series/New-Mutants.md)
+
+[New Mutants - Dead Souls](https://github.com/alicewish/markdown/blob/master/series/New-Mutants-Dead-Souls.md)
 
 [New Mutants Classic](https://github.com/alicewish/markdown/blob/master/series/New-Mutants-Classic.md)
 
@@ -5985,6 +5993,8 @@
 
 [Renato Jones, Season](https://github.com/alicewish/markdown/blob/master/series/Renato-Jones-Season.md)
 
+[Resident Alien](https://github.com/alicewish/markdown/blob/master/series/Resident-Alien.md)
+
 [Resurrection Man](https://github.com/alicewish/markdown/blob/master/series/Resurrection-Man.md)
 
 [Resurrectionists](https://github.com/alicewish/markdown/blob/master/series/Resurrectionists.md)
@@ -6351,6 +6361,8 @@
 
 [Shadowman - End Times](https://github.com/alicewish/markdown/blob/master/series/Shadowman-End-Times.md)
 
+[Shadowpact](https://github.com/alicewish/markdown/blob/master/series/Shadowpact.md)
+
 [Shadows on the Grave](https://github.com/alicewish/markdown/blob/master/series/Shadows-on-Grave.md)
 
 [Shaft](https://github.com/alicewish/markdown/blob/master/series/Shaft.md)
@@ -6422,6 +6434,8 @@
 [Sick](https://github.com/alicewish/markdown/blob/master/series/Sick.md)
 
 [Sidekick](https://github.com/alicewish/markdown/blob/master/series/Sidekick.md)
+
+[Sideways](https://github.com/alicewish/markdown/blob/master/series/Sideways.md)
 
 [Siege](https://github.com/alicewish/markdown/blob/master/series/Siege.md)
 
@@ -7991,8 +8005,6 @@
 
 [The Transformers](https://github.com/alicewish/markdown/blob/master/series/Transformers.md)
 
-[The Transformers - All Hail Megatron](https://github.com/alicewish/markdown/blob/master/series/Transformers-All-Hail-Megatron.md)
-
 [The Transformers - Drift - Empire of Stone](https://github.com/alicewish/markdown/blob/master/series/Transformers-Drift-Empire-of-Stone.md)
 
 [The Transformers - Lost Light](https://github.com/alicewish/markdown/blob/master/series/Transformers-Lost-Light.md)
@@ -8228,6 +8240,8 @@
 [Torchwood](https://github.com/alicewish/markdown/blob/master/series/Torchwood.md)
 
 [Toxin](https://github.com/alicewish/markdown/blob/master/series/Toxin.md)
+
+[Transformers - All Hail Megatron](https://github.com/alicewish/markdown/blob/master/series/Transformers-All-Hail-Megatron.md)
 
 [Transformers - Classics](https://github.com/alicewish/markdown/blob/master/series/Transformers-Classics.md)
 
@@ -8944,6 +8958,8 @@
 [X-Men - Apocalypse - Dracula](https://github.com/alicewish/markdown/blob/master/series/X-Men-Apocalypse-Dracula.md)
 
 [X-Men - Children of the Atom](https://github.com/alicewish/markdown/blob/master/series/X-Men-Children-of-Atom.md)
+
+[X-Men - Colossus Bloodline](https://github.com/alicewish/markdown/blob/master/series/X-Men-Colossus-Bloodline.md)
 
 [X-Men - Deadly Genesis](https://github.com/alicewish/markdown/blob/master/series/X-Men-Deadly-Genesis.md)
 
@@ -9787,6 +9803,8 @@
 
 [0-Day Week of 2018.06.20](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-06-20.md)
 
+[0-Day Week of 2018.06.27](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-06-27.md)
+
 ### DC Week
 
 [DC Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-01-06-2016.md)
@@ -10050,6 +10068,8 @@
 [DC Week+ (06-27-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-06-27-2018.md)
 
 [DC Week+ (07-04-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-04-2018.md)
+
+[DC Week+ (07-11-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-11-2018.md)
 
 ### Hitlist Week
 
@@ -10371,6 +10391,8 @@
 
 [Hitlist Week of 2018.06.20](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-06-20.md)
 
+[Hitlist Week of 2018.06.27](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-06-27.md)
+
 ### Image Week
 
 [Image Week (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-01-06-2016.md)
@@ -10635,6 +10657,8 @@
 
 [Image Week (07-04-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-07-04-2018.md)
 
+[Image Week (07-11-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-07-11-2018.md)
+
 ### Marvel Week
 
 [Marvel Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-01-06-2016.md)
@@ -10898,6 +10922,8 @@
 [Marvel Week+ (06-27-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-06-27-2018.md)
 
 [Marvel Week+ (07-04-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-04-2018.md)
+
+[Marvel Week+ (07-11-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-11-2018.md)
 
 ### Novus - Week
 

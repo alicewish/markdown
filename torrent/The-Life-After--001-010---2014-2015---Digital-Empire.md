@@ -17,6 +17,6 @@ The Life After 004 (2014) (Digital) (Nahga-Empire).cbr | 46.92MiB
 The Life After 005 (2014) (Digital) (Nahga-Empire).cbr | 40.88MiB
 The Life After 006 (2015) (Digital-Empire).cbr | 38.81MiB
 The Life After 007 (2015) (Digital-Empire).cbr | 49.88MiB
-The Life After 008 (2015) (Digital-Empire).cbr | 50.05MiB
-The Life After 009 (2015) (Digital-Empire).cbr | 42.35MiB
-The Life After 010 (2015) (Digital-Empire).cbr | 54.84MiB
+[The Life After 008 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-008-2015-Digital-Empire-cbr.md) | 50.05MiB
+[The Life After 009 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-009-2015-Digital-Empire-cbr.md) | 42.35MiB
+[The Life After 010 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-010-2015-Digital-Empire-cbr.md) | 54.84MiB

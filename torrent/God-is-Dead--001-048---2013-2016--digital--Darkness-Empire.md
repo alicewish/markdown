@@ -41,12 +41,12 @@ God is Dead 025 (2014) (6 Covers) (Digital) (Darkness-Empire).cbr | 96.97MiB
 God is Dead 028 (2015) (6 Covers) (Digital) (Darkness-Empire).cbr | 42.80MiB
 God is Dead 029 (2015) (Digital) (The Dark VI-Empire).cbr | 43.76MiB
 God is Dead 030 (2015) (Digital) (The Dark VI-Empire).cbr | 41.64MiB
-God is Dead 031 (2015) (Digital) (The Dark VI-Empire).cbr | 40.54MiB
-God is Dead 032 (2015) (Digital) (DR & Quinch-Empire).cbr | 43.15MiB
-God is Dead 033 (2015) (Digital) (DR & Quinch-Empire).cbr | 43.16MiB
-God is Dead 034 (2015) (Digital) (Mephisto-Empire).cbr | 42.82MiB
-God is Dead 035 (2015) (Digital) (Mephisto-Empire).cbr | 39.90MiB
-God is Dead 036 (2015) (Digital) (Mephisto-Empire).cbr | 38.73MiB
+[God is Dead 031 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-031-2015-Digital-Dark-VI-Empire-cbr.md) | 40.54MiB
+[God is Dead 032 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-032-2015-Digital-DR-Quinch-Empire-cbr.md) | 43.15MiB
+[God is Dead 033 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-033-2015-Digital-DR-Quinch-Empire-cbr.md) | 43.16MiB
+[God is Dead 034 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-034-2015-Digital-Mephisto-Empire-cbr.md) | 42.82MiB
+[God is Dead 035 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-035-2015-Digital-Mephisto-Empire-cbr.md) | 39.90MiB
+[God is Dead 036 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-036-2015-Digital-Mephisto-Empire-cbr.md) | 38.73MiB
 [God is Dead 037 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-037-2015-Digital-Mephisto-Empire-cbr.md) | 45.39MiB
 [God is Dead 038 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-038-2015-Digital-Mephisto-Empire-cbr.md) | 41.65MiB
 [God is Dead 039 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-039-2015-Digital-Mephisto-Empire-cbr.md) | 39.62MiB

@@ -1075,18 +1075,18 @@ Sensation Comics Featuring Wonder Woman 024 (2015) (digital) (Son of Ultron-Empi
 Sensation Comics Featuring Wonder Woman 025 (2015) (digital) (Son of Ultron-Empire).cbr | 14.56MiB
 Sensation Comics Featuring Wonder Woman 026 (2015) (digital) (Son of Ultron-Empire).cbr | 15.39MiB
 Sensation Comics Featuring Wonder Woman 027 (2015) (digital) (Son of Ultron-Empire).cbr | 15.63MiB
-Sensation Comics Featuring Wonder Woman 028 (2015) (digital) (Son of Ultron-Empire).cbr | 22.65MiB
-Sensation Comics Featuring Wonder Woman 029 (2015) (digital) (Son of Ultron-Empire).cbr | 14.03MiB
-Sensation Comics Featuring Wonder Woman 030 (2015) (digital) (Son of Ultron-Empire).cbr | 14.19MiB
-Sensation Comics Featuring Wonder Woman 031 (2015) (digital) (Son of Ultron-Empire).cbr | 19.43MiB
-Sensation Comics Featuring Wonder Woman 032 (2015) (digital) (Son of Ultron-Empire).cbr | 19.69MiB
-Sensation Comics Featuring Wonder Woman 033 (2015) (digital) (Son of Ultron-Empire).cbr | 16.85MiB
-Sensation Comics Featuring Wonder Woman 034 (2015) (digital) (Son of Ultron-Empire).cbr | 18.29MiB
-Sensation Comics Featuring Wonder Woman 035 (2015) (digital) (Son of Ultron-Empire).cbr | 16.16MiB
-Sensation Comics Featuring Wonder Woman 036 (2015) (digital) (Son of Ultron-Empire).cbr | 14.27MiB
+[Sensation Comics Featuring Wonder Woman 028 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-028-2015-digital-Son-of-Ultron-Empire-cbr.md) | 22.65MiB
+[Sensation Comics Featuring Wonder Woman 029 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-029-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.03MiB
+[Sensation Comics Featuring Wonder Woman 030 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-030-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.19MiB
+[Sensation Comics Featuring Wonder Woman 031 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-031-2015-digital-Son-of-Ultron-Empire-cbr.md) | 19.43MiB
+[Sensation Comics Featuring Wonder Woman 032 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-032-2015-digital-Son-of-Ultron-Empire-cbr.md) | 19.69MiB
+[Sensation Comics Featuring Wonder Woman 033 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-033-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.85MiB
+[Sensation Comics Featuring Wonder Woman 034 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-034-2015-digital-Son-of-Ultron-Empire-cbr.md) | 18.29MiB
+[Sensation Comics Featuring Wonder Woman 035 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-035-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.16MiB
+[Sensation Comics Featuring Wonder Woman 036 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-036-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.27MiB
 [Sensation Comics Featuring Wonder Woman 037 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-037-2015-digital-Son-of-Ultron-Empire-cbr.md) | 13.77MiB
-Sensation Comics Featuring Wonder Woman 038 (2015) (digital) (Son of Ultron-Empire).cbr | 14.63MiB
-Sensation Comics Featuring Wonder Woman 039 (2015) (digital) (Son of Ultron-Empire).cbr | 16.74MiB
+[Sensation Comics Featuring Wonder Woman 038 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-038-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.63MiB
+[Sensation Comics Featuring Wonder Woman 039 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-039-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.74MiB
 [Sensation Comics Featuring Wonder Woman 040 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-040-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.07MiB
 [Sensation Comics Featuring Wonder Woman 041 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-041-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.08MiB
 [Sensation Comics Featuring Wonder Woman 042 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-042-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.75MiB
@@ -1169,14 +1169,14 @@ The Essential All New All Different Wonder Woman Archives v4 (DCP Archive Editio
 [The Legend of Wonder Woman 027 (2016) (digital)(Li'l Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legend-of-Wonder-Woman-027-2016-digital-Lil-Ultron-Empire-cbr.md) | 15.91MiB
 &emsp;【Wonder Woman/Wonder Woman '77 (001-024+) (2015-2016) (webrip-DCP)】 | 
 &emsp;【Wonder Woman/Wonder Woman '77 (001-024+) (2015-2016) (webrip-DCP)/Print Versions (001-002)】 | 
-Wonder Woman '77 Vol 01 001 (2015) (Print Version) (Digital) (HD) (Thornn-Empire).cbr | 90.07MiB
+[Wonder Woman '77 Vol 01 001 (2015) (Print Version) (Digital) (HD) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-Vol-01-001-2015-Print-Version-Digital-HD-Thornn-Empire-cbr.md) | 90.07MiB
 [Wonder Woman '77 Vol 01 002 (2015) (Print Version) (Digital) (HD) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-Vol-01-002-2015-Print-Version-Digital-HD-Thornn-Empire-cbr.md) | 85.55MiB
 [Wonder Woman '77 001 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-001-2015-webrip-DCP-cbr.md) | 14.99MiB
 [Wonder Woman '77 002 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-002-2015-webrip-DCP-cbr.md) | 13.95MiB
 Wonder Woman '77 003 (2015) (webrip-DCP).cbr | 16.01MiB
 [Wonder Woman '77 004 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-004-2015-webrip-DCP-cbr.md) | 11.13MiB
-Wonder Woman '77 005 (2015) (webrip-DCP).cbr | 13.72MiB
-Wonder Woman '77 006 (2015) (webrip-DCP).cbr | 13.45MiB
+[Wonder Woman '77 005 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-005-2015-webrip-DCP-cbr.md) | 13.72MiB
+[Wonder Woman '77 006 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-006-2015-webrip-DCP-cbr.md) | 13.45MiB
 [Wonder Woman '77 007 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-007-2015-webrip-DCP-cbr.md) | 14.25MiB
 [Wonder Woman '77 008 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-008-2015-webrip-DCP-cbr.md) | 15.90MiB
 [Wonder Woman '77 009 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-009-2015-webrip-DCP-cbr.md) | 15.52MiB

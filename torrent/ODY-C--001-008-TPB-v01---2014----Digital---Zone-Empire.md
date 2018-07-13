@@ -13,9 +13,9 @@ Online | Download
 ODY-C 001 (2014) (Digital) (Zone-Empire).cbr | 45.88MiB
 [ODY-C 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-002-2015-Digital-Zone-Empire-cbr.md) | 43.40MiB
 ODY-C 003 (2015) (Digital) (Zone-Empire).cbr | 46.47MiB
-ODY-C 004 (2015) (Digital) (Zone-Empire).cbr | 42.61MiB
-ODY-C 005 (2015) (Digital) (Zone-Empire).cbr | 43.07MiB
+[ODY-C 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-004-2015-Digital-Zone-Empire-cbr.md) | 42.61MiB
+[ODY-C 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-005-2015-Digital-Zone-Empire-cbr.md) | 43.07MiB
 [ODY-C 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-006-2015-Digital-Zone-Empire-cbr.md) | 44.42MiB
 [ODY-C 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-007-2015-Digital-Zone-Empire-cbr.md) | 38.59MiB
 [ODY-C 008 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-008-2015-Digital-Zone-Empire-cbr.md) | 34.31MiB
-ODY-C v01 - Off To Far Ithicaa (2015) (Digital) (Zone-Empire).cbr | 215.35MiB
+[ODY-C v01 - Off To Far Ithicaa (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-v01-Off-To-Far-Ithicaa-2015-Digital-Zone-Empire-cbr.md) | 215.35MiB

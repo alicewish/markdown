@@ -58,7 +58,7 @@ Ghostbusters - What In Samhain Just Happened! (2010) (RI Variant Only) \[extract
 Ghostbusters Annual 01 (2017) (Digital) (AnHeroGold-Empire).cbr | 74.10MiB
 Ghostbusters Deviations 01 (2016) (Digital) (BlackManta-Empire).cbr | 47.14MiB
 &emsp;【Ghostbusters (1987-2018)/Ghostbusters (IDW)/Ghostbusters Get Real (001-004+)(2015)(digital)(Zone-Empire)】 | 
-Ghostbusters - Get Real 001 (2015) (Digital) (Zone-Empire).cbr | 33.83MiB
+[Ghostbusters - Get Real 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-001-2015-Digital-Zone-Empire-cbr.md) | 33.83MiB
 [Ghostbusters - Get Real 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-002-2015-Digital-Zone-Empire-cbr.md) | 27.97MiB
 [Ghostbusters - Get Real 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-003-2015-Digital-Zone-Empire-cbr.md) | 28.93MiB
 [Ghostbusters - Get Real 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-Get-Real-004-2015-Digital-Zone-Empire-cbr.md) | 30.22MiB

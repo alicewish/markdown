@@ -271,8 +271,8 @@ Deadpool 039 (2015) (digital) (Minutemen-InnerDemons).cbr | 38.56MiB
 [Deadpool 040 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-040-2015-digital-Minutemen-InnerDemons-cbr.md) | 66.76MiB
 Deadpool 041 (2015) (digital) (Minutemen-InnerDemons).cbr | 28.91MiB
 Deadpool 042 (2015) (digital) (Minutemen-InnerDemons).cbr | 32.41MiB
-Deadpool 043 (2015) (digital) (Minutemen-InnerDemons).cbr | 31.11MiB
-Deadpool 044 (2015) (digital) (Minutemen-InnerDemons).cbr | 27.82MiB
+[Deadpool 043 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-043-2015-digital-Minutemen-InnerDemons-cbr.md) | 31.11MiB
+[Deadpool 044 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-044-2015-digital-Minutemen-InnerDemons-cbr.md) | 27.82MiB
 [Deadpool 045 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-045-2015-5-covers-digital-Minutemen-InnerDemons-cbr.md) | 174.69MiB
 Deadpool Annual 01 (2014) (digital) (Minutemen-PhD).cbr | 45.22MiB
 Deadpool Annual 02 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.69MiB
@@ -582,8 +582,8 @@ Deadpool the Duck 02 (of 05) (2017) (digital) (Minutemen-Faessla).cbz | 46.34MiB
 [Deadpool's Art of War 03 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-03-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 66.08MiB
 [Deadpool's Art of War 04 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-04-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 64.21MiB
 &emsp;【Deadpool/Limited Series/Deadpool's Secret Secret Wars (001-004)(2015)(digital)(Minutemen-Bluntman)】 | 
-Deadpool's Secret Secret Wars 01 (of 04) (2015) (5 covers) (digital) (Minutemen-Bluntman).cbr | 59.23MiB
-Deadpool's Secret Secret Wars 02 (of 04) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr | 39.26MiB
+[Deadpool's Secret Secret Wars 01 (of 04) (2015) (5 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-01-of-04-2015-5-covers-digital-Minutemen-Bluntman-cbr.md) | 59.23MiB
+[Deadpool's Secret Secret Wars 02 (of 04) (2015) (3 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-02-of-04-2015-3-covers-digital-Minutemen-Bluntman-cbr.md) | 39.26MiB
 Deadpool's Secret Secret Wars 03 (of 04) (2015) (digital) (Minutemen-Bluntman).cbr | 32.70MiB
 [Deadpool's Secret Secret Wars 04 (of 04) (2015) (2 covers) (digital) (Minutemen-Bluntman).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Secret-Secret-Wars-04-of-04-2015-2-covers-digital-Minutemen-Bluntman-cbr.md) | 34.09MiB
 &emsp;【Deadpool/Limited Series/Fear Itself - Deadpool (001-003)(2011)(digital)(Minutemen-InnerDemons)】 | 
@@ -597,7 +597,7 @@ Fear Itself - Deadpool 03 (of 03) (2011) (digital) (Minutemen-InnerDemons).cbr |
 [Hawkeye vs. Deadpool 03 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkeye-vs-Deadpool-03-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 29.45MiB
 [Hawkeye vs. Deadpool 04 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkeye-vs-Deadpool-04-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 29.81MiB
 &emsp;【Deadpool/Limited Series/Mrs. Deadpool and the Howling Commandos (001-004)(2015)(digital)(Minutemen-Faessla)】 | 
-Mrs. Deadpool and the Howling Commandos 001 (2015) (4 covers) (digital) (Minutemen-Faessla).cbz | 32.93MiB
+[Mrs. Deadpool and the Howling Commandos 001 (2015) (4 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-001-2015-4-covers-digital-Minutemen-Faessla-cbz.md) | 32.93MiB
 [Mrs. Deadpool and the Howling Commandos 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-002-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 30.78MiB
 [Mrs. Deadpool and the Howling Commandos 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-003-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 29.57MiB
 [Mrs. Deadpool and the Howling Commandos 004 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Mrs-Deadpool-Howling-Commandos-004-2015-2-covers-digital-Minutemen-Faessla-cbz.md) | 34.04MiB
@@ -616,7 +616,7 @@ Prelude to Deadpool Corps 05 (of 05) (2010) (digital) (Minutemen-Faessla).cbz | 
 Return of the Living Deadpool 01 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 29.31MiB
 Return of the Living Deadpool 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 30.58MiB
 [Return of the Living Deadpool 03 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Return-of-Living-Deadpool-03-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 31.17MiB
-Return of the Living Deadpool 04 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 35.31MiB
+[Return of the Living Deadpool 04 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Return-of-Living-Deadpool-04-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 35.31MiB
 &emsp;【Deadpool/Specials & One-Shots】 | 
 Baby's First Deadpool Book 01 (1998) (digital) (Minutemen-InnerDemons).cbr | 53.63MiB
 Cable 025 (2010) (Minutemen-Megatonic).cbz | 43.78MiB

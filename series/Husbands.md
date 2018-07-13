@@ -22,4 +22,5 @@ Husbands 03 (of 06) (2012) (digital-SD) (Minutemen-juvecube).cbr | 8.11MiB
 Husbands 04 (of 06) (2012) (digital-SD) (Minutemen-juvecube).cbr | 9.76MiB
 Husbands 05 (of 06) (2012) (digital-SD) (Minutemen-juvecube).cbr | 7.33MiB
 Husbands 06 (of 06) (2012) (digital-SD) (Minutemen-juvecube).cbr | 17.56MiB
+Husbands 06 (of 06) (2012) (F) (digital-SD) (Minutemen-juvecube).cbz | 9.74MiB
 Husbands (2013) (digital) (Mr Norrell-Empire).cbr | 99.22MiB

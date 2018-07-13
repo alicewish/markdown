@@ -1073,10 +1073,10 @@ ultimate x-men 050 (2004) (ww chicago variant) (steam-dcp).cbr | 1.46MiB
 [Avengers 041 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-041-2015-Digital-Zone-Empire-cbr.md) | 39.27MiB
 Avengers 042 (2015) (Digital) (Zone-Empire).cbr | 37.26MiB
 [Secret Wars - Official Guide to the Marvel Multiverse (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Official-Guide-to-Marvel-Multiverse-2015-Digital-Zone-Empire-cbr.md) | 87.58MiB
-Secret Wars 01 (of 08) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr | 56.34MiB
+[Secret Wars 01 (of 08) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-01-of-08-2015-9-covers-digital-Minutemen-Spaztastic-cbr.md) | 56.34MiB
 &emsp;【UMU/Xtras/616 & Secret Wars/Ultimate End (001-004) (of 05)】 | 
-Ultimate End 01 (of 05) (2015) (5 covers) (digital) (Minutemen-Midas).cbr | 43.47MiB
-Ultimate End 02 (of 05) (2015) (two covers) (digital) (Minutemen-Midas).cbr | 40.40MiB
+[Ultimate End 01 (of 05) (2015) (5 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-01-of-05-2015-5-covers-digital-Minutemen-Midas-cbr.md) | 43.47MiB
+[Ultimate End 02 (of 05) (2015) (two covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-02-of-05-2015-two-covers-digital-Minutemen-Midas-cbr.md) | 40.40MiB
 [Ultimate End 03 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-03-of-05-2015-digital-Minutemen-Midas-cbr.md) | 36.37MiB
 [Ultimate End 04 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ultimate-End-04-of-05-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 41.09MiB
 &emsp;【UMU/Xtras/Flyers】 | 

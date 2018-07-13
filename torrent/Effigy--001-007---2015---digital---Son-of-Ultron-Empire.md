@@ -12,8 +12,8 @@ Online | Download
 --- | ---
 Effigy 001 (2015) (digital) (Son of Ultron-Empire).cbr | 26.64MiB
 Effigy 002 (2015) (digital) (Son of Ultron-Empire).cbr | 33.54MiB
-Effigy 003 (2015) (digital) (Son of Ultron-Empire).cbr | 24.50MiB
-Effigy 004 (2015) (digital) (Son of Ultron-Empire).cbr | 23.74MiB
-Effigy 005 (2015) (digital) (Son of Ultron-Empire).cbr | 26.60MiB
+[Effigy 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Effigy-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 24.50MiB
+[Effigy 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Effigy-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 23.74MiB
+[Effigy 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Effigy-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 26.60MiB
 [Effigy 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Effigy-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 25.18MiB
 [Effigy 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Effigy-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.64MiB

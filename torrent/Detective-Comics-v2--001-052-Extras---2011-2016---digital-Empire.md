@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Detective Comics v2 (001-052+Extras) (2011-2016) (digital-empire)】 | 
-Convergence - Detective Comics 001 (2015) (Digital) (ThatGuy-Empire).cbz | 45.45MiB
+[Convergence - Detective Comics 001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Detective-Comics-001-2015-Digital-ThatGuy-Empire-cbz.md) | 45.45MiB
 [Convergence - Detective Comics 002 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Detective-Comics-002-2015-Digital-ThatGuy-Empire-cbz.md) | 44.90MiB
 [DC Sneak Peek - Detective Comics (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Detective-Comics-2015-Digital-ThatGuy-Empire-cbz.md) | 15.12MiB
 [Detective Comics - Endgame 001 (2015) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-Endgame-001-2015-digital-empire-cbr.md) | 35.01MiB

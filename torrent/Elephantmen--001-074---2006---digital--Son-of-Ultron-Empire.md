@@ -77,7 +77,7 @@ Elephantmen 060 (2014) (digital) (Son of Ultron-Empire).cbr | 67.91MiB
 [Elephantmen 061 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-061-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.27MiB
 Elephantmen 062 (2015) (digital) (Son of Ultron-Empire).cbr | 44.15MiB
 Elephantmen 063 (2015) (digital) (Son of Ultron III-Empire).cbr | 95.09MiB
-Elephantmen 064 (2015) (digital) (Son of Ultron III-Empire).cbr | 103.98MiB
+[Elephantmen 064 (2015) (digital) (Son of Ultron III-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-064-2015-digital-Son-of-Ultron-III-Empire-cbr.md) | 103.98MiB
 [Elephantmen 065 (2015) (digital) (Son of Ultron III-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-065-2015-digital-Son-of-Ultron-III-Empire-cbr.md) | 112.58MiB
 [Elephantmen 066 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-066-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.37MiB
 [Elephantmen 067 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-067-2015-digital-Son-of-Ultron-Empire-cbr.md) | 41.94MiB
@@ -93,7 +93,7 @@ Elephantmen - 2260 v01 - Memories of the Future (2014) (Digital) (DR & Quinch-Em
 Elephantmen - 2260 v02 - The Red Queen (2015) (Digital) (DR & Quinch-Empire).cbr | 179.46MiB
 Elephantmen - 2260 v03 - Learning To Be Human (2015) (Digital) (DR & Quinch-Empire).cbr | 198.68MiB
 Elephantmen - Mammoth Book 01 (2014) (digital) (Son of Ultron-Empire).cbr | 719.51MiB
-Elephantmen - Shots (2015) (digital) (F) (Son of Ultron-Empire).cbr | 115.36MiB
+[Elephantmen - Shots (2015) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-Shots-2015-digital-F-Son-of-Ultron-Empire-cbr.md) | 115.36MiB
 Elephantmen v00 - Armed Forces (2011) (Digital) (DR & Quinch-Empire).cbr | 505.97MiB
 Elephantmen v01 - Wounded Animals Revised & Expanded (2010) (digital) (Son of Ultron-Empire).cbr | 326.33MiB
 Elephantmen v02 - Fatal Diseases (2011, 2nd print) (digital) (Son of Ultron-Empire).cbr | 426.04MiB
