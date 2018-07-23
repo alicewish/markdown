@@ -18,6 +18,8 @@ PEACE IN OUR TIME! STARSCREAM and WINDBLADE have given everything to bring toget
 
 [The Transformers - Till All Are One (001-012+)(2016-2017)(digital)(Minutemen-Phantasm)](https://github.com/alicewish/markdown/blob/master/torrent/The-Transformers---Till-All-Are-One--001-012---2016-2017--digital--Minutemen-Phantasm.md)
 
+[The Transformers - Till All Are One (001-012+)(2016-2018)(digital)(Minutemen-Phantasm)](https://github.com/alicewish/markdown/blob/master/torrent/The-Transformers---Till-All-Are-One--001-012---2016-2018--digital--Minutemen-Phantasm.md)
+
 [Transformers Till All Are One (001-)(2016)(digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Transformers-Till-All-Are-One--001---2016--digital--TLK-EMPIRE-HD.md)
 
 Online | Download

@@ -22,6 +22,8 @@ Written by Eric Trautmann (Vampirella, Red Sonja), from a story and designs by A
 
 [Flash Gordon - Zeitgeist (001 - 010) (2012 - 2013) (Digital) (Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Flash-Gordon---Zeitgeist--001---010---2012---2013---Digital---Empire.md)
 
+[Flash Gordon - Zeitgeist (001-010) (2012-2013) (Digital) (Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Flash-Gordon---Zeitgeist--001-010---2012-2013---Digital---Empire.md)
+
 Online | Download
 --- | ---
 Flash Gordon - Zeitgeist 003 (2012) (3 covers) (digital-Empire).cbr | [18.60MiB](https://pan.baidu.com/s/1eScZ54Y#list/path=%2F0-Day%20Week%20of%202012%20Q1%2F0-Day%20Week%20of%202012.02.15%2F%E3%82%BB%E3%82%BB%E3%82%BB%E3%82%B9%E3%82%BB%E3%82%BB%E3%82%AB%E3%82%B7%E3%82%AD%E3%82%AF%E3%82%AF%E3%82%A8%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B5%E3%82%BF%E3%82%B5%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%A2%E3%82%BF%E3%82%A6%E3%82%B7%E3%82%BD%E3%82%BF%E3%82%BD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202012%20Q1)

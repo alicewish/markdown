@@ -1036,7 +1036,7 @@ Death of Wolverine - The Logan Legacy 06 (of 7) (2015) (digital) (Minutemen-Faes
 [Wolverines 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-005-2015-digital-Minutemen-Faessla-cbz.md) | 44.88MiB
 [Wolverines 006 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-006-2015-digital-Minutemen-Faessla-cbz.md) | 30.29MiB
 [Wolverines 007 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-007-2015-digital-Minutemen-Faessla-cbz.md) | 29.32MiB
-Wolverines 008 (2015) (digital) (Minutemen-Faessla).cbz | 42.98MiB
+[Wolverines 008 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-008-2015-digital-Minutemen-Faessla-cbz.md) | 42.98MiB
 [Wolverines 009 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-009-2015-digital-Minutemen-Faessla-cbz.md) | 42.27MiB
 [Wolverines 010 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-010-2015-digital-Minutemen-Faessla-cbz.md) | 34.85MiB
 [Wolverines 011 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-011-2015-digital-Minutemen-Faessla-cbz.md) | 34.93MiB
@@ -1138,7 +1138,7 @@ Wolverine & the X-Men 042 (2014) (digital) (Minutemen-PhD).cbr | 50.68MiB
 [Wolverine and the X-Men Annual 001 (2014) (Digital) (Zone-Empire.cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-Annual-001-2014-Digital-Zone-Empire-cbr.md) | 51.22MiB
 Wolverine and the X-Men By Jason Aaron v01 (2012) (Digital) (Zone-Empire).cbr | 121.47MiB
 &emsp;【Wolverine/Series/Wolverine & The X-Men (v1+v2)(2011-2015)/v2 (2014-15) \[Complete\]】 | 
-Wolverine and the X-Men - Death of Wolverine v2 (2015) (Digital TPB) (Zone-Empire).cbr | 253.48MiB
+[Wolverine and the X-Men - Death of Wolverine v2 (2015) (Digital TPB) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-Death-of-Wolverine-v2-2015-Digital-TPB-Zone-Empire-cbr.md) | 253.48MiB
 [Wolverine and the X-Men 001 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-001-2014-digital-Minutemen-Faessla-cbz.md) | 35.13MiB
 [Wolverine and the X-Men 002 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-002-2014-digital-Minutemen-Faessla-cbz.md) | 31.98MiB
 [Wolverine and the X-Men 003 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-003-2014-digital-Minutemen-Faessla-cbz.md) | 33.31MiB

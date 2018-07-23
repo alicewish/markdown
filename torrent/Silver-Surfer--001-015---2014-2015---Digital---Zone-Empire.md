@@ -18,7 +18,7 @@ Silver Surfer 005 (2014) (Digital) (Zone-Empire).cbr | 38.56MiB
 Silver Surfer 006 (2014) (Digital) (Zone-Empire).cbr | 37.59MiB
 Silver Surfer 007 (2015) (Digital) (Zone-Empire).cbr | 33.58MiB
 [Silver Surfer 008 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-008-2015-Digital-Zone-Empire-cbr.md) | 37.42MiB
-Silver Surfer 009 (2015) (Digital) (Zone-Empire).cbr | 37.00MiB
+[Silver Surfer 009 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-009-2015-Digital-Zone-Empire-cbr.md) | 37.00MiB
 [Silver Surfer 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-010-2015-Digital-Zone-Empire-cbr.md) | 39.37MiB
 [Silver Surfer 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-011-2015-Digital-Zone-Empire-cbr.md) | 70.81MiB
 [Silver Surfer 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-012-2015-Digital-Zone-Empire-cbr.md) | 38.05MiB

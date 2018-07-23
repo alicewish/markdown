@@ -18,6 +18,8 @@ Fifteen years ago, the end of the world--the anticipated "Millennium Event"--was
 
 [Millennium (001-005) (2015) (Digital) (Cypher 2.0-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Millennium--001-005---2015---Digital---Cypher-2-0-Empire.md)
 
+[Millennium (001-008)(1988)(DobisP.R.-Novus)](https://github.com/alicewish/markdown/blob/master/torrent/Millennium--001-008--1988--DobisP-R--Novus.md)
+
 [Millennium (v01-v06)(2004-2015)(Dragonz-Sosich-DMT)](https://github.com/alicewish/markdown/blob/master/torrent/Millennium--v01-v06--2004-2015--Dragonz-Sosich-DMT.md)
 
 Online | Download

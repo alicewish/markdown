@@ -26,6 +26,7 @@ Outlaws of the West 053 c2c 1965 05 Charlton ComicWanderer.cbz | 65.99MiB
 Outlaws of the West 056 (Charlton 1965) (c2c) (titansfan).cbz | 25.83MiB
 Outlaws of the West 057 (Charlton 1966) (c2c) (Kracalactaka+DMiles).cbz | 24.18MiB
 Outlaws of the West 060 (Charlton 1966) (c2c) (Titansfan).cbz | 26.65MiB
+Outlaws of the West 63 Charlton Mar 1967 Kracalactaka-DMiles.cbz | 56.14MiB
 Outlaws of the West 64 Charlton May 1967 Titansfan.cbz | 26.51MiB
 Outlaws of the West 68 Charlton Titansfan.cbz | 24.14MiB
 Outlaws of the West 70 Charlton Titansfan.cbz | 23.20MiB

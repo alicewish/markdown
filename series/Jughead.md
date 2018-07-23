@@ -36,6 +36,7 @@ Jughead 40 (February 1957) c2c.cbz | 73.59MiB
 Jughead 073 (June 1961) c2c.cbz | 74.41MiB
 Jughead 078 (November 1961) c2c.cbz | 74.52MiB
 Jughead 081.cbz | 50.75MiB
+Jughead 122 (Archie July 1965) c2c.cbz | 74.54MiB
 Jughead 129 (inc no ifc,ibc) (Archie 1966) (Jojo+K).cbz | 33.57MiB
 Jughead 135 (Archie 1966) (c2c) (Kracalactaka-a nonny moose).cbz | 41.00MiB
 Jughead 142 (Archie 1967) (c2c) (Kracalactaka-a nonny moose).cbz | 38.77MiB

@@ -75,7 +75,7 @@ Godzilla Cataclysm 002 (2014) (Bob Eggleton Variant Only) \[extracted\] (TLK-EMP
 Godzilla Cataclysm 003 (2014) (Bob Eggleton Variant Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.99MiB
 Godzilla Cataclysm 004 (2014) (Variant Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 5.72MiB
 Godzilla Cataclysm 005 (2014) (Variant Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 5.91MiB
-Godzilla - Cataclysm (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr | 246.22MiB
+[Godzilla - Cataclysm (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Cataclysm-TPB-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 246.22MiB
 &emsp;【Godzilla/Godzilla - Gangsters and Goliaths (001-005+)(2011)】 | 
 Godzilla - Gangsters and Goliaths (2011) (digital) (Minutemen-Phantasm).cbr | 226.54MiB
 Godzilla - Gangsters and Goliaths 01 (of 5) (2011) (2 covers) (digital) (Minutemen-InnerDemons).cbr | 32.05MiB
@@ -171,8 +171,8 @@ Godzilla Rulers Of Earth 016(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.64MiB
 Godzilla Rulers Of Earth 017(2014)(Digital)(TLK-EMPIRE-HD).cbr | 35.85MiB
 Godzilla Rulers Of Earth 018(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.77MiB
 Godzilla Rulers Of Earth 019 (2014) (Digital) (TLK-EMPIRE-HD).cbr | 38.91MiB
-Godzilla Rulers Of Earth 020(2015)(Digital)(TLK-EMPIRE-HD).cbr | 36.15MiB
-Godzilla Rulers Of Earth 021 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 39.71MiB
+[Godzilla Rulers Of Earth 020(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-020-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 36.15MiB
+[Godzilla Rulers Of Earth 021 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-021-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.71MiB
 [Godzilla Rulers Of Earth 022(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-022-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 69.68MiB
 [Godzilla Rulers Of Earth 023(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-023-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 35.19MiB
 [Godzilla Rulers Of Earth 024(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-024-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.06MiB

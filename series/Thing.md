@@ -31,6 +31,7 @@ Join Ben Grimm and his pals as they clobber their way through the Marvel U! And,
 Online | Download
 --- | ---
 The Thing 001 (1983) (digital) (Minutemen-Slayer).cbr | 40.81MiB
+The Thing 002 (1983) (Digital) (Asgard-Empire).cbr | 38.04MiB
 The Thing 002 (1983) (digital) (Minutemen-Slayer).cbr | 37.71MiB
 The Thing 003 (1983) (digital) (Minutemen-Slayer).cbr | 41.48MiB
 The Thing 004 (1983) (digital) (Minutemen-Slayer).cbr | 43.76MiB

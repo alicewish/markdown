@@ -36,6 +36,8 @@ Grab your guns and camcorders and start shooting, it's DUCK SEASON! Marvel's fav
 
 [Howard The Duck v2 (01 - 06 + Extras)](https://github.com/alicewish/markdown/blob/master/torrent/Howard-The-Duck-v2--01---06---Extras.md)
 
+[Howard the Duck (001 - 033 + Annual) (1976 - 1986) (Digital) (AnPymGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Howard-the-Duck--001---033---Annual---1976---1986---Digital---AnPymGold-Empire.md)
+
 Online | Download
 --- | ---
 Howard the Duck 001 (1976) (Digital) (Shadowcat-Empire).cbz | 47.36MiB

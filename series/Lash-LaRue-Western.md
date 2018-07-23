@@ -13,6 +13,7 @@
 Online | Download
 --- | ---
 [Lash LaRue Western 004 (Fawcett) (Mar.1950) (titansfan-movielover-Novus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Lash-LaRue-Western-004-Fawcett-Mar-1950-titansfan-movielover-Novus-cbz.md) | [42.21MiB](https://pan.baidu.com/s/1-oMtq69gl34SGwcoPoWD7g#list/path=%2FNovus%20-%20Week%20of%202018%20Q2%2FNovus%20-%20Week%20of%202018-05-02%2F%E3%82%B1%E3%82%A8%E3%82%A6%E3%82%A8%E3%82%BD%E3%82%AA%E3%82%B1%E3%82%AF%E3%82%A2%E3%82%A6%E3%82%BB%E3%82%AF%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%AA%E3%82%A2%E3%82%AA%E3%82%A2%E3%82%B3%E3%82%AA%E3%82%B9%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%AA%E3%82%BB%E3%82%BB%E3%82%AA&parentPath=%2FNovus%20-%20Week%20of%202018%20Q2)
+Lash LaRue Western 005 (Fawcett) (May.1950) (titansfan-movielover-Novus+fett fill).cbz | 41.84MiB
 Lash LaRue Western 005 (Fawcett) (May.1950) (titansfan-movielover-Novus+fett).cbz | 41.84MiB
 Lash LaRue Western 07 Fawcett Aug 1950 Titansfan-Yoc.cbz | 53.88MiB
 [Lash LaRue Western 008 (Fawcett) (Sep.1950) (titansfan-movielover-Novus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Lash-LaRue-Western-008-Fawcett-Sep-1950-titansfan-movielover-Novus-cbz.md) | [59.28MiB](https://pan.baidu.com/s/1-oMtq69gl34SGwcoPoWD7g#list/path=%2FNovus%20-%20Week%20of%202018%20Q2%2FNovus%20-%20Week%20of%202018-05-02%2F%E3%82%AD%E3%82%A8%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%AA%E3%82%BF%E3%82%A4%E3%82%B9%E3%82%A2%E3%82%AA%E3%82%B5%E3%82%BF%E3%82%BD%E3%82%BD%E3%82%A6%E3%82%BF%E3%82%B7%E3%82%B7%E3%82%B3%E3%82%BD%E3%82%AA%E3%82%A8%E3%82%B1%E3%82%B5%E3%82%B9%E3%82%BB%E3%82%BF%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%B5&parentPath=%2FNovus%20-%20Week%20of%202018%20Q2)
@@ -29,6 +30,7 @@ Lash LaRue Western 026 (Fawcett) (Mar.1952) (titansfan-movielover-Novus).cbz | 4
 Lash LaRue Western 031 (Fawcett) (Aug.1952) (diff ver) (c2c) (titansfan-movielover-Novus).cbz | 41.97MiB
 Lash LaRue Western 033 (Fawcett) (Oct.1952) (c2c) (titansfan-movielover-Novus).cbz | 44.20MiB
 Lash LaRue Western 033 (Fawcett) (Oct.1952) (diff ver) (c2c) (titansfan-movielover-Novus).cbz | 44.20MiB
+Lash LaRue Western 035 (Fawcett) (Dec.1952) (titansfan-movielover-Novus).cbz | 42.28MiB
 Lash Larue Western 42 Fawcett July 1953 titansfan-DMiles.cbz | 43.53MiB
 Lash Larue Western 44 c2c Fawcett Sep 1953 titansfan-Dmiles.cbz | 40.08MiB
 Lash LaRue Western 46 Fawcett Jan 1954 Titansfan-DMiles.cbz | 42.63MiB

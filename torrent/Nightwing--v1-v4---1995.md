@@ -43,7 +43,7 @@ The Flash Plus - Nightwing 01 (1996) (Digital) (AnHeroGold-Empire).cbz | 48.22Mi
 [Grayson 005 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-005-2014-Digital-ThatGuy-Empire-cbz.md) | 21.13MiB
 [Grayson 006 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-006-2015-Digital-ThatGuy-Empire-cbz.md) | 29.45MiB
 [Grayson 007 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-007-2015-Digital-ThatGuy-Empire-cbz.md) | 33.17MiB
-Grayson 008 (2015) (2 covers) (webrip+) (Ol' Joe-DCP).cbr | 35.01MiB
+[Grayson 008 (2015) (2 covers) (webrip+) (Ol' Joe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grayson-008-2015-2-covers-webrip-Ol-Joe-DCP-cbr.md) | 35.01MiB
 [Grayson 009 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-009-2015-Digital-ThatGuy-Empire-cbz.md) | 28.05MiB
 [Grayson 010 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-010-2015-Digital-ThatGuy-Empire-cbz.md) | 32.91MiB
 [Grayson 011 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grayson-011-2015-Digital-Empire-cbr.md) | 31.19MiB

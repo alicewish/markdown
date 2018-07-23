@@ -49,6 +49,12 @@ Invincible Iron Man 022 (2007) (digital) (Minutemen-Slayer).cbr | 21.11MiB
 Invincible Iron Man 023 (2007) (digital) (Minutemen-Slayer).cbr | 23.75MiB
 Invincible Iron Man Vol. 03 - Civil War (2007) (digital) (Minutemen-Slayer).cbr | 121.72MiB
 Invincible Iron Man Vol. 04 - Director of S.H.I.E.L.D. (2007) (digital) (Minutemen-Slayer).cbr | 178.08MiB
+Invincible Iron Man 001 (2008) (Digital) (Asgard-Empire).cbr | 36.48MiB
+Invincible Iron Man 002 (2008) (Digital) (Asgard-Empire).cbr | 32.53MiB
+Invincible Iron Man 003 (2008) (Digital) (Asgard-Empire).cbr | 32.03MiB
+Invincible Iron Man 004 (2008) (Digital) (Asgard-Empire).cbr | 30.14MiB
+Invincible Iron Man 005 (2008) (Digital) (Asgard-Empire).cbr | 26.70MiB
+Invincible Iron Man 006 (2008) (Digital) (Asgard-Empire).cbr | 27.23MiB
 Invincible Iron Man 024 (2008) (digital) (Minutemen-Slayer).cbr | 20.41MiB
 Invincible Iron Man 025 (2008) (digital) (Minutemen-Slayer).cbr | 22.86MiB
 Invincible Iron Man 026 (2008) (digital) (Minutemen-Slayer).cbr | 23.88MiB
@@ -60,18 +66,36 @@ Invincible Iron Man Vol. 05 - Haunted (2008) (digital) (Minutemen-Slayer).cbr | 
 Invincible Iron Man v02 - World's Most Wanted Book 1 (2009) (Digital) (Asgard-Empire).cbr | 167.37MiB
 Invincible Iron Man v02 - World's Most Wanted Book 1 (2009) (Digital) (F) (Asgard-Empire).cbr | 191.83MiB
 Invincible Iron Man Vol. 02 - World's Most Wanted - Book 1 (2009) (digital) (Minutemen-Slayer).cbr | 187.76MiB
+Invincible Iron Man 007 (2009) (Digital) (Asgard-Empire).cbr | 28.59MiB
+Invincible Iron Man 008 (2009) (Digital) (Asgard-Empire).cbr | 27.79MiB
 Invincible Iron Man 008(2009)(FB-DCP)(C2C).cbr | 15.57MiB
+Invincible Iron Man 009 (2009) (Digital) (Asgard-Empire).cbr | 38.86MiB
 Invincible Iron Man 009(2009)(FB-DCP)(C2C).cbr | 16.46MiB
+Invincible Iron Man 010 (2009) (Digital) (Asgard-Empire).cbr | 27.84MiB
 Invincible Iron Man 010(2009)(FB-DCP)(C2C).cbr | 16.69MiB
+Invincible Iron Man 011 (2009) (Digital) (Asgard-Empire).cbr | 27.27MiB
 Invincible Iron Man 011(2009)(FB-DCP)(C2C).cbr | 14.41MiB
+Invincible Iron Man 012 (2009) (Digital) (Asgard-Empire).cbr | 31.71MiB
 Invincible Iron Man 012(2009)(FB-DCP)(C2C).cbr | 14.63MiB
+Invincible Iron Man 013 (2009) (Digital) (Asgard-Empire).cbr | 34.12MiB
+Invincible Iron Man 014 (2009) (Digital) (Asgard-Empire).cbr | 32.38MiB
+Invincible Iron Man 015 (2009) (Digital) (Asgard-Empire).cbr | 28.34MiB
+Invincible Iron Man 016 (2009) (Digital) (Asgard-Empire).cbr | 32.65MiB
 Invincible Iron Man 16(2009)(FB-DCP)(C2C).cbr | 16.38MiB
+Invincible Iron Man 017 (2009) (Digital) (Asgard-Empire).cbr | 27.35MiB
+Invincible Iron Man 018 (2009) (Digital) (Asgard-Empire).cbr | 27.67MiB
 Invincible Iron Man 018(2009)(FB-DCP)(C2C).cbr | 14.69MiB
+Invincible Iron Man 019 (2009) (Digital) (Asgard-Empire).cbr | 42.73MiB
 Invincible Iron Man 19(2009)(FB-DCP)(C2C).cbr | 19.78MiB
 Invincible Iron Man v01 - The Five Nightmares (2009) (Digital) (Asgard-Empire).cbr | 219.66MiB
 Invincible Iron Man Vol. 05 - Stark Resilient Book 1 (2010) (digital) (Minutemen-Slayer).cbr | 118.31MiB
 Invincible Iron Man v03 - World's Most Wanted Book 2 (2010) (Digital) (Asgard-Empire).cbr | 195.68MiB
 Invincible Iron Man Vol. 03 - World's Most Wanted - Book 2 (2010) (digital) (Minutemen-Slayer).cbr | 192.10MiB
+Invincible Iron Man 020 (2010) (Digital) (Asgard-Empire).cbr | 35.52MiB
+Invincible Iron Man 021 (2010) (Digital) (Asgard-Empire).cbr | 24.43MiB
+Invincible Iron Man 022 (2010) (Digital) (Asgard-Empire).cbr | 21.08MiB
+Invincible Iron Man 023 (2010) (Digital) (Asgard-Empire).cbr | 22.26MiB
+Invincible Iron Man 024 (2010) (Digital) (Asgard-Empire).cbr | 29.85MiB
 Invincible Iron Man Vol. 04 - Stark Disassembled (2010) (digital) (Minutemen-Slayer).cbr | 138.82MiB
 Invincible Iron Man v05 - Stark Resilient Book 1 (2011) (Digital) (Asgard-Empire).cbr | 118.49MiB
 Invincible Iron Man v06 - Stark Resilient Book 2 (2011) (Digital) (Asgard-Empire).cbr | 135.14MiB

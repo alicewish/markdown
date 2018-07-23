@@ -16,6 +16,8 @@ Dr. Jack Castle investigates a series of murders…and comes to find out that th
 
 相关种子⬇Related Torrents
 
+[Daring Mystery Comics (001-008+)(1940-1941+2009)](https://github.com/alicewish/markdown/blob/master/torrent/Daring-Mystery-Comics--001-008---1940-1941-2009.md)
+
 [Daring Mystery Comics (001-008+)(1940-1942)(digital+)(Shadowcat-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Daring-Mystery-Comics--001-008---1940-1942--digital---Shadowcat-Empire.md)
 
 Online | Download

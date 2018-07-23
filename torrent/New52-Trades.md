@@ -20,7 +20,7 @@ Aquaman Vol. 05 - Sea of Storms (2014) (digital) (Minutemen-PhD).cbr | 355.59MiB
 Batgirl v01 - Batgirl of Burnside (2015) (Digital) (Zone-Empire).cbr | 191.53MiB
 Batman - Superman v01 - Cross World (2014) (Digital) (Nahga-Empire).cbr | 236.33MiB
 Batman - Superman v02 - Game Over (2014) (Digital) (Zone-Empire).cbr | 282.69MiB
-Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr | 196.48MiB
+[Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Superman-v03-Second-Chance-2015-Digital-Zone-Empire-cbr.md) | 196.48MiB
 Batman - Superman v04 - Siege (2015) (Digital) (Zone-Empire).cbr | 298.52MiB
 Batman - Superman v05 - Truth Hurts (2016) (Digital) (Zone-Empire).cbr | 270.35MiB
 Batman - The Dark Knight v01 - Knight Terrors (2011) (Digital TPB) (Nahga-Empire).cbr | 321.58MiB
@@ -111,7 +111,7 @@ Nightwing v04 - Second City (2014) (digital) (Minutemen-Slayer).cbr | 207.59MiB
 Nightwing v05 - Setting Son (2014) (digital) (Minutemen-Slayer).cbr | 258.76MiB
 O.M.A.C. v01 - Omactivate! (2012) (Digital) (Zone-Empire).cbr | 320.37MiB
 Red Lanterns v01 - Blood and Rage (2012) (Digital) (Zone-Empire).cbr | 197.75MiB
-Secret Origins v01 (2015) (Digital) (Zone-Empire).cbr | 230.54MiB
+[Secret Origins v01 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Origins-v01-2015-Digital-Zone-Empire-cbr.md) | 230.54MiB
 [Sinestro v01 - The Demon Within (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sinestro-v01-Demon-Within-2015-Digital-Zone-Empire-cbr.md) | 260.53MiB
 Static Shock v01 - Supercharged (2012) (Digital) (Zone-Empire).cbr | 264.88MiB
 Stormwatch v01 - The Dark Side (2012) (Digital) (Zone-Empire).cbr | 216.85MiB

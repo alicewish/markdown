@@ -22,6 +22,8 @@ Brian Pulido's Celtic vixen is born! Wexford, Ireland, 999 AD. Samhain. Though C
 
 [Belladonna - Origins (001-004) (2015-) (Digital) (DR & Quinch-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Belladonna---Origins--001-004---2015----Digital---DR---Quinch-Empire.md)
 
+[Belladonna Origins (001-007)(2015)(digital)(600dpi)(Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Belladonna-Origins--001-007--2015--digital--600dpi--Minutemen-Excelsior.md)
+
 Online | Download
 --- | ---
 [Belladonna - Origins 001 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Belladonna-Origins-001-2015-Digital-DR-Quinch-Empire-cbr.md) | 47.90MiB

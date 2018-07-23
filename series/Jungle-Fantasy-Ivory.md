@@ -14,6 +14,8 @@
 
 [Jungle Fantasy - Ivory (001-008+) (2016-2017) (ADULT) (digital) (DR & Quinch-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Jungle-Fantasy---Ivory--001-008----2016-2017---ADULT---digital---DR---Quinch-Empire.md)
 
+[Jungle Fantasy - Ivory (001-008+)(2016-2017)(digital)(600dpi)(Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Jungle-Fantasy---Ivory--001-008---2016-2017--digital--600dpi--Minutemen-Excelsior.md)
+
 Online | Download
 --- | ---
 Jungle Fantasy - Ivory 001 (2016) (ADULT) (Digital) (DR & Quinch-Empire).cbr | 82.11MiB

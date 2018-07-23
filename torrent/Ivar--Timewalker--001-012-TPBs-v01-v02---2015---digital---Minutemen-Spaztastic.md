@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 [Ivar, Timewalker 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ivar-Timewalker-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 46.46MiB
-Ivar, Timewalker 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 42.93MiB
+[Ivar, Timewalker 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ivar-Timewalker-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.93MiB
 [Ivar, Timewalker 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ivar-Timewalker-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 40.17MiB
 [Ivar, Timewalker 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ivar-Timewalker-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 40.64MiB
 [Ivar, Timewalker 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ivar-Timewalker-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 55.15MiB

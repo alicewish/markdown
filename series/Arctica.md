@@ -18,6 +18,10 @@ Classified 'Top Secret', the metallic cylinder seems to defy examination..
 
 
 
+相关种子⬇Related Torrents
+
+[Arctica (01 - 06) (2007 - 2014) (Alice) (Scanlation)](https://github.com/alicewish/markdown/blob/master/torrent/Arctica--01---06---2007---2014---Alice---Scanlation.md)
+
 Online | Download
 --- | ---
 Arctica #7 - The Cosmic Messenger (2015) (Scanlation).cbr | 71.29MiB

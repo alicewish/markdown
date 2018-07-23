@@ -93,6 +93,7 @@ Tales to Astonish 057 (1964) (digital-SD) (Minutemen-Cococha).cbr | 13.26MiB
 Tales to Astonish 057 (1964) (Digital) (Shadowcat-Empire).cbz | 75.63MiB
 Tales to Astonish 058 (1964) (digital-SD) (Minutemen-Cococha).cbr | 13.74MiB
 Tales to Astonish 058 (1964) (Digital) (Shadowcat-Empire).cbz | 78.34MiB
+Tales to Astonish 059 (1964) (Digital) (Asgard-Empire).cbr | 36.94MiB
 Tales to Astonish 059 (1964) (digital-SD) (Minutemen-Cococha).cbr | 13.98MiB
 Tales to Astonish 059 (1964) (digital) (Minutemen-Slayer).cbr | 35.13MiB
 Tales to Astonish 060 (1964) (digital-SD) (Minutemen-Cococha).cbr | 13.84MiB

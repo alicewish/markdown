@@ -14,6 +14,10 @@ A FOREVER EVIL tie-in limited series! The Justice League is dead, and evil has i
 
 
 
+相关种子⬇Related Torrents
+
+[Forever Evil A.R.G.U.S. (01 - 06) (Digital) (complete)](https://github.com/alicewish/markdown/blob/master/torrent/Forever-Evil-A-R-G-U-S---01---06---Digital---complete.md)
+
 Online | Download
 --- | ---
 Forever Evil - A.R.G.U.S. 001 (2013) (digital) (Oroboros-DCP).cbr | 29.35MiB

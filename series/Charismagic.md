@@ -16,6 +16,8 @@
 
 [Charismagic (000-006+)(2012-2014)(digital)(Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Charismagic--000-006---2012-2014--digital--Minutemen-Slayer.md)
 
+[Charismagic (v1-v3+)(2012-2018)(digital)](https://github.com/alicewish/markdown/blob/master/torrent/Charismagic--v1-v3---2012-2018--digital.md)
+
 [Charismagic v2 (01 - 06)](https://github.com/alicewish/markdown/blob/master/torrent/Charismagic-v2--01---06.md)
 
 [Charismagic v3 (001-006)(2018)(digital)(Thornn-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Charismagic-v3--001-006--2018--digital--Thornn-Empire.md)

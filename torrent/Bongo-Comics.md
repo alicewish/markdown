@@ -546,8 +546,8 @@ Simpsons Comics 213 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.53MiB
 Simpsons Comics 214 (2014) (Harkonnen-DCP).cbz | 39.76MiB
 Simpsons Comics 215 (2014) (Harkonnen-DCP).cbz | 37.15MiB
 Simpsons Comics 216 (2014) (Harkonnen-DCP).cbz | 37.17MiB
-Simpsons Comics 217 (2015) (Harkonnen-DCP).cbz | 36.15MiB
-Simpsons Comics 218 (2015) (Harkonnen-DCP).cbz | 34.31MiB
+[Simpsons Comics 217 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-217-2015-Harkonnen-DCP-cbz.md) | 36.15MiB
+[Simpsons Comics 218 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-218-2015-Harkonnen-DCP-cbz.md) | 34.31MiB
 [Simpsons Comics 219 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-219-2015-Harkonnen-DCP-cbz.md) | 33.61MiB
 [Simpsons Comics 220 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-220-2015-Harkonnen-DCP-cbz.md) | 34.03MiB
 [Simpsons Comics 221 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-221-2015-Harkonnen-DCP-cbz.md) | 32.11MiB
@@ -576,7 +576,7 @@ Simpsons Illustrated 011 (2014) (Harkonnen-DCP).cbz | 59.16MiB
 Simpsons Illustrated 012 (2014) (Harkonnen-DCP).cbz | 54.54MiB
 Simpsons Illustrated 013 (2014) (Harkonnen-DCP).cbz | 58.98MiB
 Simpsons Illustrated 014 (2014) (Harkonnen-DCP).cbz | 54.25MiB
-Simpsons Illustrated 015 (2015) (Harkonnen-DCP).cbz | 57.90MiB
+[Simpsons Illustrated 015 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Illustrated-015-2015-Harkonnen-DCP-cbz.md) | 57.90MiB
 Simpsons Illustrated 020 (2015) (c2c) (GreenManGroup-DCP).cbr | 49.90MiB
 [Simpsons Illustrated 021 (2016) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Illustrated-021-2016-GreenManGroup-DCP-cbr.md) | 46.74MiB
 [Simpsons Illustrated 023 (2016) (c2c) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Illustrated-023-2016-c2c-GreenManGroup-DCP-cbr.md) | 47.65MiB

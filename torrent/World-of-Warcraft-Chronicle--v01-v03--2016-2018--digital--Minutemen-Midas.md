@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 [World of Warcraft Chronicle Volume I (2016) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/World-of-Warcraft-Chronicle-Volume-I-2016-digital-Minutemen-Midas-cbr.md) | 249.90MiB
 [World of Warcraft Chronicle Volume II (2017) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/World-of-Warcraft-Chronicle-Volume-II-2017-digital-Minutemen-Midas-cbr.md) | 348.12MiB
-World of Warcraft Chronicle Volume III (2018) (digital) (Minutemen-Midas).cbr | 573.08MiB
+[World of Warcraft Chronicle Volume III (2018) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/World-of-Warcraft-Chronicle-Volume-III-2018-digital-Minutemen-Midas-cbr.md) | 573.08MiB

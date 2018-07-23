@@ -50,7 +50,7 @@ Online | Download
 [Injustice - Gods Among Us 036 (2013) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Injustice-Gods-Among-Us-036-2013-digital-Son-of-Ultron-Empire-cbr.md) | 28.57MiB
 &emsp;【Injustice - Gods Among Us (Year One - Five)(2013-2016)(digital)/01-Injustice - Gods Among Us - Year One TPBs (v1+v2)(2013-2014)】 | 
 [Injustice - Gods Among Us v1 (2013) (digital TPB) (Ol Joe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Injustice-Gods-Among-Us-v1-2013-digital-TPB-Ol-Joe-DCP-cbr.md) | 232.95MiB
-Injustice - Gods Among Us v2 (2014) (digital TPB) (Ol'Joe-DCP).cbr | 338.13MiB
+[Injustice - Gods Among Us v2 (2014) (digital TPB) (Ol'Joe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Injustice-Gods-Among-Us-v2-2014-digital-TPB-OlJoe-DCP-cbr.md) | 338.13MiB
 &emsp;【Injustice - Gods Among Us (Year One - Five)(2013-2016)(digital)/02-Injustice - Gods Among Us - Year Two (001-024+Annual)(2014)】 | 
 [Injustice - Gods Among Us - Year Two 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Injustice-Gods-Among-Us-Year-Two-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.03MiB
 [Injustice - Gods Among Us - Year Two 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Injustice-Gods-Among-Us-Year-Two-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 24.69MiB

@@ -16,6 +16,8 @@ Bursting out of BRIGHTEST DAY, this new series presents a whole new chapter in t
 
 相关种子⬇Related Torrents
 
+[Green Lantern - Emerald Warriors (001 - 013) (2010 - 11) (complete)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern---Emerald-Warriors--001---013---2010---11---complete.md)
+
 [Green Lantern - Emerald Warriors (001-013)(2010-2011)(Digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern---Emerald-Warriors--001-013--2010-2011--Digital--TLK-EMPIRE-HD.md)
 
 Online | Download

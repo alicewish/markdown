@@ -17,6 +17,7 @@ Drag-Strip Hotrodders 05 Charlton 1965 Titansfan.cbz | 24.58MiB
 Drag-Strip Hotrodders 08 Charlton 1966 Soothsayr-ComicWanderer-Kracalactaka-DMiles.cbz | 30.54MiB
 Drag-Strip Hotrodders 08 (diff ver) c2c Charlton titansfan.cbz | 46.22MiB
 Drag-Strip Hotrodders 011 (Charlton 1966) (c2c) (Kracalactaka+DaveH).cbz | 22.94MiB
+Drag-Strip Hotrodders 14 c2c Charlton Mar 1967 ComicWanderer.cbz | 55.67MiB
 Drag-Strip Hotrodders 15 Charlton jun 1967 Titansfan.cbz | 26.51MiB
 Drag-Strip Hotrodders 002 (1965) (Charlton) (c2c).cbz | 39.70MiB
 Drag-Strip Hotrodders 003 (1965) (Charlton).cbz | 8.28MiB

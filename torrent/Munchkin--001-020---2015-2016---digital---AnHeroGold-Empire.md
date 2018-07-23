@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 [Munchkin - Deck the Dungeons 001 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Munchkin-Deck-Dungeons-001-2015-Digital-AnHeroGold-Empire-cbz.md) | 63.62MiB
-Munchkin 001 (2015) (Digital) (AnHeroGold-Empire).cbz | 33.75MiB
-Munchkin 002 (2015) (Digital) (AnHeroGold-Empire).cbz | 31.71MiB
+[Munchkin 001 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Munchkin-001-2015-Digital-AnHeroGold-Empire-cbz.md) | 33.75MiB
+[Munchkin 002 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Munchkin-002-2015-Digital-AnHeroGold-Empire-cbz.md) | 31.71MiB
 [Munchkin 003 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Munchkin-003-2015-Digital-AnHeroGold-Empire-cbz.md) | 17.84MiB
 [Munchkin 004 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Munchkin-004-2015-Digital-AnHeroGold-Empire-cbz.md) | 34.27MiB
 [Munchkin 005 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Munchkin-005-2015-Digital-AnHeroGold-Empire-cbz.md) | 34.45MiB

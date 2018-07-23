@@ -68,7 +68,7 @@ Conan Red Sonja 03 (of 04) (2015) (digital) (Minutemen-Slayer).cbr | 26.49MiB
 Conan Red Sonja 04 (of 04) (2015) (digital) (Minutemen-Slayer).cbr | 25.42MiB
 Frank Thorne's Red Sonja - Art Edition Vol. 01 (2014) (digital) (Minutemen-Slayer).cbr | 237.37MiB
 &emsp;【Red Sonja (1975-)/Dynamite/Legenderry Red Sonja (001-005)(2015)(digital)(TLK-EMPIRE-HD)】 | 
-Legenderry Red Sonja 001(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.04MiB
+[Legenderry Red Sonja 001(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-001-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 49.04MiB
 [Legenderry Red Sonja 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-002-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 45.04MiB
 Legenderry Red Sonja 003 (2015) (Digital) (TLK-EMPIRE-HD).cbr | 41.03MiB
 [Legenderry Red Sonja 004(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Red-Sonja-004-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 39.17MiB
@@ -422,7 +422,7 @@ Red Sonja 015 (2015) (2 covers) (digital) (Minutemen-Slayer).cbr | 51.24MiB
 Red Sonja 016 (2015) (2 covers) (digital) (Minutemen-Slayer).cbr | 48.96MiB
 Red Sonja 017 (2015) (2 covers) (digital) (Minutemen-Slayer).cbr | 44.68MiB
 Red Sonja 018 (2015) (3 covers) (digital) (Minutemen-Slayer).cbr | 51.54MiB
-Red Sonja 100 (2015) (Digital Exclusive Edition) (TLK-EMPIRE-HD).cbr | 72.16MiB
+[Red Sonja 100 (2015) (Digital Exclusive Edition) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-100-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 72.16MiB
 [Red Sonja 1973 (2015) (Digital Exclusive Edition) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-1973-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 100.93MiB
 &emsp;【Red Sonja (1975-)/Dynamite/Red Sonja v2 (000-018+)(2013-2015)(digital)(Minutemen-Slayer)/Variant Covers】 | 
 Red Sonja 001 (Buscema cover only) (2013) (Empire Tiger).cbr | 3.35MiB
@@ -532,7 +532,7 @@ Red Sonja - The Falcon Throne (2016) (digital) (Minutemen-Slayer).cbr | 317.15Mi
 Red Sonja - Travels Vol 2 TPB (2015) (Digital) (DR & Quinch-Empire).cbr | 938.42MiB
 Red Sonja - Travels.cbr | 72.24MiB
 Red Sonja - Vulture's Circle (2016) (digital) (Minutemen-Slayer).cbr | 294.18MiB
-Red Sonja - Worlds Away v01 (2017) (Digital) (DR & Quinch-Empire).cbr | 327.55MiB
+[Red Sonja - Worlds Away v01 (2017) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-Worlds-Away-v01-2017-Digital-DR-Quinch-Empire-cbr.md) | 327.55MiB
 Red Sonja - Wrath of the Gods TPB (2012) (Digital) (Empire).cbr | 240.75MiB
 Red Sonja Omnibus v01 (2010) (Digital) (G85-Empire).cbr | 739.54MiB
 Red Sonja Omnibus v02 (2011) (Digital) (DR & Quinch-Empire).cbr | 1.04GiB

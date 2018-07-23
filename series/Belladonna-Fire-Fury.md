@@ -26,3 +26,4 @@ Belladonna - Fire and Fury 005 (2018) [ADULT] (Digital) (Oracle-SWA).cbr | 106.9
 Belladonna - Fire and Fury 005 (2018) [uHD] [ADULT] (Digital) (Oracle-SWA).cbr | 201.15MiB
 Belladonna - Fire & Fury 005 (2018) (wrapcover only) (scan) (Empire-GCA).cbr | 13.85MiB
 Belladonna - Fire & Fury 006 (2018) (wrapcover only) (scan) (Empire-GCA).cbr | 13.07MiB
+Belladonna - Fire & Fury 007 (2018) (wrapcover only) (scan) (Empire-GCA).cbr | 14.60MiB

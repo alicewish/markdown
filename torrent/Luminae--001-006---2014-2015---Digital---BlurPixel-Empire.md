@@ -15,4 +15,4 @@ Luminae 002 (2014) (Digital) (BlurPixel-Empire).cbr | 25.11MiB
 Luminae 003 (2014) (Digital) (BlurPixel-Empire).cbr | 28.74MiB
 Luminae 004 (2014) (Digital) (BlurPixel-Empire).cbr | 26.90MiB
 [Luminae 005 (2015) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luminae-005-2015-Digital-BlurPixel-Empire-cbr.md) | 24.35MiB
-Luminae 006 (2015) (Digital) (BlurPixel-Empire).cbr | 30.04MiB
+[Luminae 006 (2015) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luminae-006-2015-Digital-BlurPixel-Empire-cbr.md) | 30.04MiB

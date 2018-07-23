@@ -36,6 +36,7 @@ Billy the Kid 35 Charlton Aug 1962 Titansfan.cbz | 23.84MiB
 Billy the Kid 037 Charlton Dec 1962 Narfstar-Darkmark-Kracalactaka.cbz | 18.94MiB
 Billy the Kid 39 c2c Charlton Apr 1963 GR2014.cbz | 30.43MiB
 Billy the Kid 40 Charlton Jun 1963 Titansfan.cbz | 22.18MiB
+Billy the Kid 43 (1963 Charlton) (c2c) (Soothsayr-Kracalactaka-DaveH-Novus).cbz | 39.27MiB
 Billy the Kid 45 Charlton May 1964 Titansfan.cbz | 24.26MiB
 Billy the Kid 46 c2c Charlton July 1964 titansfan.cbz | 41.18MiB
 Billy the Kid 048 Charlton Jan 1965 Narfstar-Kracalactaka.cbz | 48.08MiB

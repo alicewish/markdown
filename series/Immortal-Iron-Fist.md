@@ -20,6 +20,8 @@ Two words, punks...BATTLE ROYALE! All the losers in the tournament in the Heart 
 
 Online | Download
 --- | ---
+Immortal Iron Fist v01 - The Last Iron Fist Story (2007) (Digital) (F) (Zone-Empire).cbr | 250.97MiB
+Immortal Iron Fist v02 - The Seven Capital Cities of Heaven (2007) (Digital) (F) (Zone-Empire).cbr | 379.68MiB
 The Immortal Iron Fist Vol. 01 - The Last Iron Fist Story (2007) (digital) (Minutemen-Slayer).cbr | 149.09MiB
 The Immortal Iron Fist Vol. 02 - The Seven Capital Cities of Heaven (2008) (digital) (Minutemen-Slayer).cbr | 312.28MiB
 Immortal Iron Fist 020 (2009) (Minutemen-ZonesDiva).cbr | 16.39MiB

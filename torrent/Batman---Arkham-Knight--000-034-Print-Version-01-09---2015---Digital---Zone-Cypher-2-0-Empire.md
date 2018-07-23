@@ -24,8 +24,8 @@ Batman - Arkham Knight 001 (2015) (Digital, print version) (Zone-Empire).cbr | 3
 [Batman - Arkham Knight - Genesis 01 (of 06) (2015) (3 covers) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-Genesis-01-of-06-2015-3-covers-digital-Minutemen-Thoth-cbr.md) | 29.81MiB
 [Batman - Arkham Knight - Genesis 02 (of 06) (2015) (digital) (Minutemen-Thoth).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-Genesis-02-of-06-2015-digital-Minutemen-Thoth-cbr.md) | 25.94MiB
 Batman - Arkham Knight 000.cbr | 6.58MiB
-Batman - Arkham Knight 001 (2015) (Digital) (Cypher 2.0-Empire).cbr | 16.41MiB
-Batman - Arkham Knight 002 (2015) (Digital) (Cypher 2.0-Empire).cbr | 14.99MiB
+[Batman - Arkham Knight 001 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-001-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.41MiB
+[Batman - Arkham Knight 002 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-002-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.99MiB
 [Batman - Arkham Knight 003 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-003-2015-Digital-Cypher-2-0-Empire-cbr.md) | 15.24MiB
 [Batman - Arkham Knight 004 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-004-2015-Digital-Cypher-2-0-Empire-cbr.md) | 16.25MiB
 [Batman - Arkham Knight 005 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Knight-005-2015-Digital-Cypher-2-0-Empire-cbr.md) | 14.44MiB

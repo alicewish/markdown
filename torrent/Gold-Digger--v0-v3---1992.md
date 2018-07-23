@@ -586,7 +586,7 @@ Gold Digger 214(2014)(Digital)(TLK-EMPIRE-HD).cbr | 25.41MiB
 Gold Digger 215(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.09MiB
 Gold Digger 216(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.81MiB
 [Gold Digger 217(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-217-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 26.43MiB
-Gold Digger 218(2014)(Digital)(TLK-EMPIRE-HD).cbr | 28.55MiB
+[Gold Digger 218(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-218-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 28.55MiB
 [Gold Digger 219(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-219-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.18MiB
 [Gold Digger 220(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-220-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 29.12MiB
 [Gold Digger 221(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-221-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 25.17MiB

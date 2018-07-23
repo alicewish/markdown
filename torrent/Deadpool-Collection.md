@@ -416,8 +416,8 @@ Deadpool 037 (2015) (digital) (Minutemen-InnerDemons).cbr | 42.12MiB
 Deadpool 038 (2015) (digital) (Minutemen-InnerDemons).cbr | 43.16MiB
 Deadpool 039 (2015) (digital) (Minutemen-InnerDemons).cbr | 38.56MiB
 [Deadpool 040 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-040-2015-digital-Minutemen-InnerDemons-cbr.md) | 66.76MiB
-Deadpool 041 (2015) (digital) (Minutemen-InnerDemons).cbr | 28.91MiB
-Deadpool 042 (2015) (digital) (Minutemen-InnerDemons).cbr | 32.41MiB
+[Deadpool 041 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-041-2015-digital-Minutemen-InnerDemons-cbr.md) | 28.91MiB
+[Deadpool 042 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-042-2015-digital-Minutemen-InnerDemons-cbr.md) | 32.41MiB
 [Deadpool 043 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-043-2015-digital-Minutemen-InnerDemons-cbr.md) | 31.11MiB
 [Deadpool 044 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-044-2015-digital-Minutemen-InnerDemons-cbr.md) | 27.82MiB
 [Deadpool 045 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-045-2015-5-covers-digital-Minutemen-InnerDemons-cbr.md) | 174.69MiB
@@ -475,8 +475,8 @@ Prelude to Deadpool Corps 04 (of 05) (2010) (Digital) (AnPymGold-Empire).cbz | 2
 Prelude to Deadpool Corps 05 (of 05) (2010) (Digital) (AnPymGold-Empire).cbz | 23.54MiB
 &emsp;【Deadpool Collection/Return of the Living Deadpool (001-004)(2015)(Digital)(Minutemen-InnerDemons)】 | 
 Return of the Living Deadpool 001 (2015) (Ryan Stegman Variant) (digital) (Minutemen-Fantomex).cbr | 2.95MiB
-Return of the Living Deadpool 01 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 29.31MiB
-Return of the Living Deadpool 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr | 30.58MiB
+[Return of the Living Deadpool 01 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Return-of-Living-Deadpool-01-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 29.31MiB
+[Return of the Living Deadpool 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Return-of-Living-Deadpool-02-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 30.58MiB
 [Return of the Living Deadpool 03 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Return-of-Living-Deadpool-03-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 31.17MiB
 &emsp;【Deadpool Collection/Specials & One-Shots】 | 
 Baby's First Deadpool Book 01 (1998) (digital) (Minutemen-InnerDemons).cbr | 53.63MiB

@@ -99,7 +99,7 @@ Batman - Day of Judgment (1999).cbr | 13.45MiB
 Batman - Death By Design (2012) (1920) (Hul-konnen-DCP).cbr | 160.06MiB
 Batman - Digital Justice (Pepe Moreno autograph) (1990) (Broomhandle Mauser-DCP).cbr | 99.04KiB
 Batman - Earth One (2012) (digital) (Son of Ultron-Empire).cbr | 268.94MiB
-Batman - Earth One v2 (2015) (webrip) (Worldbreaker-DCP).cbr | 186.92MiB
+[Batman - Earth One v2 (2015) (webrip) (Worldbreaker-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Earth-One-v2-2015-webrip-Worldbreaker-DCP-cbr.md) | 186.92MiB
 Batman - Ego TPB (2000).cbr | 15.81MiB
 Batman - Ego and Other Tails (2016) (Digital-Empire).cbr | 186.73MiB
 Batman - False Faces TPB (2008) (Cypher).cbr | 86.92MiB
@@ -669,8 +669,8 @@ Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
 Batman - Legends of the Dark Knight Vol. 01 (2013) (digital) (Minutemen-PhD).cbr | 178.63MiB
 Batman - Legends of the Dark Knight Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 203.49MiB
 Batman - Legends of the Dark Knight Vol. 03 (2014) (digital) (Minutemen-PhD).cbr | 237.36MiB
-Batman - Legends of the Dark Knight Vol. 04 (2015) (digital) (Minutemen-PhD).cbr | 237.41MiB
-Batman - Legends of the Dark Knight Vol. 05 (2015) (digital) (b0bafett-Empire).cbr | 252.92MiB
+[Batman - Legends of the Dark Knight Vol. 04 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Legends-of-Dark-Knight-Vol-04-2015-digital-Minutemen-PhD-cbr.md) | 237.41MiB
+[Batman - Legends of the Dark Knight Vol. 05 (2015) (digital) (b0bafett-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Legends-of-Dark-Knight-Vol-05-2015-digital-b0bafett-Empire-cbr.md) | 252.92MiB
 Batman - Li'l Gotham Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 197.90MiB
 Batman - Li'l Gotham Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 195.41MiB
 Batman The Dark Knight Vol. 01 - Knight Terrors (2012) (digital) (Minutemen-PhD).cbr | 276.00MiB

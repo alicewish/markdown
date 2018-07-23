@@ -14,6 +14,10 @@ Captain Canuck is a reboot of the classic Canadian comic book hero created in 19
 
 
 
+相关种子⬇Related Torrents
+
+[Captain Canuck (01 - 15 + Unholy War (01 - 04) & extra)](https://github.com/alicewish/markdown/blob/master/torrent/Captain-Canuck--01---15---Unholy-War--01---04----extra.md)
+
 Online | Download
 --- | ---
 Captain Canuck 000(2015)(Digital)(TLK-EMPIRE-HD).cbr | 25.01MiB

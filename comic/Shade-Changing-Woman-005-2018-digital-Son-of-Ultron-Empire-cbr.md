@@ -1,7 +1,7 @@
-## Shade - the Changing Woman 005 (2018) (digital) (Son of Ultron-Empire).cbr
+## Shade, the Changing Woman 005 (2018) (digital) (Son of Ultron-Empire).cbr
 
 
-[回到 Shade - the Changing Woman 目录](https://github.com/alicewish/markdown/blob/master/series/Shade-Changing-Woman.md)
+[回到 Shade, the Changing Woman 目录](https://github.com/alicewish/markdown/blob/master/series/Shade-Changing-Woman.md)
 
 
 ![Shade, The Changing Woman (2018-) 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyrfh42wtj21j82cwqv5.jpg)
@@ -64,5 +64,5 @@
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqdd52rmj20zk1io4qp.jpg)
 
-[回到 Shade - the Changing Woman 目录](https://github.com/alicewish/markdown/blob/master/series/Shade-Changing-Woman.md)
+[回到 Shade, the Changing Woman 目录](https://github.com/alicewish/markdown/blob/master/series/Shade-Changing-Woman.md)
 

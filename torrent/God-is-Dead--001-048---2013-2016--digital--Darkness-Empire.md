@@ -38,9 +38,9 @@ God is Dead 024 (2014) (Digital) (Darkness-Empire).cbr | 41.41MiB
 God is Dead 025 (2014) (6 Covers) (Digital) (Darkness-Empire).cbr | 96.97MiB
 [God is Dead 026 (2015) (6 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-026-2015-6-Covers-Digital-Darkness-Empire-cbr.md) | 44.98MiB
 [God is Dead 027 (2015) (6 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-027-2015-6-Covers-Digital-Darkness-Empire-cbr.md) | 38.44MiB
-God is Dead 028 (2015) (6 Covers) (Digital) (Darkness-Empire).cbr | 42.80MiB
-God is Dead 029 (2015) (Digital) (The Dark VI-Empire).cbr | 43.76MiB
-God is Dead 030 (2015) (Digital) (The Dark VI-Empire).cbr | 41.64MiB
+[God is Dead 028 (2015) (6 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-028-2015-6-Covers-Digital-Darkness-Empire-cbr.md) | 42.80MiB
+[God is Dead 029 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-029-2015-Digital-Dark-VI-Empire-cbr.md) | 43.76MiB
+[God is Dead 030 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-030-2015-Digital-Dark-VI-Empire-cbr.md) | 41.64MiB
 [God is Dead 031 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-031-2015-Digital-Dark-VI-Empire-cbr.md) | 40.54MiB
 [God is Dead 032 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-032-2015-Digital-DR-Quinch-Empire-cbr.md) | 43.15MiB
 [God is Dead 033 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-033-2015-Digital-DR-Quinch-Empire-cbr.md) | 43.16MiB

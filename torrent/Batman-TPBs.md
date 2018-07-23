@@ -26,7 +26,7 @@ Batgirl v04 - Wanted (2014) (digital) (Son of Ultron-Empire).cbr | 280.58MiB
 Batgirl v05 - Deadline (2014) (digital) (Son of Ultron-Empire).cbr | 359.53MiB
 Batman - Superman v01 - Cross World (2014) (Digital) (Nahga-Empire).cbr | 236.33MiB
 Batman - Superman v02 - Game Over (2014) (Digital) (Zone-Empire).cbr | 282.69MiB
-Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr | 196.48MiB
+[Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Superman-v03-Second-Chance-2015-Digital-Zone-Empire-cbr.md) | 196.48MiB
 Batman - Superman v04 - Siege (2015) (Digital) (Zone-Empire).cbr | 298.52MiB
 Batman - Superman v05 - Truth Hurts (2016) (Digital) (Zone-Empire).cbr | 270.35MiB
 Batman - Superman v06 - Universe's Finest (2017) (Digital) (Zone-Empire).cbr | 310.09MiB
@@ -69,7 +69,7 @@ Batman & Dracula - Red Rain (1991) (digital) (Minutemen-InnerDemons).cbr | 158.7
 [Batman '66 Meets the Man From U.N.C.L.E. (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Man-From-U-N-C-L-E-2016-digital-Son-of-Ultron-Empire-cbr.md) | 304.22MiB
 Batman '66 Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 288.48MiB
 Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
-Batman '66 Vol. 03 (2015) (digital) (Minutemen-PhD).cbr | 240.43MiB
+[Batman '66 Vol. 03 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-03-2015-digital-Minutemen-PhD-cbr.md) | 240.43MiB
 Batman '66 vol. 04 (2015) (digital TPB) (Minutemen-Faessla).cbz | 308.49MiB
 Batman '66 vol. 05 (2016) (digital TPB) (Minutemen-Faessla).cbz | 268.48MiB
 Batman - A Death in the Family (2011) (Digital) (Zone-Empire).cbr | 394.96MiB
@@ -102,7 +102,7 @@ Batman - Dead To Rights TPB (2010) (Bchry-DCP).cbz | 214.49MiB
 Batman - Death and the Maidens - Deluxe Edition (2017) (digital) (Glorith-HD).cbz | 364.98MiB
 Batman - Death by Design (2012) (Digital) (Zone-Empire).cbr | 183.41MiB
 Batman - Earth One (2012) (digital) (Son of Ultron-Empire).cbr | 268.94MiB
-Batman - Earth One v02 (2015) (Digital) (Zone-Empire).cbr | 187.07MiB
+[Batman - Earth One v02 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Earth-One-v02-2015-Digital-Zone-Empire-cbr.md) | 187.07MiB
 Batman - Ego and Other Tails (2007) (Digital-Empire).cbr | 186.73MiB
 [Batman - Europa (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Europa-2016-Digital-Zone-Empire-cbr.md) | 172.44MiB
 Batman - Eye of the Beholder (2011) (Digital) (Zone-Empire).cbr | 205.98MiB
@@ -125,8 +125,8 @@ Batman - Legacy (1996) (TPB).cbr | 78.17MiB
 Batman - Legends of the Dark Knight Vol. 01 (2013) (digital) (Minutemen-PhD).cbr | 178.63MiB
 Batman - Legends of the Dark Knight Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 203.49MiB
 Batman - Legends of the Dark Knight Vol. 03 (2014) (digital) (Minutemen-PhD).cbr | 237.36MiB
-Batman - Legends of the Dark Knight Vol. 04 (2015) (digital) (Minutemen-PhD).cbr | 237.41MiB
-Batman - Legends of the Dark Knight Vol. 05 (2015) (digital) (b0bafett-Empire).cbr | 252.92MiB
+[Batman - Legends of the Dark Knight Vol. 04 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Legends-of-Dark-Knight-Vol-04-2015-digital-Minutemen-PhD-cbr.md) | 237.41MiB
+[Batman - Legends of the Dark Knight Vol. 05 (2015) (digital) (b0bafett-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Legends-of-Dark-Knight-Vol-05-2015-digital-b0bafett-Empire-cbr.md) | 252.92MiB
 Batman - Li'l Gotham Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 197.90MiB
 Batman - Li'l Gotham Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 195.41MiB
 Batman - Mad Love and Other Stories (2009) (digital) (Minutemen-FlynnLives).cbr | 225.64MiB

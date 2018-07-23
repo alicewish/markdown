@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 [Tangled 001 (2018) (digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tangled-001-2018-digital-Salem-Empire-cbr.md) | 26.23MiB
 [Tangled 002 (2018) (digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tangled-002-2018-digital-Salem-Empire-cbr.md) | 24.08MiB
-Tangled 003 (2018) (digital) (Salem-Empire).cbr | 25.54MiB
+[Tangled 003 (2018) (digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tangled-003-2018-digital-Salem-Empire-cbr.md) | 25.54MiB

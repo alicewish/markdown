@@ -12,6 +12,8 @@
 
 相关种子⬇Related Torrents
 
+[Generation Hope (001-017) (2011-2012) (Digital) (Zone+AnHeroGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Generation-Hope--001-017---2011-2012---Digital---Zone-AnHeroGold-Empire.md)
+
 [Generation Hope (001-017)(2011-2012)(digital)(Zone+AnHeroGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Generation-Hope--001-017--2011-2012--digital--Zone-AnHeroGold-Empire.md)
 
 Online | Download

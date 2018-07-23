@@ -13,6 +13,7 @@
 Online | Download
 --- | ---
 Laugh Comics 020 (Fall 1946) (Reprint - Archie and Betty & Veronica Stories Only) (drake10).cbz | 16.89MiB
+Laugh Comics 021 (Archie Winter 1946) (c2c) (drake10).cbz | 89.19MiB
 Laugh Comics 023 (Summer 1947) (c2c) (drake10).cbz | 54.58MiB
 Laugh Comics 026 (Archie Apr 1948) (inc no ifc, ibc) drake10 K.cbz | 60.12MiB
 Laugh Comics 029 c2c (Archie Oct 1948) drake10.cbz | 60.70MiB
@@ -20,6 +21,7 @@ Laugh Comics 031 (Archie Feb 1949) drake10.cbz | 59.36MiB
 Laugh Comics 036 (Archie Dec 1949) (pgs 2-4 damaged) drake10.cbz | 59.60MiB
 Laugh Comics 038 (1950 Archie) (c2c) (ybcguy714-Krac-movielover-Novus).cbz | [60.98MiB](https://pan.baidu.com/s/1o7VVirw#list/path=%2FNovus%20-%20Week%20of%202017%20Q3%2FNovus%20-%20Week%20of%202017-08-23%2F%E3%82%A8%E3%82%B9%E3%82%AA%E3%82%BD%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%A6%E3%82%AA%E3%82%B9%E3%82%AA%E3%82%BD%E3%82%AD%E3%82%A2%E3%82%A4%E3%82%B3%E3%82%B1%E3%82%B9%E3%82%BB%E3%82%AA%E3%82%AB%E3%82%BD%E3%82%A8%E3%82%B9%E3%82%BB%E3%82%BD%E3%82%AF%E3%82%AF%E3%82%A4%E3%82%BF%E3%82%A2%E3%82%AF&parentPath=%2FNovus%20-%20Week%20of%202017%20Q3)
 Laugh Comics 044 (Apr 1951) (missing 10 pages) (drake10).cbz | 46.23MiB
+Laugh Comics 044 (Archie Apr 1951) (c2c) (drake10).cbz | 57.43MiB
 Laugh Comics 046 (Archie Aug 1951) drake10.cbz | 59.76MiB
 Laugh Comics 047 (archie Oct 1951) (inc no CF) drake10.cbz | 53.30MiB
 Laugh Comics 049 (archie Feb 1952) drake10.cbz | 58.19MiB

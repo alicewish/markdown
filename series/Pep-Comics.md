@@ -28,8 +28,10 @@ Pep Comics 078 (Mar 1950) (missing pages 11-12) (drake10).cbz | 55.81MiB
 Pep Comics 083 (Archie Jan 1951) 46p (no ifc,ibc,CF) drake10 K.cbz | 55.29MiB
 Pep Comics 085 (May 1951) (c2c) (drake10).cbz | 58.96MiB
 Pep Comics 090 (Mar 1952) (c2c) [fixed ifc].cbr | 45.41MiB
+Pep Comics 092 (Archie Jul 1952) (c2c) (drake10).cbz | 52.64MiB
 Pep Comics 093 (Sep 1952) (c2c) (drake10).cbz | 56.43MiB
 Pep Comics 095 (Archie 1953) (c2c) (Kracalactaka-a nonny moose).cbz | 58.34MiB
+Pep Comics 096 (Archie Mar 1953) (c2c) (drake10).cbz | 34.35MiB
 Pep Comics 099 (Sep 1953) (2 pages missing, 2 pages damaged) (drake10).cbz | 34.05MiB
 Pep Comics 102 (Mar 1954) (c2c) (drake10).cbz | 39.77MiB
 Pep Comics 105 (Sep 1954) (c2c) (drake10).cbz | 38.42MiB

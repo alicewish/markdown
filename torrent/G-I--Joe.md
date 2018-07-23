@@ -215,7 +215,7 @@ GI Joe Sigma 6 06 (of 6) (2006) (DarthScanner-DCP).cbr | 15.15MiB
 &emsp;【G.I. Joe/Extras/G.I. Joe - Snake Eyes Agent of Cobra (001-005) (2015) (digital) (Minutemen-Midas)】 | 
 G.I. Joe Snake Eyes - Agent of Cobra (2015) (digital) (Minutemen-Slayer).cbr | 165.07MiB
 [G.I. Joe Snake Eyes - Agent of Cobra 01 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-Snake-Eyes-Agent-of-Cobra-01-of-05-2015-digital-Minutemen-Midas-cbr.md) | 32.29MiB
-G.I. Joe Snake Eyes - Agent of Cobra 02 (of 05) (2015) (digital) (Minutemen-Midas).cbr | 30.03MiB
+[G.I. Joe Snake Eyes - Agent of Cobra 02 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-Snake-Eyes-Agent-of-Cobra-02-of-05-2015-digital-Minutemen-Midas-cbr.md) | 30.03MiB
 [G.I. Joe Snake Eyes - Agent of Cobra 03 (of 05) (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-Snake-Eyes-Agent-of-Cobra-03-of-05-2015-digital-Minutemen-Midas-cbr.md) | 30.30MiB
 G.I. Joe Snake Eyes - Agent of Cobra 04 (of 05) (2015) (2 covers) (digital) (Minutemen-Midas).cbr | 41.17MiB
 G.I. Joe Snake Eyes - Agent of Cobra 04 (of 05) (2015) (digital) (Drew Johnson Subscription variant) (Mintuemen-Mastodon).cbz | 660.74KiB
@@ -271,7 +271,7 @@ Transformers vs. G.I. Joe 001 (2014) (digital) (Minutemen-Midas).cbr | 63.11MiB
 Transformers vs. G.I. Joe 002 (2014) (digital) (Minutemen-Midas).cbr | 52.75MiB
 Transformers vs. G.I. Joe 003 (2014) (digital) (F) (Minutemen-Midas).cbr | 57.21MiB
 Transformers vs. G.I. Joe 004 (2014) (digital) (Minutemen-Midas).cbr | 55.06MiB
-Transformers vs. G.I. Joe 005 (2015) (digital) (Minutemen-Midas).cbr | 57.09MiB
+[Transformers vs. G.I. Joe 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-005-2015-digital-Minutemen-Midas-cbr.md) | 57.09MiB
 Transformers vs. G.I. Joe 006 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 66.98MiB
 [Transformers vs. G.I. Joe 007 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-007-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 53.10MiB
 Transformers vs. G.I. Joe 008 (2015) (digital) (Minutemen-Midas).cbr | 48.94MiB
@@ -618,7 +618,7 @@ G.I. Joe - A Real American Hero 206 (2014) (digital) (Minutemen-BigLob).cbr | 39
 G.I. Joe - A Real American Hero 207 (2014) (digital) (Minutemen-BigLob).cbr | 35.37MiB
 G.I. Joe - A Real American Hero 208 (2014) (digital) (Minutemen-Midas).cbr | 39.03MiB
 G.I. Joe - A Real American Hero 209 (2014) (digital) (Minutemen-Midas).cbr | 35.62MiB
-G.I. Joe - A Real American Hero 210 (2015) (digital) (Minutemen-Midas).cbr | 38.54MiB
+[G.I. Joe - A Real American Hero 210 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-210-2015-digital-Minutemen-Midas-cbr.md) | 38.54MiB
 [G.I. Joe - A Real American Hero 211 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-211-2015-digital-Minutemen-Midas-cbr.md) | 39.15MiB
 G.I. Joe - A Real American Hero 212 (2015) (Variant Cover Only) \[extracted\] (Empire-Adventurers).cbr | 3.05MiB
 [G.I. Joe - A Real American Hero 212 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-212-2015-digital-Minutemen-Midas-cbr.md) | 33.39MiB
@@ -1062,8 +1062,8 @@ G.I. Joe 001 (2014) (digital) (Minutemen-Midas).cbr | 38.45MiB
 G.I. Joe 002 (2014) (digital) (Minutemen-Midas).cbr | 41.30MiB
 G.I. Joe 003 (2014) (digital) (Minutemen-Midas).cbr | 37.63MiB
 G.I. Joe 004 (2014) (digital) (Minutemen-Midas).cbr | 38.07MiB
-G.I. Joe 005 (2015) (digital) (Minutemen-Midas).cbr | 39.42MiB
-G.I. Joe 006 (2015) (digital) (Minutemen-Midas).cbr | 36.47MiB
+[G.I. Joe 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-005-2015-digital-Minutemen-Midas-cbr.md) | 39.42MiB
+[G.I. Joe 006 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-006-2015-digital-Minutemen-Midas-cbr.md) | 36.47MiB
 [G.I. Joe 007 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-007-2015-digital-Minutemen-Midas-cbr.md) | 38.57MiB
 [G.I. Joe 008 (2015) (2 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-008-2015-2-covers-digital-Minutemen-Midas-cbr.md) | 40.81MiB
 &emsp;【G.I. Joe/G.I. Joe v4 TPBs (v01-v02)(2015)(digital-Empire)】 | 

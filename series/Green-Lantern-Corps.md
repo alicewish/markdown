@@ -34,6 +34,8 @@ Writer Peter Tomasi returns to the ring-slinging Corps! When deadly conflicts em
 
 相关种子⬇Related Torrents
 
+[Green Lantern Corps (001 - 027 + extras) (ongoing)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern-Corps--001---027---extras---ongoing.md)
+
 [Green Lantern Corps (001 - 034 + Annuals) (2011 - Ongoing) (Digital) (TLK+Nahga-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern-Corps--001---034---Annuals---2011---Ongoing---Digital---TLK-Nahga-Empire.md)
 
 [Green Lantern Corps (001 - 063) (All TLK-Empire-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern-Corps--001---063---All-TLK-Empire-HD.md)

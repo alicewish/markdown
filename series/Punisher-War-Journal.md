@@ -34,20 +34,28 @@ With CIVIL WAR raging, Frank is feeling the heat. He's square in the crosshairs 
 
 Online | Download
 --- | ---
+Punisher War Journal 001 (1988) (Digital) (Asgard-Empire).cbr | 60.64MiB
 Punisher War Journal 001 (1988) (digital) (Minutemen-Slayer).cbr | 59.97MiB
 Punisher War Journal 001 (1988) (Digital) (Zone-Empire).cbr | 60.58MiB
+Punisher War Journal 002 (1988) (Digital) (Asgard-Empire).cbr | 59.03MiB
 Punisher War Journal 002 (1988) (digital) (Minutemen-Slayer).cbr | 58.57MiB
 Punisher War Journal 002 (1988) (Digital) (Zone-Empire).cbr | 59.18MiB
+Punisher War Journal 003 (1989) (Digital) (Asgard-Empire).cbr | 57.69MiB
 Punisher War Journal 003 (1989) (digital) (Minutemen-Slayer).cbr | 57.23MiB
 Punisher War Journal 003 (1989) (Digital) (Zone-Empire).cbr | 57.84MiB
+Punisher War Journal 004 (1989) (Digital) (Asgard-Empire).cbr | 59.50MiB
 Punisher War Journal 004 (1989) (digital) (Minutemen-Slayer).cbr | 59.10MiB
 Punisher War Journal 004 (1989) (Digital) (Zone-Empire).cbr | 59.71MiB
+Punisher War Journal 005 (1989) (Digital) (Asgard-Empire).cbr | 54.77MiB
 Punisher War Journal 005 (1989) (digital) (Minutemen-Slayer).cbr | 54.43MiB
 Punisher War Journal 005 (1989) (Digital) (Zone-Empire).cbr | 55.04MiB
+Punisher War Journal 006 (1989) (Digital) (Asgard-Empire).cbr | 52.79MiB
 Punisher War Journal 006 (1989) (digital) (Minutemen-Slayer).cbr | 52.44MiB
 Punisher War Journal 006 (1989) (Digital) (Zone-Empire).cbr | 53.05MiB
+Punisher War Journal 007 (1989) (Digital) (Asgard-Empire).cbr | 58.02MiB
 Punisher War Journal 007 (1989) (digital) (Minutemen-Slayer).cbr | 57.53MiB
 Punisher War Journal 007 (1989) (Digital) (Zone-Empire).cbr | 58.14MiB
+Punisher War Journal 008 (1989) (Digital) (Asgard-Empire).cbr | 54.79MiB
 Punisher War Journal 008 (1989) (digital) (Minutemen-Slayer).cbr | 54.31MiB
 Punisher War Journal 008 (1989) (Digital) (Zone-Empire).cbr | 54.92MiB
 Punisher War Journal 009 (1989) (digital) (Minutemen-Slayer).cbr | 51.71MiB

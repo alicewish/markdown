@@ -29,6 +29,7 @@ Online | Download
 X-Men - Colossus Bloodline 01 (of 05) (2005) (Digital-Empire).cbr | 30.24MiB
 X-Men - Colossus Bloodline 02 (of 05) (2005) (Digital-Empire).cbr | 28.89MiB
 X-Men - Colossus Bloodline (2006) (Digital) (Kileko-Empire).cbr | 35.85MiB
+X-Men - Colossus Bloodline (2006) (Digital-HD) (Kileko-Empire).cbr | 143.33MiB
 X-Men - Colossus Bloodline 03 (of 05) (2006) (Digital-Empire).cbr | 30.40MiB
 X-Men - Colossus Bloodline 04 (of 05) (2006) (Digital-Empire).cbr | 27.15MiB
 X-Men - Colossus Bloodline 05 (of 05) (2006) (Digital-Empire).cbr | 28.86MiB

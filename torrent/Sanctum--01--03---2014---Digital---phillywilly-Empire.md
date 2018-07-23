@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Sanctum 01 - USS Nebraska (2014) (Digital) (phillywilly-Empire).cbr | 32.95MiB
-Sanctum 02 - Discovery (2014) (Digital) (phillywilly-Empire).cbr | 30.29MiB
-Sanctum 03 - Môt (2014) (Digital) (phillywilly-Empire).cbr | 37.53MiB
+[Sanctum 01 - USS Nebraska (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sanctum-01-USS-Nebraska-2014-Digital-phillywilly-Empire-cbr.md) | 32.95MiB
+[Sanctum 02 - Discovery (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sanctum-02-Discovery-2014-Digital-phillywilly-Empire-cbr.md) | 30.29MiB
+[Sanctum 03 - Môt (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sanctum-03-Môt-2014-Digital-phillywilly-Empire-cbr.md) | 37.53MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Sex Criminals (001-025+)(2014-2018)(digital)(Minutemen-Spaztastic)】 | 
-Big Hard Sex Criminals v01 (2015) (Digital) (Zone-Empire).cbr | 229.91MiB
+[Big Hard Sex Criminals v01 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Hard-Sex-Criminals-v01-2015-Digital-Zone-Empire-cbr.md) | 229.91MiB
 Sex Criminals 001 (2013) (digital) (Minutemen-Spaztastic).cbr | 40.83MiB
 Sex Criminals 002 (2013) (digital) (Minutemen-Spaztastic).cbr | 31.98MiB
 Sex Criminals 003 (2013) (digital) (Minutemen-Spaztastic).cbr | 29.00MiB
@@ -21,7 +21,7 @@ Sex Criminals 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 32.49MiB
 Sex Criminals 007 (2014) (digital) (Minutemen-Spaztastic).cbr | 33.41MiB
 Sex Criminals 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 31.98MiB
 Sex Criminals 009 (2014) (digital) (Minutemen-Spaztastic).cbr | 30.72MiB
-Sex Criminals 010 (2015) (digital) (Minutemen-Spaztastic).cbr | 26.98MiB
+[Sex Criminals 010 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-010-2015-digital-Minutemen-Spaztastic-cbr.md) | 26.98MiB
 [Sex Criminals 011 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-011-2015-digital-Minutemen-Spaztastic-cbr.md) | 28.04MiB
 [Sex Criminals 012 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-012-2015-digital-Minutemen-Spaztastic-cbr.md) | 27.39MiB
 [Sex Criminals 013 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-013-2015-digital-Minutemen-Spaztastic-cbr.md) | 26.58MiB

@@ -320,7 +320,7 @@ Kato Origins 011 (2011) 27p (minutemen-t3p0).cbr | 19.19MiB
 Kevin Smith's Kato v1 - Not My Father's Daughter (2010) (Digital) (ZoneKing-Empire).cbr | 97.10MiB
 Kevin Smith's Kato v2 - Living In America (2012) (Digital) (ZoneKing-Empire).cbr | 102.70MiB
 &emsp;【Green Hornet Collection/Legenderry Green Hornet (001-002)(2015-Ongoing)】 | 
-Legenderry Green Hornet 001(2015)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 43.41MiB
+[Legenderry Green Hornet 001(2015)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Green-Hornet-001-2015-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 43.41MiB
 [Legenderry Green Hornet 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legenderry-Green-Hornet-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.48MiB
 &emsp;【Green Hornet Collection/Masks (001-008)(2012-2013)(Digital)】 | 
 Masks 001 (2012) (4 covers) (digital) (GreenGiant-DCP).cbr | 20.75MiB

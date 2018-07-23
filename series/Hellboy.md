@@ -22,6 +22,8 @@ Hellboy is one of the most celebrated comics series in recent years. The ultimat
 
 [Hellboy (v01-v12)(2003-2012)(digital)(Minutemen-Slayer+)](https://github.com/alicewish/markdown/blob/master/torrent/Hellboy--v01-v12--2003-2012--digital--Minutemen-Slayer.md)
 
+[Hellboy Omnibus (v01-v02)(2018)(digital)(Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Hellboy-Omnibus--v01-v02--2018--digital--Son-of-Ultron-Empire.md)
+
 Online | Download
 --- | ---
 Hellboy v01 - Seed of Destruction (2003, 3rd edition) (Digital) (Zone-Empire).cbr | 140.87MiB

@@ -22,6 +22,7 @@ The newly Magneto-created, Colossus-led X-Men team is on a daring mission to res
 
 Online | Download
 --- | ---
+Generation Next 001 (1995) (Digital) (Asgard-Empire).cbr | 52.25MiB
 Generation NeXt 1 (1995) (Digital) (GodMagnus).cbr | 51.71MiB
 Generation Next 01 (of 04) (1995) (digital) (Minutemen-Faessla).cbz | 51.75MiB
 Generation NeXt 2 (1995) (Digital) (GodMagnus).cbr | 46.12MiB

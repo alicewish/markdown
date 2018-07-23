@@ -14,6 +14,10 @@ Don't miss this prelude to the biggest comic event of the year! This special sto
 
 
 
+相关种子⬇Related Torrents
+
+[Blackest Night (000 - 008) (2009 - 2010) (hybrid) (OkC.O.M.P.U.T.O.-Novus-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Blackest-Night--000---008---2009---2010---hybrid---OkC-O-M-P-U-T-O--Novus-HD.md)
+
 Online | Download
 --- | ---
 Blackest Night 00 (2009-06) (two covers) (hybrid) (Novus Year Two) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 37.11MiB

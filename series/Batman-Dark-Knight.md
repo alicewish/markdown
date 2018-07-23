@@ -24,6 +24,8 @@ Delving into the more supernatural and esoteric areas of Gotham City! As a myste
 
 [Batman - The Dark Knight (001 - 026 + extras) (ongoing)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---The-Dark-Knight--001---026---extras---ongoing.md)
 
+[Batman - The Dark Knight (000 - 029 + Annual) (2011 - 2014) (Digital) (Megan+Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---The-Dark-Knight--000---029---Annual---2011---2014---Digital---Megan-Zone-Empire.md)
+
 [Batman - The Dark Knight (v01-v04) (2011-2014) (Digital) (Nahga+Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---The-Dark-Knight--v01-v04---2011-2014---Digital---Nahga-Zone-Empire.md)
 
 Online | Download

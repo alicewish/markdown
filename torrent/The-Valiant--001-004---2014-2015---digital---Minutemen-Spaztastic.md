@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 The Valiant 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 65.99MiB
-The Valiant 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 54.76MiB
+[The Valiant 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Valiant-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 54.76MiB
 The Valiant 003 (2015) (digital) (Minutemen-Spaztastic).cbr | 52.98MiB
 [The Valiant 04 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Valiant-04-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.75MiB

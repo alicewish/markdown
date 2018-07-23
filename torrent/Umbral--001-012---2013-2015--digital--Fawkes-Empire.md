@@ -21,6 +21,6 @@ Umbral 008 (2014) (Digital-Empire).cbr | 45.90MiB
 Umbral 009 (2014) (Digital-Empire).cbr | 45.92MiB
 Umbral 010 (2014) (Digital-Empire).cbr | 45.39MiB
 Umbral 011 (2014) (Digital-Empire).cbr | 43.68MiB
-Umbral 012 (2015) (Digital-Empire).cbr | 44.12MiB
+[Umbral 012 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Umbral-012-2015-Digital-Empire-cbr.md) | 44.12MiB
 Umbral v01 (2014) (Digital TPB) (Windrider-Empire).cbr | 296.60MiB
 Umbral v02 - The Dark Path (2015) (Digital) (Zone-Empire).cbr | 214.06MiB

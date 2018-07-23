@@ -15,9 +15,9 @@ Online | Download
 Imperium v01 - Collecting Monsters (2015) (digital) (Son of Ultron-Empire).cbr | 140.12MiB
 Imperium v02 - Broken Angels (2015) (digital) (Son of Ultron-Empire).cbr | 163.46MiB
 [Imperium v03 - The Vine Imperative (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-v03-Vine-Imperative-2016-digital-Son-of-Ultron-Empire-cbr.md) | 185.07MiB
-Imperium - Prelude (2015) (digital) (Son of Ultron-Empire).cbr | 4.71MiB
-Imperium 001 (2015) (digital) (Minutemen-Spaztastic).cbr | 47.07MiB
-Imperium 002 (2015) (digital) (Minutemen-Spaztastic).cbr | 43.69MiB
+[Imperium - Prelude (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-Prelude-2015-digital-Son-of-Ultron-Empire-cbr.md) | 4.71MiB
+[Imperium 001 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-001-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.07MiB
+[Imperium 002 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-002-2015-digital-Minutemen-Spaztastic-cbr.md) | 43.69MiB
 [Imperium 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.44MiB
 [Imperium 004 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-004-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.55MiB
 [Imperium 005 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperium-005-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.81MiB

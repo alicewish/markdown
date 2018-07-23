@@ -185,7 +185,7 @@ Frankenstein's Womb (2009) (Digital-Empire).cbr | 141.64MiB
 Jingle Belle - Santa Claus Vs. Frankenstein 01 (2008) (2 covers) (the scangstas-DCP).cbr | 15.01MiB
 &emsp;【Frankenstein/Joe Frankenstein (001-004+TPB)(2015)(digital)(Son of Ultron-Empire)】 | 
 Joe Frankenstein (2015) (digital) (Minutemen-Slayer).cbr | 185.62MiB
-Joe Frankenstein 001 (2015) (digital) (Son of Ultron-Empire).cbr | 46.75MiB
+[Joe Frankenstein 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.75MiB
 [Joe Frankenstein 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.41MiB
 [Joe Frankenstein 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.21MiB
 [Joe Frankenstein 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Joe-Frankenstein-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.92MiB

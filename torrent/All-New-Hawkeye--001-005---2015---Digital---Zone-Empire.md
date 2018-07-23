@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-All-New Hawkeye 001 (2015) (Digital) (Zone-Empire).cbr | 34.04MiB
+[All-New Hawkeye 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Hawkeye-001-2015-Digital-Zone-Empire-cbr.md) | 34.04MiB
 [All-New Hawkeye 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Hawkeye-002-2015-Digital-Zone-Empire-cbr.md) | 29.52MiB
 [All-New Hawkeye 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Hawkeye-003-2015-Digital-Zone-Empire-cbr.md) | 34.74MiB
 [All-New Hawkeye 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Hawkeye-004-2015-Digital-Zone-Empire-cbr.md) | 36.01MiB

@@ -14,4 +14,4 @@ Online | Download
 [Pumpkinhead 002 (2018) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pumpkinhead-002-2018-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 63.84MiB
 [Pumpkinhead 003 (2018) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pumpkinhead-003-2018-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 61.66MiB
 Pumpkinhead 004 (2018) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 63.19MiB
-Pumpkinhead 005 (2018) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 57.62MiB
+[Pumpkinhead 005 (2018) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pumpkinhead-005-2018-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 57.62MiB

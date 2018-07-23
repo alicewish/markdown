@@ -29,7 +29,7 @@ Abe Sapien 016 - Sacred Places (2014) (digital) (Minutemen-PhD).cbr | 23.89MiB
 Abe Sapien 017 - Sacred Places (2014) (digital) (Minutemen-PhD).cbr | 21.63MiB
 Abe Sapien 018 (2014) (digital) (Minutemen-PhD).cbr | 21.07MiB
 [Abe Sapien 019 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-019-2015-digital-Minutemen-PhD-cbr.md) | 20.92MiB
-Abe Sapien 020 (2015) (digital) (Minutemen-PhD).cbr | 20.76MiB
+[Abe Sapien 020 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-020-2015-digital-Minutemen-PhD-cbr.md) | 20.76MiB
 [Abe Sapien 021 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-021-2015-digital-Minutemen-PhD-cbr.md) | 24.76MiB
 [Abe Sapien 022 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-022-2015-digital-Minutemen-PhD-cbr.md) | 21.88MiB
 [Abe Sapien 023 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-023-2015-digital-Minutemen-PhD-cbr.md) | 18.04MiB

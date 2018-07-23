@@ -14,6 +14,10 @@ Five Weapons
 
 
 
+相关种子⬇Related Torrents
+
+[Five Weapons (001 - 010) (2013 - Ongoing) (Digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Five-Weapons--001---010---2013---Ongoing---Digital---Son-of-Ultron-Empire.md)
+
 Online | Download
 --- | ---
 Five Weapons 001 (2013) (digital) (Son of Ultron-Empire).cbr | [54.43MiB](https://pan.baidu.com/s/1hsCNjdq#list/path=%2F0-Day%20Week%20of%202013%20Q1%2F0-Day%20Week%20of%202013.02.27%2F%E3%82%AB%E3%82%AD%E3%82%A6%E3%82%AB%E3%82%B7%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%BF%E3%82%BF%E3%82%A8%E3%82%AB%E3%82%B1%E3%82%B7%E3%82%A8%E3%82%BF%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%B1%E3%82%BF%E3%82%B7%E3%82%A4%E3%82%AA%E3%82%B9%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%A8%E3%82%A4%E3%82%B1%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202013%20Q1)

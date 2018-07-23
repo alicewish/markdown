@@ -179,7 +179,7 @@ Link to Reading Order & More.txt | 1.60KiB
 [Rai 014 (2016) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-014-2016-digital-Minutemen-Spaztastic-cbr.md) | 48.83MiB
 [Rai 015 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-015-2016-digital-Son-of-Ultron-Empire-cbr.md) | 51.34MiB
 [Rai 016 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-016-2016-digital-Son-of-Ultron-Empire-cbr.md) | 53.50MiB
-Book of Death (2016) (digital) (Son of Ultron-Empire).cbr | 240.52MiB
+[Book of Death (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Book-of-Death-2016-digital-Son-of-Ultron-Empire-cbr.md) | 240.52MiB
 Valiant 8-Bit Cover Gallery (2013) (12 covers only) (digital) (digital-Empire).cbr | 12.97MiB
 Valiant Comics (FCBD) (2013) (digital-Empire).cbz | 50.98MiB
 Valiant Comics FCBD 2012 Special (2012) (c2c) (FCBD) (Minutemen).cbr | 23.75MiB

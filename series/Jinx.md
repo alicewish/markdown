@@ -23,3 +23,4 @@ Jinx 003 (2012) (Digital-SD) (Asgard-Empire).cbr | 9.41MiB
 Jinx 004 (2012) (Digital-SD) (Asgard-Empire).cbr | 9.13MiB
 Jinx v01 (2012) (Digital-SD) (Asgard-Empire).cbr | 43.07MiB
 Jinx v02 - Little Miss Steps (2013) (digital) (Salem-Empire).cbr | 125.69MiB
+Jinx (2018) (Digital) (Zone-Empire).cbr | 338.60MiB

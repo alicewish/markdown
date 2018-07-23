@@ -16,6 +16,8 @@ GUNS! SEX! SECRET CULTS! AND MONSTERS! Nothing the BEST-SELLING and AWARD-WINNIN
 
 相关种子⬇Related Torrents
 
+[Fatale (001 - 023) (2012 - Ongoing) (digital) (Minutemen-InnerDemons)](https://github.com/alicewish/markdown/blob/master/torrent/Fatale--001---023---2012---Ongoing---digital---Minutemen-InnerDemons.md)
+
 [Fatale (001 - 024) (2012 - 2014) (digital) (Minutemen-InnerDemons)](https://github.com/alicewish/markdown/blob/master/torrent/Fatale--001---024---2012---2014---digital---Minutemen-InnerDemons.md)
 
 [Fatale (001-024+)(2012-2014)(digital)(Minutemen-InnerDemons)](https://github.com/alicewish/markdown/blob/master/torrent/Fatale--001-024---2012-2014--digital--Minutemen-InnerDemons.md)

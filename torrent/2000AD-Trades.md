@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【2000AD Trades】 | 
-2000AD Origins (2015) (Digital) (DR & Quinch-Empire).cbr | 73.86MiB
+[2000AD Origins (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/2000AD-Origins-2015-Digital-DR-Quinch-Empire-cbr.md) | 73.86MiB
 2000AD Presents Sci-Fi Thrillers (2013) (Digital) (DR & Quinch-Empire).cbr | 360.79MiB
 ABC Warriors - The Volgan War Books 1-3.cbr | 90.01MiB
 ABC Warriors 1 The Meknificent Seven.cbr | 165.00MiB

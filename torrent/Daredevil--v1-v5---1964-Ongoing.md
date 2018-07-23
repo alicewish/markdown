@@ -580,7 +580,7 @@ Daredevil 001 (2011) (6 covers) (SpiritusPopuli-Minutemen-DCP).cbr | 37.88MiB
 [Daredevil 036 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-036-2014-digital-Minutemen-InnerDemons-cbr.md) | 28.51MiB
 [Daredevil Annual 01 (2012) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-Annual-01-2012-digital-Minutemen-InnerDemons-cbr.md) | 70.98MiB
 &emsp;【Daredevil (v1-v5+)(1964-Ongoing)/Daredevil v4 (00.1-018)(2014-2015)(digital)(Minutemen-InnerDemons)】 | 
-Daredevil 00.1 (2014) (Digital) (Zone-Empire).cbr | 133.46MiB
+[Daredevil 00.1 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-00-1-2014-Digital-Zone-Empire-cbr.md) | 133.46MiB
 [Daredevil 001 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-001-2014-digital-Minutemen-InnerDemons-cbr.md) | 28.28MiB
 [Daredevil 001.5 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-001-5-2014-digital-Minutemen-InnerDemons-cbr.md) | 69.12MiB
 [Daredevil 002 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-002-2014-digital-Minutemen-InnerDemons-cbr.md) | 25.05MiB

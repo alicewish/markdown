@@ -26,6 +26,8 @@ The fate of mutantkind is decided here! Staring down the threat of extinction on
 
 [Extraordinary X-Men (v01-v03) (2016-2017) (digital) (Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Extraordinary-X-Men--v01-v03---2016-2017---digital---Minutemen-Excelsior.md)
 
+[Extraordinary X-Men (v01-v04)(2016-2017)(digital)](https://github.com/alicewish/markdown/blob/master/torrent/Extraordinary-X-Men--v01-v04--2016-2017--digital.md)
+
 Online | Download
 --- | ---
 Extraordinary X-Men 001 (2016) (digital) (Minutemen-Faessla).cbz | 58.32MiB

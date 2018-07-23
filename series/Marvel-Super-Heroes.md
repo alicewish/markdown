@@ -1,4 +1,4 @@
-# Marvel Super Heroes
+# Marvel Super-Heroes
 
 打包下载📦仍在工事中
 
@@ -27,6 +27,7 @@ A prisoner transfer goes horribly wrong - and Sabretooth is loose on the streets
 Online | Download
 --- | ---
 Marvel Super Heroes 012 (1967) (Digital) (Shadowcat-Empire).cbz | 28.40MiB
+Marvel Super-Heroes 013 (1968) (Digital) (Asgard-Empire).cbr | 39.34MiB
 Marvel Super-Heroes 014 (1968) (The Reprehensible Riddle of the Sorcerer Only) (Digital) (AnHeroGold-Empire).cbz | 19.16MiB
 Marvel Super-Heroes 014 (1968) (The Reprehensible Riddle of the Sorcerer) (Digital-HD) (AnHeroGold-Empire).cbr | 46.07MiB
 Marvel Super-Heroes 014 (1968) (digital-SD) (Minutemen-Cococha).cbr | 7.34MiB

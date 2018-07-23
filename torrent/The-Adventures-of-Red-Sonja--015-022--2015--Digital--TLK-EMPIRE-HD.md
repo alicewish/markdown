@@ -10,11 +10,11 @@
 
 Online | Download
 --- | ---
-The Adventures of Red Sonja 015(2015)(Digital)(TLK-EMPIRE-HD).cbr | 28.27MiB
-The Adventures of Red Sonja 016(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.73MiB
-The Adventures of Red Sonja 017(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.47MiB
-The Adventures of Red Sonja 018(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.90MiB
-The Adventures of Red Sonja 019(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.04MiB
-The Adventures of Red Sonja 020(2015)(Digital)(TLK-EMPIRE-HD).cbr | 27.04MiB
-The Adventures of Red Sonja 021(2015)(Digital)(TLK-EMPIRE-HD).cbr | 26.96MiB
-The Adventures of Red Sonja 022(2015)(Digital)(TLK-EMPIRE-HD).cbr | 26.68MiB
+[The Adventures of Red Sonja 015(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-015-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 28.27MiB
+[The Adventures of Red Sonja 016(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-016-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.73MiB
+[The Adventures of Red Sonja 017(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-017-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.47MiB
+[The Adventures of Red Sonja 018(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-018-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.90MiB
+[The Adventures of Red Sonja 019(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-019-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.04MiB
+[The Adventures of Red Sonja 020(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-020-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 27.04MiB
+[The Adventures of Red Sonja 021(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-021-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 26.96MiB
+[The Adventures of Red Sonja 022(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventures-of-Red-Sonja-022-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 26.68MiB

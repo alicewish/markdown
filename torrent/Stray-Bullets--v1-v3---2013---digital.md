@@ -70,7 +70,7 @@ Stray Bullets - Killers 006 (2014) (digital) (Son of Ultron-Empire).cbr | 41.28M
 Stray Bullets - Killers 007 (2014) (digital) (Son of Ultron-Empire).cbr | 41.19MiB
 Stray Bullets - Killers 008 (2014) (digital) (Son of Ultron-Empire).cbr | 48.16MiB
 &emsp;【Stray Bullets (v1-v3+)(2013-)(digital)/Stray Bullets v3 Sunshine & Roses (001-025)(2015-)(digital)(Son of Ultron-Empire)】 | 
-Stray Bullets - Sunshine & Roses 001 (2015) (digital) (Son of Ultron-Empire).cbr | 34.37MiB
+[Stray Bullets - Sunshine & Roses 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.37MiB
 [Stray Bullets - Sunshine & Roses 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.80MiB
 [Stray Bullets - Sunshine & Roses 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.57MiB
 [Stray Bullets - Sunshine & Roses 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.13MiB

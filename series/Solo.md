@@ -20,6 +20,8 @@ The "One Man War on Terror" will get the job done! That's right — James Bourne
 
 Online | Download
 --- | ---
+Solo, 2004-10-00 (#01) (digital) (Glorith-HD).cbz | 40.81MiB
+Solo, 2005-06-00 (#05) (digital) (Glorith-HD).cbz | 55.80MiB
 Solo 005 (2005) (digital) (Son of Ultron-Empire).cbr | 55.46MiB
 [Solo 001 (2016) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Solo-001-2016-digital-Minutemen-Faessla-cbz.md) | [46.00MiB](https://pan.baidu.com/s/1qXRNzbQ#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.10.19%2F%E3%82%BD%E3%82%B3%E3%82%A8%E3%82%B1%E3%82%AD%E3%82%A6%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%AF%E3%82%B5%E3%82%BF%E3%82%AA%E3%82%A8%E3%82%B1%E3%82%BB%E3%82%B7%E3%82%A2%E3%82%AD%E3%82%A8%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A4%E3%82%AD%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%A4%E3%82%A8%E3%82%A6%E3%82%AD&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
 [Solo 001 (2016) (digital) (Oroboros-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Solo-001-2016-digital-Oroboros-DCP-cbr.md) | [46.38MiB](https://pan.baidu.com/s/1o8uXFLo#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.10.12%2F%E3%82%AB%E3%82%B3%E3%82%BF%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%AA%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%B9%E3%82%A4%E3%82%A4%E3%82%A6%E3%82%B9%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%AB%E3%82%BB%E3%82%B3%E3%82%AB%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202016%20Q4)

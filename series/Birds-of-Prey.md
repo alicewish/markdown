@@ -40,6 +40,8 @@ One is wanted for a murder she didn't commit. The other is on the run because sh
 
 [Birds Of Prey v2 (001 - 015) (2010 - 2011) (Minutemen)](https://github.com/alicewish/markdown/blob/master/torrent/Birds-Of-Prey-v2--001---015---2010---2011---Minutemen.md)
 
+[Birds of Prey (001 - 027 + extras) (ongoing)](https://github.com/alicewish/markdown/blob/master/torrent/Birds-of-Prey--001---027---extras---ongoing.md)
+
 [Birds of Prey (v01-v05)(2013-2015)(digital)(Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Birds-of-Prey--v01-v05--2013-2015--digital--Son-of-Ultron-Empire.md)
 
 [Birds of Prey v1 (001 - 127) (1999 - 2009) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Birds-of-Prey-v1--001---127---1999---2009---digital-Empire.md)

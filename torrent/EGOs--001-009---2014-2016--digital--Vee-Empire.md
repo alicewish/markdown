@@ -14,8 +14,8 @@ EGOs 001 (2014) (Digital) (Vee-Empire).cbr | 49.28MiB
 EGOs 002 (2014) (Digital) (Vee-Empire).cbr | 52.28MiB
 EGOs 003 (2014) (Digital) (Vee-Empire).cbr | 49.60MiB
 EGOs 004 (2014) (Digital) (Vee-Empire).cbr | 38.17MiB
-EGOs 005 (2015) (Digital) (Vee-Empire).cbr | 40.08MiB
-EGOs 006 (2015) (Digital) (Vee-Empire).cbr | 46.12MiB
+[EGOs 005 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EGOs-005-2015-Digital-Vee-Empire-cbr.md) | 40.08MiB
+[EGOs 006 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EGOs-006-2015-Digital-Vee-Empire-cbr.md) | 46.12MiB
 [EGOs 007 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EGOs-007-2015-Digital-Vee-Empire-cbr.md) | 42.24MiB
 [EGOs 008 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EGOs-008-2015-Digital-Empire-cbr.md) | 41.07MiB
 [EGOs 009 (2016) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/EGOs-009-2016-Digital-Empire-cbr.md) | 43.26MiB

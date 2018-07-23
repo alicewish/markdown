@@ -16,6 +16,7 @@ Spinning out of THE NEW TITANS, the Team Titans gain their very own title! Hurdl
 
 Online | Download
 --- | ---
+Team Titans, 1992-07-00 (#01 All Editions) (five covers) (digital) (Glorith-HD).cbz | 188.87MiB
 Team Titans 04 (1992-12) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 43.56MiB
 Team Titans 05 (1993-02) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 38.59MiB
 Team Titans 10 (1993-05) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | [50.82MiB](https://pan.baidu.com/s/1nvpLjnXx23dP_5IucotKaw#list/path=%2FNovus%20-%20Week%20of%202015%20Q1%2FNovus%20-%20Week%20of%202015-01-21%2F%E3%82%A8%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%BF%E3%82%AA%E3%82%A6%E3%82%A6%E3%82%AD%E3%82%AB%E3%82%A2%E3%82%B3%E3%82%AB%E3%82%AD%E3%82%B7%E3%82%AD%E3%82%A6%E3%82%B7%E3%82%AF%E3%82%BB%E3%82%B7%E3%82%B1%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%B1%E3%82%AA%E3%82%B1%E3%82%BD&parentPath=%2FNovus%20-%20Week%20of%202015%20Q1)

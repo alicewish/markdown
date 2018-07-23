@@ -10,5 +10,5 @@
 
 Online | Download
 --- | ---
-Alexandro Jodorowsky's Screaming Planet 01 (2011) (Digital) (phillywilly-Empire).cbr | 73.66MiB
-Alexandro Jodorowsky's Screaming Planet 02 (2013) (Digital) (phillywilly-Empire).cbr | 83.55MiB
+[Alexandro Jodorowsky's Screaming Planet 01 (2011) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alexandro-Jodorowskys-Screaming-Planet-01-2011-Digital-phillywilly-Empire-cbr.md) | 73.66MiB
+[Alexandro Jodorowsky's Screaming Planet 02 (2013) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alexandro-Jodorowskys-Screaming-Planet-02-2013-Digital-phillywilly-Empire-cbr.md) | 83.55MiB

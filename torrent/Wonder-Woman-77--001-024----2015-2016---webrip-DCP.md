@@ -16,7 +16,7 @@ Online | Download
 [Wonder Woman '77 Vol 01 002 (2015) (Print Version) (Digital) (HD) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-Vol-01-002-2015-Print-Version-Digital-HD-Thornn-Empire-cbr.md) | 85.55MiB
 [Wonder Woman '77 001 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-001-2015-webrip-DCP-cbr.md) | 14.99MiB
 [Wonder Woman '77 002 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-002-2015-webrip-DCP-cbr.md) | 13.95MiB
-Wonder Woman '77 003 (2015) (webrip-DCP).cbr | 16.01MiB
+[Wonder Woman '77 003 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-003-2015-webrip-DCP-cbr.md) | 16.01MiB
 [Wonder Woman '77 004 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-004-2015-webrip-DCP-cbr.md) | 11.13MiB
 [Wonder Woman '77 005 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-005-2015-webrip-DCP-cbr.md) | 13.72MiB
 [Wonder Woman '77 006 (2015) (webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-77-006-2015-webrip-DCP-cbr.md) | 13.45MiB

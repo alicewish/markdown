@@ -23,6 +23,7 @@ Romantic Story 73 c2c Charlton Sep 1964 titansfan.cbz | 23.36MiB
 Romantic Story 77 c2c Charlton Jul 1965 titansfan.cbz | 22.92MiB
 Romantic Story 78 c2c Charlton Aug 1965 titansfan.cbz | 23.70MiB
 Romantic Story 79 c2c Charlton Oct 1965 titansfan.cbz | 24.20MiB
+Romantic Story 082 c2c Charlton Apr-May 1966 Kracalactaka.cbz | 40.80MiB
 Romantic Story 083 (Charlton 1966) (c2c) (titansfan).cbz | 23.81MiB
 Romantic Story 86 Charlton Jan 1967 Kracalactaka.cbz | 51.82MiB
 Romantic Story 88 (c2c upgrade) Charlton June 1967 Kracalactaka.cbz | 29.71MiB

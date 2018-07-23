@@ -46,6 +46,15 @@ The Question 07 (1987) (digital) (Glorith-Novus-HD).cbz | [50.51MiB](https://pan
 The Question, 1987-06-00 (#07) (digital) (Glorith-Novus-HD).cbz | 50.51MiB
 The Question 08 (1987) (digital) (Glorith-Novus-HD).cbz | [46.52MiB](https://pan.baidu.com/s/1hsMq8yo#list/path=%2FNovus%20-%20Week%20of%202016%20Q4%2FNovus%20-%20Week%20of%202016-11-02%2F%E3%82%AF%E3%82%B1%E3%82%BD%E3%82%A8%E3%82%B3%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%A8%E3%82%BF%E3%82%B5%E3%82%BB%E3%82%AA%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%A8%E3%82%B1%E3%82%AB%E3%82%AB%E3%82%BB%E3%82%BF%E3%82%B1%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%AD%E3%82%BB%E3%82%AB%E3%82%BF%E3%82%BD&parentPath=%2FNovus%20-%20Week%20of%202016%20Q4)
 The Question, 1987-07-00 (#08) (digital) (Glorith-Novus-HD).cbz | 46.52MiB
+The Question 009 (1987) (Digital) (Shadowcat-Empire).cbz | 36.42MiB
+The Question 010 (1987) (Digital) (Shadowcat-Empire).cbz | 42.62MiB
+The Question 011 (1987) (Digital) (Shadowcat-Empire).cbz | 45.29MiB
+The Question 012 (1988) (Digital) (Shadowcat-Empire).cbz | 42.31MiB
+The Question 013 (1988) (Digital) (Shadowcat-Empire).cbz | 42.46MiB
+The Question 014 (1988) (Digital) (Shadowcat-Empire).cbz | 42.28MiB
 The Question 015 (1988) (Digital) (Shadowcat-Empire).cbz | 38.44MiB
 The Question 016 (1988) (Digital) (Shadowcat-Empire).cbz | 37.42MiB
 The Question 017 (1988) (Digital) (Shadowcat-Empire).cbz | 42.46MiB
+The Question 018 (1988) (Digital) (Shadowcat-Empire).cbz | 45.79MiB
+The Question 019 (1988) (Digital) (Shadowcat-Empire).cbz | 40.06MiB
+The Question 020 (1988) (Digital) (Shadowcat-Empire).cbz | 40.68MiB

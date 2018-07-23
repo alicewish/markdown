@@ -61,6 +61,7 @@
 ![00d.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbea94rhuj21iw2cw1kx.jpg)
 ![Grayson (2014-) 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbedqyeczj21j82cw1kx.jpg)
 ![Green Lantern Corps 038 (2015) (Digital-Empire)-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqbm83wohoj21j82cwb29.jpg)
+![2015-01-14 07-20-12 - Green Lantern Corps (2011-) 038-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftezbeyn8gj21j82cwb29.jpg)
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbej4xt2qj21j82cwhdt.jpg)
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbenyjnulj21j82cwb29.jpg)
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbersprbrj21kw2g1b2b.jpg)
@@ -242,6 +243,8 @@
 ![Grayson (2014-) 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbedqyeczj21j82cw1kx.jpg)
 
 ![Green Lantern Corps 038 (2015) (Digital-Empire)-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqbm83wohoj21j82cwb29.jpg)
+
+![2015-01-14 07-20-12 - Green Lantern Corps (2011-) 038-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftezbeyn8gj21j82cwb29.jpg)
 
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmbej4xt2qj21j82cwhdt.jpg)
 

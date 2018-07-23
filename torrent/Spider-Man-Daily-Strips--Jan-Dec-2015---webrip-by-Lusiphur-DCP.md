@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Spider-Man Daily Strip 2015-01 (webrip by Lusiphur-DCP).cbz | 9.87MiB
-Spider-Man Daily Strip 2015-02 (webrip by Lusiphur-DCP).cbz | 9.28MiB
+[Spider-Man Daily Strip 2015-01 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-01-webrip-by-Lusiphur-DCP-cbz.md) | 9.87MiB
+[Spider-Man Daily Strip 2015-02 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-02-webrip-by-Lusiphur-DCP-cbz.md) | 9.28MiB
 [Spider-Man Daily Strip 2015-03 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-03-webrip-by-Lusiphur-DCP-cbz.md) | 10.75MiB
 [Spider-Man Daily Strip 2015-04 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-04-webrip-by-Lusiphur-DCP-cbz.md) | 9.53MiB
 [Spider-Man Daily Strip 2015-05 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-05-webrip-by-Lusiphur-DCP-cbz.md) | 10.38MiB

@@ -14,6 +14,8 @@
 
 [Frankenstein Agent of S.H.A.D.E. (000-016)(2011-2013)(digital)(Megan-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Frankenstein-Agent-of-S-H-A-D-E---000-016--2011-2013--digital--Megan-Empire.md)
 
+[Frankenstein Agent of S.H.A.D.E. v1 (000 - 016) (2011 - 2013)](https://github.com/alicewish/markdown/blob/master/torrent/Frankenstein-Agent-of-S-H-A-D-E--v1--000---016---2011---2013.md)
+
 Online | Download
 --- | ---
 Frankenstein, Agent of S.H.A.D.E. 05 (2012) (Minutemen-ThosTew).cbz | [34.22MiB](https://pan.baidu.com/s/1mi3R8zI#list/path=%2F0-Day%20Week%20of%202012%20Q1%2F0-Day%20Week%20of%202012.01.11%2F%E3%82%A6%E3%82%BD%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%A8%E3%82%AF%E3%82%B9%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%AF%E3%82%AB%E3%82%AF%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%A2%E3%82%A6%E3%82%BF%E3%82%A6%E3%82%B7%E3%82%BD%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%B5%E3%82%BB%E3%82%BB%E3%82%B7%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202012%20Q1)

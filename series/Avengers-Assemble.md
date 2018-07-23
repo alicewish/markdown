@@ -20,6 +20,8 @@ The Avengers vs. the new Zodiac! One of the greatest Avengers villains gets rein
 
 [Avengers Assemble (001 - 021 & Annual)](https://github.com/alicewish/markdown/blob/master/torrent/Avengers-Assemble--001---021---Annual.md)
 
+[Avengers Assemble (001 - 025 + extras) (Digital)](https://github.com/alicewish/markdown/blob/master/torrent/Avengers-Assemble--001---025---extras---Digital.md)
+
 [Avengers Assemble (v01-v05)(2004-2007)(digital)(Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Avengers-Assemble--v01-v05--2004-2007--digital--Minutemen-Slayer.md)
 
 Online | Download

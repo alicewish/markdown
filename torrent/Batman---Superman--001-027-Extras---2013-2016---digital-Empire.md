@@ -45,5 +45,5 @@ Online | Download
 &emsp;【Batman - Superman (001-027+Extras) (2013-2016) (digital-Empire)/Batman - Superman TPBs (v01-v03)】 | 
 Batman - Superman v01 - Cross World (2014) (Digital) (Nahga-Empire).cbr | 236.33MiB
 Batman - Superman v02 - Game Over (2014) (Digital) (Zone-Empire).cbr | 282.69MiB
-Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr | 196.48MiB
+[Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Superman-v03-Second-Chance-2015-Digital-Zone-Empire-cbr.md) | 196.48MiB
 [DC Sneak Peek - Batman-Superman (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Batman-Superman-2015-Digital-ThatGuy-Empire-cbz.md) | 14.97MiB

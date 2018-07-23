@@ -22,6 +22,7 @@ They can’t ever win. They can’t afford to lose. The Shield is the only thing
 
 Online | Download
 --- | ---
+Siege (2010) (Digital-HD) (Asgard-Empire).cbr | 319.72MiB
 Siege, 2010-05-00 (#TPB) (digital) (Glorith-Novus-HD).cbz | 192.00MiB
 Siege 02 (of 04) (2010) (4 covers) (Minutemen-TipsyGirl).cbr | 34.42MiB
 Siege (2011) (Digital) (Asgard-Empire).cbr | 181.54MiB

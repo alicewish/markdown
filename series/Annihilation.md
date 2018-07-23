@@ -35,5 +35,6 @@ Annihilation 06 (of 06) (2006) (digital) (Minutemen-Slayer).cbr | 33.88MiB
 Annihilation 006 (2006) (Digital) (Shadowcat-Empire).cbz | 34.16MiB
 Annihilation Book One (2006) (Digital) (Asgard-Empire).cbr | 288.58MiB
 Annihilation - Book One (2006) (digital) (Minutemen-Slayer).cbr | 306.20MiB
+Annihilation Book 01 (2006) (Digital) (F2) (Zone-Empire).cbr | 346.88MiB
 Annihilation - Book Two (2007) (digital) (Minutemen-Slayer).cbr | 401.07MiB
 Annihilation - Book Three (2007) (digital) (Minutemen-Slayer).cbr | 328.46MiB

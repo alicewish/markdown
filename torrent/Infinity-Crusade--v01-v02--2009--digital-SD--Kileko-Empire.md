@@ -10,5 +10,5 @@
 
 Online | Download
 --- | ---
-Infinity Crusade v01 (2009) (Digital-SD) (Kileko-Empire).cbr | 120.66MiB
-Infinity Crusade v02 (2009) (Digital-SD) (Kileko-Empire).cbr | 123.72MiB
+[Infinity Crusade v01 (2009) (Digital-SD) (Kileko-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Crusade-v01-2009-Digital-SD-Kileko-Empire-cbr.md) | 120.66MiB
+[Infinity Crusade v02 (2009) (Digital-SD) (Kileko-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Crusade-v02-2009-Digital-SD-Kileko-Empire-cbr.md) | 123.72MiB

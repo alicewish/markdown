@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Project Superpowers - Blackcross 001 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr | 60.02MiB
+[Project Superpowers - Blackcross 001 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Project-Superpowers-Blackcross-001-2015-3-covers-digital-Son-of-Ultron-Empire-cbr.md) | 60.02MiB
 [Project Superpowers - Blackcross 002 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Project-Superpowers-Blackcross-002-2015-3-covers-digital-Son-of-Ultron-Empire-cbr.md) | 48.75MiB
 [Project Superpowers - Blackcross 003 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Project-Superpowers-Blackcross-003-2015-3-covers-digital-Son-of-Ultron-Empire-cbr.md) | 38.48MiB
 [Project Superpowers - Blackcross 004 (2015) (3 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Project-Superpowers-Blackcross-004-2015-3-covers-digital-Son-of-Ultron-Empire-cbr.md) | 49.01MiB

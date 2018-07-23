@@ -22,6 +22,8 @@ Introducing the Forever People! Legendary creator Jack Kirby introduces readers 
 
 相关种子⬇Related Torrents
 
+[Forever People (v1-v2+)(1971-2015)(digital+)](https://github.com/alicewish/markdown/blob/master/torrent/Forever-People--v1-v2---1971-2015--digital.md)
+
 [Forever People (001-006)(1987-1988)(digital)(Glorith-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Forever-People--001-006--1987-1988--digital--Glorith-HD.md)
 
 Online | Download

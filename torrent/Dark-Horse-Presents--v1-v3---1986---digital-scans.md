@@ -230,7 +230,7 @@ Dark Horse Presents 003 (2014) (digital) (Son of Ultron-Empire).cbr | 88.48MiB
 Dark Horse Presents 004 (2014) (digital) (Son of Ultron-Empire).cbr | 84.79MiB
 Dark Horse Presents 005 (2014) (digital) (Son of Ultron-Empire).cbr | 75.77MiB
 [Dark Horse Presents 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 84.95MiB
-Dark Horse Presents 007 (2015) (2 covers) (digital) (Son of Ultron-Empire).cbr | 159.41MiB
+[Dark Horse Presents 007 (2015) (2 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-007-2015-2-covers-digital-Son-of-Ultron-Empire-cbr.md) | 159.41MiB
 [Dark Horse Presents 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 100.58MiB
 [Dark Horse Presents 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 105.90MiB
 [Dark Horse Presents 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 85.18MiB

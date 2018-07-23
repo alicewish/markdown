@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Palmiotti and Brady's The Big Con Job 001 (2015) (Digital) (AnHeroGold-Empire).cbz | 34.59MiB
+[Palmiotti and Brady's The Big Con Job 001 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Palmiotti-Bradys-Big-Con-Job-001-2015-Digital-AnHeroGold-Empire-cbz.md) | 34.59MiB
 [Palmiotti and Brady's The Big Con Job 002 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Palmiotti-Bradys-Big-Con-Job-002-2015-Digital-AnHeroGold-Empire-cbz.md) | 40.70MiB
 [Palmiotti and Brady's The Big Con Job 003 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Palmiotti-Bradys-Big-Con-Job-003-2015-Digital-AnHeroGold-Empire-cbz.md) | 43.88MiB
 [Palmiotti and Brady's The Big Con Job 004 (2015) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Palmiotti-Bradys-Big-Con-Job-004-2015-Digital-AnHeroGold-Empire-cbz.md) | 41.06MiB

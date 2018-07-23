@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 The Lone Ranger - Vindicated 001 (2014) (2 covers) (GreenManGroup-DCP).cbr | 29.77MiB
 The Lone Ranger - Vindicated 002 (2014) (GreenManGroup-DCP).cbr | 26.58MiB
-The Lone Ranger - Vindicated 003 (2015) (GreenManGroup-DCP).cbr | 26.27MiB
-The Lone Ranger - Vindicated 004 (2015) (GreenManGroup-DCP).cbr | 29.02MiB
+[The Lone Ranger - Vindicated 003 (2015) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lone-Ranger-Vindicated-003-2015-GreenManGroup-DCP-cbr.md) | 26.27MiB
+[The Lone Ranger - Vindicated 004 (2015) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lone-Ranger-Vindicated-004-2015-GreenManGroup-DCP-cbr.md) | 29.02MiB

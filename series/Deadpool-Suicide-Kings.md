@@ -18,6 +18,8 @@ Deadpool's latest job has gotten him into a world of trouble. Everyone wants a p
 
 [Deadpool - Suicide Kings (001-005) (2009) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Deadpool---Suicide-Kings--001-005---2009---digital---Minutemen-Faessla.md)
 
+[Deadpool - Suicide Kings (01 - 05 + Variants) (2009)](https://github.com/alicewish/markdown/blob/master/torrent/Deadpool---Suicide-Kings--01---05---Variants---2009.md)
+
 Online | Download
 --- | ---
 Deadpool - Suicide Kings 001 (2009) (Digital) (AnHeroGold-Empire).cbz | 36.78MiB

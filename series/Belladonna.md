@@ -18,6 +18,8 @@ The tables are turned on the word's most beautiful -- and most vicious -- assass
 
 [Belladonna (000-001) (2015-2016) (digital) (Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Belladonna--000-001---2015-2016---digital---Minutemen-Excelsior.md)
 
+[Belladonna (000-004+)(2015-2017)(digital)(600dpi)(Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Belladonna--000-004---2015-2017--digital--600dpi--Minutemen-Excelsior.md)
+
 Online | Download
 --- | ---
 Belladonna (2010) (digital) (Minutemen-Entombed).cbr | 53.72MiB

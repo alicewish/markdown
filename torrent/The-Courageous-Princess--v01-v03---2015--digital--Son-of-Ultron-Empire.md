@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 The Courageous Princess v01 - Beyond the Hundred Kingdoms (2015, 3rd print) (digital) (Son of Ultron-Empire).cbr | 380.78MiB
-The Courageous Princess v01 - Beyond the Hundred Kingdoms Preview (2015) (digital) (Son of Ultron-Empire).cbr | 31.47MiB
+[The Courageous Princess v01 - Beyond the Hundred Kingdoms Preview (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Courageous-Princess-v01-Beyond-Hundred-Kingdoms-Preview-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.47MiB
 The Courageous Princess v02 - The Unremembered Lands (2015) (digital) (Son of Ultron-Empire).cbr | 282.56MiB
 The Courageous Princess v03 - Dragon Queen (2015) (digital) (Son of Ultron-Empire).cbr | 215.19MiB

@@ -24,6 +24,8 @@ The Hooded Man! Lightwave! Banner! Natalie X! Psionics! Alex Ultron! They're the
 
 [Fantastic Force (001-004) (2009) (digital-SD) (Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Fantastic-Force--001-004---2009---digital-SD---Minutemen-Slayer.md)
 
+[Fantastic Force v1 (001 - 018) (1994 - 1996)](https://github.com/alicewish/markdown/blob/master/torrent/Fantastic-Force-v1--001---018---1994---1996.md)
+
 Online | Download
 --- | ---
 Fantastic Force 001 (1994) (Digital) (Shadowcat-Empire).cbz | 47.75MiB

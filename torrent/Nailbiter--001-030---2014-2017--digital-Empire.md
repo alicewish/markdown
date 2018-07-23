@@ -17,7 +17,7 @@ Nailbiter v02 - Bloody Hands (2015) (Digital) (Zone-Empire).cbr | 155.36MiB
 [Nailbiter v03 - Blood in the Water (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-v03-Blood-in-Water-2015-Digital-DR-Quinch-Empire-cbr.md) | 242.86MiB
 Nailbiter v04 - Blood Lust (2016) (Digital) (Zone-Empire).cbr | 155.88MiB
 Nailbiter v05 - Bound by Blood (2016) (Digital) (Zone-Empire).cbr | 169.58MiB
-Nailbiter - Hack-Slash OS (2015) (Digital) (The Dark VI-Empire).cbr | 60.03MiB
+[Nailbiter - Hack-Slash OS (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-Hack-Slash-OS-2015-Digital-Dark-VI-Empire-cbr.md) | 60.03MiB
 Nailbiter - The Murder Edition v01 (2016) (Digital) (Zone-Empire).cbr | 309.41MiB
 Nailbiter 001 (2014) (Digital) (Darkness-Empire).cbr | 43.56MiB
 Nailbiter 002 (2014) (Digital) (Darkness-Empire).cbr | 44.12MiB
@@ -28,7 +28,7 @@ Nailbiter 006 (2014) (Digital) (Darkness-Empire).cbr | 40.42MiB
 Nailbiter 007 (2014) (Digital) (Darkness-Empire).cbr | 41.06MiB
 Nailbiter 008 (2014) (Digital) (Darkness-Empire).cbr | 41.14MiB
 [Nailbiter 009 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-009-2015-Digital-Darkness-Empire-cbr.md) | 33.40MiB
-Nailbiter 010 (2015) (Digital) (Darkness-Empire).cbr | 34.85MiB
+[Nailbiter 010 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-010-2015-Digital-Darkness-Empire-cbr.md) | 34.85MiB
 [Nailbiter 011 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-011-2015-Digital-Mephisto-Empire-cbr.md) | 38.63MiB
 [Nailbiter 012 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-012-2015-Digital-Mephisto-Empire-cbr.md) | 37.85MiB
 [Nailbiter 013 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-013-2015-Digital-Mephisto-Empire-cbr.md) | 39.83MiB

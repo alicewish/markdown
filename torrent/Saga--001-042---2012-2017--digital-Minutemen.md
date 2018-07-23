@@ -17,7 +17,7 @@ Saga v01 (2012) (Digital) (Zone-Empire).cbr | 324.33MiB
 Saga v02 (2013) (Digital) (Zone-Empire).cbr | 142.37MiB
 Saga v03 (2014) (Digital) (Zone-Empire).cbr | 142.63MiB
 Saga v04 (2014) (Digital) (Zone-Empire).cbr | 145.59MiB
-Saga v05 (2015) (Digital) (Zone-Empire).cbr | 223.04MiB
+[Saga v05 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-v05-2015-Digital-Zone-Empire-cbr.md) | 223.04MiB
 Saga v06 (2016) (Digital) (Zone-Empire).cbr | 135.16MiB
 Saga 001 (2012) (digital) (Minutemen-Spaztastic).cbr | 32.22MiB
 Saga 002 (2012) (2nd Printing Variant Cover) (Chairmen-Novus-HD).cbz | 1.45MiB
@@ -45,8 +45,8 @@ Saga 021 (2014) (digital) (Minutemen-Spaztastic).cbr | 31.04MiB
 Saga 022 (2014) (digital) (Minutemen-Spaztastic).cbr | 32.27MiB
 Saga 023 (2014) (digital) (Minutemen-Spaztastic).cbr | 34.03MiB
 Saga 024 (2014) (digital) (Minutemen-Spaztastic).cbr | 30.80MiB
-Saga 025 (2015) (digital) (Minutemen-Spaztastic).cbr | 30.01MiB
-Saga 026 (2015) (digital) (Minutemen-Spaztastic).cbr | 32.95MiB
+[Saga 025 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-025-2015-digital-Minutemen-Spaztastic-cbr.md) | 30.01MiB
+[Saga 026 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-026-2015-digital-Minutemen-Spaztastic-cbr.md) | 32.95MiB
 [Saga 027 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-027-2015-digital-Minutemen-Spaztastic-cbr.md) | 29.77MiB
 [Saga 028 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-028-2015-digital-Minutemen-Spaztastic-cbr.md) | 31.74MiB
 [Saga 029 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-029-2015-digital-Minutemen-Spaztastic-cbr.md) | 35.69MiB

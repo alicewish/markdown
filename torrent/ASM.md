@@ -444,8 +444,8 @@ Spider-Man Daily Strip 2014-10 (webrip by Lusiphur-DCP).cbz | 10.03MiB
 Spider-Man Daily Strip 2014-11 (webrip by Lusiphur-DCP).cbz | 10.01MiB
 Spider-Man Daily Strip 2014-12 (webrip by Lusiphur-DCP).cbz | 10.27MiB
 &emsp;【ASM/Extras/Spider-Man Newspaper Strips (1977-1979,2000-2016)(Lusiphur-DCP)/Spider-Man Daily Strip (2015) (webrip by Lusiphur-DCP)】 | 
-Spider-Man Daily Strip 2015-01 (webrip by Lusiphur-DCP).cbz | 9.87MiB
-Spider-Man Daily Strip 2015-02 (webrip by Lusiphur-DCP).cbz | 9.28MiB
+[Spider-Man Daily Strip 2015-01 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-01-webrip-by-Lusiphur-DCP-cbz.md) | 9.87MiB
+[Spider-Man Daily Strip 2015-02 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-02-webrip-by-Lusiphur-DCP-cbz.md) | 9.28MiB
 [Spider-Man Daily Strip 2015-03 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-03-webrip-by-Lusiphur-DCP-cbz.md) | 10.75MiB
 [Spider-Man Daily Strip 2015-04 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-04-webrip-by-Lusiphur-DCP-cbz.md) | 9.53MiB
 [Spider-Man Daily Strip 2015-05 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-05-webrip-by-Lusiphur-DCP-cbz.md) | 10.38MiB

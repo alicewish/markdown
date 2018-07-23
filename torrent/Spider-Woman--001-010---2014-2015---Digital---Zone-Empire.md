@@ -12,9 +12,9 @@ Online | Download
 --- | ---
 Spider-Woman 001 (2014) (Digital) (Zone-Empire).cbr | 38.23MiB
 Spider-Woman 002 (2015) (Digital) (Zone-Empire).cbr | 37.09MiB
-Spider-Woman 003 (2015) (Digital) (Zone-Empire).cbr | 37.70MiB
-Spider-Woman 004 (2015) (Digital) (Zone-Empire).cbr | 37.82MiB
-Spider-Woman 005 (2015) (Digital) (Zone-Empire).cbr | 36.92MiB
+[Spider-Woman 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-003-2015-Digital-Zone-Empire-cbr.md) | 37.70MiB
+[Spider-Woman 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-004-2015-Digital-Zone-Empire-cbr.md) | 37.82MiB
+[Spider-Woman 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-005-2015-Digital-Zone-Empire-cbr.md) | 36.92MiB
 [Spider-Woman 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-006-2015-Digital-Zone-Empire-cbr.md) | 35.01MiB
 [Spider-Woman 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-007-2015-Digital-Zone-Empire-cbr.md) | 33.16MiB
 [Spider-Woman 008 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-008-2015-Digital-Zone-Empire-cbr.md) | 36.93MiB

@@ -24,7 +24,7 @@ Lumberjanes 007 (2014) (digital) (Son of Ultron-Empire).cbr | 63.11MiB
 Lumberjanes 008 (2014) (digital) (Son of Ultron-Empire).cbr | 47.34MiB
 Lumberjanes 009 (2014) (digital) (Son of Ultron-Empire).cbr | 43.96MiB
 [Lumberjanes 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 55.03MiB
-Lumberjanes 011 (2015) (digital) (Son of Ultron-Empire).cbr | 52.13MiB
+[Lumberjanes 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 52.13MiB
 [Lumberjanes 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 52.15MiB
 [Lumberjanes 013 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-013-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.17MiB
 [Lumberjanes 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lumberjanes-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.82MiB

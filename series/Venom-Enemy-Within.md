@@ -31,3 +31,4 @@ Venom - The Enemy Within 002 (1994) (Digital) (Zone-Empire).cbr | 73.46MiB
 Venom - The Enemy Within 03 (of 03) (1994) (digital) (Minutemen-Slayer).cbr | 18.84MiB
 Venom - The Enemy Within 003 (1994) (Digital) (Zone-Empire).cbr | 72.55MiB
 Venom - The Enemy Within (2013) (digital) (Minutemen-Excelsior).cbz | 551.77MiB
+Venom - The Enemy Within (2017) (GMVMVD).cbr | 435.12MiB

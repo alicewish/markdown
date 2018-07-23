@@ -14,6 +14,10 @@ Green Lantern Hal Jordan was one of the DC Universe's greatest heroes, till trag
 
 
 
+相关种子⬇Related Torrents
+
+[Green Lantern - Rebirth (001 - 006) (2004 - 2005) (Digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern---Rebirth--001---006---2004---2005---Digital-Empire.md)
+
 Online | Download
 --- | ---
 Green Lantern - Rebirth 001 (2004) (digital) (Oroboros-DCP).cbr | 54.46MiB

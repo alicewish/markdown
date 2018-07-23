@@ -36,13 +36,31 @@ In Ancient Egypt, he was known as Prince Khufu. Today he is called Carter Hall. 
 
 Online | Download
 --- | ---
+Hawkman 001 (1964) (Digital) (Shadowcat-Empire).cbz | 32.10MiB
+Hawkman 002 (1964) (Digital) (Shadowcat-Empire).cbz | 30.05MiB
+Hawkman 003 (1964) (Digital) (Shadowcat-Empire).cbz | 28.18MiB
+Hawkman 004 (1964) (Digital) (Shadowcat-Empire).cbz | 36.74MiB
+Hawkman 005 (1965) (Digital) (Shadowcat-Empire).cbz | 31.88MiB
+Hawkman 006 (1965) (Digital) (Shadowcat-Empire).cbz | 35.96MiB
 Hawkman 007 (1965) (Digital) (Shadowcat-Empire).cbz | 31.87MiB
 Hawkman 008 (1965) (Digital) (Shadowcat-Empire).cbz | 30.95MiB
 Hawkman 009 (1965) (Digital) (Shadowcat-Empire).cbz | 56.08MiB
+Hawkman 010 (1965) (Digital) (Shadowcat-Empire).cbz | 49.66MiB
+Hawkman 011 (1966) (Digital) (Shadowcat-Empire).cbz | 48.80MiB
+Hawkman 012 (1966) (Digital) (Shadowcat-Empire).cbz | 49.54MiB
 Hawkman 018 (1967) (Digital) (Shadowcat-Empire).cbz | 30.81MiB
+Hawkman 001 (1986) (Digital) (Shadowcat-Empire).cbz | 33.53MiB
+Hawkman 002 (1986) (Digital) (Shadowcat-Empire).cbz | 33.13MiB
+Hawkman 003 (1986) (Digital) (Shadowcat-Empire).cbz | 30.22MiB
+Hawkman 004 (1986) (Digital) (Shadowcat-Empire).cbz | 34.94MiB
+Hawkman 005 (1986) (Digital) (Shadowcat-Empire).cbz | 36.74MiB
+Hawkman 006 (1987) (Digital) (Shadowcat-Empire).cbz | 36.11MiB
 Hawkman 007 (1987) (Digital) (Shadowcat-Empire).cbz | 29.24MiB
 Hawkman 008 (1987) (Digital) (Shadowcat-Empire).cbz | 31.08MiB
 Hawkman 009 (1987) (Digital) (Shadowcat-Empire).cbz | 28.79MiB
+Hawkman 010 (1987) (Digital) (Shadowcat-Empire).cbz | 30.76MiB
+Hawkman 011 (1987) (Digital) (Shadowcat-Empire).cbz | 25.79MiB
+Hawkman 012 (1987) (Digital) (Shadowcat-Empire).cbz | 28.67MiB
 Hawkman 000 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 13.15MiB
 Hawkman 013 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 12.32MiB
 Hawkman 001 (2002) (Digital-SD) (Shadowcat-Empire).cbz | 12.14MiB

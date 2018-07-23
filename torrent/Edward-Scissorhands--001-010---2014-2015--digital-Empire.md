@@ -17,7 +17,7 @@ Edward Scissorhands v02 - Whole Again (2015) (Digital) (DR & Quinch-Empire).cbr 
 Edward Scissorhands 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 33.69MiB
 Edward Scissorhands 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 34.17MiB
 [Edward Scissorhands 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edward-Scissorhands-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.92MiB
-Edward Scissorhands 004(2015)(Digital)(TLK-EMPIRE-HD).cbr | 37.26MiB
+[Edward Scissorhands 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edward-Scissorhands-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.26MiB
 [Edward Scissorhands 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edward-Scissorhands-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 24.96MiB
 [Edward Scissorhands 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edward-Scissorhands-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.31MiB
 [Edward Scissorhands 007(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edward-Scissorhands-007-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.56MiB

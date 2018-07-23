@@ -20,5 +20,5 @@ Copperhead 004 (2014) (digital) (Son of Ultron-Empire).cbr | 53.43MiB
 [Copperhead 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 64.10MiB
 Copperhead 009 (2015) (digital) (Son of Ultron-Empire).cbr | 55.65MiB
 [Copperhead 010 (2015) (digital) (The Magicians-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-010-2015-digital-Magicians-Empire-cbr.md) | 53.84MiB
-Copperhead v01 - A New Sheriff in Town (2015) (Digital) (Zone-Empire).cbr | 189.47MiB
+[Copperhead v01 - A New Sheriff in Town (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-v01-A-New-Sheriff-in-Town-2015-Digital-Zone-Empire-cbr.md) | 189.47MiB
 Copperhead v02 (2015) (Digital) (Zone-Empire).cbr | 193.38MiB

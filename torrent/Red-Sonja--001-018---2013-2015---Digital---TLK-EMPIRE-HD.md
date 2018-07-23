@@ -30,7 +30,7 @@ Red Sonja 013(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 58
 [Red Sonja 016(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-016-2015-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 48.99MiB
 [Red Sonja 017(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-017-2015-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 44.71MiB
 [Red Sonja 018(2015)(3 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-018-2015-3-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 51.57MiB
-Red Sonja 100(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 72.16MiB
+[Red Sonja 100(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-100-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 72.16MiB
 [Red Sonja 1973 (2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-1973-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 100.93MiB
 &emsp;【Red Sonja (001-018) (2013-2015) (Digital) (TLK-EMPIRE-HD)/Variant Covers】 | 
 Red Sonja 001 (Buscema cover only) (2013) (Empire Tiger).cbr | 3.35MiB

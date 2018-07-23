@@ -40,3 +40,5 @@ Teenage Mutant Ninja Turtles Adventures v10 (2015) (Digital-SD) (Kileko-Empire).
 Teenage Mutant Ninja Turtles Adventures v11 (2016) (Digital) (Kileko-Empire).cbr | 308.04MiB
 Teenage Mutant Ninja Turtles Adventures v12 (2016) (Digital) (Bean-Empire).cbz | 303.07MiB
 Teenage Mutant Ninja Turtles Adventures v13 (2017) (Digital) (Bean-Empire).cbz | 756.65MiB
+Teenage Mutant Ninja Turtles Adventures v14 (2017) (Digital) (Bean-Empire).cbz | 229.46MiB
+Teenage Mutant Ninja Turtles Adventures v15 (2018) (Digital) (Bean-Empire).cbz | 376.23MiB

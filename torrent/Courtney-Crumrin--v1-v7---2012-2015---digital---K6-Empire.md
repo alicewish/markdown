@@ -16,4 +16,4 @@ Courtney Crumrin Vol 3 - In The Twilight Kingdom (2013) (Digital) (K6-Empire).cb
 Courtney Crumrin Vol 4 - The Monstrous Holiday (2013) (Digital) (K6-Empire).cbr | 125.56MiB
 Courtney Crumrin Vol 5 - The Witch Next Door (2014) (Digital) (K6-Empire).cbr | 123.98MiB
 Courtney Crumrin Vol 6 - The Final Spell (2014) (Digital) (K6-Empire).cbr | 132.95MiB
-Courtney Crumrin Vol 7 - Tales of a Warlock (2015) (Digital) (K6-Empire).cbr | 110.81MiB
+[Courtney Crumrin Vol 7 - Tales of a Warlock (2015) (Digital) (K6-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Courtney-Crumrin-Vol-7-Tales-of-a-Warlock-2015-Digital-K6-Empire-cbr.md) | 110.81MiB

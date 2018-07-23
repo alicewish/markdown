@@ -56,8 +56,8 @@ Miracleman 011 (2014) (Digital) (Darkness-Empire).cbr | 78.24MiB
 Miracleman 012 (2014) (Digital) (Darkness-Empire).cbr | 81.02MiB
 Miracleman 013 (2014) (Digital) (Darkness-Empire).cbr | 78.88MiB
 [Miracleman 014 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miracleman-014-2015-Digital-Darkness-Empire-cbr.md) | 81.96MiB
-Miracleman 015 (2015) (Digital) (Darkness-Empire).cbr | 93.31MiB
-Miracleman 016 (2015) (Digital) (Zone-Empire).cbr | 113.30MiB
+[Miracleman 015 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miracleman-015-2015-Digital-Darkness-Empire-cbr.md) | 93.31MiB
+[Miracleman 016 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miracleman-016-2015-Digital-Zone-Empire-cbr.md) | 113.30MiB
 &emsp;【Miracleman (1961-2015)/Miracleman v1 (001-025)(1985-1993)(Eclipse)】 | 
 Miracleman 001 (1985) (1440 px) (MiracleScans Ltd).cbr | 44.62MiB
 Miracleman 002 (1985) (1440 px) (MiracleScans Ltd).cbr | 39.18MiB

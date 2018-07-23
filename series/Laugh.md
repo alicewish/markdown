@@ -15,12 +15,14 @@ Online | Download
 Laugh 046 (Archie 1951) (c2c) (Los Pollos Hermanos).cbr | 36.42MiB
 Laugh 103.cbz | 51.25MiB
 Laugh 104 (November 1959) c2c.cbz | 75.73MiB
+Laugh 124 (Archie Jul 1961) (c2c) (symm-NWG).cbz | 36.07MiB
 Laugh 125 (Archie 1961) (c2c) (Kracalactaka-a nonny moose).cbz | 38.96MiB
 Laugh 129 (Archie Dec 1961) (c2c + 2pg orig art) (symm-NWG).cbz | 40.53MiB
 Laugh 182 (Archie 1966) (c2c) (Kracalactaka-a nonny moose).cbz | 43.91MiB
 Laugh 225 (Archie Dec 1969) (c2c) (Symm).cbz | 60.37MiB
 Laugh 253 Archie Titansfan.cbz | 23.05MiB
 Laugh 255 Archie Titansfan.cbz | 24.50MiB
+Laugh 257 (Archie Apr 1972) (c2c) (symm-NWG).cbz | 41.79MiB
 Laugh 258 Archie Titansfan.cbz | 23.73MiB
 Laugh 260 Archie Titansfan.cbz | 24.75MiB
 Laugh 276 (Archie Mar 1974) (c2c) (Symm-NWG).cbz | 41.46MiB

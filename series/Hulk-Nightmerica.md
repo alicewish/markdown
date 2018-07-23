@@ -18,6 +18,8 @@ The Hulk uncovers a conspiracy that will entrap him!
 
 [Hulk - Nightmerica (001-006)(2003-2004)(digital)(Shadowcat-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Hulk---Nightmerica--001-006--2003-2004--digital--Shadowcat-Empire.md)
 
+[Hulk - Nightmerica (01 - 06) (2003 - 2004) (webrip) (Worldbreaker-DCP)](https://github.com/alicewish/markdown/blob/master/torrent/Hulk---Nightmerica--01---06---2003---2004---webrip---Worldbreaker-DCP.md)
+
 Online | Download
 --- | ---
 Hulk Nightmerica 001 (2003) (Digital) (Shadowcat-Empire).cbz | 45.26MiB

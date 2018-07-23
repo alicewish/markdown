@@ -427,8 +427,8 @@ Judge Dredd The Megazine 353 (2014) (Digital) (DR & Quinch-Empire).cbr | 84.20Mi
 Judge Dredd The Megazine 354 (2014) (Digital) (DR & Quinch-Empire).cbr | 87.55MiB
 Judge Dredd The Megazine 355 (2014) (Digital) (DR & Quinch-Empire).cbr | 82.88MiB
 [Judge Dredd The Megazine 356 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Megazine-356-2015-Digital-DR-Quinch-Empire-cbr.md) | 74.08MiB
-Judge Dredd The Megazine 357 (2015) (Digital) (DR & Quinch-Empire).cbr | 72.86MiB
-Judge Dredd The Megazine 358 (2015) (Digital) (DR & Quinch-Empire).cbr | 72.51MiB
+[Judge Dredd The Megazine 357 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Megazine-357-2015-Digital-DR-Quinch-Empire-cbr.md) | 72.86MiB
+[Judge Dredd The Megazine 358 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Megazine-358-2015-Digital-DR-Quinch-Empire-cbr.md) | 72.51MiB
 [Judge Dredd The Megazine 359 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Megazine-359-2015-Digital-DR-Quinch-Empire-cbr.md) | 180.55MiB
 [Judge Dredd The Megazine 360 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Megazine-360-2015-Digital-DR-Quinch-Empire-cbr.md) | 109.34MiB
 [Judge Dredd The Megazine 361 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Megazine-361-2015-Digital-DR-Quinch-Empire-cbr.md) | 120.60MiB

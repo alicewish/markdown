@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Rumble 001 (2014) (digital) (Minutemen-BarrelOfDemons).cbz | 52.03MiB
-Rumble 002 (2015) (digital) (Minutemen-BarrelOfDemons).cbz | 42.95MiB
-Rumble 003 (2015) (digital) (Minutemen-BarrelOfDemons).cbz | 50.87MiB
+[Rumble 002 (2015) (digital) (Minutemen-BarrelOfDemons).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rumble-002-2015-digital-Minutemen-BarrelOfDemons-cbz.md) | 42.95MiB
+[Rumble 003 (2015) (digital) (Minutemen-BarrelOfDemons).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rumble-003-2015-digital-Minutemen-BarrelOfDemons-cbz.md) | 50.87MiB
 [Rumble 004 (2015) (digital) (Minutemen-BarrelOfDemons).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rumble-004-2015-digital-Minutemen-BarrelOfDemons-cbz.md) | 47.28MiB
 [Rumble 005 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Rumble-005-2015-digital-Minutemen-Faessla-cbz.md) | 54.10MiB

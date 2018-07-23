@@ -14,5 +14,5 @@ MPH 001 (2014) (digital) (F) (Son of Ultron-Empire).cbr | 64.49MiB
 MPH 002 (2014) (digital) (Son of Ultron-Empire).cbr | 67.42MiB
 MPH 003 (2014) (digital) (Son of Ultron-Empire).cbr | 64.41MiB
 MPH 004 (2014) (digital) (Son of Ultron-Empire).cbr | 50.56MiB
-MPH 005 (2015) (digital) (Son of Ultron-Empire).cbr | 70.61MiB
+[MPH 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/MPH-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 70.61MiB
 MPH Vol 1 TPB (2015) (Digital) (DR & Quinch-Empire).cbr | 241.69MiB

@@ -35,6 +35,7 @@ Master Comics 091 c2c Fawcett May 1948 Titansfan.cbz | 62.38MiB
 Master Comics 098 c2c Fawcett Dec 1948 titansfan.cbz | 62.48MiB
 Master Comics 101 c2c Fawcett Mar 1949 titansfan.cbz | 60.87MiB
 Master Comics 101 Fawcett Mar 1949 Titansfan.cbz | 60.87MiB
+Master Comics 105 c2c Fawcett July 1949 Titansfan-DMiles.cbz | 70.08MiB
 Master Comics 118 c2c Fawcett Oct 1950 titansfan.cbz | 63.21MiB
 Master Comics 130 c2c Fawcett Oct 1952 Titansfan-DMiles.cbz | 39.26MiB
 Master Comics 132 c2c Fawcett Feb 1953 Titansfan+a nonny moose.cbz | 32.80MiB

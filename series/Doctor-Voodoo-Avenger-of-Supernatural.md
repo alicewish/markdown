@@ -18,6 +18,8 @@ Launching from the pages of New Avengers, Jericho Drumm assumes the role of Marv
 
 [Doctor Voodoo - Avenger of the Supernatural (001-005) (2009-2010) (digital) (Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Voodoo---Avenger-of-the-Supernatural--001-005---2009-2010---digital---Minutemen-Excelsior.md)
 
+[Doctor Voodoo - Avenger of the Supernatural (01 - 05) (2009 - 2010) (Digital)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Voodoo---Avenger-of-the-Supernatural--01---05---2009---2010---Digital.md)
+
 Online | Download
 --- | ---
 Doctor Voodoo - Avenger of the Supernatural 001 (2009) (digital) (Minutemen-Excelsior).cbz | 69.10MiB

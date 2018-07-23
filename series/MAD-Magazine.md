@@ -20,6 +20,10 @@ The irreverent MAD Magazine has been the leading force of satirical comedy since
 
 
 
+相关种子⬇Related Torrents
+
+[Mad Magazine (1952-2018)](https://github.com/alicewish/markdown/blob/master/torrent/Mad-Magazine--1952-2018.md)
+
 Online | Download
 --- | ---
 MAD Magazine 449 (2005) (Cover B) (Minutemen-Saxon).cbr | 2.27MiB
@@ -42,7 +46,7 @@ MAD Magazine 528 (2014) (LQ) (TeddyK).cbr | 19.53MiB
 MAD Magazine 529 (2014) (LQ) (TeddyK).cbr | 20.82MiB
 MAD Magazine 530 (2014) (LQ) (TeddyK).cbr | 19.66MiB
 MAD Magazine 531 (2015) (LQ) (TeddyK).cbr | 16.61MiB
-MAD Magazine 532 (2015) (GreenManGroup-DCP).cbr | [69.74MiB](https://pan.baidu.com/s/1mi7ndhQ#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.02.25%2F%E3%82%BF%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%A8%E3%82%A8%E3%82%A2%E3%82%BF%E3%82%AA%E3%82%B1%E3%82%BB%E3%82%B3%E3%82%AD%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%B1%E3%82%BD%E3%82%A8%E3%82%AF%E3%82%B1%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%B9%E3%82%AB%E3%82%A2%E3%82%BF%E3%82%A2%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
+[MAD Magazine 532 (2015) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/MAD-Magazine-532-2015-GreenManGroup-DCP-cbr.md) | [69.74MiB](https://pan.baidu.com/s/1mi7ndhQ#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.02.25%2F%E3%82%BF%E3%82%B3%E3%82%A4%E3%82%B3%E3%82%A8%E3%82%A8%E3%82%A2%E3%82%BF%E3%82%AA%E3%82%B1%E3%82%BB%E3%82%B3%E3%82%AD%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%B1%E3%82%BD%E3%82%A8%E3%82%AF%E3%82%B1%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%B9%E3%82%AB%E3%82%A2%E3%82%BF%E3%82%A2%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
 MAD Magazine 533 (2015) (digital) (GREASY).cbr | 23.77MiB
 MAD Magazine 533 (2015) (digital) (NK).cbz | 76.47MiB
 MAD Magazine 534 (2015) (GreenManGroup-DCP).cbr | 67.34MiB

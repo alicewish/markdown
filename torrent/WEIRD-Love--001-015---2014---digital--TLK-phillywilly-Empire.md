@@ -18,7 +18,7 @@ WEIRD Love 001 (2014) (digital) (Minutemen-InnerDemons).cbr | 151.11MiB
 WEIRD Love 002 (2014) (Digital) (phillywilly-Empire).cbr | 147.40MiB
 WEIRD Love 003 (2014) (Digital) (phillywilly-Empire).cbr | 141.58MiB
 WEIRD Love 004 (2014) (Digital) (phillywilly-Empire).cbr | 149.43MiB
-WEIRD Love 005 (2015) (Digital) (phillywilly-Empire).cbr | 132.24MiB
+[WEIRD Love 005 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-005-2015-Digital-phillywilly-Empire-cbr.md) | 132.24MiB
 [WEIRD Love 006 (2015) (Digital)(phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-006-2015-Digital-phillywilly-Empire-cbr.md) | 140.47MiB
 [WEIRD Love 007 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-007-2015-Digital-phillywilly-Empire-cbr.md) | 145.59MiB
 [WEIRD Love 008 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-008-2015-Digital-phillywilly-Empire-cbr.md) | 154.49MiB

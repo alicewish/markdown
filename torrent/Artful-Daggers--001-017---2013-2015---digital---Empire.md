@@ -26,4 +26,4 @@ Artful Daggers 013 (2014) (Digital-Empire).cbr | 21.52MiB
 Artful Daggers 014 (2014) (Digital-Empire).cbr | 21.45MiB
 Artful Daggers 015 (2014) (Digital-Empire).cbr | 21.16MiB
 Artful Daggers 016 (2014) (Digital-Empire).cbr | 21.73MiB
-Artful Daggers 017 (2015) (Digital-Empire).cbr | 30.59MiB
+[Artful Daggers 017 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artful-Daggers-017-2015-Digital-Empire-cbr.md) | 30.59MiB

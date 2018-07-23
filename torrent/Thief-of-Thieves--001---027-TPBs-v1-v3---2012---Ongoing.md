@@ -37,7 +37,7 @@ Thief of Thieves 022 (2014) (Digital-Empire).cbr | 25.65MiB
 Thief of Thieves 023 (2014) (Digital-Empire).cbr | 40.20MiB
 Thief of Thieves 024 (2014) (Digital-Empire).cbr | 36.11MiB
 Thief of Thieves 025 (2014) (Digital-Empire).cbr | 38.59MiB
-Thief of Thieves 026 (2015) (Digital-Empire).cbr | 33.32MiB
+[Thief of Thieves 026 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thief-of-Thieves-026-2015-Digital-Empire-cbr.md) | 33.32MiB
 [Thief of Thieves 027 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thief-of-Thieves-027-2015-Digital-Empire-cbr.md) | 36.18MiB
 Thief of Thieves v1 I Quit (2012) (Digital TPB) (Zone-Empire).cbr | 122.49MiB
 Thief of Thieves v2 Help Me (2013) (Digital TPB) (Zone-Empire).cbr | 151.37MiB

@@ -71,7 +71,7 @@ Pathfinder - Hollow Mountain 001 (2015) (Digital) (DR & Quinch-Empire).cbr | 119
 Pathfinder - Worldscape v01 (2017) (Digital) (DR & Quinch-Empire).cbr | 420.70MiB
 Pathfinder - Worldscape v02 (2017) (Digital) (DR & Quinch-Empire).cbr | 246.44MiB
 &emsp;【Pathfinder/Pathfinder Origins (001-006)(2015)(digital)(DR & Quinch-Empire)】 | 
-Pathfinder - Origins 001 (2015) (Digital) (DR & Quinch-Empire).cbr | 49.10MiB
+[Pathfinder - Origins 001 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Origins-001-2015-Digital-DR-Quinch-Empire-cbr.md) | 49.10MiB
 [Pathfinder - Origins 002 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Origins-002-2015-Digital-DR-Quinch-Empire-cbr.md) | 64.51MiB
 [Pathfinder - Origins 003 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Origins-003-2015-Digital-DR-Quinch-Empire-cbr.md) | 54.10MiB
 [Pathfinder - Origins 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Origins-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 118.86MiB

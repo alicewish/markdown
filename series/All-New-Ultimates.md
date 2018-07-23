@@ -20,6 +20,8 @@ SPIDER-MAN, BLACK WIDOW, KITTY PRYDE, BOMBSHELL, CLOAK & DAGGER officially unite
 
 [All-New Ultimates (001 - 012) (2014 - 2015) (digital) (BlackManta-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/All-New-Ultimates--001---012---2014---2015---digital---BlackManta-Empire.md)
 
+[All-New Ultimates (001-012)(2014-2015)(Digital)(Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/All-New-Ultimates--001-012--2014-2015--Digital--Minutemen-Faessla.md)
+
 Online | Download
 --- | ---
 All-New Ultimates v01 - Power For Power (Digital) (Kileko-Empire).cbr | 257.77MiB

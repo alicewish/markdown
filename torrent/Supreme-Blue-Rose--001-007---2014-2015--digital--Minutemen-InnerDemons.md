@@ -16,5 +16,5 @@ Supreme Blue Rose 002 (2014) (digital) (Minutemen-InnerDemons).cbr | 60.93MiB
 Supreme Blue Rose 003 (2014) (digital) (Minutemen-InnerDemons).cbr | 59.76MiB
 Supreme Blue Rose 004 (2014) (digital) (Minutemen-InnerDemons).cbr | 52.34MiB
 Supreme Blue Rose 005 (2014) (digital) (Minutemen-InnerDemons).cbr | 61.76MiB
-Supreme Blue Rose 006 (2015) (digital) (Minutemen-InnerDemons).cbr | 55.47MiB
-Supreme Blue Rose 007 (2015) (digital) (Minutemen-InnerDemons).cbr | 53.17MiB
+[Supreme Blue Rose 006 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Supreme-Blue-Rose-006-2015-digital-Minutemen-InnerDemons-cbr.md) | 55.47MiB
+[Supreme Blue Rose 007 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Supreme-Blue-Rose-007-2015-digital-Minutemen-InnerDemons-cbr.md) | 53.17MiB

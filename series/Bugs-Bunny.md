@@ -19,6 +19,7 @@ Bugs Bunny 088 (1963) (Gold Key) (c2c) [alt scan].cbr | 50.38MiB
 Bugs Bunny 89 Gold Key Jun 1963 C2C (js DCP).cbz | 12.91MiB
 Bugs Bunny 090 (1963) (Gold Key) (c2c).cbr | 24.47MiB
 Bugs Bunny 093 (1964) (Gold Key) (c2c).cbr | 22.57MiB
+Bugs Bunny 95 Gold Key Sep 1964 C2C (js-DCP).cbz | 14.20MiB
 Bugs Bunny 97 Gold Key Jan 1965 C2C (js-DCP).cbz | 13.84MiB
 Bugs Bunny 101 (1965) (Gold Key) (c2c).cbr | 25.38MiB
 Bugs Bunny 119 (1968) (Gold Key) (c2c).cbr | 25.36MiB

@@ -15,7 +15,7 @@ Purgatori 001 (2014) (5 covers) (Digital) (DR & Quinch-Empire).cbr | 76.44MiB
 Purgatori 002 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 70.45MiB
 Purgatori 003 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 60.02MiB
 Purgatori 004 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 69.46MiB
-Purgatori 005 (2015) (3 covers) (Digital) (DR & Quinch-Empire).cbr | 60.63MiB
+[Purgatori 005 (2015) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Purgatori-005-2015-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 60.63MiB
 &emsp;【Purgatori Collection/Purgatori (1996-2014)(Chaos)】 | 
 00-reading\_order.txt | 666.00B
 &emsp;【Purgatori Collection/Purgatori (1996-2014)(Chaos)/Between Heaven And Hell (001-004)】 | 

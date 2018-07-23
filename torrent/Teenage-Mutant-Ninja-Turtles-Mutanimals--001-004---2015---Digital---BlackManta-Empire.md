@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Teenage Mutant Ninja Turtles - Mutanimals 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr | 28.55MiB
+[Teenage Mutant Ninja Turtles - Mutanimals 01 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Mutanimals-01-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 28.55MiB
 [Teenage Mutant Ninja Turtles - Mutanimals 02 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Mutanimals-02-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 29.25MiB
 [Teenage Mutant Ninja Turtles - Mutanimals 03 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Mutanimals-03-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 29.29MiB
 [Teenage Mutant Ninja Turtles - Mutanimals 04 (of 04) (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Mutanimals-04-of-04-2015-Digital-BlackManta-Empire-cbr.md) | 30.32MiB

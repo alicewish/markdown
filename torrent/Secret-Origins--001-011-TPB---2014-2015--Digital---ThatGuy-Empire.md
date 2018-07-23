@@ -21,4 +21,4 @@ Online | Download
 [Secret Origins 009 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Origins-009-2015-Digital-ThatGuy-Empire-cbz.md) | 62.49MiB
 [Secret Origins 010 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Origins-010-2015-Digital-ThatGuy-Empire-cbz.md) | 47.48MiB
 [Secret Origins 011 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Origins-011-2015-Digital-ThatGuy-Empire-cbz.md) | 52.22MiB
-Secret Origins v01 (2015) (Digital) (Zone-Empire).cbr | 230.54MiB
+[Secret Origins v01 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Origins-v01-2015-Digital-Zone-Empire-cbr.md) | 230.54MiB

@@ -23,4 +23,4 @@ Halo - Escalation 010 (2014) (digital) (Son of Ultron-Empire).cbr | 37.38MiB
 Halo - Escalation 011 (2014) (digital) (Son of Ultron-Empire).cbr | 36.26MiB
 Halo - Escalation 012 (2014) (digital) (Son of Ultron-Empire).cbr | 38.37MiB
 Halo - Escalation 013 (2014) (digital) (Son of Ultron-Empire).cbr | 39.26MiB
-Halo - Escalation 014 (2015) (digital) (Son of Ultron-Empire).cbr | 39.89MiB
+[Halo - Escalation 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Halo-Escalation-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 39.89MiB

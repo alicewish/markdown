@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Suiciders (001-006) (2015) (digital) (Minutemen-Faessla)】 | 
-Suiciders 001 (2015) (digital) (Minutemen-Faessla).cbz | 46.58MiB
+[Suiciders 001 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Suiciders-001-2015-digital-Minutemen-Faessla-cbz.md) | 46.58MiB
 [Suiciders 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Suiciders-002-2015-digital-Minutemen-Faessla-cbz.md) | 40.79MiB
 [Suiciders 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Suiciders-003-2015-digital-Minutemen-Faessla-cbz.md) | 43.30MiB
 [Suiciders 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Suiciders-004-2015-digital-Minutemen-Faessla-cbz.md) | 41.06MiB

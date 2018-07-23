@@ -36,7 +36,7 @@ The Flash Plus Nightwing 001 (1996) (digital-Empire).cbz | 35.59MiB
 [Grayson 005 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-005-2014-Digital-ThatGuy-Empire-cbz.md) | 21.13MiB
 [Grayson 006 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-006-2015-Digital-ThatGuy-Empire-cbz.md) | 29.45MiB
 [Grayson 007 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-007-2015-Digital-ThatGuy-Empire-cbz.md) | 33.17MiB
-Grayson 008 (2015) (2 covers) (webrip+) (Ol' Joe-DCP).cbr | 35.01MiB
+[Grayson 008 (2015) (2 covers) (webrip+) (Ol' Joe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grayson-008-2015-2-covers-webrip-Ol-Joe-DCP-cbr.md) | 35.01MiB
 [Grayson Annual 001 (2014) (Digital HD) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-Annual-001-2014-Digital-HD-ThatGuy-Empire-cbz.md) | 47.56MiB
 &emsp;【Nightwing (v1-v3+Extras)(1995-Ongoing)/Grayson (001-008+Extras)(2014-Ongoing)(Digital)/Variant Covers】 | 
 [Grayson 001 (2014) (JOCK 75th Anniversary Variant Cover) (RedResin-Minutemen-Novus-HD).cbz](https://github.com/alicewish/markdown/blob/master/comic/Grayson-001-2014-JOCK-75th-Anniversary-Variant-Cover-RedResin-Minutemen-Novus-HD-cbz.md) | 2.39MiB

@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 &emsp;【Uncanny Avengers (001-005+Variant Covers) (2015) (digital) (Minutemen-WTF)】 | 
-Uncanny Avengers 001 (2015) (Digital) (Minutemen-WTF).cbr | 36.09MiB
-Uncanny Avengers 002 (2015) (Digital) (Minutemen-WTF).cbr | 32.80MiB
+[Uncanny Avengers 001 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-001-2015-Digital-Minutemen-WTF-cbr.md) | 36.09MiB
+[Uncanny Avengers 002 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-002-2015-Digital-Minutemen-WTF-cbr.md) | 32.80MiB
 [Uncanny Avengers 003 (2015) (three covers) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-003-2015-three-covers-Digital-Minutemen-WTF-cbr.md) | 41.62MiB
 [Uncanny Avengers 004 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-004-2015-Digital-Minutemen-WTF-cbr.md) | 37.74MiB
 [Uncanny Avengers 005 (2015) (two covers) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-005-2015-two-covers-Digital-Minutemen-WTF-cbr.md) | 38.82MiB

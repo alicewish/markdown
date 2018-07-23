@@ -16,6 +16,8 @@ Daniel Kilgore is dragged into his estranged brother Kurt's secret life of murde
 
 相关种子⬇Related Torrents
 
+[Haunt (001 - 028) (2009 - 2013) (Digital) (complete)](https://github.com/alicewish/markdown/blob/master/torrent/Haunt--001---028---2009---2013---Digital---complete.md)
+
 [Haunt (001-028+)(2009-2013)(digital)(Minutemen+Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Haunt--001-028---2009-2013--digital--Minutemen-Empire.md)
 
 Online | Download

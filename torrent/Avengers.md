@@ -677,7 +677,7 @@ Avengers 037 (2014) (digital) (Minutemen-PhD).cbr | 45.48MiB
 Avengers 038 (2015) (digital) (Minutemen-PhD).cbr | 37.37MiB
 Avengers 039 (2015) (digital) (Minutemen-PhD).cbr | 38.02MiB
 Avengers 040 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.01MiB
-Avengers 041 (2015) (digital) (Minutemen-InnerDemons).cbr | 38.66MiB
+[Avengers 041 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-041-2015-digital-Minutemen-InnerDemons-cbr.md) | 38.66MiB
 [Avengers 042 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-042-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.65MiB
 [Avengers 043 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-043-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.35MiB
 [Avengers 044 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-044-2015-5-covers-digital-Minutemen-InnerDemons-cbr.md) | 77.78MiB
@@ -940,7 +940,7 @@ AAFES 13th Edition - Avengers - The Long Sunset (2012) (c2c) (PeteThePIPster & A
 AAFES 14th Edition - Avengers - Double Vision (2013) (c2c) (PeteThePIPster & ArtNet).cbz | 45.14MiB
 AAFES 15th Edition - Iron Man - Fin Fang Doom (2013) (c2c) (PeteThePIPster & ArtNet).cbz | 43.62MiB
 AAFES Activity Book - New Avengers - The History of The Exchange Activity Book (2010) (c2c) (Popbot & ArtNet-DCP).cbz | 11.10MiB
-Avengers - Age of Ultron Movie Poster (2015) (digital) (Minutemen-InnerDemons).cbr | 1.14MiB
+[Avengers - Age of Ultron Movie Poster (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Age-of-Ultron-Movie-Poster-2015-digital-Minutemen-InnerDemons-cbr.md) | 1.14MiB
 &emsp;【Avengers/Extras/Avengers - Electric Rain (001-017) (English Translation)】 | 
 Avengers - Electric Rain 001 (English translation).cbr | 6.88MiB
 Avengers - Electric Rain 002 (English translation).cbr | 4.66MiB
@@ -1188,7 +1188,7 @@ Avengers & The Infinity Gauntlet 01 (of 04) (2010) (digital) (Minutemen-Slayer).
 Avengers & The Infinity Gauntlet 02 (of 04) (2010) (digital) (Minutemen-Slayer).cbr | 42.59MiB
 Avengers & The Infinity Gauntlet 03 (of 04) (2010) (digital) (Minutemen-Slayer).cbr | 41.11MiB
 Avengers & The Infinity Gauntlet 04 (of 04) (2011) (digital) (Minutemen-Slayer).cbr | 41.01MiB
-Avengers - Age of Ultron Movie Poster (2015) (digital) (Minutemen-InnerDemons).cbr | 1.14MiB
+[Avengers - Age of Ultron Movie Poster (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Age-of-Ultron-Movie-Poster-2015-digital-Minutemen-InnerDemons-cbr.md) | 1.14MiB
 Avengers - Age of Ultron Prelude - This Sceptre'd Isle Infinite Comic 001 (2015) (+ cover) (digital) (Son of Ultron-Empire).cbr | 44.23MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Avengers - Celestial Quest (001-008)(2001-2002)(digital)(OkC.O.M.P.U.T.O.-Novus-HD)】 | 
 The Avengers - Celestial Quest 01 (of 08) (2001) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 48.99MiB
@@ -2803,8 +2803,8 @@ Uncanny Avengers v03 - Ragnarok Now (2014) (digital) (Minutemen-Slayer).cbr | 23
 Uncanny Avengers v04 - Avenge The Earth (2014) (digital TPB) (Minutemen-Slayer).cbr | 190.68MiB
 Uncanny Avengers v05 - AXIS Prelude (2015) (digital TPB) (Minutemen-Slayer).cbr | 270.91MiB
 &emsp;【Avengers/Spin-Off Series/Uncanny Avengers (v1-v3+)(2012-2017)(digital)/Uncanny Avengers v2 (001-005+)(2015)(digital)(Minutemen-WTF)】 | 
-Uncanny Avengers 001 (2015) (Digital) (Minutemen-WTF).cbr | 36.09MiB
-Uncanny Avengers 002 (2015) (Digital) (Minutemen-WTF).cbr | 32.80MiB
+[Uncanny Avengers 001 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-001-2015-Digital-Minutemen-WTF-cbr.md) | 36.09MiB
+[Uncanny Avengers 002 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-002-2015-Digital-Minutemen-WTF-cbr.md) | 32.80MiB
 Uncanny Avengers 003 (2015) (3 covers) (Digital) (Minutemen-WTF).cbr | 41.62MiB
 [Uncanny Avengers 004 (2015) (Digital) (Minutemen-WTF).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-004-2015-Digital-Minutemen-WTF-cbr.md) | 37.74MiB
 Uncanny Avengers 005 (2015) (2 covers) (Digital) (Minutemen-WTF).cbr | 38.82MiB

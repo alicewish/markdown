@@ -656,7 +656,7 @@ Avengers 001 (2013) (Digital) (Zone-Empire).cbr | 30.40MiB
 [Daredevil - Dark Nights 07 (of 8) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-Dark-Nights-07-of-8-2014-digital-Minutemen-InnerDemons-cbr.md) | 30.98MiB
 [Daredevil - Dark Nights 08 (of 8) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-Dark-Nights-08-of-8-2014-digital-Minutemen-InnerDemons-cbr.md) | 35.77MiB
 &emsp;【Marvel NOW (2012-2015)(digital)(Empire+Minutemen)/Daredevil v4 (00.1-018)(2014-2015)(digital)(Minutemen-InnerDemons)】 | 
-Daredevil 00.1 (2014) (Digital) (Zone-Empire).cbr | 133.46MiB
+[Daredevil 00.1 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-00-1-2014-Digital-Zone-Empire-cbr.md) | 133.46MiB
 [Daredevil 001 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-001-2014-digital-Minutemen-InnerDemons-cbr.md) | 28.28MiB
 [Daredevil 001.5 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-001-5-2014-digital-Minutemen-InnerDemons-cbr.md) | 69.12MiB
 [Daredevil 002 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-002-2014-digital-Minutemen-InnerDemons-cbr.md) | 25.05MiB
@@ -2069,7 +2069,7 @@ All-New X-Men v1 - Yesterday's X-Men (2013) (Digital) (Meganubis-Empire).cbz | 2
 [All-New X-Men v5 - One Down (2014) (Digital HC) (BroadCast-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-v5-One-Down-2014-Digital-HC-BroadCast-Empire-cbz.md) | 229.64MiB
 [All-New X-Men v6 - The Ultimate Adventure (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-v6-Ultimate-Adventure-2015-Digital-Zone-Empire-cbr.md) | 190.35MiB
 [All-New X-Men v7 - The Utopians (2015) (Digital HC) (BroadCast-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-v7-Utopians-2015-Digital-HC-BroadCast-Empire-cbz.md) | 172.96MiB
-Avengers & X-Men - Axis (2015) (Digital) (Zone-Empire).cbr | 520.86MiB
+[Avengers & X-Men - Axis (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-X-Men-Axis-2015-Digital-Zone-Empire-cbr.md) | 520.86MiB
 [Avengers - Rage of Ultron (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Rage-of-Ultron-2015-Digital-Zone-Empire-cbr.md) | 223.11MiB
 [Avengers Revelations (2015) (Digital TPB) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Revelations-2015-Digital-TPB-Zone-Empire-cbr.md) | 274.61MiB
 [Avengers v1 - Avengers World (2013) (Digital-HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-v1-Avengers-World-2013-Digital-HC-Zone-Empire-cbr.md) | 252.30MiB

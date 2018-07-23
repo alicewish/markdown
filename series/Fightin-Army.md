@@ -22,6 +22,7 @@ Fightin' Army 38 Charlton Nov 1960 Titansfan.cbz | 25.08MiB
 Fightin' Army 39 Charlton Jan 1960 Titansfan.cbz | 25.68MiB
 Fightin' Army 40 c2c Charlton Mar 1961 titansfan.cbz | 69.71MiB
 Fightin' Army 045 (Charlton Mar-1962) (Kracalactaka+DaveH).cbz | 25.08MiB
+Fightin' Army 49 Charlton Nov 1962 ComicWanderer.cbz | 54.23MiB
 Fightin' Army 050 (Charlton Jan 1963) (Narfstar-Kracalactaka).cbz | 22.57MiB
 Fightin' Army 050 [diff ver] (Charlton 1963) (Titansfan).cbz | 25.19MiB
 Fightin' Army 056 (Charlton 1964) (Titansfan).cbz | 26.37MiB
@@ -30,6 +31,7 @@ Fightin Army 69 Charlton Jul 1966 Kracalactaka-DMiles.cbz | 24.55MiB
 Fightin' Army 69 (1966 coverless) (Jon-Novus-NMS).cbz | [11.03MiB](https://pan.baidu.com/s/1i5itmYx#list/path=%2FNovus%20-%20Week%20of%202016%20Q1%2FNovus%20-%20Week%20of%202016-01-20%2F%E3%82%AA%E3%82%BD%E3%82%AB%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%BB%E3%82%B1%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%A8%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%A6%E3%82%BB%E3%82%AA%E3%82%AB%E3%82%A4%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%B3%E3%82%BB%E3%82%A8&parentPath=%2FNovus%20-%20Week%20of%202016%20Q1)
 Fightin' Army 71 c2c Charlton Nov 1966 titansfan.cbz | 70.84MiB
 Fightin' Army 74 c2c Charlton titansfan.cbz | 38.21MiB
+Fightin' Army 80 Charlton Jul 1968 ComicWanderer.cbz | 55.29MiB
 Fightin' Army 87 c2c Charlton Sep 1969 titansfan.cbz | 71.38MiB
 Fightin' Army 91 Charlton May 1970 Titansfan misprinted cover.cbz | 27.06MiB
 Fightin' Army 093 (Charlton 1970) (Titansfan).cbz | 27.21MiB

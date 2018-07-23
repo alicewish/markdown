@@ -18,7 +18,9 @@ Fightin' Marines 025 (Charlton 1958) (c2c) (KingFaraday-rangerhouse-Dave Hayward
 Fightin' Marines 026 (Charlton 1958) (c2c) (JVJ-Soothsayr-Krac-Novus).cbz | [74.69MiB](https://pan.baidu.com/s/1qYHUkFE#list/path=%2FNovus%20-%20Week%20of%202017%20Q1%2FNovus%20-%20Week%20of%202017-03-29%2F%E3%82%A4%E3%82%AB%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%B3%E3%82%B5%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%BD%E3%82%B7%E3%82%A6%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%AA%E3%82%BB%E3%82%B3%E3%82%B9%E3%82%B1&parentPath=%2FNovus%20-%20Week%20of%202017%20Q1)
 Fightin' Marines 026 (Charlton 1958) (c2c) (JVJ-Soothsayr-Kracalactaca-Novus).cbz | 74.69MiB
 Fightin' Marines 029 (Charlton 1959) (Titansfan).cbz | 27.50MiB
+Fightin' Marines 30 Charlton Jun 1959 ComicWanderer.cbz | 57.76MiB
 Fightin' Marines 032 (Charlton 1959) (c2c) (KingFaraday-rangerhouse-Dave Hayward).cbz | 24.80MiB
+Fightin' Marines 33 Charlton Jan 1960 ComicWanderer.cbz | 58.14MiB
 Fightin' Marines 34 Charlton Titansfan.cbz | 23.90MiB
 Fightin' Marines 35 Charlton May 1960 Narfstar-Kracalactaka.cbz | 47.95MiB
 Fightin' Marines 036 (Charlton 1960) (c2c) (Titansfan).cbz | 24.45MiB
@@ -27,12 +29,14 @@ Fightin' Marines 039 Charlton Jan 1961 Unk+Kracalactaka.cbz | 34.23MiB
 Fightin' Marines 39 Charlton Titansfan.cbz | 24.24MiB
 Fightin' Marines 40 Charlton Mar 1961 Titansfan.cbz | 67.08MiB
 Fightin' Marines 041 (Charlton 1961) (Titansfan).cbz | 26.44MiB
+Fightin' Marines 45 c2c Charlton Jan 1962 titansfan.cbz | 66.24MiB
 Fightin' Marines 046 (Charlton 1962) (c2c) (Titansfan).cbz | 24.92MiB
 Fightin' Marines 47 Charlton Jun 1962 Titansfan.cbz | 24.25MiB
 Fightin' Marines 049 (Charlton 1962) (c2c) (Titansfan).cbz | 24.03MiB
 Fightin' Marines 052 (Charlton 1963) (Titansfan).cbz | 26.22MiB
 Fightin' Marines 054 (Charlton 1963) (c2c) (Titansfan).cbz | 23.79MiB
 Fightin' Marines 058 (Charlton 1964) (Titansfan+Kracalactaka).cbz | 25.41MiB
+Fightin' Marines 69 c2c Charlton June 1966 titansfan.cbz | 69.71MiB
 Fightin' Marines 75 (1967 Charlton) (c2c) (KingFaraday Collection-rangerhouse-movielover-Novus).cbz | [39.08MiB](https://pan.baidu.com/s/1_e7iQr0XWO9DiZ85etPdBA#list/path=%2FNovus%20-%20Week%20of%202015%20Q2%2FNovus%20-%20Week%20of%202015-04-15%2F%E3%82%A2%E3%82%BF%E3%82%A6%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%B3%E3%82%B9%E3%82%A4%E3%82%BF%E3%82%BB%E3%82%AD%E3%82%B1%E3%82%BD%E3%82%BD%E3%82%A6%E3%82%A8%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%BF%E3%82%AD%E3%82%A8%E3%82%BD%E3%82%A2%E3%82%A8%E3%82%AA%E3%82%AA%E3%82%BF%E3%82%B7%E3%82%BF%E3%82%B3&parentPath=%2FNovus%20-%20Week%20of%202015%20Q2)
 Fightin' Marines 076 (Charlton Sep 1967) (Titansfan).cbz | 28.57MiB
 Fightin' Marines 077 (Charlton Nov 1967) (Titansfan).cbz | 25.87MiB

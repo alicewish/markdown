@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Batman - Earth One v01 (2012) (digital) (Son of Ultron-Empire).cbr | 268.94MiB
-Batman - Earth One v02 (2015) (Digital) (Zone-Empire).cbr | 187.07MiB
+[Batman - Earth One v02 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Earth-One-v02-2015-Digital-Zone-Empire-cbr.md) | 187.07MiB
 Superman - Earth One v01 (2010) (digital) (Son of Ultron II-Empire).cbr | 267.24MiB
 Superman - Earth One v02 (2012) (digital) (Son of Ultron-Empire).cbr | 284.52MiB
 Superman - Earth One v03 (2014) (Digital) (Zone-Empire).cbr | 207.58MiB

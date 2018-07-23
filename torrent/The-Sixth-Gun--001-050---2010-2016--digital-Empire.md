@@ -39,7 +39,7 @@ The Sixth Gun - Days of the Dead 001 (2014) (Digital-Empire).cbr | 42.49MiB
 The Sixth Gun - Days of the Dead 002 (2014) (Digital-Empire).cbr | 36.55MiB
 The Sixth Gun - Days of the Dead 003 (2014) (Digital-Empire).cbr | 36.81MiB
 [The Sixth Gun - Days of the Dead 004 (2015) (F) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-004-2015-F-Digital-Empire-cbr.md) | 40.31MiB
-The Sixth Gun - Days of the Dead 005 (2015) (Digital-Empire).cbr | 39.26MiB
+[The Sixth Gun - Days of the Dead 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-005-2015-Digital-Empire-cbr.md) | 39.26MiB
 The Sixth Gun 001 (2010) (Digital) (Zone-Empire).cbr | 35.33MiB
 The Sixth Gun 002 (2010) (Digital) (Zone-Empire).cbr | 32.85MiB
 The Sixth Gun 003 (2010) (Digital) (Zone-Empire).cbr | 34.68MiB
@@ -85,7 +85,7 @@ The Sixth Gun 042 (2014) (Digital-Empire).cbr | 38.05MiB
 The Sixth Gun 043 (2014) (Digital-Empire).cbr | 35.97MiB
 The Sixth Gun 044 (2014) (Digital-Empire).cbr | 43.28MiB
 The Sixth Gun 045 (2014) (Digital-Empire).cbr | 40.18MiB
-The Sixth Gun 046 (2015) (Digital-Empire).cbr | 51.52MiB
+[The Sixth Gun 046 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-046-2015-Digital-Empire-cbr.md) | 51.52MiB
 [The Sixth Gun 047 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-047-2015-Digital-Empire-cbr.md) | 35.90MiB
 [The Sixth Gun 048 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-048-2016-digital-Son-of-Ultron-Empire-cbr.md) | 37.84MiB
 [The Sixth Gun 049 (2016) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-049-2016-Digital-Empire-cbr.md) | 40.02MiB

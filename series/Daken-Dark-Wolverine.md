@@ -14,6 +14,10 @@ For decades, Daken, the son of Wolverine, remained hidden in the shadows of the 
 
 
 
+相关种子⬇Related Torrents
+
+[Daken - Dark Wolverine (001 - 023) (2010 - 2012) (digital) (Minutemen-InnerDemons)](https://github.com/alicewish/markdown/blob/master/torrent/Daken---Dark-Wolverine--001---023---2010---2012---digital---Minutemen-InnerDemons.md)
+
 Online | Download
 --- | ---
 Daken - Dark Wolverine 007 (2011) (c2c) (Legion-CPS).cbr | 15.39MiB

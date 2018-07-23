@@ -32,6 +32,8 @@ She died... And yet, she is still alive!
 
 [Morea (v01-v02) (2017) (digital) (The Magicians-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Morea--v01-v02---2017---digital---The-Magicians-Empire.md)
 
+[Morea (v01-v07)(2017-)(digital)](https://github.com/alicewish/markdown/blob/master/torrent/Morea--v01-v07--2017---digital.md)
+
 Online | Download
 --- | ---
 Morea v1 - Angels' Blood (2017) (widget-DCP).cbr | 85.55MiB

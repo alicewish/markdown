@@ -13,5 +13,5 @@ Online | Download
 Bacchus V1 - Books 1 & 2 (2014) (Digital) (phillywilly-Empire).cbr | 283.42MiB
 Bacchus V2 - Books 3 & 4 (2014) (Digital) (phillywilly-Empire).cbr | 315.59MiB
 Bacchus V3 - Books 5 & 6 (2014) (Digital) (phillywilly-Empire).cbr | 275.33MiB
-Bacchus V4 - Books 7 & 8 (2014) (Digital) (phillywilly-Empire).cbr | 183.12MiB
+[Bacchus V4 - Books 7 & 8 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bacchus-V4-Books-7-8-2014-Digital-phillywilly-Empire-cbr.md) | 183.12MiB
 Bacchus V5 - Books 9 & 10 (2014) (Digital) (phillywilly-Empire).cbr | 130.55MiB

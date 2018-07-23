@@ -52,16 +52,29 @@ Cloak and Dagger 01 (of 04) (1983) (Digital) (Zone-Empire).cbr | 39.11MiB
 Cloak and Dagger 02 (of 04) (1983) (Digital) (Zone-Empire).cbr | 38.55MiB
 Cloak and Dagger 03 (of 04) (1983) (Digital) (Zone-Empire).cbr | 39.69MiB
 Cloak and Dagger 04 (of 04) (1984) (Digital) (Zone-Empire).cbr | 45.43MiB
+Cloak and Dagger 001 (1985) (Digital) (Asgard-Empire).cbr | 43.70MiB
 Cloak and Dagger 001 (1985) (digital) (Minutemen-Slayer).cbr | 43.50MiB
+Cloak and Dagger 002 (1985) (Digital) (Asgard-Empire).cbr | 45.24MiB
 Cloak and Dagger 002 (1985) (digital) (Minutemen-Slayer).cbr | 45.03MiB
+Cloak and Dagger 003 (1985) (Digital) (Asgard-Empire).cbr | 45.17MiB
 Cloak and Dagger 003 (1985) (digital) (Minutemen-Slayer).cbr | 44.96MiB
+Cloak and Dagger 004 (1986) (Digital) (Asgard-Empire).cbr | 45.79MiB
 Cloak and Dagger 004 (1986) (digital) (Minutemen-Slayer).cbr | 45.54MiB
+Cloak and Dagger 005 (1986) (Digital) (Asgard-Empire).cbr | 45.19MiB
 Cloak and Dagger 005 (1986) (digital) (Minutemen-Slayer).cbr | 44.99MiB
+Cloak and Dagger 006 (1986) (Digital) (Asgard-Empire).cbr | 40.21MiB
 Cloak and Dagger 006 (1986) (digital) (Minutemen-Slayer).cbr | 40.02MiB
+Cloak and Dagger 007 (1986) (Digital) (Asgard-Empire).cbr | 39.63MiB
 Cloak and Dagger 007 (1986) (digital) (Minutemen-Slayer).cbr | 39.43MiB
+Cloak and Dagger 008 (1986) (Digital) (Asgard-Empire).cbr | 39.02MiB
 Cloak and Dagger 008 (1986) (digital) (Minutemen-Slayer).cbr | 38.79MiB
+Cloak and Dagger 009 (1986) (Digital) (Asgard-Empire).cbr | 44.93MiB
 Cloak and Dagger 009 (1986) (digital) (Minutemen-Slayer).cbr | 44.76MiB
+Cloak and Dagger 010 (1987) (Digital) (Asgard-Empire).cbr | 45.77MiB
 Cloak and Dagger 010 (1987) (digital) (Minutemen-Slayer).cbr | 45.52MiB
+Cloak and Dagger 011 (1987) (Digital) (Asgard-Empire).cbr | 67.31MiB
 Cloak and Dagger 011 (1987) (digital) (Minutemen-Slayer).cbr | 66.90MiB
 Cloak and Dagger 018 (1991) (Digital) (Shadowcat-Empire).cbz | 86.88MiB
+[Cloak and Dagger 001 (2018) (Digital Original) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cloak-Dagger-001-2018-Digital-Original-Zone-Empire-cbr.md) | 50.70MiB
 [Cloak and Dagger 001 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cloak-Dagger-001-2018-Digital-Zone-Empire-cbr.md) | [29.98MiB](https://pan.baidu.com/s/1TYZ3H1cdWOBr94Nu9JuQGA#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.06%2F%E3%82%B1%E3%82%AA%E3%82%BB%E3%82%A4%E3%82%B5%E3%82%BF%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%BB%E3%82%A6%E3%82%AA%E3%82%BB%E3%82%A8%E3%82%BF%E3%82%B1%E3%82%B9%E3%82%B9%E3%82%B5%E3%82%A2%E3%82%AA%E3%82%AA%E3%82%A2%E3%82%A2%E3%82%BD%E3%82%AF%E3%82%B5%E3%82%AB%E3%82%B1%E3%82%AF%E3%82%BF%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Cloak and Dagger 002 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cloak-Dagger-002-2018-Digital-Zone-Empire-cbr.md) | 26.62MiB

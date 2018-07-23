@@ -31,8 +31,8 @@ Captain Midnight 015 (2014) (digital) (Son of Ultron-Empire).cbr | 47.53MiB
 Captain Midnight 016 (2014) (digital) (Son of Ultron-Empire).cbr | 39.64MiB
 Captain Midnight 017 (2014) (digital) (Son of Ultron-Empire).cbr | 40.07MiB
 Captain Midnight 018 (2014) (digital) (Son of Ultron-Empire).cbr | 52.62MiB
-Captain Midnight 019 (2015) (digital) (Son of Ultron-Empire).cbr | 48.44MiB
-Captain Midnight 020 (2015) (digital) (Son of Ultron-Empire).cbr | 41.56MiB
+[Captain Midnight 019 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-019-2015-digital-Son-of-Ultron-Empire-cbr.md) | 48.44MiB
+[Captain Midnight 020 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-020-2015-digital-Son-of-Ultron-Empire-cbr.md) | 41.56MiB
 [Captain Midnight 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.11MiB
 [Captain Midnight 022 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-022-2015-digital-Son-of-Ultron-Empire-cbr.md) | 47.51MiB
 [Captain Midnight 023 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-023-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.89MiB

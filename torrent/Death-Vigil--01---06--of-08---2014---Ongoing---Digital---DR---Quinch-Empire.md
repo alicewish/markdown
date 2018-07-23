@@ -15,4 +15,4 @@ Death Vigil 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 44.10MiB
 Death Vigil 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 43.57MiB
 Death Vigil 004 (2014) (Digital) (DR & Quinch-Empire).cbr | 45.64MiB
 Death Vigil 005 (2014) (Digital) (DR & Quinch-Empire).cbr | 42.85MiB
-Death Vigil 006 (2015) (Digital) (DR & Quinch-Empire).cbr | 44.75MiB
+[Death Vigil 006 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-Vigil-006-2015-Digital-DR-Quinch-Empire-cbr.md) | 44.75MiB

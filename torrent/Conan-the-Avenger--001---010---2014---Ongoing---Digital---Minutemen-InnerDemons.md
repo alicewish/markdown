@@ -19,4 +19,4 @@ Conan the Avenger 006 (2014) (digital) (Minutemen-InnerDemons).cbr | 29.83MiB
 Conan the Avenger 007 (2014) (digital) (Minutemen-InnerDemons).cbr | 25.82MiB
 Conan the Avenger 008 (2014) (digital) (Minutemen-InnerDemons).cbr | 32.86MiB
 Conan the Avenger 009 (2014) (digital) (Minutemen-InnerDemons).cbr | 25.08MiB
-Conan the Avenger 010 (2015) (digital) (Minutemen-InnerDemons).cbr | 25.62MiB
+[Conan the Avenger 010 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Conan-Avenger-010-2015-digital-Minutemen-InnerDemons-cbr.md) | 25.62MiB

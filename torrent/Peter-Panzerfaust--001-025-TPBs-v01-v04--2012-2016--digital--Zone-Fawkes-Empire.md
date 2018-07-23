@@ -34,7 +34,7 @@ Peter Panzerfaust 019 (2014) (Digital) (Fawkes-Empire).cbr | 37.52MiB
 Peter Panzerfaust 020 (2014) (Digital-Empire).cbr | 34.78MiB
 Peter Panzerfaust 021 (2014) (Digital-Empire).cbr | 32.11MiB
 Peter Panzerfaust 022 (2014) (Digital-Empire).cbr | 35.14MiB
-Peter Panzerfaust 023 (2015) (Digital-Empire).cbr | 34.14MiB
+[Peter Panzerfaust 023 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Peter-Panzerfaust-023-2015-Digital-Empire-cbr.md) | 34.14MiB
 [Peter Panzerfaust 024 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Peter-Panzerfaust-024-2016-Digital-Zone-Empire-cbr.md) | 56.32MiB
 [Peter Panzerfaust 025 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Peter-Panzerfaust-025-2016-Digital-Zone-Empire-cbr.md) | 64.93MiB
 &emsp;【Peter Panzerfaust (001-025+TPBs v01-v04)(2012-2016)(digital)(Zone+Fawkes-Empire)/Trades (v01-v04)(2012-2014)(digital-Empire)】 | 

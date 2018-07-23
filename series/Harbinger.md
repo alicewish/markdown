@@ -20,6 +20,10 @@ Read minds. Bend steel. Break all the rules. Teenager Pete Stanchek is out of wo
 
 [Harbinger (001 - 025 + Extra) (2012 - Ongoing) (Digital) (Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Harbinger--001---025---Extra---2012---Ongoing---Digital---Empire.md)
 
+[Harbinger (000 - 041) (1992 - 1995) (Digital - Vee-Empire &Scans)](https://github.com/alicewish/markdown/blob/master/torrent/Harbinger--000---041---1992---1995---Digital---Vee-Empire--Scans.md)
+
+[Harbinger (000 - 041) (1992 - 1995) (Digital) (Vee-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Harbinger--000---041---1992---1995---Digital---Vee-Empire.md)
+
 [Harbinger TPBs (v1-v6) (2012-2015) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Harbinger-TPBs--v1-v6---2012-2015---digital-Empire.md)
 
 Online | Download

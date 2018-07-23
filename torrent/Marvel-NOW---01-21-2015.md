@@ -28,7 +28,7 @@ Moon Knight 011 (2015) (Digtal) (Zone-Empire).cbr | 19.41MiB
 [Rocket Raccoon 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rocket-Raccoon-007-2015-Digital-Zone-Empire-cbr.md) | 39.45MiB
 [Scarlet Spiders 03 (of 03) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Scarlet-Spiders-03-of-03-2015-digital-Minutemen-Faessla-cbz.md) | 49.20MiB
 [Spider-Verse Team-Up 03 (of 03) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-Team-Up-03-of-03-2015-digital-Minutemen-Faessla-cbz.md) | 39.07MiB
-Spider-Woman 003 (2015) (Digital) (Zone-Empire).cbr | 37.70MiB
-Superior Iron Man 004 (2015) (Digital) (Zone-Empire).cbr | 35.26MiB
+[Spider-Woman 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-003-2015-Digital-Zone-Empire-cbr.md) | 37.70MiB
+[Superior Iron Man 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Iron-Man-004-2015-Digital-Zone-Empire-cbr.md) | 35.26MiB
 [The Amazing Spider-Man 013 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-013-2015-digital-Minutemen-InnerDemons-cbr.md) | 44.89MiB
 [Wolverines 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverines-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.76MiB

@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Low v01 - The Delirium of Hope (2015) (Digital) (Zone-Empire).cbr | 261.30MiB
+[Low v01 - The Delirium of Hope (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-v01-Delirium-of-Hope-2015-Digital-Zone-Empire-cbr.md) | 261.30MiB
 Low v02 - Before the Dawn Burns Us (2015) (Digital) (Zone-Empire).cbr | 162.16MiB
 Low v03 - Shore of the Dying Light (2016) (Digital) (Zone-Empire).cbr | 200.11MiB

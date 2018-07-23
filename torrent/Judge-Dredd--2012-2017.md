@@ -53,7 +53,7 @@ Judge Dredd 023 (2014) (Digital-Empire).cbr | 35.77MiB
 Judge Dredd 024 (2014) (Digital-Empire).cbr | 39.76MiB
 Judge Dredd 025 (2014) (Digital-Empire).cbr | 33.68MiB
 Judge Dredd 026 (2014) (Digital-Empire).cbr | 35.79MiB
-Judge Dredd 027 (2015) (Digital-Empire).cbr | 36.33MiB
+[Judge Dredd 027 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-027-2015-Digital-Empire-cbr.md) | 36.33MiB
 [Judge Dredd 028 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-028-2015-Digital-Empire-cbr.md) | 37.67MiB
 [Judge Dredd 029 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-029-2015-Digital-Cypher-2-0-Empire-cbr.md) | 32.76MiB
 [Judge Dredd 030 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-030-2015-Digital-Cypher-2-0-Empire-cbr.md) | 32.24MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Divinity 01 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr | 52.69MiB
+[Divinity 01 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-01-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 52.69MiB
 [Divinity 02 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-02-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.14MiB
 [Divinity 03 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-03-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 43.01MiB
 [Divinity 04 (of 04) (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Divinity-04-of-04-2015-digital-Minutemen-Spaztastic-cbr.md) | 39.56MiB

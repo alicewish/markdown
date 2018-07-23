@@ -229,7 +229,7 @@ Savage Dragon 198 (2014) (Digital) (TLK-EMPIRE-HD).cbr | 64.86MiB
 Savage Dragon 199(2014)(Digital)(TLK-EMPIRE-HD).cbr | 73.09MiB
 Savage Dragon 200(2014)(Digital)(TLK-EMPIRE-HD).cbr | 207.78MiB
 [Savage Dragon 201(2015)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savage-Dragon-201-2015-TLK-EMPIRE-HD-cbr.md) | 57.98MiB
-Savage Dragon 202(2015)(Digital)(TLK-EMPIRE-HD).cbr | 56.84MiB
+[Savage Dragon 202(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savage-Dragon-202-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 56.84MiB
 [Savage Dragon 203(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savage-Dragon-203-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 51.06MiB
 [Savage Dragon 204(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savage-Dragon-204-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.03MiB
 [Savage Dragon 205(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savage-Dragon-205-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 50.06MiB

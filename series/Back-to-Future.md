@@ -20,6 +20,8 @@ Back to the Future
 
 [Back to the Future (001-011+) (2015-) (digital) (Kileko-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Back-to-the-Future--001-011----2015----digital---Kileko-Empire.md)
 
+[Back to the Future (001-025+)(2015-2018)(digital)(Kileko-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Back-to-the-Future--001-025---2015-2018--digital--Kileko-Empire.md)
+
 Online | Download
 --- | ---
 Back to the Future 01 (of 04) (2015) (Digital) (Kileko-Empire).cbr | 32.78MiB
@@ -53,3 +55,4 @@ Back to the Future 021 (2017) (Digital) (F) (Kileko-Empire).cbr | 81.83MiB
 [Back to the Future 025 (2017) (Digital) (Kileko-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Back-to-Future-025-2017-Digital-Kileko-Empire-cbr.md) | [71.58MiB](https://pan.baidu.com/s/1mi7pnUK#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.12.13%2F%E3%82%BD%E3%82%A2%E3%82%AF%E3%82%BF%E3%82%A6%E3%82%B5%E3%82%B9%E3%82%A2%E3%82%BD%E3%82%A8%E3%82%A2%E3%82%A2%E3%82%A4%E3%82%AD%E3%82%B9%E3%82%AB%E3%82%B7%E3%82%B1%E3%82%B9%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%A6%E3%82%BD%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%BF%E3%82%BF%E3%82%B1%E3%82%BD%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
 Back to the Future v02 - Continuum Conundrum (2017) (Digital) (Kileko-Empire).cbr | 245.76MiB
 Back to the Future v03 - Who Is Marty McFly (2017) (Digital) (Kileko-Empire).cbr | 338.63MiB
+Back to the Future v04 - Hard Time (2018) (Digital) (Kileko-Empire).cbr | 232.12MiB

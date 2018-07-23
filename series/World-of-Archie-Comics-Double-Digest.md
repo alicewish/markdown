@@ -24,7 +24,7 @@ World of Archie Comics Double Digest 046 (2014) (Forsythe-DCP).cbr | 426.09MiB
 World of Archie Comics Double Digest 047 (2015) (Forsythe-DCP).cbr | 218.32MiB
 World of Archie Comics Double Digest 048 (2015) (Forsythe-DCP).cbr | 212.99MiB
 World of Archie Comics Double Digest 049 (2015) (Forsythe-DCP).cbr | 231.59MiB
-World of Archie Comics Double Digest 050 (2015) (Forsythe-DCP).cbr | [216.90MiB](https://pan.baidu.com/s/1nuO5Kql#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.17%2F%E3%82%BD%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%AA%E3%82%B3%E3%82%AB%E3%82%B1%E3%82%A6%E3%82%BF%E3%82%AA%E3%82%A6%E3%82%B1%E3%82%B7%E3%82%B7%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%A4%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%AA%E3%82%A6%E3%82%B9%E3%82%A6%E3%82%B3%E3%82%AD%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
+[World of Archie Comics Double Digest 050 (2015) (Forsythe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/World-of-Archie-Comics-Double-Digest-050-2015-Forsythe-DCP-cbr.md) | [216.90MiB](https://pan.baidu.com/s/1nuO5Kql#list/path=%2F0-Day%20Week%20of%202015%20Q2%2F0-Day%20Week%20of%202015.06.17%2F%E3%82%BD%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%AA%E3%82%B3%E3%82%AB%E3%82%B1%E3%82%A6%E3%82%BF%E3%82%AA%E3%82%A6%E3%82%B1%E3%82%B7%E3%82%B7%E3%82%AF%E3%82%AD%E3%82%A2%E3%82%A4%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%B9%E3%82%AF%E3%82%A6%E3%82%AA%E3%82%A6%E3%82%B9%E3%82%A6%E3%82%B3%E3%82%AD%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202015%20Q2)
 World of Archie Comics Double Digest 051 (2015) (Forsythe-DCP).cbr | 445.85MiB
 World of Archie Comics Double Digest 052 (2015) (Forsythe-DCP).cbr | 226.65MiB
 World of Archie Comics Double Digest 053 (2015) (Forsythe-DCP).cbr | 244.27MiB

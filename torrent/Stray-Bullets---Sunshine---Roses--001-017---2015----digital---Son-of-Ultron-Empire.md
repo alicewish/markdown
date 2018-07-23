@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Stray Bullets - Sunshine & Roses 001 (2015) (digital) (Son of Ultron-Empire).cbr | 34.37MiB
+[Stray Bullets - Sunshine & Roses 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 34.37MiB
 Stray Bullets - Sunshine & Roses 002 (2015) (digital) (Son fo Ultron-Empire).cbr | 34.80MiB
 [Stray Bullets - Sunshine & Roses 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.57MiB
 [Stray Bullets - Sunshine & Roses 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Sunshine-Roses-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.13MiB

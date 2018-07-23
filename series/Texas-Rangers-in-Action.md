@@ -12,6 +12,7 @@
 
 Online | Download
 --- | ---
+Texas Rangers in Action 10 (1957 Charlton) (c2c) (Titansfan-Soothsayr-Kracalactaka-Novus).cbz | 27.43MiB
 Texas Rangers in Action 12 Charlton June 1958 Titansfan.cbz | 48.74MiB
 Texas Rangers in Action 014 (Charlton 1958) (c2c) (Kracalactaka).cbz | 35.30MiB
 Texas Rangers in Action 22 Charlton June 1960 Titansfan.cbz | 25.84MiB
@@ -19,12 +20,15 @@ Texas Rangers in Action 23 Charlton Aug 1960 titansfan.cbz | 60.30MiB
 Texas Rangers in Action 024 (Charlton 1960) (c2c) (Titansfan).cbz | 25.77MiB
 Texas Rangers in Action 25 Charlton Dec 1960 Titansfan.cbz | 25.31MiB
 Texas Rangers in Action 025 (Charlton 1960) (c2c) (Titansfan).cbz | 26.68MiB
+Texas Rangers In Action 35 (1962 Charlton) (c2c) (Soothsayr-Kracalactaka-DMiles-Novus).cbz | 56.20MiB
 Texas Rangers in Action 42 Charlton Nov 1963 Titansfan.cbz | 25.37MiB
 Texas Rangers in Action 43 c2c Charlton Jan 1964 titansfan.cbz | 36.65MiB
 Texas Rangers in Action 46 c2c Charlton titansfan.cbz | 35.17MiB
 Texas Rangers in Action 47 c2c Charlton Nov 1964 titansfan.cbz | 35.29MiB
+Texas Rangers in Action 49 (1965 Charlton) (c2c) (Soothsayr-Kracalactaka-DaveH-Novus).cbz | 39.03MiB
 Texas Rangers in Action 50 Charlton 1965 Titansfan.cbz | 26.25MiB
 Texas Rangers in Action 51 Charlton 1965 Titansfan.cbz | 26.40MiB
+Texas Rangers in Action 60 c2c Charlton May 1967 Kracalactaka-DMiles.cbz | 58.47MiB
 Texas Rangers in Action 64 Charlton 1968 Titansfan.cbz | 25.52MiB
 Texas Rangers in Action 65 Charlton 1968 Titansfan.cbz | 25.65MiB
 Texas Rangers in Action 66 Charlton 1968 Titansfan.cbz | 25.21MiB

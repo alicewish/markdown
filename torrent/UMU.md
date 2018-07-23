@@ -1071,7 +1071,7 @@ ultimate x-men 050 (2004) (ww chicago variant) (steam-dcp).cbr | 1.46MiB
 [The Amazing Spider-Man 010 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-010-2015-digital-Minutemen-InnerDemons-cbr.md) | 45.52MiB
 &emsp;【UMU/Xtras/616 & Secret Wars/Avengers (041-042)(2015)(digital)】 | 
 [Avengers 041 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-041-2015-Digital-Zone-Empire-cbr.md) | 39.27MiB
-Avengers 042 (2015) (Digital) (Zone-Empire).cbr | 37.26MiB
+[Avengers 042 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-042-2015-Digital-Zone-Empire-cbr.md) | 37.26MiB
 [Secret Wars - Official Guide to the Marvel Multiverse (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-Official-Guide-to-Marvel-Multiverse-2015-Digital-Zone-Empire-cbr.md) | 87.58MiB
 [Secret Wars 01 (of 08) (2015) (9 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Secret-Wars-01-of-08-2015-9-covers-digital-Minutemen-Spaztastic-cbr.md) | 56.34MiB
 &emsp;【UMU/Xtras/616 & Secret Wars/Ultimate End (001-004) (of 05)】 | 

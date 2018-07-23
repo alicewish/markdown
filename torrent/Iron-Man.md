@@ -855,4 +855,4 @@ Marvel Masterworks - The Invincible Iron Man Vol. 03 (2006) (digital) (Minutemen
 Superior Iron Man 001 (2015) (Digital) (Zone-Empire).cbr | 41.73MiB
 Superior Iron Man 002 (2015) (Digital) (Zone-Empire).cbr | 42.22MiB
 Superior Iron Man 003 (2015) (Digital) (Zone-Empire).cbr | 38.84MiB
-Superior Iron Man 004 (2015) (Digital) (Zone-Empire).cbr | 35.26MiB
+[Superior Iron Man 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Iron-Man-004-2015-Digital-Zone-Empire-cbr.md) | 35.26MiB

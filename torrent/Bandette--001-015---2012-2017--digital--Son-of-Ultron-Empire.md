@@ -35,7 +35,7 @@ Bandette 005 (2013) (digital) (Son of Ultron-Empire).cbr | 35.39MiB
 Bandette 006 (2014) (digital) (Son of Ultron-Empire).cbr | 39.47MiB
 Bandette 007 (2014) (digital) (Son of Ultron-Empire).cbr | 41.09MiB
 Bandette 008 (2014) (digital) (Son of Ultron-Empire).cbr | 41.77MiB
-Bandette 009 (2015) (digital) (Son of Ultron-Empire).cbr | 28.83MiB
+[Bandette 009 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bandette-009-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.83MiB
 [Bandette 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bandette-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.18MiB
 [Bandette 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bandette-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 29.10MiB
 [Bandette 012 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bandette-012-2016-digital-Son-of-Ultron-Empire-cbr.md) | 29.23MiB

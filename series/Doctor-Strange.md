@@ -58,9 +58,13 @@ Online | Download
 --- | ---
 Doctor Strange 178 (1969) (Digital) (Shadowcat-Empire).cbz | 50.06MiB
 Doctor Strange 179 (1969) (Digital) (Shadowcat-Empire).cbz | 52.25MiB
+Doctor Strange 180 (1969) (Digital) (Asgard-Empire).cbr | 41.01MiB
 Doctor Strange 180 (1969) (digital) (Minutemen-Slayer).cbr | 40.79MiB
+Doctor Strange 181 (1969) (Digital) (Asgard-Empire).cbr | 39.44MiB
 Doctor Strange 181 (1969) (digital) (Minutemen-Slayer).cbr | 39.28MiB
+Doctor Strange 182 (1969) (Digital) (Asgard-Empire).cbr | 38.56MiB
 Doctor Strange 182 (1969) (digital) (Minutemen-Slayer).cbr | 38.37MiB
+Doctor Strange 183 (1969) (Digital) (Asgard-Empire).cbr | 40.33MiB
 Doctor Strange 183 (1969) (digital) (Minutemen-Slayer).cbr | 40.19MiB
 Doctor Strange 001 (1974) (Digital-Empire).cbr | 58.34MiB
 Doctor Strange 001 (1974) (digital) (Minutemen-Slayer).cbr | 42.06MiB
@@ -253,7 +257,8 @@ Doctor Strange Vol. 04 - Mr. Misery (2017) (digital) (Minutemen-Slayer).cbr | 22
 [Doctor Strange 001 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-001-2018-Digital-Zone-Empire-cbr.md) | [32.39MiB](https://pan.baidu.com/s/1TYZ3H1cdWOBr94Nu9JuQGA#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.06%2F%E3%82%B1%E3%82%B7%E3%82%BF%E3%82%BB%E3%82%A4%E3%82%A4%E3%82%A8%E3%82%B1%E3%82%B5%E3%82%A6%E3%82%B7%E3%82%A4%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%B5%E3%82%AB%E3%82%AF%E3%82%AF%E3%82%AA%E3%82%BF%E3%82%AF%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%BB%E3%82%AD%E3%82%A8%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
 Doctor Strange 002 (2018) (digital) (Minutemen-Bookworm).cbr | [29.36MiB](https://pan.baidu.com/s/1lub5PO6RGwJoOkg8yOwZiA#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.20%2F%E3%82%A2%E3%82%B1%E3%82%BF%E3%82%A4%E3%82%B1%E3%82%BB%E3%82%B5%E3%82%AB%E3%82%BF%E3%82%B3%E3%82%BD%E3%82%AA%E3%82%BF%E3%82%A8%E3%82%B3%E3%82%B9%E3%82%BF%E3%82%AA%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%B1%E3%82%B9%E3%82%BF%E3%82%BB%E3%82%BB%E3%82%B9%E3%82%BF%E3%82%B5%E3%82%AD%E3%82%AD%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
 [Doctor Strange 002 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-002-2018-Digital-Zone-Empire-cbr.md) | [29.97MiB](https://pan.baidu.com/s/1lub5PO6RGwJoOkg8yOwZiA#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.20%2F%E3%82%B5%E3%82%AF%E3%82%B3%E3%82%B9%E3%82%A6%E3%82%AA%E3%82%BD%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%A6%E3%82%B9%E3%82%AB%E3%82%AA%E3%82%BD%E3%82%B3%E3%82%A2%E3%82%AD%E3%82%B7%E3%82%BD%E3%82%BB%E3%82%AF%E3%82%BB%E3%82%B3%E3%82%BD%E3%82%B1%E3%82%B9%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
-[Doctor Strange 003 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-003-2018-Digital-Zone-Empire-cbr.md) | [33.31MiB](https://pan.baidu.com/s/1BK168fQqX9ludXbKt7e2Hw#list/path=%2FMarvel%20Week%202018%20Q3%2FMarvel%20Week%2B%20%2807-04-2018%29%2F%E3%82%AA%E3%82%AA%E3%82%B1%E3%82%B9%E3%82%A4%E3%82%B5%E3%82%B3%E3%82%A2%E3%82%BD%E3%82%BD%E3%82%AF%E3%82%A2%E3%82%AF%E3%82%BD%E3%82%A8%E3%82%AA%E3%82%A6%E3%82%A8%E3%82%AB%E3%82%AD%E3%82%BB%E3%82%B7%E3%82%A2%E3%82%A6%E3%82%AF%E3%82%AA%E3%82%BF%E3%82%BB%E3%82%B9%E3%82%AB%E3%82%A8%E3%82%A6&parentPath=%2FMarvel%20Week%202018%20Q3)
+[Doctor Strange 003 (2018) (digital) (Oroboros-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-003-2018-digital-Oroboros-DCP-cbr.md) | 32.40MiB
+[Doctor Strange 003 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-003-2018-Digital-Zone-Empire-cbr.md) | 33.31MiB
 Doctor Strange 381 (2018) (digital) (Minutemen-Slayer).cbr | 83.04MiB
 [Doctor Strange 381 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-381-2018-Digital-Zone-Empire-cbr.md) | [99.45MiB](https://pan.baidu.com/s/1i5clE0P#list/path=%2F0-Day%20Week%20of%202017%20Q4%2F0-Day%20Week%20of%202017.11.15%2F%E3%82%B3%E3%82%A2%E3%82%A6%E3%82%B1%E3%82%BB%E3%82%B5%E3%82%AD%E3%82%BD%E3%82%AA%E3%82%AB%E3%82%A8%E3%82%BD%E3%82%A6%E3%82%B9%E3%82%AA%E3%82%AF%E3%82%A4%E3%82%B1%E3%82%B9%E3%82%A2%E3%82%B5%E3%82%AB%E3%82%B3%E3%82%AD%E3%82%BF%E3%82%B7%E3%82%AB%E3%82%BD%E3%82%B9%E3%82%BD%E3%82%B7%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202017%20Q4)
 Doctor Strange 382 (2018) (digital) (Minutemen-Slayer).cbr | 35.79MiB

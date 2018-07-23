@@ -11,8 +11,8 @@
 Online | Download
 --- | ---
 Bloke's Terrible Tomb Of Terror 001(2011)(TLK-EMPIRE-HD).cbr | 62.60MiB
-Bloke's Terrible Tomb Of Terror 002(2015)(Digital)(TLK-EMPIRE-HD).cbr | 53.47MiB
-Bloke's Terrible Tomb Of Terror 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 47.31MiB
+[Bloke's Terrible Tomb Of Terror 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Blokes-Terrible-Tomb-Of-Terror-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 53.47MiB
+[Bloke's Terrible Tomb Of Terror 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Blokes-Terrible-Tomb-Of-Terror-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.31MiB
 [Bloke's Terrible Tomb Of Terror 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Blokes-Terrible-Tomb-Of-Terror-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 64.65MiB
 [Bloke's Terrible Tomb Of Terror 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Blokes-Terrible-Tomb-Of-Terror-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 76.24MiB
 Bloke's Terrible Tomb Of Terror 006(2015)(Digital)(TLK-EMPIRE-HD).cbr | 81.00MiB

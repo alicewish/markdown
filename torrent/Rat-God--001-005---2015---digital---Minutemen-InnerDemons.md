@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Rat God 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 21.53MiB
-Rat God 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr | 19.94MiB
+[Rat God 01 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rat-God-01-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 21.53MiB
+[Rat God 02 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rat-God-02-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 19.94MiB
 [Rat God 03 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rat-God-03-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.58MiB
 [Rat God 04 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rat-God-04-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 18.61MiB
 [Rat God 05 (of 05) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rat-God-05-of-05-2015-digital-Minutemen-InnerDemons-cbr.md) | 24.72MiB

@@ -14,4 +14,4 @@ Online | Download
 [Incognegro - Renaissance 02 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Incognegro-Renaissance-02-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 40.42MiB
 [Incognegro - Renaissance 03 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Incognegro-Renaissance-03-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 39.01MiB
 [Incognegro - Renaissance 04 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Incognegro-Renaissance-04-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 36.81MiB
-Incognegro - Renaissance 05 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr | 52.05MiB
+[Incognegro - Renaissance 05 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Incognegro-Renaissance-05-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 52.05MiB

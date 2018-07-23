@@ -15,4 +15,4 @@ Sundowners 002 (2014) (digital) (Son of Ultron-Empire).cbr | 39.42MiB
 Sundowners 003 (2014) (digital) (Son of Ultron-Empire).cbr | 41.28MiB
 Sundowners 004 (2014) (digital) (Son of Ultron-Empire).cbr | 47.08MiB
 Sundowners 005 (2014) (digital) (Son of Ultron-Empire).cbr | 47.36MiB
-Sundowners 006 (2015) (digital) (Son of Ultron-Empire).cbr | 54.49MiB
+[Sundowners 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sundowners-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.49MiB

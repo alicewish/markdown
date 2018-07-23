@@ -15,4 +15,4 @@ Online | Download
 [Robyn Hood The Curse 003(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robyn-Hood-Curse-003-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 38.77MiB
 [Robyn Hood The Curse 004(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robyn-Hood-Curse-004-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 36.69MiB
 [Robyn Hood The Curse 005(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robyn-Hood-Curse-005-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 39.81MiB
-Robyn Hood The Curse 006(2018)(Digital)(TLK-EMPIRE-HD).cbr | 49.31MiB
+[Robyn Hood The Curse 006(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robyn-Hood-Curse-006-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 49.31MiB

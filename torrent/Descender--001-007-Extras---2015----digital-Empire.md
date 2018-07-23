@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Descender (001-007+Extras) (2015-) (digital-Empire)】 | 
-Descender 001 (2015) (Digital) (Vee-Empire).cbr | 69.92MiB
+[Descender 001 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Descender-001-2015-Digital-Vee-Empire-cbr.md) | 69.92MiB
 [Descender 002 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Descender-002-2015-Digital-Vee-Empire-cbr.md) | 61.80MiB
 [Descender 003 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Descender-003-2015-Digital-Vee-Empire-cbr.md) | 57.07MiB
 [Descender 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Descender-004-2015-Digital-Empire-cbr.md) | 56.90MiB

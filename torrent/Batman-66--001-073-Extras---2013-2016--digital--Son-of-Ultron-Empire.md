@@ -64,10 +64,10 @@ Batman '66 049 (2014) (digital) (Son of Ultron-Empire).cbr | 54.99MiB
 Batman '66 050 (2014) (digital) (Son of Ultron-Empire).cbr | 54.45MiB
 [Batman '66 051 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-051-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.05MiB
 [Batman '66 052 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-052-2015-digital-Son-of-Ultron-Empire-cbr.md) | 74.44MiB
-Batman '66 053 (2015) (digital) (Son of Ultron-Empire).cbr | 86.63MiB
+[Batman '66 053 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-053-2015-digital-Son-of-Ultron-Empire-cbr.md) | 86.63MiB
 Batman '66 054 (2015) (digital) (Son fo Ultron-Empire).cbr | 57.10MiB
-Batman '66 055 (2015) (digital) (Son of Ultron-Empire).cbr | 37.29MiB
-Batman '66 056 (2015) (digital) (Son of Ultron-Empire).cbr | 56.14MiB
+[Batman '66 055 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-055-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.29MiB
+[Batman '66 056 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-056-2015-digital-Son-of-Ultron-Empire-cbr.md) | 56.14MiB
 [Batman '66 057 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-057-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.39MiB
 [Batman '66 058 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-058-2015-digital-Son-of-Ultron-Empire-cbr.md) | 64.04MiB
 [Batman '66 059 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-059-2015-digital-Son-of-Ultron-Empire-cbr.md) | 72.66MiB
@@ -121,6 +121,6 @@ Batman '66 Meets The Green Hornet 012 (2014) (digital) (Son of Ultron-Empire).cb
 Batman '66 Mike Allred Variant Covers.cbr | 45.72MiB
 Batman '66 Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 288.48MiB
 Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
-Batman '66 Vol. 03 (2015) (digital) (Minutemen-PhD).cbr | 240.43MiB
+[Batman '66 Vol. 03 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-03-2015-digital-Minutemen-PhD-cbr.md) | 240.43MiB
 Batman '66 vol. 04 (2015) (digital TPB) (Minutemen-Faessla).cbz | 308.49MiB
 Batman '66 vol. 05 (2016) (digital TPB) (Minutemen-Faessla).cbz | 268.48MiB

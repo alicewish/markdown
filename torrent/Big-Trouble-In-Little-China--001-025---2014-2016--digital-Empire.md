@@ -31,7 +31,7 @@ Big Trouble In Little China 006 (2014)(Digital)(TLK-EMPIRE-HD).cbr | 46.34MiB
 [Big Trouble In Little China 025(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-In-Little-China-025-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 68.90MiB
 Big Trouble in Little China 005 (2014) (3 covers) (digital-Empire).cbr | 59.65MiB
 Big Trouble in Little China 007(2014)(Digital)(TLK-EMPIRE-HD).cbr | 44.31MiB
-Big Trouble in Little China 008(2015)(Digital)(TLK-EMPIRE-HD).cbr | 39.41MiB
+[Big Trouble in Little China 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-in-Little-China-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.41MiB
 [Big Trouble in Little China 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-in-Little-China-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 46.17MiB
 [Big Trouble in Little China 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-in-Little-China-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 55.43MiB
 [Big Trouble in Little China 011(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-in-Little-China-011-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 55.98MiB

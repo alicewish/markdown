@@ -106,9 +106,15 @@ World's Finest Comics 115 (1960-12) (digital) (Glorith-Novus-HD).cbz | [20.91MiB
 World's Finest Comics, 1960-12-00 (#115) (digital) (Glorith-Novus-HD).cbz | 20.91MiB
 World's Finest Comics 116 (1961-01) (digital) (Glorith-Novus-HD).cbz | [19.33MiB](https://pan.baidu.com/s/1hsb98OG#list/path=%2FNovus%20-%20Week%20of%202016%20Q2%2FNovus%20-%20Week%20of%202016-06-01%2F%E3%82%B3%E3%82%AB%E3%82%BD%E3%82%B1%E3%82%AF%E3%82%BF%E3%82%A4%E3%82%AF%E3%82%AD%E3%82%AA%E3%82%AB%E3%82%B7%E3%82%A8%E3%82%B7%E3%82%A8%E3%82%BB%E3%82%A6%E3%82%AB%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%A2%E3%82%B9%E3%82%A6%E3%82%AB%E3%82%A8%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%B5%E3%82%AF%E3%82%BB&parentPath=%2FNovus%20-%20Week%20of%202016%20Q2)
 World's Finest Comics, 1961-01-00 (#116) (digital) (Glorith-Novus-HD).cbz | 19.33MiB
+World's Finest Comics 174 (1968) (Digital) (Shadowcat-Empire).cbz | 29.51MiB
+World's Finest Comics 175 (1968) (Digital) (Shadowcat-Empire).cbz | 38.39MiB
+World's Finest Comics 178 (1968) (Digital) (Shadowcat-Empire).cbz | 29.48MiB
+World's Finest Comics 180 (1968) (Digital) (Shadowcat-Empire).cbz | 34.30MiB
+World's Finest Comics 182 (1969) (Digital) (Shadowcat-Empire).cbz | 36.59MiB
 World's Finest Comics 183 (1969) (Digital) (Shadowcat-Empire).cbz | 40.01MiB
 World's Finest Comics 185 (1969) (Digital) (Shadowcat-Empire).cbz | 32.05MiB
 World's Finest Comics 186 (1969) (Digital) (Shadowcat-Empire).cbz | 39.93MiB
+World's Finest Comics 261 (1980) (Digital) (Shadowcat-Empire).cbz | 76.81MiB
 World's Finest Comics 270 (1981) (Digital) (Shadowcat-Empire).cbz | 72.26MiB
 World's Finest Comics 285 (1982) (Digital) (AnHeroGold-Empire).cbz | 38.87MiB
 World's Finest Comics 285 (1982-09) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | [40.34MiB](https://pan.baidu.com/s/1TEMistQyUz-QhK4FBxDioA#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-11-04%2F%E3%82%BD%E3%82%A6%E3%82%B1%E3%82%AA%E3%82%BF%E3%82%AD%E3%82%A8%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%B5%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%B9%E3%82%BF%E3%82%B1%E3%82%AB%E3%82%B1%E3%82%AD%E3%82%AA%E3%82%A8%E3%82%A8%E3%82%B1%E3%82%AA%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%B3&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)

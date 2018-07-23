@@ -29,5 +29,6 @@ Secret Invasion 04 (of 08) (2008) (digital) (Minutemen-InnerDemons).cbr | 27.26M
 Secret Invasion 05 (of 08) (2008) (digital) (Minutemen-InnerDemons).cbr | 38.85MiB
 Secret Invasion 06 (of 08) (2008) (digital) (Minutemen-InnerDemons).cbr | 30.27MiB
 Secret Invasion 07 (of 08) (2008) (digital) (Minutemen-InnerDemons).cbr | 32.35MiB
+Secret Invasion (2009) (Digital) (F) (Zone-Empire).cbr | 430.74MiB
 Secret Invasion 08 (of 08) (2009) (digital) (Minutemen-InnerDemons).cbr | 32.63MiB
 Secret Invasion 08 (of 08) (2009) (Minutemen-Sare & Megan).cbr | 22.98MiB

@@ -32,6 +32,8 @@ But if there is one thing that the Mages truly succeeded at during the conflict,
 
 [Master Inquisitors (v01-v07)(2015-2017)(Empire+Sosich)](https://github.com/alicewish/markdown/blob/master/torrent/Master-Inquisitors--v01-v07--2015-2017--Empire-Sosich.md)
 
+[Master Inquisitors (v01-v09)(2015-2018)(digital+)(Empire+Sosich)](https://github.com/alicewish/markdown/blob/master/torrent/Master-Inquisitors--v01-v09--2015-2018--digital---Empire-Sosich.md)
+
 Online | Download
 --- | ---
 Master Inquisitors V1 Obeyron (2015) (Sosich).cbr | 53.04MiB

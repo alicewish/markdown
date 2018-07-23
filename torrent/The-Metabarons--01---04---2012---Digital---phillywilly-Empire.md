@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Metabarons 01 - Othon (2012) (Digital) (phillywilly-Empire).cbr | 114.79MiB
-The Metabarons 02 - Honorata (2012) (Digital) (phillywilly-Empire).cbr | 142.62MiB
-The Metabarons 03 - Aghnar (2012) (Digital) (phillywilly-Empire).cbr | 124.84MiB
-The Metabarons 04 - Oda (2012) (Digital) (phillywilly-Empire).cbr | 125.50MiB
+[The Metabarons 01 - Othon (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-01-Othon-2012-Digital-phillywilly-Empire-cbr.md) | 114.79MiB
+[The Metabarons 02 - Honorata (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-02-Honorata-2012-Digital-phillywilly-Empire-cbr.md) | 142.62MiB
+[The Metabarons 03 - Aghnar (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-03-Aghnar-2012-Digital-phillywilly-Empire-cbr.md) | 124.84MiB
+[The Metabarons 04 - Oda (2012) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Metabarons-04-Oda-2012-Digital-phillywilly-Empire-cbr.md) | 125.50MiB

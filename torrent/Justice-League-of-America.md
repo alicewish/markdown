@@ -1556,8 +1556,8 @@ Justice League - Generation Lost 024 (2011) (2 covers) (digital) (Glorith-Novus)
 [Justice League 3000 011 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-3000-011-2015-Digital-Cypher-2-0-Empire-cbr.md) | 44.23MiB
 [Justice League 3000 012 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-3000-012-2015-Digital-Cypher-2-0-Empire-cbr.md) | 42.90MiB
 [Justice League 3000 013 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-3000-013-2015-Digital-Cypher-2-0-Empire-cbr.md) | 45.15MiB
-Justice League 3000 014 (2015) (Digital) (Cypher 2.0-Empire).cbr | 38.03MiB
-Justice League 3000 015 (2015) (Digital) (Cypher 2.0-Empire).cbr | 49.40MiB
+[Justice League 3000 014 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-3000-014-2015-Digital-Cypher-2-0-Empire-cbr.md) | 38.03MiB
+[Justice League 3000 015 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-3000-015-2015-Digital-Cypher-2-0-Empire-cbr.md) | 49.40MiB
 &emsp;【Justice League of America/Series/Justice League 3001 (001-012+)(2015-2016)(digital)】 | 
 [DC Sneak Peek - Justice League 3001 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Sneak-Peek-Justice-League-3001-2015-Digital-ThatGuy-Empire-cbz.md) | 18.07MiB
 [Justice League 3001 001 (2015) (2 covers) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-3001-001-2015-2-covers-Digital-Cypher-2-0-Empire-cbr.md) | 45.83MiB

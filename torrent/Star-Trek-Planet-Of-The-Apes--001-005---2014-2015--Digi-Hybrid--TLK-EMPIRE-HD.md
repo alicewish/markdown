@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Star Trek Planet Of The Apes 001(2014)(4 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 50.34MiB
-Star Trek Planet Of The Apes 002(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 55.46MiB
-Star Trek Planet Of The Apes 003(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 51.32MiB
+[Star Trek Planet Of The Apes 002(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-002-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 55.46MiB
+[Star Trek Planet Of The Apes 003(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-003-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 51.32MiB
 [Star Trek Planet Of The Apes 004(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-004-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 57.00MiB
 [Star Trek Planet Of The Apes 005(2015)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-005-2015-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 56.70MiB

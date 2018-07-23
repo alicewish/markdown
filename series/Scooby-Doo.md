@@ -24,6 +24,7 @@ Scooby-Doo 03 Charlton Titansfan.cbz | 23.96MiB
 Scooby-Doo 04 Charlton Titansfan.cbz | 24.22MiB
 Scooby-Doo 07 Charlton Titansfan.cbz | 23.98MiB
 Scooby-Doo 09 c2c Charlton titansfan.cbz | 24.35MiB
+Scooby-Doo 114 (DC Jan 2007) (c2c) (Symm-NWG).cbz | 50.68MiB
 Scooby Doo Annual 1979 (ChrisB).cbz | 36.31MiB
 Scooby Doo Annual 1981.cbr | 42.67MiB
 Scooby-Doo 061 (2002) (digital) (Son of Ultron-Empire).cbr | 30.63MiB

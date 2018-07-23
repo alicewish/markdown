@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Daredevil 00.1 (2014) (Digital) (Zone-Empire).cbr | 133.46MiB
+[Daredevil 00.1 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-00-1-2014-Digital-Zone-Empire-cbr.md) | 133.46MiB
 Daredevil 001 (2014) (Digital) (Zone-Empire).cbr | 31.01MiB
 Daredevil 002 (2014) (Digital) (Zone-Empire).cbr | 27.78MiB
 Daredevil 003 (2014) (Digital) (Zone-Empire).cbr | 32.92MiB

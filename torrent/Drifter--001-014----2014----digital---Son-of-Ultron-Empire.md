@@ -13,7 +13,7 @@ Online | Download
 Drifter 001 (2014) (F) (digital) (Son of Ultron-Empire).cbr | 49.07MiB
 Drifter 002 (2014) (digital) (Son of Ultron-Empire).cbr | 50.54MiB
 [Drifter 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drifter-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.95MiB
-Drifter 004 (2015) (digital) (Son of Ultron-Empire).cbr | 46.42MiB
+[Drifter 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drifter-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.42MiB
 [Drifter 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drifter-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.38MiB
 [Drifter 006 (2015) (digital)(Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drifter-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.91MiB
 [Drifter 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drifter-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.81MiB

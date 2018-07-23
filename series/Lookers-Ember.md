@@ -35,5 +35,6 @@ Lookers-Ember 006 (2018) [ADULT] (Digital) (MM-Oracle).cbr | 106.04MiB
 Lookers-Ember 007 (2018) (wrapcover only) (scan) (Empire-GCA).cbr | 9.48MiB
 Lookers-Ember 008 (2018) [ADULT] (Digital) (Oracle-SWA).cbr | 95.83MiB
 Lookers-Ember 008 (2018) [uHD] [ADULT] (Digital) (Oracle-SWA).cbr | 171.74MiB
+Lookers-Ember 008 (2018) (wrapcover only) (scan) (Empire-GCA).cbr | 12.49MiB
 Lookers-Ember 008 (2018) [ADULT] (Digital) (F) (Oracle-SWA).cbr | 96.03MiB
 Lookers-Ember 008 (2018) [uHD] [ADULT] (Digital) (F) (Oracle-SWA).cbr | 178.69MiB

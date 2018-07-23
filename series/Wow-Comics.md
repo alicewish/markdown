@@ -47,3 +47,4 @@ Wow Comics 28 [Bell Features][1945-08] -LAC+Paxman53.cbz | 130.93MiB
 Wow Comics 29 [Bell Features][1945-10] -LAC+K+KC.cbz | 77.47MiB
 Wow Comics 30 [Bell Features][1945-12] -LAC+K.cbz | 74.58MiB
 Wow Comics 053 Fawcett Apr 1947 Krankyboy-Rangerhouse-DaveH.cbz | 46.52MiB
+Wow Comics 68 c2c Fawcett July 1948 Titansfan-DMiles.cbz | 68.03MiB

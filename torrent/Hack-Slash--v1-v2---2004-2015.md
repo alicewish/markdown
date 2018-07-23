@@ -157,7 +157,7 @@ Hack-Slash - My First Maniac 01 (of 4) (2010) (2 covers) (Minutemen-XxxX&DTs).cb
 Hack-Slash - My First Maniac 02 (of 4) (2010) (2 covers) (Minutemen-CH3OH).cbz | 22.69MiB
 Hack-Slash - My First Maniac 03 (of 4) (2010) (2 covers) (F) (Minutemen-DTs).cbz | 23.81MiB
 Hack-Slash - My First Maniac 04 (of 4) (2010) (2 covers) (Minutemen-CH3OH).cbz | 21.56MiB
-Nailbiter - Hack-Slash OS (2015) (Digital) (The Dark VI-Empire).cbr | 60.03MiB
+[Nailbiter - Hack-Slash OS (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-Hack-Slash-OS-2015-Digital-Dark-VI-Empire-cbr.md) | 60.03MiB
 &emsp;【Hack-Slash (v1-v2+)(2004-2015)/Son of Samhain (001-005+TPB)(2014-2015)(digital)】 | 
 &emsp;【Hack-Slash (v1-v2+)(2004-2015)/Son of Samhain (001-005+TPB)(2014-2015)(digital)/Covers】 | 
 Hack-Slash - Son of Samhain 001 (2014) (Ale Garza Phantom Variant Cover) (TaruTariat-Novus-HD).cbr | 1.40MiB

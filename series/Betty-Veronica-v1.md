@@ -26,6 +26,7 @@ Betty and Veronica v1 035 (Mar 1958) (c2c) (drake10).cbz | 34.17MiB
 Betty and Veronica v1 037 (Jul 1958) (c2c) (drake10).cbz | 36.19MiB
 Betty And Veronica v1 038 (Sep 1958) (c2c) (drake10).cbz | 39.72MiB
 Betty and Veronica v1 042 (May 1959) (c2c) (drake10).cbz | 36.58MiB
+Betty and Veronica v1 043 (Archie Jun 1959) (c2c) (drake10).cbz | 33.12MiB
 Betty And Veronica v1 045 (Sep 1959) (c2c) (drake10).cbz | 38.14MiB
 Betty and Veronica v1 050 (Feb 1960) (c2c) (drake10).cbz | 36.21MiB
 Betty and Veronica v1 053 (May 1960) (c2c) (drake10).cbz | 37.35MiB

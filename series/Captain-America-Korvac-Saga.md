@@ -20,6 +20,8 @@ Captain America: Proud member of the Avengers, but he's a man out of time, froze
 
 [Captain America & the Korvac Saga (001-004)(2010)(digital)(Shadowcat-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Captain-America---the-Korvac-Saga--001-004--2010--digital--Shadowcat-Empire.md)
 
+[Captain America - Korvac Saga (01 - 04) (2011) (Minutemen-Hawaiian Punch)](https://github.com/alicewish/markdown/blob/master/torrent/Captain-America---Korvac-Saga--01---04---2011---Minutemen-Hawaiian-Punch.md)
+
 Online | Download
 --- | ---
 Captain America and the Korvac Saga 001 (2010) (Digital) (Shadowcat-Empire).cbz | 40.14MiB

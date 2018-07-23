@@ -15,8 +15,8 @@ Grimm Fairy Tales Presents Robyn Hood 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 41
 Grimm Fairy Tales Presents Robyn Hood 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 30.59MiB
 Grimm Fairy Tales Presents Robyn Hood 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.92MiB
 Grimm Fairy Tales Presents Robyn Hood 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.45MiB
-Grimm Fairy Tales Presents Robyn Hood 006(2015)(Digital)(TLK-EMPIRE-HD).cbr | 31.05MiB
-Grimm Fairy Tales Presents Robyn Hood 007(2015)(Digital)(TLK-EMPIRE-HD).cbr | 32.10MiB
+[Grimm Fairy Tales Presents Robyn Hood 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 31.05MiB
+[Grimm Fairy Tales Presents Robyn Hood 007(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-007-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.10MiB
 [Grimm Fairy Tales Presents Robyn Hood 008(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-008-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.15MiB
 [Grimm Fairy Tales Presents Robyn Hood 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 32.39MiB
 [Grimm Fairy Tales Presents Robyn Hood 010(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-010-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.47MiB

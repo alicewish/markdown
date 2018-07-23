@@ -117,8 +117,8 @@ Army of Darkness 004(2012)(Digital)(TLK-EMPIRE-HD).cbr | 22.08MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Army of Darkness v4 (001-005)(2014-2015)(digital)】 | 
 Army Of Darkness 001(2014)(4 covers)(Digital)(TLK-EMPIRE-HD).cbr | 60.31MiB
 [Army Of Darkness 002(2015)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-Of-Darkness-002-2015-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 54.71MiB
-Army Of Darkness 003(2015)(3 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 54.40MiB
-Army Of Darkness 004(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 51.45MiB
+[Army Of Darkness 003(2015)(3 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-Of-Darkness-003-2015-3-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 54.40MiB
+[Army Of Darkness 004(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-Of-Darkness-004-2015-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 51.45MiB
 [Army Of Darkness 005(2015)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-Of-Darkness-005-2015-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 40.93MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Army of Darkness vs Marvel Zombies (01 - 05)】 | 
 Marvel Zombies vs. Army of Darkness 01.cbr | 9.50MiB

@@ -48,7 +48,7 @@ The New 52 - Futures End 000 (2014) (Digital) (FCBD Special Edition) (Son of Ult
 [The New 52 - Futures End 035 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-035-2015-digital-Empire-cbr.md) | 38.73MiB
 [The New 52 - Futures End 036 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-036-2015-digital-Empire-cbr.md) | 37.80MiB
 [The New 52 - Futures End 037 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-037-2015-digital-Empire-cbr.md) | 36.12MiB
-The New 52 - Futures End 038 (2015) (digital-Empire).cbr | 33.68MiB
+[The New 52 - Futures End 038 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-038-2015-digital-Empire-cbr.md) | 33.68MiB
 [The New 52 - Futures End 039 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-039-2015-digital-Empire-cbr.md) | 39.50MiB
 [The New 52 - Futures End 040 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-040-2015-digital-Empire-cbr.md) | 40.51MiB
 [The New 52 - Futures End 041 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-52-Futures-End-041-2015-digital-Empire-cbr.md) | 41.28MiB

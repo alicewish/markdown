@@ -14,7 +14,7 @@ Spread 001 (2014) (Digital) (Darkness-Empire).cbr | 63.63MiB
 Spread 002 (2014) (Digital) (Darkness-Empire).cbr | 64.47MiB
 Spread 003 (2014) (Digital) (Darkness-Empire).cbr | 57.40MiB
 Spread 004 (2014) (Digital) (Darkness-Empire).cbr | 64.82MiB
-Spread 005 (2015) (Digital) (Darkness-Empire).cbr | 48.75MiB
+[Spread 005 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-005-2015-Digital-Darkness-Empire-cbr.md) | 48.75MiB
 [Spread 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-006-2015-Digital-Zone-Empire-cbr.md) | 60.71MiB
 [Spread 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-007-2015-Digital-Zone-Empire-cbr.md) | 55.32MiB
 [Spread 008 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-008-2015-Digital-Zone-Empire-cbr.md) | 48.92MiB
@@ -23,4 +23,4 @@ Spread 01 (2014) (2nd Printing Variant Cover) (RedResin-Minutemen-Novus-HD).cbr 
 [Spread 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-010-2015-Digital-Zone-Empire-cbr.md) | 49.17MiB
 [Spread 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-011-2015-Digital-Zone-Empire-cbr.md) | 52.95MiB
 [Spread 012 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-012-2016-Digital-Zone-Empire-cbr.md) | 43.48MiB
-Spread v01 - No Hope (2015) (Digital) (Zone-Empire).cbr | 326.24MiB
+[Spread v01 - No Hope (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-v01-No-Hope-2015-Digital-Zone-Empire-cbr.md) | 326.24MiB

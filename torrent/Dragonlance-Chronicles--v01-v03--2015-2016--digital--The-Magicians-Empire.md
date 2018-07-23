@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Dragonlance Chronicles v01 - Dragons of Autumn Twilight v1 (2015) (digital-Empire).cbr | 258.43MiB
+[Dragonlance Chronicles v01 - Dragons of Autumn Twilight v1 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dragonlance-Chronicles-v01-Dragons-of-Autumn-Twilight-v1-2015-digital-Empire-cbr.md) | 258.43MiB
 Dragonlance Chronicles v02 - Dragons of Winter Night (2015) (digital) (The Magicians-Empire).cbr | 279.01MiB
 Dragonlance Chronicles v03 - Dragons of Spring Dawning (2016) (digital) (The Magicians-Empire).cbr | 489.29MiB

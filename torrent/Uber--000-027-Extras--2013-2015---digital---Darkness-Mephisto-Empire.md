@@ -33,9 +33,9 @@ Uber 017 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 41.50MiB
 Uber 018 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 38.70MiB
 Uber 019 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.17MiB
 Uber 020 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 40.88MiB
-Uber 021 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.38MiB
-Uber 022 (2015) (Digital) (The Dark VI-Empire).cbr | 36.85MiB
-Uber 023 (2015) (Digital) (The Dark VI-Empire).cbr | 40.14MiB
+[Uber 021 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-021-2015-5-Covers-Digital-Darkness-Empire-cbr.md) | 42.38MiB
+[Uber 022 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-022-2015-Digital-Dark-VI-Empire-cbr.md) | 36.85MiB
+[Uber 023 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-023-2015-Digital-Dark-VI-Empire-cbr.md) | 40.14MiB
 [Uber 024 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-024-2015-Digital-Mephisto-Empire-cbr.md) | 35.38MiB
 [Uber 025 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-025-2015-Digital-Mephisto-Empire-cbr.md) | 34.37MiB
 [Uber 026 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-026-2015-Digital-Mephisto-Empire-cbr.md) | 39.83MiB

@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Escape From New York 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 31.70MiB
 [Escape From New York 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Escape-From-New-York-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.54MiB
-Escape From New York 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 42.78MiB
+[Escape From New York 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Escape-From-New-York-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.78MiB
 [Escape From New York 004(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Escape-From-New-York-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 43.45MiB
 [Escape From New York 005(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Escape-From-New-York-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 54.18MiB
 [Escape From New York 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Escape-From-New-York-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 57.03MiB

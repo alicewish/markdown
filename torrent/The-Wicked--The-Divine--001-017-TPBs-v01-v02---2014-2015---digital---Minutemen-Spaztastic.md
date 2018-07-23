@@ -16,8 +16,8 @@ The Wicked + The Divine 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.01M
 The Wicked + The Divine 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.32MiB
 The Wicked + The Divine 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 40.73MiB
 The Wicked + The Divine 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 34.65MiB
-The Wicked + The Divine 007 (2015) (digital) (Minutemen-Spaztastic).cbr | 26.33MiB
-The Wicked + The Divine 008 (2015) (digital) (Minutemen-Spaztastic).cbr | 46.38MiB
+[The Wicked + The Divine 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 26.33MiB
+[The Wicked + The Divine 008 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-008-2015-digital-Minutemen-Spaztastic-cbr.md) | 46.38MiB
 [The Wicked + The Divine 009 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-009-2015-digital-Minutemen-Spaztastic-cbr.md) | 40.44MiB
 [The Wicked + The Divine 010 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-010-2015-digital-Minutemen-Spaztastic-cbr.md) | 41.01MiB
 [The Wicked + The Divine 011 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-011-2015-digital-Minutemen-Spaztastic-cbr.md) | 49.22MiB

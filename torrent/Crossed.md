@@ -14,7 +14,7 @@ Online | Download
 &emsp;【Crossed/Crossed +100 (001-018) (2014-2016) (digital) (Mephisto-Empire)】 | 
 Crossed +100 001 (2014) (10 Covers) (Digital) (Darkness-Empire).cbr | 63.23MiB
 [Crossed +100 002 (2015) (7 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-002-2015-7-Covers-Digital-Darkness-Empire-cbr.md) | 56.38MiB
-Crossed +100 003 (2015) (Digital) (The Dark VI-Empire).cbr | 49.49MiB
+[Crossed +100 003 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-003-2015-Digital-Dark-VI-Empire-cbr.md) | 49.49MiB
 [Crossed +100 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 50.39MiB
 [Crossed +100 005 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-005-2015-Digital-Mephisto-Empire-cbr.md) | 46.46MiB
 [Crossed +100 006 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-006-2015-Digital-Mephisto-Empire-cbr.md) | 49.27MiB
@@ -40,9 +40,9 @@ Crossed - Dead or Alive 006 (2014) (crossedcomic.com).cbr | 2.21MiB
 [Crossed - Dead or Alive 007 (2015) (crossedcomic.com).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Dead-or-Alive-007-2015-crossedcomic-com-cbr.md) | 2.15MiB
 [Crossed - Dead or Alive 008 (2015) (crossedcomic.com).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Dead-or-Alive-008-2015-crossedcomic-com-cbr.md) | 2.09MiB
 [Crossed - Dead or Alive 009 (2015) (crossedcomic.com).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Dead-or-Alive-009-2015-crossedcomic-com-cbr.md) | 1.98MiB
-Crossed - Dead or Alive 010 (2015) (crossedcomic.com).cbr | 1.79MiB
-Crossed - Dead or Alive 011 (2015) (crossedcomic.com).cbr | 2.10MiB
-Crossed - Dead or Alive 012 (2015) (crossedcomic.com).cbr | 2.15MiB
+[Crossed - Dead or Alive 010 (2015) (crossedcomic.com).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Dead-or-Alive-010-2015-crossedcomic-com-cbr.md) | 1.79MiB
+[Crossed - Dead or Alive 011 (2015) (crossedcomic.com).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Dead-or-Alive-011-2015-crossedcomic-com-cbr.md) | 2.10MiB
+[Crossed - Dead or Alive 012 (2015) (crossedcomic.com).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Dead-or-Alive-012-2015-crossedcomic-com-cbr.md) | 2.15MiB
 &emsp;【Crossed/Crossed - Wish You Were Here (v1-v4+Interludes)(2012-2014)(digital-Empire)】 | 
 Crossed - Wish You Were Here v1 c01 (2012).cbr | 8.57MiB
 Crossed - Wish You Were Here v1 c02.cbr | 7.28MiB
@@ -267,9 +267,9 @@ Crossed - Badlands 067 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.36
 Crossed - Badlands 068 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 45.40MiB
 [Crossed - Badlands 069 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-069-2015-5-Covers-Digital-Darkness-Empire-cbr.md) | 47.32MiB
 [Crossed - Badlands 070 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-070-2015-5-Covers-Digital-Darkness-Empire-cbr.md) | 41.91MiB
-Crossed - Badlands 071 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.92MiB
-Crossed - Badlands 072 (2015) (Digital) (The Dark VI-Empire).cbr | 42.41MiB
-Crossed - Badlands 073 (2015) (Digital) (The Dark VI-Empire).cbr | 44.79MiB
+[Crossed - Badlands 071 (2015) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-071-2015-5-Covers-Digital-Darkness-Empire-cbr.md) | 42.92MiB
+[Crossed - Badlands 072 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-072-2015-Digital-Dark-VI-Empire-cbr.md) | 42.41MiB
+[Crossed - Badlands 073 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-073-2015-Digital-Dark-VI-Empire-cbr.md) | 44.79MiB
 [Crossed - Badlands 074 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-074-2015-Digital-Dark-VI-Empire-cbr.md) | 44.29MiB
 [Crossed - Badlands 075 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-075-2015-Digital-DR-Quinch-Empire-cbr.md) | 37.94MiB
 [Crossed - Badlands 076 (2015) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-076-2015-Digital-Cypher-2-0-Empire-cbr.md) | 41.67MiB

@@ -41,9 +41,12 @@ Spider-Man 092 (1983) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 103.55MiB
 Spider-Man 170 (1984) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 96.22MiB
 Spider-Man 300 (1987) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 107.07MiB
 Spider-Man 422 (1989) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 97.36MiB
+Spider-Man 001 (1990) (Digital) (Asgard-Empire).cbr | 100.97MiB
 Spider-Man 001 (1990) (digital) (Minutemen-Faessla).cbz | 100.69MiB
+Spider-Man 002 (1990) (Digital) (Asgard-Empire).cbr | 11.97MiB
 Spider-Man 002 (1990) (digital-SD) (Minutemen-Slayer).cbr | 12.18MiB
 Spider-Man 002 (1990) (Digital) (Shadowcat-Empire).cbz | 12.63MiB
+Spider-Man 003 (1990) (Digital) (Asgard-Empire).cbr | 12.41MiB
 Spider-Man 003 (1990) (digital-SD) (Minutemen-Slayer).cbr | 12.62MiB
 Spider-Man 003 (1990) (Digital) (Shadowcat-Empire).cbz | 13.07MiB
 Spider-Man 004 (1990) (digital-SD) (Minutemen-Slayer).cbr | 13.67MiB
@@ -73,14 +76,26 @@ Spider-Man 483 (1990) (Kabanas) (c2c) (Greek) (GST eponymus-DCP).cbr | 47.12MiB
 Spider-Man 484 (1990) (Kabanas) (c2c) (Greek) (GST eponymus-DCP).cbr | 50.79MiB
 Spider-Man 485 (1990) (Kabanas) (c2c) (Greek) (GST eponymus-DCP).cbr | 52.11MiB
 Spider-Man 486 (1990) (Kabanas) (c2c) (Greek) (GST eponymus-DCP).cbr | 47.76MiB
+Spider-Man 004 (1991) (Digital) (Asgard-Empire).cbr | 13.37MiB
+Spider-Man 005 (1991) (Digital) (Asgard-Empire).cbr | 12.82MiB
+Spider-Man 013 (1991) (Digital) (Asgard-Empire).cbr | 45.72MiB
 Spider-Man 013 (1991) (digital) (Minutemen-Faessla).cbz | 45.07MiB
+Spider-Man 014 (1991) (Digital) (Asgard-Empire).cbr | 50.73MiB
 Spider-Man 014 (1991) (digital) (Minutemen-Faessla).cbz | 50.09MiB
+Spider-Man 015 (1991) (Digital) (Asgard-Empire).cbr | 60.94MiB
 Spider-Man 016 (1991) (Digital) (Shadowcat-Empire).cbz | 11.51MiB
 Spider-Man 525 (1991) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 99.91MiB
 Spider-Man 527 (1991) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 101.57MiB
 Spider-Man 528 (1991) (Kabanas) (Signed by Larsen) (c2c) (Greek) (GST Pantheon-DCP).cbr | 96.65MiB
 Spider-Man 529 (1991) (Kabanas) (Signed by Larsen) (c2c) (Greek) (GST Pantheon-DCP).cbr | 95.25MiB
 Spider-Man 530 (1991) (Kabanas) (Signed by Larsen) (c2c) (Greek) (GST Pantheon-DCP).cbr | 96.29MiB
+Spider-Man 016 (1992) (Digital) (Asgard-Empire).cbr | 10.84MiB
+Spider-Man 018 (1992) (Digital) (Asgard-Empire).cbr | 61.19MiB
+Spider-Man 019 (1992) (Digital) (Asgard-Empire).cbr | 56.28MiB
+Spider-Man 020 (1992) (Digital) (Asgard-Empire).cbr | 55.32MiB
+Spider-Man 021 (1992) (Digital) (Asgard-Empire).cbr | 58.15MiB
+Spider-Man 022 (1992) (Digital) (Asgard-Empire).cbr | 62.79MiB
+Spider-Man 023 (1992) (Digital) (Asgard-Empire).cbr | 70.90MiB
 Spider-Man 025 (1992) (Digital) (Shadowcat-Empire).cbz | 49.59MiB
 Spider-Man 575 (1992) (Kabanas) (c2c) (Greek) (GST Pantheon-DCP).cbr | 88.84MiB
 Spider-Man 035 (1993) (Digital) (Shadowcat-Empire).cbz | 11.48MiB
@@ -89,8 +104,11 @@ Spider-Man 037 (1993) (Digital) (Shadowcat-Empire).cbz | 12.48MiB
 Spider-Man 041 (1993) (digital) (Minutemen-Faessla).cbz | 32.06MiB
 Spider-Man 042 (1994) (digital) (Minutemen-Faessla).cbz | 30.76MiB
 Spider-Man 043 (1994) (digital) (Minutemen-Faessla).cbz | 26.04MiB
+Spider-Man 051 (1994) (Digital) (Asgard-Empire).cbr | 12.88MiB
 Spider-Man 051 (1994) (Digital) (Shadowcat-Empire).cbz | 13.25MiB
+Spider-Man 052 (1994) (Digital) (Asgard-Empire).cbr | 13.51MiB
 Spider-Man 052 (1994) (Digital) (Shadowcat-Empire).cbz | 14.37MiB
+Spider-Man 053 (1994) (Digital) (Asgard-Empire).cbr | 11.91MiB
 Spider-Man 053 (1994) (Digital) (Shadowcat-Empire).cbz | 12.69MiB
 Spider-Man 057 (1995) (digital) (Minutemen-Faessla).cbz | 77.29MiB
 Spider-Man 058 (1995) (digital) (Minutemen-Faessla).cbz | 50.38MiB
@@ -99,6 +117,7 @@ Spider-Man 060 (1995) (digital) (Minutemen-Slayer).cbr | 55.90MiB
 Spider-Man 061 (1995) (digital) (Minutemen-Slayer).cbr | 51.05MiB
 Spider-Man 062 (1995) (digital) (Minutemen-Faessla).cbz | 44.06MiB
 Spider-Man 063 (1995) (digital) (Minutemen-Faessla).cbz | 47.92MiB
+Spider-Man 2099 Meets Spider-Man (1995) (Digital) (Asgard-Empire).cbr | 95.10MiB
 Spider-Man 2099 Meets Spider-Man (1995) (digital) (Minutemen-Slayer).cbr | 93.02MiB
 Spider-Man 064 (1996) (digital) (Minutemen-Faessla).cbz | 46.69MiB
 Spider-Man 065 (1996) (digital) (Minutemen-Faessla).cbz | 50.62MiB

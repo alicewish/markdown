@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Batman - Superman v01 - Cross World (2014) (Digital) (Nahga-Empire).cbr | 236.33MiB
 Batman - Superman v02 - Game Over (2014) (Digital) (Zone-Empire).cbr | 282.69MiB
-Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr | 196.48MiB
+[Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Superman-v03-Second-Chance-2015-Digital-Zone-Empire-cbr.md) | 196.48MiB
 Batman - Superman v04 - Siege (2015) (Digital) (Zone-Empire).cbr | 298.52MiB
 Batman - Superman v05 - Truth Hurts (2016) (Digital) (Zone-Empire).cbr | 270.35MiB
 Batman - Superman v06 - Universe's Finest (2017) (Digital) (Zone-Empire).cbr | 310.09MiB
