@@ -44,6 +44,7 @@ Web of Spider-Man 096 (1993) (digital) (Minutemen-Excelsior).cbz | 48.40MiB
 Web of Spider-Man 101 (1993) (Digital) (Kileko-Empire).cbr | 9.82MiB
 Web of Spider-Man 102 (1993) (Digital) (Kileko-Empire).cbr | 10.35MiB
 Web of Spider-Man 103 (1993) (Digital) (Kileko-Empire).cbr | 10.65MiB
+Web of Spider-Man 117 (1994) (Digital) (Asgard-Empire).cbr | 11.75MiB
 Web of Spider-Man 117 (1994) (digital-SD) (Minutemen-Slayer).cbr | 12.01MiB
 Web of Spider-Man 118 (1994) (digital) (Minutemen-Slayer).cbr | 48.22MiB
 Web of Spider-Man 118 (1994) (Digital) (Shadowcat-Empire).cbz | 48.58MiB

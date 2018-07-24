@@ -1,5 +1,9 @@
 ## VS 003 (2018) (Digital) (F) (Zone-Empire).cbr
 
+
+[回到 VS 目录](https://github.com/alicewish/markdown/blob/master/series/VS.md)
+
+
 ![VS 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq9h7n9d6tj21j82cwqv7.jpg)
 
 ![VS 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq9h7t5r39j21j82cw1kx.jpg)
@@ -59,3 +63,6 @@
 ![VS 003-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqmktsbtv4j21j82cw42f.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq1kxtwp3tj21kw1c84il.jpg)
+
+[回到 VS 目录](https://github.com/alicewish/markdown/blob/master/series/VS.md)
+

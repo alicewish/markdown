@@ -140,4 +140,5 @@ B.P.R.D. Hell on Earth 147 (2016) (digital) (Minutemen-Faessla).cbz | [37.00MiB]
 B.P.R.D. Hell on Earth 147 - Cometh the Hour (2016) (digital) (Son of Ultron-Empire).cbr | [52.97MiB](https://pan.baidu.com/s/1i50741n#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.16%2F%E3%82%A8%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%AD%E3%82%A8%E3%82%BB%E3%82%B9%E3%82%AA%E3%82%A2%E3%82%A6%E3%82%B5%E3%82%B5%E3%82%B5%E3%82%B7%E3%82%B7%E3%82%AD%E3%82%B9%E3%82%A8%E3%82%B9%E3%82%BF%E3%82%AA%E3%82%AB%E3%82%AA%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%AA%E3%82%AD%E3%82%B9%E3%82%B5%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
 B.P.R.D. Hell on Earth v13 - End of Days (2016) (digital) (Son of Ultron-Empire).cbr | 158.55MiB
 B.P.R.D. Hell on Earth v14 - The Exorcist (2016) (digital) (Son of Ultron-Empire).cbr | 180.59MiB
+B.P.R.D. Hell on Earth v01 (2017) (digital) (Son of Ultron-Empire).cbr | 620.40MiB
 B.P.R.D. Hell on Earth v15 - Cometh the Hour (2017) (digital) (Son of Ultron-Empire).cbr | 165.91MiB

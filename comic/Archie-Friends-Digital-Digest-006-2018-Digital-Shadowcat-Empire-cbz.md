@@ -1,5 +1,9 @@
 ## Archie & Friends Digital Digest 006 (2018) (Digital) (Shadowcat-Empire).cbz
 
+
+[回到 Archie & Friends Digital Digest 目录](https://github.com/alicewish/markdown/blob/master/series/Archie-Friends-Digital-Digest.md)
+
+
 ![Archie & Friends Digital Digest 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdnfwzllnj21kw24n1kx.jpg)
 
 ![Archie & Friends Digital Digest 006-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdng2v89pj21kw24ne81.jpg)
@@ -21,3 +25,6 @@
 ![Archie & Friends Digital Digest 006-009.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdnhsap72j21kw24nb29.jpg)
 
 ![Archie & Friends Digital Digest 006-010.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdnhz8taxj21kw24nhdt.jpg)
+
+[回到 Archie & Friends Digital Digest 目录](https://github.com/alicewish/markdown/blob/master/series/Archie-Friends-Digital-Digest.md)
+

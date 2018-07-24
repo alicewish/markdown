@@ -42,6 +42,8 @@ The product of experiments on humanity by an alien culture millennia ago, the In
 
 [Inhumans (001-004) (2000) (digital) (Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Inhumans--001-004---2000---digital---Minutemen-Slayer.md)
 
+[Inhumans (001-012) (1998-1999) (digital-hd) (Kleio-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Inhumans--001-012---1998-1999---digital-hd---Kleio-Empire.md)
+
 [Inhumans (001-012+) (2003-2004) (digital) (Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Inhumans--001-012----2003-2004---digital---Minutemen-Slayer.md)
 
 [The Inhumans (v1 - v4 + Extras) (1975 - 2010)](https://github.com/alicewish/markdown/blob/master/torrent/The-Inhumans--v1---v4---Extras---1975---2010.md)

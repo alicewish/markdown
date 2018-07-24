@@ -1,5 +1,9 @@
 ## Weapon H 003 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Weapon H 目录](https://github.com/alicewish/markdown/blob/master/series/Weapon-H.md)
+
+
 ![Weapon H (2018-) 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fre2nxveesj21j82cwnpd.jpg)
 
 ![Weapon H (2018-) 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fre2o2wun0j21j82cwqv5.jpg)
@@ -47,3 +51,6 @@
 ![Weapon H (2018-) 003-022.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fre2rybeh3j21j82cw7wi.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxs2wnsgzj21kw1c84il.jpg)
+
+[回到 Weapon H 目录](https://github.com/alicewish/markdown/blob/master/series/Weapon-H.md)
+

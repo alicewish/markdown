@@ -49,6 +49,9 @@ Archie's Pals 'n' Gals 110 (1976) (Archie) (c2c) (ComicsCastle).cbr | 18.95MiB
 Archie's Pals 'n' Gals 118 (1977) (c2c) (Kracalactaka-titansfan).cbz | 25.38MiB
 Archie's Pals 'n' Gals 120 (1978) (Archie) (c2c) (ComicsCastle).cbr | 17.28MiB
 Archie's Pals 'n' Gals 121 (1978) (c2c) (K CW).cbz | 47.77MiB
+Archies Pals n Gals 127 (1978) (c2c) (CRX).cbz | 60.12MiB
+Archies Pals n Gals 131 (1979) (c2c) (CRX).cbz | 56.82MiB
+Archies Pals n Gals 137 (1979) (c2c) (CRX).cbz | 49.49MiB
 Archie's Pals 'n' Gals 143 (1980) (Archie) (c2c) (ComicsCastle).cbr | 17.91MiB
 Archie's Pals 'n' Gals 172 (1984) (Archie) (c2c) (ComicsCastle).cbr | 17.63MiB
 Archie's Pals 'n' Gals 209 (1989) (Archie) (c2c) (ComicsCastle).cbr | 18.80MiB

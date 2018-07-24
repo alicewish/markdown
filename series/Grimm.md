@@ -16,6 +16,8 @@ Set in the world of the acclaimed NBC series, Grimm, Homicide Detective Nick Bur
 
 相关种子⬇Related Torrents
 
+[Grimm (001 - 012 + The Warlock (01 - 04)) (2013 - 2014) (Digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Grimm--001---012---The-Warlock--01---04----2013---2014---Digital---Son-of-Ultron-Empire.md)
+
 [Grimm (001-005)(2016-2017)(digital)(Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Grimm--001-005--2016-2017--digital--Son-of-Ultron-Empire.md)
 
 Online | Download

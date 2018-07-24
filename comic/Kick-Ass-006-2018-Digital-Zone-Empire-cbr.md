@@ -1,5 +1,9 @@
 ## Kick-Ass 006 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Kick-Ass 目录](https://github.com/alicewish/markdown/blob/master/series/Kick-Ass.md)
+
+
 ![Kick-Ass 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjitrd0phj21j82cwe81.jpg)
 
 ![Kick-Ass 006-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjitvvsw0j21j82cwnpd.jpg)
@@ -63,3 +67,6 @@
 ![Kick-Ass 006-030.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjiyovy1wj21j82cw4qp.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyn3psryuj21kw1c84il.jpg)
+
+[回到 Kick-Ass 目录](https://github.com/alicewish/markdown/blob/master/series/Kick-Ass.md)
+

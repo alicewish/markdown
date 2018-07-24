@@ -18,6 +18,7 @@ Online | Download
 --- | ---
 Thor Visionaries - Walter Simonson v01 (2001) (Digital) (Asgard-Empire).cbr | 131.07MiB
 Thor Visionaries - Walter Simonson v01 (2001) (Digital-HD) (Asgard-Empire).cbr | 423.86MiB
+Thor Visionaries - Walter Simonson v01 (2001) (Digital-HD) (F) (Asgard-Empire).cbr | 433.53MiB
 Thor Visionaries - Walter Simonson Vol. 01 (2001) (digital-SD) (Minutemen-Slayer).cbr | 162.97MiB
 Thor Visionaries - Walter Simonson v02 (2003) (Digital) (Asgard-Empire).cbr | 107.20MiB
 Thor Visionaries - Walter Simonson v04 (2007) (Digital) (Asgard-Empire).cbr | 88.27MiB

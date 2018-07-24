@@ -34,7 +34,13 @@ Oracle T3 The Little King (2014) (Sosich & Stef92).cbr | 72.08MiB
 Oracle T4 The Deformed (2015) (Sosich).cbr | 60.41MiB
 Oracle T5 The Widow (2015) (Sosich).cbr | 52.18MiB
 Oracle T7 The Clairvoyant (2016) (Sosich).cbr | 73.16MiB
+Oracle 02 - The Slave (2017) (Soleil) (Digital-Empire).cbr | 148.04MiB
+Oracle 03 - The Little King (2017) (Soleil) (Digital-Empire).cbr | 219.97MiB
+Oracle 04 - The Deformed (2017) (Soleil) (Digital-Empire).cbr | 200.86MiB
+Oracle 05 - The Widow (2017) (Soleil) (Digital-Empire).cbr | 96.86MiB
 Oracle T8 The Hero (2017) (Sosich).cbr | 63.87MiB
 Oracle v01 - Oracle of Delphi (2017) (digital) (The Magicians-Empire).cbr | 96.18MiB
 Oracle v09 The She-Wolf (2017) (Sosich).cbr | 46.49MiB
 Oracle v10 The Fallen (2017) (Sosich).cbr | 50.61MiB
+Oracle 06 - The Torture Victim (2018) (Soleil) (Digital-Empire).cbr | 86.79MiB
+Oracle 07 - The Clairvoyant (2018) (Soleil) (Digital-Empire).cbr | 163.68MiB

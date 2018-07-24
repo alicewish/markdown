@@ -22,4 +22,5 @@ Freddy 30 Charlton 1961 Titansfan.cbz | 26.56MiB
 Freddy 34 c2c Charlton June 1962 titansfan.cbz | 24.76MiB
 Freddy 35 Charlton aug 1962 Titansfan.cbz | 22.31MiB
 Freddy 43 Charlton dec 1963 Titansfan.cbz | 24.72MiB
+Freddy 44 Charlton Feb 1964 ComicWanderer.cbz | 58.33MiB
 Freddy 045 (Charlton 1964) (c2c) (Titansfan).cbz | 25.71MiB

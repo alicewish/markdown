@@ -1,5 +1,9 @@
 ## Immortal Hulk 002 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Immortal Hulk 目录](https://github.com/alicewish/markdown/blob/master/series/Immortal-Hulk.md)
+
+
 ![Immortal Hulk (2018-) 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyo8wfupaj21j82cwe82.jpg)
 
 ![Immortal Hulk (2018-) 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyo903h38j21j82cwq78.jpg)
@@ -47,3 +51,6 @@
 ![Immortal Hulk (2018-) 002-022.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyoeww9phj21j82cwkjl.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyn3psryuj21kw1c84il.jpg)
+
+[回到 Immortal Hulk 目录](https://github.com/alicewish/markdown/blob/master/series/Immortal-Hulk.md)
+

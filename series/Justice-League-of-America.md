@@ -54,6 +54,8 @@ Writer Steve Orlando and artist Ivan Reis bring together a new Justice League of
 
 [Justice League of America](https://github.com/alicewish/markdown/blob/master/torrent/Justice-League-of-America.md)
 
+[Justice League of America (159-160) (1978) (c2c) (Minutemen-Mookie)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-League-of-America--159-160---1978---c2c---Minutemen-Mookie.md)
+
 [Justice League of America (v01-v10) (2007-2012) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-League-of-America--v01-v10---2007-2012---Digital---Zone-Empire.md)
 
 [Justice League of America (001-008) (2015-2016) (digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-League-of-America--001-008---2015-2016---digital---Zone-Empire.md)

@@ -29,7 +29,7 @@ Batman - Superman v02 - Game Over (2014) (Digital) (Zone-Empire).cbr | 282.69MiB
 [Batman - Superman v03 - Second Chance (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Superman-v03-Second-Chance-2015-Digital-Zone-Empire-cbr.md) | 196.48MiB
 Batman - Superman v04 - Siege (2015) (Digital) (Zone-Empire).cbr | 298.52MiB
 Batman - Superman v05 - Truth Hurts (2016) (Digital) (Zone-Empire).cbr | 270.35MiB
-Batman - Superman v06 - Universe's Finest (2017) (Digital) (Zone-Empire).cbr | 310.09MiB
+[Batman - Superman v06 - Universe's Finest (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Superman-v06-Universes-Finest-2017-Digital-Zone-Empire-cbr.md) | 310.09MiB
 Batwoman v01 - Hydrology (2012) (Digital) (Zone-Empire).cbr | 160.28MiB
 Birds of Prey v01 - Trouble in Mind (2012) (Digital) (Zone-Empire).cbr | 189.57MiB
 Birds of Prey v02 (2016) (digital) (Son of Ultron-Empire).cbr | 478.02MiB

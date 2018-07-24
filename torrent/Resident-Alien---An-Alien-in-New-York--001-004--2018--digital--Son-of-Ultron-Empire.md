@@ -13,4 +13,4 @@ Online | Download
 [Resident Alien - An Alien in New York 01 (of 04) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-An-Alien-in-New-York-01-of-04-2018-digital-Son-of-Ultron-Empire-cbr.md) | 51.94MiB
 [Resident Alien - An Alien in New York 02 (of 04) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-An-Alien-in-New-York-02-of-04-2018-digital-Son-of-Ultron-Empire-cbr.md) | 63.46MiB
 [Resident Alien - An Alien in New York 03 (of 04) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-An-Alien-in-New-York-03-of-04-2018-digital-Son-of-Ultron-Empire-cbr.md) | 44.23MiB
-Resident Alien - An Alien in New York 04 (of 04) (2018) (digital) (Son of Ultron-Empire).cbr | 43.45MiB
+[Resident Alien - An Alien in New York 04 (of 04) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Resident-Alien-An-Alien-in-New-York-04-of-04-2018-digital-Son-of-Ultron-Empire-cbr.md) | 43.45MiB

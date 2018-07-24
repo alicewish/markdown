@@ -1,5 +1,9 @@
 ## October Faction - Supernatural Dreams 005 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 October Faction - Supernatural Dreams 目录](https://github.com/alicewish/markdown/blob/master/series/October-Faction-Supernatural-Dreams.md)
+
+
 ![The October Faction - Supernatural Dreams 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo0i7hj0j21j82cwb07.jpg)
 
 ![The October Faction - Supernatural Dreams 005-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo0n3rqjj21j82cwu0x.jpg)
@@ -45,3 +49,6 @@
 ![The October Faction - Supernatural Dreams 005-021.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo3qrlfgj21j82cwh8k.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqdd52rmj20zk1io4qp.jpg)
+
+[回到 October Faction - Supernatural Dreams 目录](https://github.com/alicewish/markdown/blob/master/series/October-Faction-Supernatural-Dreams.md)
+

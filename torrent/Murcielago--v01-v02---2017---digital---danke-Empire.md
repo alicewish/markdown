@@ -11,4 +11,4 @@
 Online | Download
 --- | ---
 Murcielago v01 (2017) (Digital) (danke-Empire).cbz | 103.98MiB
-Murcielago v02 (2017) (Digital) (danke-Empire).cbz | 63.42MiB
+[Murcielago v02 (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Murcielago-v02-2017-Digital-danke-Empire-cbz.md) | 63.42MiB

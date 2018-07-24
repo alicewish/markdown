@@ -1,4 +1,4 @@
-# Master Inquisitors
+# The Master Inquisitors
 
 打包下载📦仍在工事中
 
@@ -45,9 +45,12 @@ Master Inquisitors V5 Aronn (2016) (Sosich).cbr | 55.15MiB
 [The Master Inquisitors v02 - Sasmaël (2016) (digital) (The Magicians-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Master-Inquisitors-v02-Sasmaël-2016-digital-Magicians-Empire-cbr.md) | [90.42MiB](https://pan.baidu.com/s/1jIciXoE#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.09%2F%E3%82%BB%E3%82%BF%E3%82%A6%E3%82%AB%E3%82%B5%E3%82%BB%E3%82%AA%E3%82%BD%E3%82%BD%E3%82%A8%E3%82%B3%E3%82%A6%E3%82%B3%E3%82%AA%E3%82%B3%E3%82%A6%E3%82%B3%E3%82%AF%E3%82%BF%E3%82%A2%E3%82%BD%E3%82%A2%E3%82%A6%E3%82%A8%E3%82%AB%E3%82%B3%E3%82%AF%E3%82%B7%E3%82%A2%E3%82%BB%E3%82%AA%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
 The Master Inquisitors 03 - Nikolaï (2017) (Digital) (Soleil).cbr | 110.53MiB
 The Master Inquisitors 04 - Mihaël (2017) (Digital) (Soleil).cbr | 137.79MiB
+The Master Inquisitors 05 - Aronn (2017) (Soleil) (Digital-Empire).cbr | 95.91MiB
+The Master Inquisitors 06 - In Light of the Chaos (2017) (Soleil) (Digital-Empire).cbr | 273.54MiB
 Master Inquisitors V6 The Light of the Chaos (2017) (Sosich).cbr | 61.89MiB
 Master Inquisitors v7 Orlias (2017) (Sosich).cbr | 48.33MiB
 The Master Inquisitors v03 - Nikolaï (2017) (digital) (The Magicians-Empire).cbr | 90.84MiB
 The Master Inquisitors v04 - Mihaël (2017) (digital) (The Magicians-Empire).cbr | 112.69MiB
+The Master Inquisitors 07 - Orlias (2018) (Soleil) (Digital-Empire).cbr | 167.40MiB
 Master Inquisitors v8 Synillia (2018) (Sosich).cbr | 44.59MiB
 Master Inquisitors v9 Bakael (2018) (Sosich).cbr | 52.00MiB

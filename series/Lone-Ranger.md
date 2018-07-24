@@ -31,7 +31,9 @@
 Online | Download
 --- | ---
 The Lone Ranger 026 (Gold Key 1976) (c2c) (Worldbreaker-DCP).cbr | 75.57MiB
+Lone Ranger 9 Gold Key Jan 1968 C2C (js-DCP).cbz | 13.65MiB
 Lone Ranger 15 Gold Key Oct 1969 C2C (js DCP).cbz | 14.10MiB
+Lone Ranger 16 Gold Key Dec 1969 C2C (js-DCP).cbz | 13.57MiB
 Lone Ranger 21 Gold Key Jun 1975 C2C (js-DCP).cbz | 13.93MiB
 The Lone Ranger 022 (1975) (Gold Key) (c2c) (Robbie).cbr | 23.33MiB
 The Lone Ranger 027 (1976) (Gold Key) (c2c) (Robbie).cbr | 45.65MiB

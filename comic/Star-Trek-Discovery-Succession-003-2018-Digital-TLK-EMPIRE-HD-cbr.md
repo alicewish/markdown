@@ -1,5 +1,9 @@
 ## Star Trek Discovery Succession 003(2018)(Digital)(TLK-EMPIRE-HD).cbr
 
+
+[回到 Star Trek Discovery Succession 目录](https://github.com/alicewish/markdown/blob/master/series/Star-Trek-Discovery-Succession.md)
+
+
 ![Star Trek- Discovery - Succession 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo3w2y39j21j82cw4qp.jpg)
 
 ![Star Trek- Discovery - Succession 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo424zkyj21j82cw4qq.jpg)
@@ -45,3 +49,6 @@
 ![Star Trek- Discovery - Succession 003-021.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo75rv10j21j82cw1kx.jpg)
 
 ![zzTLK.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ft7vmkquo1j20dw0dct96.jpg)
+
+[回到 Star Trek Discovery Succession 目录](https://github.com/alicewish/markdown/blob/master/series/Star-Trek-Discovery-Succession.md)
+

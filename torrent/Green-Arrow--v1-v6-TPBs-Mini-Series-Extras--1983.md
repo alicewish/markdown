@@ -525,7 +525,7 @@ Green Arrow v04 - The Kill Machine (2014) (Digital) (Zone-Empire).cbr | 219.14Mi
 Green Arrow v05 - The Outsiders War (2014) (Digital) (Zone-Empire).cbr | 194.78MiB
 Green Arrow v06 - Last Action Hero (2016) (digital) (Son of Ultron-Empire).cbr | 558.56MiB
 Green Arrow v07 - Homecoming (2017) (digital) (Son of Ultron-Empire).cbr | 497.35MiB
-Green Arrow v08 - The Hunt for the Red Dragon (2017) (digital) (Son of Ultron-Empire).cbr | 321.84MiB
+[Green Arrow v08 - The Hunt for the Red Dragon (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-v08-Hunt-for-Red-Dragon-2017-digital-Son-of-Ultron-Empire-cbr.md) | 321.84MiB
 &emsp;【Green Arrow (v1-v6+TPBs,Mini-Series+Extras)(1983-)/Green Arrow v6 (01,001-025)(2016-ongoing)(digital)(Zone-Empire)】 | 
 [Green Arrow - Rebirth 001 (2016) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-Rebirth-001-2016-2-covers-Digital-Zone-Empire-cbr.md) | 37.60MiB
 [Green Arrow 001 (2016) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-001-2016-2-covers-Digital-Zone-Empire-cbr.md) | 27.94MiB

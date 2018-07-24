@@ -43,7 +43,9 @@ Pep 235 (1969) (c2c) (Titansfan).cbz | 23.30MiB
 Pep 236 (1969) (c2c) (titansfan).cbz | 23.29MiB
 Pep 237 (1970) (c2c) (Titansfan).cbz | 25.04MiB
 Pep 239 (1970) (c2c) (titansfan).cbz | 23.54MiB
+Pep 240 (1970) (CRX).cbz | 51.20MiB
 Pep 241 (1970) (c2c) [low res cvr].cbr | 25.77MiB
+Pep 242 (1970) (CRX).cbz | 50.82MiB
 Pep 244 (1970) (c2c) (titansfan).cbz | 25.46MiB
 Pep 245 (1970) (c2c) (Titansfan).cbz | 25.10MiB
 Pep 249 (1971) (c2c) (Titansfan).cbz | 25.96MiB
@@ -59,9 +61,14 @@ Pep 290 (1974) (c2c) (Titansfan).cbz | 24.35MiB
 Pep 293 (1974) (c2c) [low res cvr].cbr | 21.32MiB
 Pep 295 Archie Nov 1974 C2C (js-DCP).cbz | 14.43MiB
 Pep 296 (1974) (c2c) (Titansfan).cbz | 24.01MiB
+Pep 304 (1975) (CRX).cbz | 54.74MiB
 Pep 305 (1975) (Archie) (c2c) (ComicsCastle).cbr | 23.21MiB
 Pep 313 (1976) (c2c) (titansfan).cbz | 24.18MiB
+Pep 314 (1976) (CRX).cbz | 51.34MiB
 Pep 315 (1976) (c2c) (titansfan).cbz | 23.71MiB
+Pep 319 (1976) (c2c) (CRX).cbz | 52.28MiB
+Pep 329 (1977) (c2c) (CRX).cbz | 47.86MiB
+Pep 331 (1977) (c2c) (CRX).cbz | 51.91MiB
 Pep 348 Archie Apr 1979 c2c Titansfan.cbz | 24.07MiB
 Pep 351 (1979) (c2c) (Darkmark-DCP).cbr | 16.93MiB
 Pep 360 Archie Apr 1980 c2c Titansfan.cbz | 22.94MiB

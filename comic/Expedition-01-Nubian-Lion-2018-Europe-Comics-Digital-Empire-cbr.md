@@ -1,5 +1,9 @@
 ## Expedition 01 - The Nubian Lion (2018) (Europe Comics) (Digital-Empire).cbr
 
+
+[回到 Expedition 目录](https://github.com/alicewish/markdown/blob/master/series/Expedition.md)
+
+
 ![001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqu1nz51roj21hc1yctxh.jpg)
 
 ![002.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqu1o45kkhj21hc1ydn78.jpg)
@@ -113,3 +117,6 @@
 ![056.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqu2ova6r6j21hc1yd4m9.jpg)
 
 ![057.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqu2p6fjfbj21hc1ydqaq.jpg)
+
+[回到 Expedition 目录](https://github.com/alicewish/markdown/blob/master/series/Expedition.md)
+

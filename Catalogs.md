@@ -55,6 +55,8 @@
 
 [28 Days Later](https://github.com/alicewish/markdown/blob/master/series/28-Days-Later.md)
 
+[3 Devils](https://github.com/alicewish/markdown/blob/master/series/3-Devils.md)
+
 [3 Floyds - Alpha King](https://github.com/alicewish/markdown/blob/master/series/3-Floyds-Alpha-King.md)
 
 [3 Guns](https://github.com/alicewish/markdown/blob/master/series/3-Guns.md)
@@ -3139,6 +3141,8 @@
 
 [Ghosted](https://github.com/alicewish/markdown/blob/master/series/Ghosted.md)
 
+[Ghostly Tales](https://github.com/alicewish/markdown/blob/master/series/Ghostly-Tales.md)
+
 [Giant Days](https://github.com/alicewish/markdown/blob/master/series/Giant-Days.md)
 
 [Giant-Size Avengers](https://github.com/alicewish/markdown/blob/master/series/Giant-Size-Avengers.md)
@@ -3210,6 +3214,8 @@
 [Godzilla Rulers Of Earth](https://github.com/alicewish/markdown/blob/master/series/Godzilla-Rulers-Of-Earth.md)
 
 [Gold Digger](https://github.com/alicewish/markdown/blob/master/series/Gold-Digger.md)
+
+[Gold Key - Alliance](https://github.com/alicewish/markdown/blob/master/series/Gold-Key-Alliance.md)
 
 [Golden City](https://github.com/alicewish/markdown/blob/master/series/Golden-City.md)
 
@@ -4843,8 +4849,6 @@
 
 [Marvel Fact Files](https://github.com/alicewish/markdown/blob/master/series/Marvel-Fact-Files.md)
 
-[Marvel Family](https://github.com/alicewish/markdown/blob/master/series/Marvel-Family.md)
-
 [Marvel Fanfare](https://github.com/alicewish/markdown/blob/master/series/Marvel-Fanfare.md)
 
 [Marvel Feature](https://github.com/alicewish/markdown/blob/master/series/Marvel-Feature.md)
@@ -4906,6 +4910,10 @@
 [Marvel Masterworks - The Mighty Thor](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Mighty-Thor.md)
 
 [Marvel Masterworks - The Sub-Mariner](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Sub-Mariner.md)
+
+[Marvel Masterworks - Uncanny X-Men](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Uncanny-X-Men.md)
+
+[Marvel Masterworks - X-Men](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-X-Men.md)
 
 [Marvel Mystery Comics](https://github.com/alicewish/markdown/blob/master/series/Marvel-Mystery-Comics.md)
 
@@ -4992,8 +5000,6 @@
 [Mass Effect - Homeworlds](https://github.com/alicewish/markdown/blob/master/series/Mass-Effect-Homeworlds.md)
 
 [Master Comics](https://github.com/alicewish/markdown/blob/master/series/Master-Comics.md)
-
-[Master Inquisitors](https://github.com/alicewish/markdown/blob/master/series/Master-Inquisitors.md)
 
 [Master of Kung Fu](https://github.com/alicewish/markdown/blob/master/series/Master-of-Kung-Fu.md)
 
@@ -5268,6 +5274,8 @@
 [Namor - The First Mutant](https://github.com/alicewish/markdown/blob/master/series/Namor-First-Mutant.md)
 
 [Namor Sub-Mariner](https://github.com/alicewish/markdown/blob/master/series/Namor-Sub-Mariner.md)
+
+[Nancy Drew](https://github.com/alicewish/markdown/blob/master/series/Nancy-Drew.md)
 
 [Nancy Drew and the Hardy Boys - The Big Lie](https://github.com/alicewish/markdown/blob/master/series/Nancy-Drew-Hardy-Boys-Big-Lie.md)
 
@@ -6048,6 +6056,8 @@
 [Rick and Morty](https://github.com/alicewish/markdown/blob/master/series/Rick-Morty.md)
 
 [Rick and Morty - Lil' Poopy Superstar](https://github.com/alicewish/markdown/blob/master/series/Rick-Morty-Lil-Poopy-Superstar.md)
+
+[Rick Veitch's The One](https://github.com/alicewish/markdown/blob/master/series/Rick-Veitchs-One.md)
 
 [Ringside](https://github.com/alicewish/markdown/blob/master/series/Ringside.md)
 
@@ -7821,11 +7831,15 @@
 
 [The Mantle](https://github.com/alicewish/markdown/blob/master/series/Mantle.md)
 
+[The Marvel Family](https://github.com/alicewish/markdown/blob/master/series/Marvel-Family.md)
+
 [The Marvels Project](https://github.com/alicewish/markdown/blob/master/series/Marvels-Project.md)
 
 [The Massive](https://github.com/alicewish/markdown/blob/master/series/Massive.md)
 
 [The Massive - Ninth Wave](https://github.com/alicewish/markdown/blob/master/series/Massive-Ninth-Wave.md)
+
+[The Master Inquisitors](https://github.com/alicewish/markdown/blob/master/series/Master-Inquisitors.md)
 
 [The Maxx - Maxximized](https://github.com/alicewish/markdown/blob/master/series/Maxx-Maxximized.md)
 
@@ -8305,6 +8319,8 @@
 
 [Transformers - Tales of the Fallen](https://github.com/alicewish/markdown/blob/master/series/Transformers-Tales-of-Fallen.md)
 
+[Transformers - Unicron](https://github.com/alicewish/markdown/blob/master/series/Transformers-Unicron.md)
+
 [Transformers Animated](https://github.com/alicewish/markdown/blob/master/series/Transformers-Animated.md)
 
 [Transformers Animated - The Arrival](https://github.com/alicewish/markdown/blob/master/series/Transformers-Animated-Arrival.md)
@@ -8713,6 +8729,8 @@
 
 [Wacky Raceland](https://github.com/alicewish/markdown/blob/master/series/Wacky-Raceland.md)
 
+[Walt Disney Showcase](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+
 [Walt Disney Uncle Scrooge and Donald Duck](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Uncle-Scrooge-Donald-Duck.md)
 
 [Walt Disney's Comics and Stories](https://github.com/alicewish/markdown/blob/master/series/Walt-Disneys-Comics-Stories.md)
@@ -8728,6 +8746,8 @@
 [War](https://github.com/alicewish/markdown/blob/master/series/War.md)
 
 [War at Sea](https://github.com/alicewish/markdown/blob/master/series/War-at-Sea.md)
+
+[War Goddess](https://github.com/alicewish/markdown/blob/master/series/War-Goddess.md)
 
 [War Heroes](https://github.com/alicewish/markdown/blob/master/series/War-Heroes.md)
 
@@ -9861,7 +9881,11 @@
 
 [0-Day Week of 2018.07.04](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-07-04.md)
 
+[0-Day Week of 2018.07.11](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-07-11.md)
+
 ### DC Week
+
+[DC Week (12-10-2014)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-12-10-2014.md)
 
 [DC Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-01-06-2016.md)
 
@@ -10452,6 +10476,8 @@
 [Hitlist Week of 2018.06.27](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-06-27.md)
 
 [Hitlist Week of 2018.07.04](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-07-04.md)
+
+[Hitlist Week of 2018.07.11](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-07-11.md)
 
 ### Image Week
 

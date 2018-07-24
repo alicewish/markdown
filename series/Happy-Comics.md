@@ -42,4 +42,5 @@ Happy Comics 037 (Standard) (Jun.1950) (JVJ-rangerhouse-Dave H).cbz | 28.44MiB
 Happy Comics 038 (Standard) (Aug.1950) (JVJ-rangerhouse-Dave H).cbz | 28.02MiB
 Happy Comics 41 (Standard) (Feb.1951) (JVJ-Rangerhouse-DMiles).cbz | 27.56MiB
 Happy Comics 42 (Standard) (Apr.1951) (JVJ-Rangerhouse-DMiles).cbz | 29.11MiB
+Happy Comics 23 Better Jan 1948 Kracalactaka-DMiles.cbz | 81.47MiB
 Happy Comics 023 (1948) (Better) (c2c) (JVJ-Rangerhouse-ancientonezero).cbz | 29.20MiB

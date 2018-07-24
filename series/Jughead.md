@@ -67,6 +67,7 @@ Jughead 188 (1971) (Archie) (c2c) (ComicsCastle).cbr | 65.67MiB
 Jughead 190 (1971) (c2c).cbr | 25.19MiB
 Jughead 332 Archie Feb 1984 Titansfan.cbz | 24.30MiB
 Jughead 340 (1985) (c2c).cbr | 20.29MiB
+Jughead 343 (1985) (Archie) (c2c) (ComicsCastle).cbr | 16.90MiB
 Jughead 344 (1986) (c2c) (titansfan).cbz | 24.93MiB
 Jughead 346 (1986) (c2c) (titansfan).cbz | 24.91MiB
 Jughead 349 Archie Dec 1986 Titansfan.cbz | 24.34MiB

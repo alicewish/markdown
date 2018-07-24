@@ -1,5 +1,9 @@
 ## Star Trek- Discovery - Succession 003 (2018) (webrip) (TheOrions-DCP).cbr
 
+
+[回到 Star Trek- Discovery - Succession 目录](https://github.com/alicewish/markdown/blob/master/series/Star-Trek-Discovery-Succession.md)
+
+
 ![Star Trek- Discovery - Succession 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo7bo6zyj21j82cw1kx.jpg)
 
 ![Star Trek- Discovery - Succession 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo7hhm9nj21j82cwx6p.jpg)
@@ -45,3 +49,6 @@
 ![Star Trek- Discovery - Succession 003-021.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdo9zcfrvj21j82cwtyz.jpg)
 
 ![zOrions-DCP.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftdoa1iekoj20wa0p4n2k.jpg)
+
+[回到 Star Trek- Discovery - Succession 目录](https://github.com/alicewish/markdown/blob/master/series/Star-Trek-Discovery-Succession.md)
+

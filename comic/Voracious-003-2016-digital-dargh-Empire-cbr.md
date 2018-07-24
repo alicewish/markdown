@@ -1,5 +1,9 @@
 ## Voracious 003 (2016) (digital) (d'argh-Empire).cbr
 
+
+[回到 Voracious 目录](https://github.com/alicewish/markdown/blob/master/series/Voracious.md)
+
+
 ![voracious_003_001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs1bnzs8buj21j82cwe81.jpg)
 
 ![voracious_003_002.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs1boakv29j21j82cwb29.jpg)
@@ -61,3 +65,6 @@
 ![voracious_003_031.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs1brvracoj21j82cwn8p.jpg)
 
 ![zzdelirium_dargh.png](https://wx1.sinaimg.cn/large/6a9fdecagy1floes1yonoj20m90gm41t.jpg)
+
+[回到 Voracious 目录](https://github.com/alicewish/markdown/blob/master/series/Voracious.md)
+

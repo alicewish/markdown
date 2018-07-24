@@ -14,6 +14,10 @@ CHRISTOS GAGE takes his network television hardboiled crime sensibilities back t
 
 
 
+相关种子⬇Related Torrents
+
+[Absolution - Rubicon (001 - 005) (2013)](https://github.com/alicewish/markdown/blob/master/torrent/Absolution---Rubicon--001---005---2013.md)
+
 Online | Download
 --- | ---
 Absolution - Rubicon 001 (2013) (5 Covers) (1920px) (Darkness-Empire).cbr | [63.02MiB](https://pan.baidu.com/s/1i58b0pB#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.07.03%2F%E3%82%A6%E3%82%BF%E3%82%B9%E3%82%A4%E3%82%B7%E3%82%B7%E3%82%AF%E3%82%B7%E3%82%B5%E3%82%BD%E3%82%BB%E3%82%B9%E3%82%B3%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%AF%E3%82%AF%E3%82%A4%E3%82%AB%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%B3%E3%82%AA%E3%82%BB%E3%82%BF%E3%82%B1%E3%82%A2%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202013%20Q3)

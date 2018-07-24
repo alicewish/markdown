@@ -15,4 +15,4 @@ Online | Download
 [Rick Veitch's The One 003 (2018) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rick-Veitchs-One-003-2018-Digital-Empire-cbr.md) | 50.21MiB
 [Rick Veitch's The One 004 (2018) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rick-Veitchs-One-004-2018-Digital-Empire-cbr.md) | 51.98MiB
 [Rick Veitch's The One 005 (2018) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rick-Veitchs-One-005-2018-Digital-Empire-cbr.md) | 49.22MiB
-Rick Veitch's The One 006 (2018) (Digital-Empire).cbr | 53.44MiB
+[Rick Veitch's The One 006 (2018) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rick-Veitchs-One-006-2018-Digital-Empire-cbr.md) | 53.44MiB

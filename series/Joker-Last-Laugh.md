@@ -16,6 +16,8 @@ The Joker receives some devastating news: he's going to die. It's not like the C
 
 相关种子⬇Related Torrents
 
+[Joker - Last Laugh (DCP Archives v1 - v3)](https://github.com/alicewish/markdown/blob/master/torrent/Joker---Last-Laugh--DCP-Archives-v1---v3.md)
+
 [Joker - Last Laugh (001-006+Secret Files)(2001-2002)(hybrid)(OkC.O.M.P.U.T.O.-Novus-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Joker---Last-Laugh--001-006-Secret-Files--2001-2002--hybrid--OkC-O-M-P-U-T-O--Novus-HD.md)
 
 Online | Download

@@ -21,4 +21,5 @@ Red Hood - The Lost Days 02 (of 06) (2010) (Digital) (Zone-Empire).cbr | 21.98Mi
 Red Hood - The Lost Days 03 (of 06) (2010) (Digital) (Zone-Empire).cbr | 20.66MiB
 Red Hood - The Lost Days 04 (of 06) (2010) (Digital) (Zone-Empire).cbr | 21.02MiB
 Red Hood - The Lost Days 05 (of 06) (2010) (Digital) (Zone-Empire).cbr | 22.20MiB
+Red Hood - The Lost Days (2011) (digital) (Son of Ultron-Empire).cbr | 147.45MiB
 Red Hood - The Lost Days 06 (of 06) (2011) (Digital) (Zone-Empire).cbr | 22.40MiB

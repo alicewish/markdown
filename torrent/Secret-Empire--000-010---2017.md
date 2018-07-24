@@ -39,7 +39,7 @@ Doctor Strange 022 (2017) (digital) (Minutemen-Faessla).cbz | 44.97MiB
 [Doctor Strange 024 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Strange-024-2017-Digital-Zone-Empire-cbr.md) | 49.59MiB
 &emsp;【Secret Empire (000-010+)(2017)/Extra (trades)】 | 
 [Secret Empire (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Empire-2017-Digital-danke-Empire-cbz.md) | 1009.42MiB
-Secret Empire Prelude (2017) (digital) (Minutemen-Excelsior).cbz | 457.35MiB
+[Secret Empire Prelude (2017) (digital) (Minutemen-Excelsior).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Empire-Prelude-2017-digital-Minutemen-Excelsior-cbz.md) | 457.35MiB
 [Occupy Avengers 008 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Occupy-Avengers-008-2017-Digital-Zone-Empire-cbr.md) | 36.00MiB
 [Occupy Avengers 009 (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Occupy-Avengers-009-2017-Digital-Zone-Empire-cbr.md) | 44.79MiB
 &emsp;【Secret Empire (000-010+)(2017)/Secret Empire (000-010+)(2017)(digital)(Minutemen-Bookworm)】 | 

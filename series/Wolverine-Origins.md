@@ -24,6 +24,21 @@ Logan embarks on the first leg of a long and bloody quest for vengeance against 
 
 Online | Download
 --- | ---
+Wolverine - Origins 001 (2006) (Digital) (Asgard-Empire).cbr | 24.56MiB
+Wolverine - Origins 002 (2006) (Digital) (Asgard-Empire).cbr | 25.74MiB
+Wolverine - Origins 003 (2006) (Digital) (Asgard-Empire).cbr | 24.70MiB
+Wolverine - Origins 004 (2006) (Digital) (Asgard-Empire).cbr | 25.90MiB
+Wolverine - Origins 005 (2006) (Digital) (Asgard-Empire).cbr | 24.45MiB
+Wolverine - Origins 006 (2006) (Digital) (Asgard-Empire).cbr | 21.66MiB
+Wolverine - Origins 007 (2006) (Digital) (Asgard-Empire).cbr | 20.79MiB
+Wolverine - Origins 008 (2007) (Digital) (Asgard-Empire).cbr | 23.48MiB
+Wolverine - Origins 009 (2007) (Digital) (Asgard-Empire).cbr | 23.38MiB
+Wolverine - Origins 010 (2007) (Digital) (Asgard-Empire).cbr | 19.66MiB
+Wolverine - Origins 011 (2007) (Digital) (Asgard-Empire).cbr | 21.39MiB
+Wolverine - Origins 012 (2007) (Digital) (Asgard-Empire).cbr | 22.76MiB
+Wolverine - Origins 013 (2007) (Digital) (Asgard-Empire).cbr | 23.56MiB
+Wolverine - Origins 014 (2007) (Digital) (Asgard-Empire).cbr | 25.45MiB
+Wolverine - Origins 015 (2007) (Digital) (Asgard-Empire).cbr | 23.11MiB
 Wolverine Origins v01 - Born In Blood (2007) (Digital) (Kileko-Empire).cbr | 128.24MiB
 Wolverine Origins v02 - Savior (2007) (Digital) (Kileko-Empire).cbr | 111.58MiB
 Wolverine Origins v03 - Swift and Terrible (2007) (Digital) (Kileko-Empire).cbr | 118.67MiB

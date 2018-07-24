@@ -54,6 +54,7 @@ Superboy 160 c2c DC Oct 1969 Krankyboy+a nonny moose.cbz | 43.84MiB
 Superboy 164 c2c DC Apr 1970 Krankyboy+a nonny moose.cbz | 43.30MiB
 Superboy 170 c2c DC Dec 1970 Krankyboy+a nonny moose.cbz | 44.31MiB
 Superboy 177 c2c DC Sep 1971 Krankyboy+a nonny moose.cbz | 62.15MiB
+Superboy 184 c2c DC Apr 1972 Krankyboy+a nonny moose.cbz | 63.39MiB
 Superboy 190 c2c DC Sep 1972 a nonny moose.cbz | 42.99MiB
 Superboy 172 (Story 2) (1971-01) (tpbscan) (MaidOfMight-Novus-HD).cbz | 13.29MiB
 Superboy, 1971-01-00 (#172 (Story 2)) (tpbscan) (MaidOfMight-Novus-HD).cbz | 13.29MiB

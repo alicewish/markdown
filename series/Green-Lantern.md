@@ -102,6 +102,11 @@ Green Lantern, 1965-08-26 (#40) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 45.4
 Green Lantern 040 (1965) (Digital) (Shadowcat-Empire).cbz | 39.04MiB
 Green Lantern, 1965-10-14 (#41) (digital) (Glorith-HD).cbz | 37.07MiB
 Green Lantern 041 (1965) (Digital) (Shadowcat-Empire).cbz | 39.50MiB
+Green Lantern 042 (1966) (Digital) (Shadowcat-Empire).cbz | 34.08MiB
+Green Lantern 043 (1966) (Digital) (Shadowcat-Empire).cbz | 31.15MiB
+Green Lantern 044 (1966) (Digital) (Shadowcat-Empire).cbz | 29.68MiB
+Green Lantern 045 (1966) (Digital) (Shadowcat-Empire).cbz | 32.45MiB
+Green Lantern 046 (1966) (Digital) (Shadowcat-Empire).cbz | 29.73MiB
 Green Lantern 52 (1967-02) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | [33.48MiB](https://pan.baidu.com/s/1pKLgpdh#list/path=%2FNovus%20-%20Week%20of%202015%20Q1%2FNovus%20-%20Week%20of%202015-01-14%2F%E3%82%BB%E3%82%AD%E3%82%AB%E3%82%BD%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%B1%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%A2%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%B3%E3%82%B1%E3%82%B7%E3%82%B3%E3%82%B7%E3%82%A8%E3%82%AA%E3%82%A2%E3%82%BF%E3%82%B1%E3%82%AF%E3%82%A8%E3%82%B1%E3%82%BF%E3%82%B3%E3%82%B3&parentPath=%2FNovus%20-%20Week%20of%202015%20Q1)
 Green Lantern 076 (1970) (digital-SD) (Minutemen-Drunk Monk).cbr | 14.36MiB
 Green Lantern 077 (1970) (digital-SD) (Minutemen-Drunk Monk).cbr | 15.24MiB

@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Battle Angel Alita Vol. 01 (2017, New Translation Edition) (digital) (Minutemen-Excelsior).cbz | 441.72MiB
-Battle Angel Alita Vol. 02 (2017, New Translation Edition) (digital) (Minutemen-Excelsior).cbz | 381.57MiB
-Battle Angel Alita Vol. 03 (2017, New Translation Edition) (digital) (Minutemen-Excelsior).cbz | 430.58MiB
+[Battle Angel Alita Vol. 01 (2017, New Translation Edition) (digital) (Minutemen-Excelsior).cbz](https://github.com/alicewish/markdown/blob/master/comic/Battle-Angel-Alita-Vol-01-2017-New-Translation-Edition-digital-Minutemen-Excelsior-cbz.md) | 441.72MiB
+[Battle Angel Alita Vol. 02 (2017, New Translation Edition) (digital) (Minutemen-Excelsior).cbz](https://github.com/alicewish/markdown/blob/master/comic/Battle-Angel-Alita-Vol-02-2017-New-Translation-Edition-digital-Minutemen-Excelsior-cbz.md) | 381.57MiB
+[Battle Angel Alita Vol. 03 (2017, New Translation Edition) (digital) (Minutemen-Excelsior).cbz](https://github.com/alicewish/markdown/blob/master/comic/Battle-Angel-Alita-Vol-03-2017-New-Translation-Edition-digital-Minutemen-Excelsior-cbz.md) | 430.58MiB

@@ -1,5 +1,9 @@
 ## Archie & Friends Digital Digest 001 (2018) (Forsythe-DCP).cbr
 
+
+[回到 Archie & Friends Digital Digest 目录](https://github.com/alicewish/markdown/blob/master/series/Archie-Friends-Digital-Digest.md)
+
+
 ![Archie & Friends Digital Digest 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5zemes4tj21kw24ku0x.jpg)
 
 ![Archie & Friends Digital Digest 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5zf94bwej21kw24nqv6.jpg)
@@ -23,3 +27,6 @@
 ![Archie & Friends Digital Digest 001-010.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5zozjpc4j21kw24n7wi.jpg)
 
 ![zzForsythe.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5zp4l40lj21hc1wtwkk.jpg)
+
+[回到 Archie & Friends Digital Digest 目录](https://github.com/alicewish/markdown/blob/master/series/Archie-Friends-Digital-Digest.md)
+

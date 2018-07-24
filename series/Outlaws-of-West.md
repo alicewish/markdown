@@ -44,10 +44,13 @@ Outlaws of the West 86 Charlton 1980 c2c Titansfan.cbz | 26.28MiB
 Outlaws of the West 88 Charlton 1980 c2c nomscans+Titansfan.cbz | 18.62MiB
 Outlaws of the West 020 (1959) (Charlton) (c2c).cbr | 26.24MiB
 Outlaws of the West 029 (1960) (Charlton) (c2c).cbr | 24.71MiB
+Outlaws of the West 032 (c2c) (Charlton) (1961-07) (ComicWanderer).cbz | 59.09MiB
 Outlaws of the West 034 (1961) (Charlton) (c2c) [RAW] (Narfstar).cbz | 33.34MiB
 Outlaws of the West 039 (1962) (Charlton) (INC) [-cf] (narfstar).cbz | 47.36MiB
 Outlaws of the West 067 (1962) (Charlton) (c2c) (narfstar).cbz | 51.71MiB
+Outlaws of the West 042 (c2c) (Charlton) (1963-04) (ComicWanderer).cbz | 67.60MiB
 Outlaws of the West 058 (1966) (Charlton) (c2c) (narfstar).cbz | 70.54MiB
+Outlaws of the West 062 (c2c) (Charlton) (1967-01) (ComicWanderer).cbz | 69.82MiB
 Outlaws of the West 065 (1967) (Charlton) (c2c).cbr | 25.30MiB
 Outlaws of the West 066 (1967) (Charlton) (c2c).cbr | 25.08MiB
 Outlaws of the West 071 (1968) (Charlton) (c2c).cbr | 26.75MiB

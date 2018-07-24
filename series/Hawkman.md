@@ -48,6 +48,9 @@ Hawkman 009 (1965) (Digital) (Shadowcat-Empire).cbz | 56.08MiB
 Hawkman 010 (1965) (Digital) (Shadowcat-Empire).cbz | 49.66MiB
 Hawkman 011 (1966) (Digital) (Shadowcat-Empire).cbz | 48.80MiB
 Hawkman 012 (1966) (Digital) (Shadowcat-Empire).cbz | 49.54MiB
+Hawkman 013 (1966) (Digital) (Shadowcat-Empire).cbz | 54.41MiB
+Hawkman 014 (1966) (Digital) (Shadowcat-Empire).cbz | 51.42MiB
+Hawkman 015 (1966) (Digital) (Shadowcat-Empire).cbz | 46.33MiB
 Hawkman 018 (1967) (Digital) (Shadowcat-Empire).cbz | 30.81MiB
 Hawkman 001 (1986) (Digital) (Shadowcat-Empire).cbz | 33.53MiB
 Hawkman 002 (1986) (Digital) (Shadowcat-Empire).cbz | 33.13MiB
@@ -61,6 +64,9 @@ Hawkman 009 (1987) (Digital) (Shadowcat-Empire).cbz | 28.79MiB
 Hawkman 010 (1987) (Digital) (Shadowcat-Empire).cbz | 30.76MiB
 Hawkman 011 (1987) (Digital) (Shadowcat-Empire).cbz | 25.79MiB
 Hawkman 012 (1987) (Digital) (Shadowcat-Empire).cbz | 28.67MiB
+Hawkman 013 (1987) (Digital) (Shadowcat-Empire).cbz | 29.71MiB
+Hawkman 014 (1987) (Digital) (Shadowcat-Empire).cbz | 29.58MiB
+Hawkman 015 (1987) (Digital) (Shadowcat-Empire).cbz | 51.52MiB
 Hawkman 000 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 13.15MiB
 Hawkman 013 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 12.32MiB
 Hawkman 001 (2002) (Digital-SD) (Shadowcat-Empire).cbz | 12.14MiB
@@ -115,4 +121,4 @@ Hawkman 047 (2006) (Digital-SD) (Shadowcat-Empire).cbz | 13.12MiB
 Hawkman 048 (2006) (Digital-SD) (Shadowcat-Empire).cbz | 11.94MiB
 Hawkman 049 (2006) (Digital-SD) (Shadowcat-Empire).cbz | 11.82MiB
 [Hawkman 001 (2018) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkman-001-2018-2-covers-Digital-Zone-Empire-cbr.md) | [33.64MiB](https://pan.baidu.com/s/1sOrtXhLqrcFH_yfomlVypQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.13%2F%E3%82%AD%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%B1%E3%82%A6%E3%82%AF%E3%82%AA%E3%82%B7%E3%82%AF%E3%82%BD%E3%82%B1%E3%82%A4%E3%82%B9%E3%82%B3%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%B7%E3%82%BD%E3%82%B9%E3%82%A8%E3%82%A6%E3%82%A8%E3%82%AF%E3%82%A4%E3%82%A6%E3%82%AF%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
-[Hawkman 002 (2018) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkman-002-2018-2-covers-Digital-Zone-Empire-cbr.md) | [36.31MiB](https://pan.baidu.com/s/1N4TjaGfusclNn0MXYin8PA#list/path=%2FDC%20Week%202018%20Q3%2FDC%20Week%2B%20%2807-11-2018%29%2F%E3%82%AB%E3%82%AA%E3%82%B9%E3%82%A2%E3%82%B9%E3%82%BB%E3%82%A8%E3%82%B5%E3%82%A6%E3%82%A8%E3%82%B5%E3%82%BB%E3%82%B3%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%BF%E3%82%AD%E3%82%B9%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%B1%E3%82%AA%E3%82%AF%E3%82%AD%E3%82%BF%E3%82%B9%E3%82%A6%E3%82%AD&parentPath=%2FDC%20Week%202018%20Q3)
+[Hawkman 002 (2018) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkman-002-2018-2-covers-Digital-Zone-Empire-cbr.md) | [36.31MiB](https://pan.baidu.com/s/1yQbLNht8Ce9RVlwdy5t6Pg#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.11%2F%E3%82%B5%E3%82%A6%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%BB%E3%82%A8%E3%82%A6%E3%82%AB%E3%82%BF%E3%82%A6%E3%82%BB%E3%82%AD%E3%82%B3%E3%82%B1%E3%82%A8%E3%82%B1%E3%82%A4%E3%82%A8%E3%82%B1%E3%82%B7%E3%82%A8%E3%82%A8%E3%82%B1%E3%82%A6%E3%82%B5%E3%82%BD%E3%82%BF%E3%82%AF%E3%82%BF%E3%82%B3%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202018%20Q3)

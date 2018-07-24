@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 All-Rounder Meguru v01 (2017) (Digital) (danke-Empire).cbz | 290.22MiB
 All-Rounder Meguru v02 (2017) (Digital) (danke-Empire).cbz | 283.19MiB
-All-Rounder Meguru v03 (2017) (Digital) (danke-Empire).cbz | 321.88MiB
+[All-Rounder Meguru v03 (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/All-Rounder-Meguru-v03-2017-Digital-danke-Empire-cbz.md) | 321.88MiB
 downloaded from worldwidetorrents.eu.txt | 603.00B

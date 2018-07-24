@@ -45,6 +45,7 @@ Popeye 153 (Gold Key 1979) (c2c) (Drone-Empire).cbz | 198.84MiB
 Popeye 153 (Gold Key 1979) (Drone-Empire).cbz | 129.73MiB
 Popeye 166 (Whitman) (February 1982).cbz | 42.80MiB
 Popeye 088 (1967) (King) (c2c).cbz | 24.68MiB
+Popeye 096 (c2c) (Charlton) (1969-06) ComicWanderer.cbz | 72.00MiB
 Popeye 119 (1973) (Charlton) (titansfan).cbz | 25.94MiB
 Popeye (2012) (DCP Digital).cbr | [49.18MiB](https://pan.baidu.com/s/1nvrEo7f#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.12.26%2F%E3%82%BB%E3%82%AD%E3%82%BB%E3%82%B1%E3%82%B1%E3%82%AF%E3%82%A8%E3%82%A6%E3%82%A4%E3%82%AF%E3%82%A8%E3%82%B5%E3%82%AB%E3%82%B3%E3%82%BD%E3%82%A4%E3%82%BB%E3%82%B3%E3%82%A6%E3%82%B7%E3%82%AF%E3%82%B5%E3%82%AD%E3%82%A6%E3%82%A2%E3%82%A8%E3%82%A2%E3%82%AA%E3%82%B5%E3%82%B5%E3%82%B7%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202012%20Q4)
 Popeye 01 c2c (2012) (IDW) (Jojo).cbr | [25.20MiB](https://pan.baidu.com/s/1pKZtrB1#list/path=%2F0-Day%20Week%20of%202012%20Q2%2F0-Day%20Week%20of%202012.04.25%2F%E3%82%A8%E3%82%B9%E3%82%AD%E3%82%AA%E3%82%A8%E3%82%AF%E3%82%AA%E3%82%BF%E3%82%BF%E3%82%A6%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%AD%E3%82%AF%E3%82%AB%E3%82%AA%E3%82%A6%E3%82%A8%E3%82%BB%E3%82%BB%E3%82%B1%E3%82%BD%E3%82%AA%E3%82%B5%E3%82%B1%E3%82%BB%E3%82%AF%E3%82%AD%E3%82%B5%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202012%20Q2)

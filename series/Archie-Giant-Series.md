@@ -12,6 +12,7 @@
 
 Online | Download
 --- | ---
+Archie Giant Series 012 (Katy Keene) (c2c) (5pgs damaged) (jodyanimator) (symm edits).cbz | 44.92MiB
 Archie Giant Series 154 (Archie 1968) (inc no ifc) (Kracalactaka-a nonny moose).cbz | 57.45MiB
 Archie Giant Series 621 [B&V Summer Fun] Sep 1991 c2c Kracalactaka.cbz | 47.38MiB
 Archie Giant Series 630 Archie's Christmas Stocking Kracalactaka-Titansfan.cbz | 52.17MiB

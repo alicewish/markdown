@@ -1,4 +1,4 @@
-# Marvel Family
+# The Marvel Family
 
 打包下载📦仍在工事中
 
@@ -14,6 +14,7 @@ Online | Download
 --- | ---
 The Marvel Family 009 Fawcett Mar 1947 Moondood+Kracalactaka.cbz | 17.03MiB
 Marvel Family 12 Fawcett 1947 Fawcett June 1947 Titansfan-Yoc-Kracalactaka.cbz | 52.76MiB
+The Marvel Family 30 c2c Fawcett Dec 1948 freddyfly.cbz | 37.82MiB
 The Marvel Family 40 Fawcett Oct 1949 Titansfan-DMiles.cbz | 38.26MiB
 Marvel Family 048 Fawcett Jun 1950 c2c Kracalactaka-a nonny moose.cbz | 34.83MiB
 Marvel Family 049 Fawcett Jul 1950 PWebb-CBpop.cbz | 49.13MiB

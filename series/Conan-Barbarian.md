@@ -264,6 +264,9 @@ Conan The Barbarian 187 (1986) c2c (Teach-Woodman).cbr | 29.39MiB
 Conan The Barbarian 188 (1986) c2c (Teach-Woodman).cbr | 29.56MiB
 Conan The Barbarian 189 (1986) c2c (Teach-Woodman).cbr | 28.52MiB
 Conan The Barbarian Annual 010 (1986) digital (Bchry-DCP).cbz | 88.54MiB
+Conan The Barbarian 190 (1987) c2c (Teach-Woodman).cbr | 28.26MiB
+Conan The Barbarian 191 (1987) c2c (Teach-Woodman).cbr | 28.40MiB
+Conan The Barbarian 192 (1987) c2c (Teach-Woodman).cbr | 29.19MiB
 Conan The Barbarian 193 (1987) (MrWoodman).cbr | 41.00MiB
 Conan The Barbarian 194 (1987) (MrWoodman).cbr | 43.36MiB
 Conan The Barbarian 202 (1988) c2c (Teach-Woodman).cbr | 28.77MiB
@@ -275,8 +278,11 @@ Conan The Barbarian 207 (1988) c2c (Teach-Woodman).cbr | 30.81MiB
 Conan The Barbarian 208 (1988) c2c (Teach-Woodman).cbr | 29.77MiB
 Conan The Barbarian 209 (1988) c2c (Teach-Woodman).cbr | 28.89MiB
 Conan The Barbarian 210 (1988) c2c (Teach-Woodman).cbr | 31.52MiB
+Conan The Barbarian 211 (1988) c2c (Teach-Woodman).cbr | 27.96MiB
+Conan The Barbarian 212 (1988) c2c (Teach-Woodman).cbr | 27.30MiB
 Conan The Barbarian 213 (1988) (MrWoodman).cbr | 43.70MiB
 Conan The Barbarian 214 (1988) (MrWoodman).cbr | 43.19MiB
+Conan The Barbarian 215 (1989) c2c (Teach-Woodman).cbr | 30.40MiB
 Conan the Barbarian 216 (1989) (EvilWoodman).cbr | 43.36MiB
 Conan The Barbarian 217 (1989) (MrWoodman).cbr | 44.68MiB
 Conan The Barbarian 218 (1989) (MrWoodman).cbr | 45.13MiB

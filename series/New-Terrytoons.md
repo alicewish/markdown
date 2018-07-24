@@ -25,3 +25,4 @@ New Terrytoons 24 Gold Key Jan 1974 C2C (js-DCP).cbz | 13.12MiB
 New Terrytoons 31 Gold Key Apr 1975 C2C (js-DCP).cbz | 13.23MiB
 New Terrytoons 034 (1975) (Whitman) (c2c) (js).cbz | 11.73MiB
 New Terrytoons 35 Gold Key Nov 1975 C2C (js-DCP).cbz | 13.53MiB
+New Terrytoons 42 Whitman Jan 1977 C2C (js-DCP).cbz | 14.08MiB

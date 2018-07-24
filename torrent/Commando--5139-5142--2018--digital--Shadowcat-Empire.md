@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Commando 5139 - The Forlorn Hope (2018) (Digital) (Shadowcat-Empire).cbz | 117.89MiB
-Commando 5140 - Shooting Star (2018) (Digital) (Shadowcat-Empire).cbz | 135.99MiB
-Commando 5141 - Outfoxed! (2018) (Digital) (Shadowcat-Empire).cbz | 126.78MiB
-Commando 5142 - High Risk Rescue (2018) (Digital) (Shadowcat-Empire).cbz | 111.53MiB
+[Commando 5139 - The Forlorn Hope (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5139-Forlorn-Hope-2018-Digital-Shadowcat-Empire-cbz.md) | 117.89MiB
+[Commando 5140 - Shooting Star (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5140-Shooting-Star-2018-Digital-Shadowcat-Empire-cbz.md) | 135.99MiB
+[Commando 5141 - Outfoxed! (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5141-Outfoxed-2018-Digital-Shadowcat-Empire-cbz.md) | 126.78MiB
+[Commando 5142 - High Risk Rescue (2018) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Commando-5142-High-Risk-Rescue-2018-Digital-Shadowcat-Empire-cbz.md) | 111.53MiB

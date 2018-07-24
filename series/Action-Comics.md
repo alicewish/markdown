@@ -361,6 +361,11 @@ Action Comics 368 (1968) (Digital) (Shadowcat-Empire).cbz | 36.68MiB
 Action Comics 369 (1968) (Digital) (Shadowcat-Empire).cbz | 28.59MiB
 Action Comics 370 (1968) (Digital) (Shadowcat-Empire).cbz | 29.02MiB
 Action Comics 371 (1969) (Digital) (Shadowcat-Empire).cbz | 27.68MiB
+Action Comics 372 (1969) (Digital) (Shadowcat-Empire).cbz | 42.64MiB
+Action Comics 373 (1969) (Digital) (Shadowcat-Empire).cbz | 122.18MiB
+Action Comics 374 (1969) (Digital) (Shadowcat-Empire).cbz | 40.94MiB
+Action Comics 375 (1969) (Digital) (Shadowcat-Empire).cbz | 33.85MiB
+Action Comics 376 (1969) (Digital) (Shadowcat-Empire).cbz | 27.97MiB
 Action Comics 378 (Story 2) (1969-05) (tpbscan) (MaidOfMight-Novus-HD).cbz | [18.99MiB](https://pan.baidu.com/s/1TFbImrMgWFN0gjwZBIatQA#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-10-14%2F%E3%82%B9%E3%82%BB%E3%82%BD%E3%82%BD%E3%82%B3%E3%82%B1%E3%82%A2%E3%82%A4%E3%82%AD%E3%82%B9%E3%82%B3%E3%82%A8%E3%82%B1%E3%82%B1%E3%82%B9%E3%82%AF%E3%82%BD%E3%82%B5%E3%82%BD%E3%82%B1%E3%82%A4%E3%82%B3%E3%82%B5%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%A8%E3%82%BF%E3%82%AF%E3%82%A8%E3%82%B3%E3%82%A6&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)
 Action Comics, 1969-05-00 (#378 (Story 2)) (tpbscan) (MaidOfMight-Novus-HD).cbz | 18.99MiB
 Action Comics 379 (Story 2) (1969-06) (tpbscan) (MaidOfMight-Novus-HD).cbz | [14.97MiB](https://pan.baidu.com/s/1McCYIG6OO372AR5fH7fhRg#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-10-21%2F%E3%82%B7%E3%82%B5%E3%82%A2%E3%82%B3%E3%82%AF%E3%82%AD%E3%82%AF%E3%82%AF%E3%82%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%82%B3%E3%82%BD%E3%82%B5%E3%82%BB%E3%82%A2%E3%82%A2%E3%82%AD%E3%82%A2%E3%82%A8%E3%82%B1%E3%82%B9%E3%82%B3%E3%82%AD%E3%82%A4%E3%82%A8%E3%82%B5%E3%82%A8%E3%82%B5%E3%82%A4%E3%82%B5&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)

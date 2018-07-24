@@ -21,6 +21,7 @@ Nate's inability to follow orders is beginning to cause trouble for Bishop. Mean
 Online | Download
 --- | ---
 X-Man, 1995-01-00 (#01) (digital) (Glorith-HD).cbz | 48.99MiB
+X-Man 001 (1995) (Digital) (Asgard-Empire).cbr | 47.73MiB
 X-Man 1 (1995) (Digital) (GodMagnus).cbr | 14.39MiB
 X-Man, 1995-02-00 (#02) (digital) (Glorith-HD).cbz | 51.49MiB
 X-Man 2 (1995) (Digital) (GodMagnus).cbr | 14.89MiB

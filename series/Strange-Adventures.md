@@ -18,6 +18,8 @@ DC Comics' first science fiction-centered comic book title, featuring the first 
 
 [Strange Adventures (001 - 244) (1950 - 1973)](https://github.com/alicewish/markdown/blob/master/torrent/Strange-Adventures--001---244---1950---1973.md)
 
+[Strange Adventures (1950-2014)](https://github.com/alicewish/markdown/blob/master/torrent/Strange-Adventures--1950-2014.md)
+
 Online | Download
 --- | ---
 Strange Adventures, 1963-08-00 (#157) (digital) (Glorith-HD).cbz | 54.56MiB

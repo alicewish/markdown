@@ -1,5 +1,9 @@
 ## Immortal Hulk 001 (2018) (webrip) (GreenGiant-DCP).cbr
 
+
+[回到 Immortal Hulk 目录](https://github.com/alicewish/markdown/blob/master/series/Immortal-Hulk.md)
+
+
 ![Immortal Hulk (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fseourgi73j21j82cw7wi.jpg)
 
 ![Immortal Hulk (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fseouuiy6kj21j82cw47a.jpg)
@@ -65,3 +69,6 @@
 ![Immortal Hulk (2018-) 001-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fseoze63osj21j82cwnpd.jpg)
 
 ![zzGGtag.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fseozk8wvdj21j82cwu0x.jpg)
+
+[回到 Immortal Hulk 目录](https://github.com/alicewish/markdown/blob/master/series/Immortal-Hulk.md)
+

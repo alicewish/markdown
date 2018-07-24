@@ -12,6 +12,13 @@
 
 Online | Download
 --- | ---
+TV Comic 0471 [1960-12-24] (Zeg).cbz | 10.33MiB
+TV Comic 0483 [1961-03-18] (Zeg).cbz | 10.21MiB
+TV Comic 0485 [1961-04-01] (Zeg).cbz | 9.66MiB
+TV Comic 0487 [1961-04-15] (Zeg).cbz | 9.80MiB
+TV Comic 0488 [1961-04-22] (Zeg).cbz | 9.25MiB
+TV Comic 0490 [1961-05-06] (Zeg).cbz | 9.93MiB
+TV Comic 0491 [1961-05-13] (Zeg).cbz | 10.13MiB
 TV Comic 0668 (0964-03-10).cbr | 12.20MiB
 TV Comic 0915 (28-06-1969) (Monty).cbz | 12.20MiB
 TV Comic 0920 (02-08-1969) (Monty).cbz | 11.88MiB

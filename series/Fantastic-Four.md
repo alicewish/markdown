@@ -426,6 +426,7 @@ Fantastic Four 331 (1989) (Digital) (Shadowcat-Empire).cbz | 43.84MiB
 Fantastic Four 334 (1989) (Digital) (Shadowcat-Empire).cbz | 42.56MiB
 Fantastic Four 335 (1989) (Digital) (Shadowcat-Empire).cbz | 44.45MiB
 Fantastic Four Annual 022 (1989) (Digital) (AnPymGold-Empire).cbz | 22.85MiB
+Fantastic Four Annual 022 (1989) (MrWoodman).cbr | 74.80MiB
 Fantastic Four Annual 022 (1989) (Digital) (Shadowcat-Empire).cbz | 108.76MiB
 Fantastic Four 341 (1990) (Digital) (Shadowcat-Empire).cbz | 34.26MiB
 Fantastic Four 347 (1990) (Digital) (AnHeroGold-Empire).cbz | 41.13MiB

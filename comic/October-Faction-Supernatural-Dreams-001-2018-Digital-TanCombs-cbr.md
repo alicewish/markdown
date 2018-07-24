@@ -1,5 +1,9 @@
 ## The October Faction - Supernatural Dreams 001 (2018) (Digital) (TanCombs).cbr
 
+
+[回到 The October Faction - Supernatural Dreams 目录](https://github.com/alicewish/markdown/blob/master/series/October-Faction-Supernatural-Dreams.md)
+
+
 ![The October Faction - Supernatural Dreams 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpen9ml92jj21j82cw1kx.jpg)
 
 ![The October Faction - Supernatural Dreams 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpen9u8j6sj21j82cwu0x.jpg)
@@ -59,3 +63,6 @@
 ![The October Faction - Supernatural Dreams 001-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpendhaw60j21j82cw4qp.jpg)
 
 ![The October Faction - Supernatural Dreams 001-029.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpendoq0p6j21j72cw7wh.jpg)
+
+[回到 The October Faction - Supernatural Dreams 目录](https://github.com/alicewish/markdown/blob/master/series/October-Faction-Supernatural-Dreams.md)
+

@@ -18,10 +18,10 @@ Yozakura Quartet v05 (2009) (Digital) (danke).cbz | 259.59MiB
 Yozakura Quartet v06 (2016) (Digital) (danke).cbz | 409.58MiB
 Yozakura Quartet v07 (2016) (Digital) (danke).cbz | 333.71MiB
 Yozakura Quartet v08 (2017) (Digital) (danke-Empire).cbz | 245.48MiB
-Yozakura Quartet v09 (2017) (Digital) (danke-Empire).cbz | 359.52MiB
-Yozakura Quartet v10 (2017) (Digital) (danke-Empire).cbz | 287.53MiB
-Yozakura Quartet v11 (2017) (Digital) (danke-Empire).cbz | 420.80MiB
-Yozakura Quartet v12 (2017) (Digital) (danke-Empire).cbz | 321.73MiB
+[Yozakura Quartet v09 (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Yozakura-Quartet-v09-2017-Digital-danke-Empire-cbz.md) | 359.52MiB
+[Yozakura Quartet v10 (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Yozakura-Quartet-v10-2017-Digital-danke-Empire-cbz.md) | 287.53MiB
+[Yozakura Quartet v11 (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Yozakura-Quartet-v11-2017-Digital-danke-Empire-cbz.md) | 420.80MiB
+[Yozakura Quartet v12 (2017) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Yozakura-Quartet-v12-2017-Digital-danke-Empire-cbz.md) | 321.73MiB
 Yozakura Quartet v13 (2017) (Digital) (danke-Empire).cbz | 369.96MiB
 Yozakura Quartet v14 (2017) (Digital) (danke-Empire).cbz | 307.91MiB
 Yozakura Quartet v15 (2017) (Digital) (danke-Empire).cbz | 343.78MiB

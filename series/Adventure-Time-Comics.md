@@ -48,3 +48,4 @@ Adventure Time Comics 019 (2018) (digital) (Salem-Empire).cbr | 110.02MiB
 Adventure Time Comics 020 (2018) (digital) (Salem-Empire).cbr | 34.21MiB
 Adventure Time Comics 021 (2018) (digital) (Salem-Empire).cbr | 51.95MiB
 Adventure Time Comics 022 (2018) (digital) (Salem-Empire).cbr | 38.00MiB
+Adventure Time Comics 023 (2018) (digital) (Salem-Empire).cbr | 35.38MiB

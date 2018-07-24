@@ -40,6 +40,7 @@ Ultimate Spider-Man v03 - Double Trouble (2006) (Digital) (Asgard-Empire).cbr | 
 Ultimate Spider-Man v14 - Warriors (2006) (Digital) (Kileko-Empire).cbr | 223.53MiB
 Ultimate Spider-Man v15 - Silver Sable (2006) (Digital) (Kileko-Empire).cbr | 224.86MiB
 Ultimate Spider-Man v16 - Deadpool (2006) (Digital) (Kileko-Empire).cbr | 261.40MiB
+Ultimate Spider-Man v02 - Learning Curve (2007) (Digital) (F) (Asgard-Empire).cbr | 230.90MiB
 Ultimate Spider-Man v06 - Venom (2007) (Digital) (Asgard-Empire).cbr | 170.20MiB
 Ultimate Spider-Man v17 - Clone Saga (2007) (Digital) (Kileko-Empire).cbr | 331.60MiB
 Ultimate Spider-Man v18 - Ultimate Knights (2007) (Digital) (Kileko-Empire).cbr | 169.67MiB
@@ -58,6 +59,7 @@ Ultimate Spider-man 130(2009)(FB-DCP)(C2C).cbr | 18.98MiB
 Ultimate Spider-man 131(2009)(FB-DCP)(C2C).cbr | 18.14MiB
 Ultimate Spider-man 132(2009)(FB-DCP)(C2C).cbr | 16.74MiB
 Ultimate Spider-man 133(2009)(FB-DCP)(C2C).cbr | 20.84MiB
+Ultimate Spider-Man v01 - Power & Responsibility (2009) (Digital) (F) (Kileko-Empire).cbr | 328.36MiB
 Ultimate Spider-Man v21 - War Of The Symbiotes (2009) (Digital) (Kileko-Empire).cbr | 168.86MiB
 Ultimate Spider-Man v22 - Ultimatum (2009) (Digital) (Kileko-Empire).cbr | 208.88MiB
 Ultimate Spider-Man 150 (2010) (Digital) (F) (Zone-Empire).cbr | 165.74MiB

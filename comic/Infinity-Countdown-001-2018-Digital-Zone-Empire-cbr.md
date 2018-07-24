@@ -1,5 +1,9 @@
 ## Infinity Countdown 001 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Infinity Countdown 目录](https://github.com/alicewish/markdown/blob/master/series/Infinity-Countdown.md)
+
+
 ![Infinity Countdown (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5lia2r3wj21j82cw4qr.jpg)
 
 ![Infinity Countdown (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5lio6zf4j21j82cwu0x.jpg)
@@ -79,3 +83,6 @@
 ![Infinity Countdown (2018-) 001-038.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5lv2kpl9j21j82cwx6p.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5g67abf9j21kw1c84il.jpg)
+
+[回到 Infinity Countdown 目录](https://github.com/alicewish/markdown/blob/master/series/Infinity-Countdown.md)
+

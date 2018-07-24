@@ -14,4 +14,4 @@ Online | Download
 [The Musketeers 002(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Musketeers-002-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 34.45MiB
 [The Musketeers 003(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Musketeers-003-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 41.61MiB
 The Musketeers 004(2018)(Digital)(TLK-EMPIRE-HD).cbr | 44.92MiB
-The Musketeers 005(2018)(Digital)(TLK-EMPIRE-HD).cbr | 45.17MiB
+[The Musketeers 005(2018)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Musketeers-005-2018-Digital-TLK-EMPIRE-HD-cbr.md) | 45.17MiB

@@ -1,5 +1,9 @@
 ## Infidel 005 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Infidel 目录](https://github.com/alicewish/markdown/blob/master/series/Infidel.md)
+
+
 ![Infidel 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjjg2u2qtj21j82cwe82.jpg)
 
 ![Infidel 005-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjjg7k06yj21j82cway8.jpg)
@@ -79,3 +83,6 @@
 ![Infidel 005-038.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjjko25jwj21j82cwtya.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyn3psryuj21kw1c84il.jpg)
+
+[回到 Infidel 目录](https://github.com/alicewish/markdown/blob/master/series/Infidel.md)
+

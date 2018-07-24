@@ -13,6 +13,7 @@
 Online | Download
 --- | ---
 Archie Giant Series Magazine 10 Archie Jan 1961 C2C Archie's Christmas Stocking (js-DCP).cbz | 34.68MiB
+Archie Giant Series Magazine 13 Archie Oct 1961 C2C Betty and Veronica Summer Fun [4pp OA] (js-DCP).cbz | 34.88MiB
 Archie Giant Series Magazine 161 Archie Feb 1969 C2C World of Jughead (js-DCP).cbz | 25.65MiB
 Archie Giant Series Magazine 182 Archie Feb 1971 C2C World of Archie (js-DCP).cbz | 26.93MiB
 Archie Giant Series Magazine 008 (c2c) (Archie).cbz | 57.79MiB

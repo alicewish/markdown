@@ -33,3 +33,4 @@ Marvel Super Heroes Secret Wars 10 (of 12) (1985) (digital) (Minutemen-Slayer).c
 Marvel Super Heroes Secret Wars 11 (of 12) (1985) (digital) (Minutemen-Slayer).cbr | 35.67MiB
 Marvel Super Heroes Secret Wars 12 (of 12) (1985) (digital) (Minutemen-Slayer).cbr | 57.92MiB
 Marvel Super Heroes Secret Wars (2011) (Digital) (Asgard-Empire).cbr | 462.59MiB
+Marvel Super Heroes Secret Wars (2012) (Digital) (F) (Asgard-Empire).cbr | 564.15MiB

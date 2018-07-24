@@ -36,3 +36,4 @@ Wolverine - Old Man Logan v06 - Days of Anger (2018) (Digital) (GodMagnus).cbr |
 Wolverine - Old Man Logan v06 - Days of Anger (2018) (Digital) (Kileko-Empire).cbr | 558.83MiB
 Wolverine - Old Man Logan v06 - Days of Anger (2018) (Digital) (Zone-Empire).cbr | 612.04MiB
 Wolverine - Old Man Logan v06 - Days of Anger - Black and White (2018) (Digital) (Zone-Empire).cbr | 307.97MiB
+Wolverine - Old Man Logan v07 - Scarlet Samurai (2018) (Digital) (Zone-Empire).cbr | 231.41MiB

@@ -47,3 +47,4 @@ Star Wars Insider 178 (2018) (Digital) (Kileko-Empire).cbr | 247.01MiB
 Star Wars Insider 179 (2018) (Digital) (Kileko-Empire).cbr | 97.18MiB
 Star Wars Insider 180 (2018) (Digital) (Kileko-Empire).cbr | 56.91MiB
 Star Wars Insider 181 (2018) (Digital) (Kileko-Empire).cbr | 109.06MiB
+Star Wars Insider 182 (2018-08) (PDF-rip) (Random Stranger-DCP).cbr | 94.29MiB

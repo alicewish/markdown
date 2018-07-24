@@ -25,3 +25,4 @@ Rocky Lane Western 81 (1958 Charlton) (c2c) (Soothsayr-Kracalactaka-Novus).cbz |
 Rocky Lane Western 87 (1959 Charlton) (c2c) (Soothsayr-Kracalactaka-DMiles-Novus).cbz | 57.53MiB
 Rocky Lane Western 034 (1952) (Fawcett) [-ifc,ibc,bc].cbr | 26.14MiB
 Rocky Lane Western 048 (1953) (Fawcett) (c2c) (KF-RH-DH).cbz | 28.06MiB
+Rocky Lane Western 073 (c2c) (Charlton) (1956-08) (ComicWanderer).cbz | 69.48MiB

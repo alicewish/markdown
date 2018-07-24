@@ -14,4 +14,4 @@ Online | Download
 [KISS - Army of Darkness 002 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KISS-Army-of-Darkness-002-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 31.55MiB
 [KISS - Army of Darkness 003 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KISS-Army-of-Darkness-003-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 32.74MiB
 [KISS - Army of Darkness 004 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KISS-Army-of-Darkness-004-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 33.59MiB
-KISS - Army of Darkness 005 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr | 32.52MiB
+[KISS - Army of Darkness 005 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/KISS-Army-of-Darkness-005-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 32.52MiB

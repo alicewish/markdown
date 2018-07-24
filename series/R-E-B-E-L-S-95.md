@@ -12,6 +12,8 @@
 
 Online | Download
 --- | ---
+R.E.B.E.L.S. '95 003 (1995) (Digital) (Shadowcat-Empire).cbz | 29.00MiB
+R.E.B.E.L.S. '95 004 (1995) (Digital) (Shadowcat-Empire).cbz | 29.27MiB
 R.E.B.E.L.S. '95 005 (1995) (Digital) (Shadowcat-Empire).cbz | 30.12MiB
 R.E.B.E.L.S. '95 006 (1995) (Digital) (Shadowcat-Empire).cbz | 35.38MiB
 R.E.B.E.L.S. '95 007 (1995) (Digital) (Shadowcat-Empire).cbz | 49.93MiB
@@ -20,3 +22,5 @@ R.E.B.E.L.S '95 009 (1995) (Digital) (Shadowcat-Empire).cbz | 24.50MiB
 R.E.B.E.L.S '95 010 (1995) (Digital) (Shadowcat-Empire).cbz | 25.33MiB
 R.E.B.E.L.S. '95 011 (1995) (Digital) (Shadowcat-Empire).cbz | 24.18MiB
 R.E.B.E.L.S. '95 012 (1995) (Digital) (Shadowcat-Empire).cbz | 35.40MiB
+R.E.B.E.L.S. '95 013 (1995) (Digital) (Shadowcat-Empire).cbz | 30.93MiB
+R.E.B.E.L.S. '95 014 (1995) (Digital) (Shadowcat-Empire).cbz | 32.03MiB

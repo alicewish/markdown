@@ -142,6 +142,7 @@ Superman - The Man of Steel, 1996-11-00 (#64) (digital) (Glorith-Novus-HD).cbz |
 Superman - The Man of Steel, 1996-12-00 (#65) (digital) (Glorith-HD).cbz | 41.21MiB
 Superman - The Man of Steel, 1997-01-00 (#66) (digital) (Glorith-HD).cbz | 39.16MiB
 Superman - The Man of Steel, 1997-02-00 (#67) (digital) (Glorith-HD).cbz | 46.17MiB
+Superman - The Man of Steel, 1997-03-05 (#67) (digital) (fixed) (Glorith-HD).cbz | 45.09MiB
 Superman - The Man of Steel, 1997-04-00 (#68) (digital) (Glorith-HD).cbz | 45.86MiB
 Superman - The Man of Steel, 1997-05-00 (#69) (digital) (Glorith-HD).cbz | 46.17MiB
 Superman - The Man of Steel, 1997-06-00 (#70) (digital) (Glorith-HD).cbz | 41.82MiB

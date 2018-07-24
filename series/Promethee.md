@@ -77,3 +77,6 @@ Promethee Vol. 09 - Into the Darkness - Part I (2016) (digital) (Minutemen-Blunt
 Promethee Vol. 10 - Into the Darkness - Part II (2016) (digital) (Minutemen-Bluntman).cbr | 60.41MiB
 Promethee Vol. 11 - The Thirteenth Day (2016) (digital) (Minutemen-Bluntman).cbr | 63.57MiB
 Promethee Vol. 12 - Providence (2016) (digital) (Minutemen-Bluntman).cbr | 76.75MiB
+Promethee 14 - Lost Souls (2017) (Soleil) (Digital-Empire).cbr | 152.30MiB
+Promethee 15 - The Village (2017) (Soleil) (Digital-Empire).cbr | 128.90MiB
+Promethee 16 - Insurretion (2018) (Soleil) (Digital-Empire).cbr | 89.25MiB

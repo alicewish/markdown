@@ -189,10 +189,12 @@ Amadeus Cho - Genius at Work (2016)(hybrid)(PeteThePIPSTER-Novus).cbz | [115.46M
 Amala's Blade - Spirits of Naamaron (2014) (digital) (The Magicians-Empire).cbr | 238.90MiB
 Amazing Facts and Beyond Complete Web Comic Collection (2008-2013) (webrip) (COUNTERpaul).cbr | 137.95MiB
 Amazing Spider-Man - Edge of Spider-Verse (2015) (Digital TPB) (Kileko-Empire).cbr | 225.73MiB
+Amazing Spider-Man - Edge of Spider-Verse (2015) (Digital) (F) (Kileko-Empire).cbr | 199.75MiB
 Amazing Spider-Man - The Clone Conspiracy (2017) (Digital) (Kileko-Empire).cbr | 1.10GiB
 [Amazing Spider-Man - Venom Inc. Omega (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-Venom-Inc-Omega-2018-Digital-Zone-Empire-cbr.md) | [116.66MiB](https://pan.baidu.com/s/1dMkWxS#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.01.17%2F%E3%82%A6%E3%82%B5%E3%82%BB%E3%82%B3%E3%82%A4%E3%82%A6%E3%82%AA%E3%82%A8%E3%82%BF%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AA%E3%82%BF%E3%82%B5%E3%82%BF%E3%82%B1%E3%82%BB%E3%82%A4%E3%82%AF%E3%82%B5%E3%82%B3%E3%82%A4%E3%82%AA%E3%82%AB%E3%82%BD%E3%82%B3%E3%82%A4%E3%82%BB%E3%82%B9%E3%82%A8%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
 Amazing Spider-Man - Who Am I (2015) (Infinite Comic HC) (BroadCast-Empire).cbz | 413.28MiB
 Amazing Spider-Man - You Can Call Me Al Part 2 (2002) (Marvel) (Comic Insert) (Completist).cbr | 10.31MiB
+Amazing Spider-Man - You're Hired! (2011) (Digital) (Kileko-Empire).cbr | 4.44MiB
 Amazing Spider-Man Epic Collection - Cosmic Adventures (2013) (Digital) (Shadowcat-Empire).cbz | 914.28MiB
 Amazing Spider-Man and Silk - Spider(Fly) Effect (2016) (Digital) (Shadowcat-Empire).cbz | 400.82MiB
 Amazing Spider-Man in 'Where's the Cap't ' Mystery (1987) (Marvel) (Advertisements) (Completist).cbr | 3.87MiB
@@ -917,6 +919,8 @@ Cold Sun 01 - H5N4 (F) (2016) (Scanlation) (phillywilly).cbr | 96.16MiB
 Colder - Knochensplitter GA (Scanlation) (#175) (2016) (GCA-Savages).cbr | 304.32MiB
 Colere Noir (Humanoids-2003) (Rumor-Novus-HD).cbz | [99.68MiB](https://pan.baidu.com/s/1o7VVirw#list/path=%2FNovus%20-%20Week%20of%202017%20Q3%2FNovus%20-%20Week%20of%202017-08-23%2F%E3%82%B7%E3%82%B9%E3%82%B7%E3%82%B9%E3%82%B9%E3%82%B3%E3%82%B9%E3%82%B1%E3%82%AA%E3%82%B5%E3%82%BF%E3%82%A4%E3%82%B3%E3%82%B1%E3%82%AD%E3%82%AF%E3%82%B9%E3%82%AD%E3%82%B1%E3%82%B3%E3%82%AF%E3%82%B3%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%AF%E3%82%A4%E3%82%A8%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%B1&parentPath=%2FNovus%20-%20Week%20of%202017%20Q3)
 Colgate Junior and Captain America (1989) (Marvel) (Advertisements) (Completist).cbr | 1.53MiB
+Color Your Own! Young Marvel (2016) (600dpi) (DogmaticAmoeba).cbz | 137.27MiB
+Color Your Own! Young Marvel (2016) (DogmaticAmoeba).cbz | 47.34MiB
 Come Find Me - The Loom 2003 (2016) (digital) (d'argh-Empire).cbr | 11.52MiB
 Comedy Comics (1st series) 009 (Timely.1942) (c2c) (Pmack-Novus).cbz | [99.49MiB](https://pan.baidu.com/s/1dEDtcPV#list/path=%2FNovus%20-%20Week%20of%202016%20Q4%2FNovus%20-%20Week%20of%202016-12-07%2F%E3%82%AF%E3%82%B1%E3%82%B1%E3%82%A6%E3%82%AB%E3%82%BD%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%AF%E3%82%BF%E3%82%A6%E3%82%B5%E3%82%AF%E3%82%AB%E3%82%BD%E3%82%A8%E3%82%BD%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%A4%E3%82%B3%E3%82%A8%E3%82%AD%E3%82%AA%E3%82%A8%E3%82%AB%E3%82%AB%E3%82%AA%E3%82%A8%E3%82%BB&parentPath=%2FNovus%20-%20Week%20of%202016%20Q4)
 Comedy Comics (1st series) 010 [Timely1942](fiche CF).cbz | 59.66MiB
@@ -943,6 +947,7 @@ Conan The Rogue GN (1991) (Bchry-DCP).cbz | 109.43MiB
 Conan and the Jewels of Gwahlur (2005) (digital) (Son of Ultron-Empire).cbr | 114.20MiB
 Confetti (2015) (digital) (Minutemen-dask).cbr | 124.41MiB
 Containment (2005) (digital) (Minutemen-The Undead).cbr | 148.21MiB
+Contamination - Sergio Muratori (1980) (DVD Extra) (Digital) (Dellamorte).cbz | 14.52MiB
 Cool Cat v08 n06 c2c Prize Mar-Apr 1962 Titansfan-DMiles.cbz | 44.83MiB
 Corpse On The Imjin! And Other Stories (2014)(Digital)(TLK-EMPIRE-HD).cbr | [347.14MiB](https://pan.baidu.com/s/1dF2dS9j#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.29%2F%E3%82%B7%E3%82%AF%E3%82%A8%E3%82%B1%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%AD%E3%82%AA%E3%82%BF%E3%82%AD%E3%82%AB%E3%82%AB%E3%82%BD%E3%82%B9%E3%82%B5%E3%82%A8%E3%82%BF%E3%82%AA%E3%82%B9%E3%82%BB%E3%82%A6%E3%82%B5%E3%82%BD%E3%82%A8%E3%82%BD%E3%82%A6%E3%82%A6%E3%82%B1%E3%82%B5%E3%82%AD%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Costume Quest - Invasion of Candy Snatchers (2014) (Pirate-Empire).cbr | [85.24MiB](https://pan.baidu.com/s/1c1IKHYo#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.08%2F%E3%82%AB%E3%82%BF%E3%82%A8%E3%82%A8%E3%82%A8%E3%82%A2%E3%82%A6%E3%82%B7%E3%82%AF%E3%82%BD%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%B9%E3%82%A2%E3%82%B3%E3%82%AB%E3%82%B7%E3%82%BD%E3%82%AB%E3%82%AA%E3%82%AA%E3%82%AF%E3%82%BB%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%A6%E3%82%BD%E3%82%B7%E3%82%A4%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
@@ -998,7 +1003,7 @@ DC Retroactive - Green Lantern - The 80s (2011) (Digital) (Shadowcat-Empire).cbz
 DC Super Hero Girls Batman Day Special Edition (2017) (digital-Empire).cbr | 20.79MiB
 DC Trinity - American Ninja Warrior Advertisement Comic (2012) (Digital) (DC Comics) (MidnightRider).cbz | 731.47KiB
 DC Trinity - Snickers Advertisement Comic (2016) (Digital) (DC Comics) (MidnightRider).cbr | 406.96KiB
-DC Week checklist.txt | [628.00B](https://pan.baidu.com/s/1c2i3ZoO#list/path=%2FDC%20Week%202018%20Q1%2FDC%20Week%2B%20%2801-03-2018%29%2F%E3%82%A8%E3%82%BD%E3%82%AB%E3%82%BB%E3%82%B9%E3%82%BB%E3%82%B5%E3%82%AA%E3%82%A4%E3%82%AB%E3%82%B9%E3%82%B5%E3%82%BF%E3%82%A4%E3%82%A2%E3%82%B9%E3%82%A8%E3%82%B9%E3%82%AA%E3%82%A6%E3%82%BF%E3%82%B7%E3%82%BD%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%B5%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%AA%E3%82%A6&parentPath=%2FDC%20Week%202018%20Q1)
+DC Week checklist.txt | 628.00B
 DC Week checlist.txt | [284.00B](https://pan.baidu.com/s/1gfs5IKV#list/path=%2FDC%20Week%202016%20Q3%2FDC%20Week%2B%20%2808-17-2016%29%2F%E3%82%BF%E3%82%B1%E3%82%B9%E3%82%A6%E3%82%B7%E3%82%BD%E3%82%BB%E3%82%A4%E3%82%B9%E3%82%B3%E3%82%BD%E3%82%AF%E3%82%B3%E3%82%A8%E3%82%AB%E3%82%AF%E3%82%A2%E3%82%B9%E3%82%AD%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%A4%E3%82%AF%E3%82%A4%E3%82%A2%E3%82%BD%E3%82%B7%E3%82%AB&parentPath=%2FDC%20Week%202016%20Q3)
 DKW - Ditko Kirby Woods (2014) (Digital-Empire).cbr | 59.04MiB
 Daddy Lost His Head and Other Stories (2017) (Digital) (Bean-Empire).cbz | 220.68MiB
@@ -1135,6 +1140,8 @@ Disillusioned Illusions (2015) (Digital-Empire).cbr | 205.17MiB
 [Disney Great Parodies - Mickey's Inferno (Halloween Comicfest 2016) (Kracalactaka).cbz](https://github.com/alicewish/markdown/blob/master/comic/Disney-Great-Parodies-Mickeys-Inferno-Halloween-Comicfest-2016-Kracalactaka-cbz.md) | [14.03MiB](https://pan.baidu.com/s/1c2vsc8o#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.10.26%2F%E3%82%AF%E3%82%BD%E3%82%A4%E3%82%AF%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%A4%E3%82%BD%E3%82%B7%E3%82%A8%E3%82%A8%E3%82%B9%E3%82%A4%E3%82%B1%E3%82%AB%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%A2%E3%82%BF%E3%82%A4%E3%82%AB%E3%82%A2%E3%82%AB%E3%82%BF%E3%82%BF%E3%82%BD%E3%82%A8%E3%82%B9%E3%82%AB%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202016%20Q4)
 Disney's The Prince and the Pauper (1990) (ActionComics-DCP).cbz | 173.13MiB
 Distance Mover (2014) (digital) (Minutemen-dask).cbr | 145.82MiB
+Ditko Once More (May 2009) [Pyramid].cbz | 12.81MiB
+Ditko Presents (September 2009) [Pyramid].cbz | 15.03MiB
 Divine Right - The Adventures of Max Faraday (2014) (digital) (Son of Ultron-Empire).cbr | 612.01MiB
 Divinity III - Heroes of the Glorious Stalinverse (2017) (digital) (Son of Ultron-Empire).cbr | 221.98MiB
 Dixie Dugan and Cuddles - Saalfield 1108 (1940) (Big Little Book) (kracalactaka).cbz | 35.91MiB
@@ -1856,6 +1863,7 @@ Isabella She-Wolf Of France Part 1 (2012) (Sosich).cbr | 59.35MiB
 Isabella She-Wolf Of France Part 2 (2014) (Sosich).cbr | 52.04MiB
 Isabellae 04 - Under the Tomb of 500 Kings (2017) (Digital) (Europe Comics).cbr | 50.04MiB
 Isabellae v04 - Under the Tomb of 500 Kings (2017) (digital) (The Magicians-Empire).cbr | 79.27MiB
+Isola Prologue (2017) (Digital) (Zone-Empire).cbr | 18.36MiB
 It Crept From the Tomb (2018) (Digital-Empire).cbz | 137.33MiB
 It's A Magical World (1996) (Digital) (Kileko-Empire).cbr | 44.14MiB
 It's Fun To Stay Alive (Ohio Auto Dealers Association 1948) (Kracalactaka).cbz | 29.14MiB
@@ -2145,6 +2153,7 @@ Love Scandals 5 c2c Quality Oct 1950 (-- & Titansfan).cbz | 58.69MiB
 Love and Rockets - The Covers (2013) (digital) (Minutemen-dask).cbr | 148.30MiB
 Love from the Shadows (2011) (digital-Empire).cbr | 102.84MiB
 Love is Just Another Kind of Hate (2017) (Sosich).cbr | 50.14MiB
+Luisa - Now and Then (2018) (Humanoids) (Digital-Empire).cbr | 248.58MiB
 [Luke Cage in 'A Close Shave' (2016) (Marvel Custom Comic) (Webrip) (Ranger1966).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luke-Cage-in-A-Close-Shave-2016-Marvel-Custom-Comic-Webrip-Ranger1966-cbr.md) | [1.90MiB](https://pan.baidu.com/s/1c2fdbOk#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.07.13%2F%E3%82%AF%E3%82%A4%E3%82%B7%E3%82%A8%E3%82%AA%E3%82%B1%E3%82%AD%E3%82%A2%E3%82%B9%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AA%E3%82%B3%E3%82%AD%E3%82%A2%E3%82%AB%E3%82%A2%E3%82%B7%E3%82%BB%E3%82%BF%E3%82%BD%E3%82%B1%E3%82%B5%E3%82%BD%E3%82%A8%E3%82%AB%E3%82%BB%E3%82%B7%E3%82%AF%E3%82%B3%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
 Lunatic Fringe (2014) (digital) (d'argh-Empire).cbr | 32.53MiB
 Luthor (2010) (Digital) (Zone-Empire).cbr | 326.37MiB
@@ -2303,6 +2312,7 @@ Mike Mercury in Supercar (1961).cbr | 34.47MiB
 Mike Mignola Builds Characters (2015) (digital) (Minutemen-InnerDemons).cbr | 40.36MiB
 [Mike Mignola Builds Characters (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mike-Mignola-Builds-Characters-2015-digital-Son-of-Ultron-Empire-cbr.md) | [74.72MiB](https://pan.baidu.com/s/19UtQEjw-O7uXl5OT53qsnQ#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.10.07%2F%E3%82%B9%E3%82%B5%E3%82%B9%E3%82%A4%E3%82%BD%E3%82%A6%E3%82%AA%E3%82%A2%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%B7%E3%82%A4%E3%82%A8%E3%82%B7%E3%82%AB%E3%82%AF%E3%82%AF%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%BF%E3%82%AF%E3%82%B1%E3%82%A4%E3%82%B3%E3%82%B3%E3%82%AA%E3%82%A8%E3%82%A8%E3%82%BF%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
 Mike Mignola's Post-Hellboy Watercolors (2016) (digital-Empire).cbr | 6.47MiB
+Miky Maoys 1765 (2000) (Nea Aktina) (c2c) (Greek) (GST The Ducks-DCP).cbr | 104.24MiB
 Miky Maoys 2403 (2012) (Nea Aktina) (c2c) (Greek) (GST tzac-DCP).cbr | 115.04MiB
 Miky Maoys 2404 (2012) (Nea Aktina) (c2c) (Greek) (GST tzac-DCP).cbr | 66.13MiB
 Miky Maoys 2405 (2012) (Nea Aktina) (c2c) (Greek) (GST tzac-DCP).cbr | 100.27MiB
@@ -2476,7 +2486,7 @@ On the Books - A Graphic Tale of Working Woes at NYC's Strand Bookstore (2014) (
 Once & Future Tarzan (2012)(FB-DCP)(C2C).cbr | 19.07MiB
 [One Day (Begin) 001 (2018) (Digital) (TanCombs).cbr](https://github.com/alicewish/markdown/blob/master/comic/One-Day-Begin-001-2018-Digital-TanCombs-cbr.md) | [38.39MiB](https://pan.baidu.com/s/1pNecCIJ#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.02.14%2F%E3%82%B3%E3%82%AF%E3%82%A8%E3%82%B1%E3%82%A6%E3%82%AB%E3%82%B1%E3%82%AA%E3%82%AF%E3%82%B5%E3%82%A8%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%A6%E3%82%B9%E3%82%B5%E3%82%AD%E3%82%AA%E3%82%AD%E3%82%B1%E3%82%B1%E3%82%BD%E3%82%B1%E3%82%A2%E3%82%BD%E3%82%AB%E3%82%B7%E3%82%A4%E3%82%AF%E3%82%A4%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
 [One Day (End) 002 (2018) (Digital) (TanCombs).cbr](https://github.com/alicewish/markdown/blob/master/comic/One-Day-End-002-2018-Digital-TanCombs-cbr.md) | [49.75MiB](https://pan.baidu.com/s/1pNecCIJ#list/path=%2F0-Day%20Week%20of%202018%20Q1%2F0-Day%20Week%20of%202018.02.14%2F%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%A2%E3%82%A2%E3%82%B7%E3%82%AB%E3%82%AD%E3%82%B5%E3%82%A2%E3%82%A6%E3%82%B7%E3%82%B7%E3%82%A8%E3%82%B1%E3%82%A8%E3%82%A8%E3%82%BF%E3%82%AD%E3%82%BB%E3%82%A6%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%AD%E3%82%BD%E3%82%B9%E3%82%BD%E3%82%A6%E3%82%BD%E3%82%A6%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202018%20Q1)
-One More Year (2017) (digital) (Minutemen-Rufio).cbz | [341.27MiB](https://pan.baidu.com/s/1eS6dofK#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.05.24%2F%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%A8%E3%82%A6%E3%82%A2%E3%82%A8%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%B1%E3%82%BB%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%BF%E3%82%A6%E3%82%A2%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%A8%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[One More Year (2017) (digital) (Minutemen-Rufio).cbz](https://github.com/alicewish/markdown/blob/master/comic/One-More-Year-2017-digital-Minutemen-Rufio-cbz.md) | [341.27MiB](https://pan.baidu.com/s/1eS6dofK#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.05.24%2F%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%A8%E3%82%A6%E3%82%A2%E3%82%A8%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%B1%E3%82%BB%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%BF%E3%82%A6%E3%82%A2%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%A8%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
 One Thing And Another (2016) (digital) (Minutemen-Rufio).cbz | 72.29MiB
 Operation S.I.N. Agent Carter (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr | 235.74MiB
 Orbit Stephen Hawking Riddles of Time And Space (2013) (Digital) (TLK-EMPIRE-HD).cbr | [17.27MiB](https://pan.baidu.com/s/1dFhLoIX#list/path=%2F0-Day%20Week%20of%202013%20Q2%2F0-Day%20Week%20of%202013.05.22%2F%E3%82%BF%E3%82%A4%E3%82%AA%E3%82%B9%E3%82%B7%E3%82%BB%E3%82%AA%E3%82%BD%E3%82%BF%E3%82%A8%E3%82%BB%E3%82%BF%E3%82%AB%E3%82%BB%E3%82%A6%E3%82%B7%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%AA%E3%82%A2%E3%82%B9%E3%82%BB%E3%82%B3%E3%82%AB%E3%82%B3%E3%82%A6%E3%82%AD%E3%82%AA%E3%82%AD%E3%82%A4%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202013%20Q2)
@@ -2783,7 +2793,7 @@ Second Generation - The Things I Didn't Tell My Father (2016) (Europe Comics) (d
 Second Quest (2015) (Digital) (BlurPixel-Empire).cbr | 164.20MiB
 Seconds by Bryan Lee O'Malley (2014).cbz | [239.41MiB](https://pan.baidu.com/s/1eRQOe7C#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.16%2F%E3%82%BF%E3%82%B3%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%A6%E3%82%B9%E3%82%B9%E3%82%BF%E3%82%A4%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%AF%E3%82%B1%E3%82%A2%E3%82%B3%E3%82%A6%E3%82%AD%E3%82%A8%E3%82%B1%E3%82%AA%E3%82%B5%E3%82%AD%E3%82%A6%E3%82%AB%E3%82%B3%E3%82%A6%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Secret Empire - United We Stand (2017) (Digital) (Zone-Empire).cbr | 463.58MiB
-Secret Empire Prelude (2017) (digital) (Minutemen-Excelsior).cbz | [457.35MiB](https://pan.baidu.com/s/1nvKHZEL#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.04.26%2F%E3%82%A4%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%B3%E3%82%AB%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%BB%E3%82%A2%E3%82%AB%E3%82%AB%E3%82%B3%E3%82%AB%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%A4%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%A8%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%B5%E3%82%A6%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
+[Secret Empire Prelude (2017) (digital) (Minutemen-Excelsior).cbz](https://github.com/alicewish/markdown/blob/master/comic/Secret-Empire-Prelude-2017-digital-Minutemen-Excelsior-cbz.md) | [457.35MiB](https://pan.baidu.com/s/1nvKHZEL#list/path=%2F0-Day%20Week%20of%202017%20Q2%2F0-Day%20Week%20of%202017.04.26%2F%E3%82%A4%E3%82%AB%E3%82%AB%E3%82%AB%E3%82%B3%E3%82%AB%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%BB%E3%82%A2%E3%82%AB%E3%82%AB%E3%82%B3%E3%82%AB%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%A4%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%AA%E3%82%B7%E3%82%A8%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%B5%E3%82%A6%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202017%20Q2)
 Secret Invasion - Black Panther (2015) (Digital) (Kileko-Empire).cbr | 91.19MiB
 Secret Invasion - Captain Marvel (2009) (Digital) (Kileko-Empire).cbr | 227.14MiB
 Secret Wars - Official Guide to the Marvel Multiverse (2015) (Digital) (Shadowcat-Empire).cbz | 96.96MiB
@@ -2884,6 +2894,7 @@ Skylanders Quarterly - Spyro & Friends - Full Blast (2017) (digital) (Son of Ult
 Skylanders Quarterly - Spyro & Friends - Goldslinger (2017) (digital) (Son of Ultron-Empire).cbr | 128.67MiB
 Skyman One-shot (2014) (digital) (Son of Ultron-Empire).cbr | [43.33MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%AD%E3%82%B7%E3%82%AB%E3%82%A6%E3%82%AA%E3%82%AA%E3%82%B1%E3%82%B7%E3%82%B9%E3%82%AD%E3%82%B9%E3%82%AF%E3%82%A4%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B9%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%A8%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%BB%E3%82%B7%E3%82%AF%E3%82%AB%E3%82%B3%E3%82%A4%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Skyward - Into the Grim (2014) (digital-Empire).cbr | [35.36MiB](https://pan.baidu.com/s/1hr7hn84#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.02.26%2F%E3%82%A8%E3%82%BF%E3%82%A2%E3%82%A4%E3%82%A8%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%A8%E3%82%BF%E3%82%BF%E3%82%B7%E3%82%AA%E3%82%A4%E3%82%B5%E3%82%AA%E3%82%A6%E3%82%AB%E3%82%AA%E3%82%AF%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%B3%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202014%20Q1)
+Sleepy - The Early Daze (1996) (Fantagraphics) (c2c) (remlezar).cbz | 21.53MiB
 Sluggy Freelance Specials.cbr | 2.11MiB
 Smite - Ullr - The Survivor - A Zombie Tale (2014) (Webrip) (Pirate-Empire).cbr | [3.64MiB](https://pan.baidu.com/s/1hslILLU#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.30%2F%E3%82%B9%E3%82%A6%E3%82%BF%E3%82%B5%E3%82%A2%E3%82%AF%E3%82%B1%E3%82%A4%E3%82%B1%E3%82%B5%E3%82%B7%E3%82%B5%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%B7%E3%82%A6%E3%82%AF%E3%82%B3%E3%82%B3%E3%82%AA%E3%82%B3%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%BD%E3%82%AD%E3%82%BD%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Smoke - Ashes (2013) (digital) (Son of Ultron II-Empire).cbr | 585.46MiB
@@ -3308,6 +3319,7 @@ The Archies & Other Stories (2017) (Digital) (Shadowcat-Empire).cbz | 381.93MiB
 The Armed Garden (David B.) (fylgja99).cbz | 214.45MiB
 The Authoritive Calvin and Hobbes (1990) (Digital) (Kileko-Empire).cbr | 144.26MiB
 The Avengers - Citizen Kang TPB (2010-11) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | [403.60MiB](https://pan.baidu.com/s/1Ukahn90q3yEMDEoyhLd8Nw#list/path=%2FNovus%20-%20Week%20of%202015%20Q2%2FNovus%20-%20Week%20of%202015-05-20%2F%E3%82%A8%E3%82%A6%E3%82%AA%E3%82%B7%E3%82%A4%E3%82%B7%E3%82%BD%E3%82%B3%E3%82%A6%E3%82%B1%E3%82%B9%E3%82%AF%E3%82%AA%E3%82%AF%E3%82%B1%E3%82%BF%E3%82%BB%E3%82%B7%E3%82%AF%E3%82%AD%E3%82%B9%E3%82%BB%E3%82%AF%E3%82%BD%E3%82%BF%E3%82%B3%E3%82%AD%E3%82%BD%E3%82%A8%E3%82%B5%E3%82%A2%E3%82%AB&parentPath=%2FNovus%20-%20Week%20of%202015%20Q2)
+The Avenging Mind (April 2008) [Pyramid].cbz | 16.86MiB
 The Awkward Yeti Presents - Heart and Brain (2015) (Digital-SD) (Kileko-Empire).cbr | 74.13MiB
 The Awkward Yeti Presents - Heart and Brain - Gut Instincts (2016) (Digital-SD) (Kileko-Empire).cbr | 50.32MiB
 The Bark of Things (2018) (Scanlation).cbr | 74.71MiB
@@ -3560,6 +3572,7 @@ The Sun, The Idea & Story Without Words (2009) (digital-SD) (Minutemen-dask).cbr
 The Super Dictionary (1978) (HR&W) (c2c) (fixed).cbr | 1.38GiB
 The Supernaturalist. The Graphic Novel (Digital) (fixed).cbr | 68.56MiB
 The Swimming Pool Of Micheville (digital-onlyorm).cbr | 158.26MiB
+[The Switch - Electricia (2018) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Switch-Electricia-2018-Digital-Empire-cbr.md) | [217.79MiB](https://pan.baidu.com/s/1yQbLNht8Ce9RVlwdy5t6Pg#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.11%2F%E3%82%B7%E3%82%B5%E3%82%B3%E3%82%B3%E3%82%B9%E3%82%B3%E3%82%A4%E3%82%BB%E3%82%B5%E3%82%A8%E3%82%B1%E3%82%A6%E3%82%BF%E3%82%BB%E3%82%AD%E3%82%B1%E3%82%A2%E3%82%B5%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%BB%E3%82%BD%E3%82%BB%E3%82%B9%E3%82%B7%E3%82%A4%E3%82%AD%E3%82%BF%E3%82%BD%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202018%20Q3)
 The Tale of the Body Thief TPB (2000) (c2c) (Bunny-starhome).cbr | 66.56MiB
 The Ten-Seconders - Complete Digital Edition (2016) (digital) (Torquemada).cbr | 318.95MiB
 The Terrible and Wonderful Reasons Why I Run Long Distances (2014) (Digital) (Kileko-Empire).cbr | 61.64MiB
@@ -3587,6 +3600,7 @@ The Trial of Atomic Robo (2015) (digital) (Minutemen-Slayer).cbr | 11.13MiB
 The Trial of Thor(2009)(FB-DCP)(C2C).cbr | 17.93MiB
 The Trials of Agrippina (2015) (Digital) (Europe Comics).cbr | 66.93MiB
 The Twelve - Voices of the Martyrs OGN (2014) (Digital) (TheDemiurge-Empire).cbr | [269.40MiB](https://pan.baidu.com/s/1eRSkhW2#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.12%2F%E3%82%AD%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%AF%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%B3%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%AD%E3%82%AF%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%B3%E3%82%B9%E3%82%B9%E3%82%AB%E3%82%BF%E3%82%B3%E3%82%BB%E3%82%A2%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+The Ukrainian and Russian Notebooks - Life and Death Under Soviet Rule (2016) (Digital-sd).cbr | 149.89MiB
 The Unbeatable Squirrel Girl & The Great Lakes Avengers (2016) (Digital) (AnHeroGold-Empire).cbz | [449.40MiB](https://pan.baidu.com/s/1cloV3S#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.07.20%2F%E3%82%B9%E3%82%AD%E3%82%B7%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%B5%E3%82%B1%E3%82%B9%E3%82%B1%E3%82%B3%E3%82%AD%E3%82%A4%E3%82%BD%E3%82%BF%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%B3%E3%82%BF%E3%82%B5%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%B3%E3%82%B7%E3%82%A6%E3%82%B3%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
 The Unbeatable Squirrel Girl Beats Up The Marvel Universe (2016) (Digital) (Kileko-Empire).cbr | 138.17MiB
 The Unbeatable Squirrel Girl Beats Up The Marvel Universe (2016) (digital OGN) (Minutemen-Thoth).cbz | 138.17MiB
@@ -3978,8 +3992,6 @@ Wolverine - Back In Japan (2012) (Digital) (Kileko-Empire).cbr | 136.19MiB
 Wolverine - Blood & Sorrow (2007) (digital) (Minutemen-Excelsior).cbz | 162.13MiB
 Wolverine - Blood and Sorrow (2016) (Digital) (Kileko-Empire).cbr | 165.07MiB
 Wolverine - Covenant (2013) (Digital) (Zone-Empire).cbr | 193.39MiB
-Wolverine - Dangerous Games (2017) (Digital) (Asgard-Empire).cbr | 305.72MiB
-Wolverine - Dangerous Games (2017) (digital) (Minutemen-Slayer).cbr | 305.71MiB
 Wolverine - Enemy of the State (2008) (Digital) (Kileko-Empire).cbr | 356.56MiB
 Wolverine - Evolution (2008) (Digital) (Kileko-Empire).cbr | 142.12MiB
 Wolverine - Firebreak One-Shot (2008) (Minutemen-DarthScanner) (c2c).cbr | 41.40MiB
