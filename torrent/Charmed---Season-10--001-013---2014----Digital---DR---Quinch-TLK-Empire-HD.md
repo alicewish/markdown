@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Charmed Season 10 001 (2014) (Digital) (DR & Quinch-Empire).cbr | 35.52MiB
 Charmed Season 10 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 33.27MiB
-Charmed Season 10 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 30.57MiB
+[Charmed Season 10 003 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-003-2014-Digital-DR-Quinch-Empire-cbr.md) | 30.57MiB
 [Charmed Season 10 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 32.99MiB
 [Charmed Season 10 005 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-005-2015-Digital-DR-Quinch-Empire-cbr.md) | 31.99MiB
 [Charmed Season 10 006 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Charmed-Season-10-006-2015-Digital-DR-Quinch-Empire-cbr.md) | 35.43MiB

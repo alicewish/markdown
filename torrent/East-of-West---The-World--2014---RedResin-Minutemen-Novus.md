@@ -10,5 +10,5 @@
 
 Online | Download
 --- | ---
-East of West - The World (2014) (2048px - c2c) (RedResin-Minutemen-Novus-HD).cbr | 23.09MiB
-East of West - The World (2014) (c2c) (RedResin-Minutemen-Novus).cbr | 14.03MiB
+[East of West - The World (2014) (2048px - c2c) (RedResin-Minutemen-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-World-2014-2048px-c2c-RedResin-Minutemen-Novus-HD-cbr.md) | 23.09MiB
+[East of West - The World (2014) (c2c) (RedResin-Minutemen-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-World-2014-c2c-RedResin-Minutemen-Novus-cbr.md) | 14.03MiB

@@ -62,9 +62,9 @@ Flare v3 Annual.cbr | 9.86MiB
 &emsp;【Flare (01 - 41 + Extras & Flare Adventures 01 - 31) (1988 - Ongoing)/Flare (20 - 24) (2014)(Digital)(TLK-EMPIRE-HD)】 | 
 Flare 020(2014)(Digital)(TLK-EMPIRE-HD).cbr | 29.25MiB
 Flare 021(2014)(Digital)(TLK-EMPIRE-HD).cbr | 28.80MiB
-Flare 022(2014)(Digital)(TLK-EMPIRE-HD).cbr | 46.62MiB
-Flare 023(2014)(Digital)(TLK-EMPIRE-HD).cbr | 51.10MiB
-Flare 024(2014)(Digital)(TLK-EMPIRE-HD).cbr | 52.51MiB
+[Flare 022(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flare-022-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 46.62MiB
+[Flare 023(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flare-023-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 51.10MiB
+[Flare 024(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flare-024-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 52.51MiB
 &emsp;【Flare (01 - 41 + Extras & Flare Adventures 01 - 31) (1988 - Ongoing)/Flare Adventures (01 - 31) (1992 - 1993 & 2005 - 2012) (pdfrip) (Helga Phugly)】 | 
 Flare Adventures 01 (1992) (pdfrip) (Helga Phugly).cbr | 3.77MiB
 Flare Adventures 02 (1992) (pdfrip) (Helga Phugly).cbr | 3.93MiB

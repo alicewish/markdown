@@ -22,7 +22,7 @@ Hinterkind 009 (2014) (digital) (Son of Ultron-Empire).cbr | 43.11MiB
 Hinterkind 010 (2014) (digital) (Son of Ultron-Empire).cbr | 46.49MiB
 Hinterkind 011 (2014) (digital) (Son of Ultron-Empire).cbr | 44.48MiB
 Hinterkind 012 (2014) (digital) (Son of Ultron-Empire).cbr | 49.31MiB
-Hinterkind 013 (2015) (digital) (Son of Ultron-Empire).cbr | 32.27MiB
+[Hinterkind 013 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-013-2015-digital-Son-of-Ultron-Empire-cbr.md) | 32.27MiB
 [Hinterkind 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 33.65MiB
 [Hinterkind 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.27MiB
 [Hinterkind 016 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-016-2015-digital-Son-of-Ultron-Empire-cbr.md) | 31.88MiB

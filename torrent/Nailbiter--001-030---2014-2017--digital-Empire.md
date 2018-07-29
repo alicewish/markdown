@@ -26,7 +26,7 @@ Nailbiter 004 (2014) (Digital) (Darkness-Empire).cbr | 43.40MiB
 Nailbiter 005 (2014) (Digital) (Darkness-Empire).cbr | 46.56MiB
 Nailbiter 006 (2014) (Digital) (Darkness-Empire).cbr | 40.42MiB
 Nailbiter 007 (2014) (Digital) (Darkness-Empire).cbr | 41.06MiB
-Nailbiter 008 (2014) (Digital) (Darkness-Empire).cbr | 41.14MiB
+[Nailbiter 008 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-008-2014-Digital-Darkness-Empire-cbr.md) | 41.14MiB
 [Nailbiter 009 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-009-2015-Digital-Darkness-Empire-cbr.md) | 33.40MiB
 [Nailbiter 010 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-010-2015-Digital-Darkness-Empire-cbr.md) | 34.85MiB
 [Nailbiter 011 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-011-2015-Digital-Mephisto-Empire-cbr.md) | 38.63MiB

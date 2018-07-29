@@ -14,7 +14,7 @@ The Tower Chronicles, Book 2 - DreadStalker 001 (2014) (digital) (Son of Ultron-
 The Tower Chronicles, Book 2 - DreadStalker 002 (2014) (digital) (Son of Ultron-Empire).cbr | 75.86MiB
 The Tower Chronicles, Book 2 - DreadStalker 003 (2014) (digital) (Son of Ultron-Empire).cbr | 73.02MiB
 The Tower Chronicles, Book 2 - DreadStalker 004 (2014) (digital) (Son of Ultron-Empire).cbr | 44.99MiB
-The Tower Chronicles, Book 2 - DreadStalker 005 (2014) (digital) (Son of Ultron-Empire).cbr | 45.05MiB
+[The Tower Chronicles, Book 2 - DreadStalker 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 45.05MiB
 [The Tower Chronicles, Book 2 - DreadStalker 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.07MiB
 [The Tower Chronicles, Book 2 - DreadStalker 007 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-007-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.53MiB
 [The Tower Chronicles, Book 2 - DreadStalker 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tower-Chronicles-Book-2-DreadStalker-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 41.09MiB

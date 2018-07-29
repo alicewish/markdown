@@ -469,7 +469,7 @@ Thor 440 (1991) (Digital) (AnHeroGold-Empire).cbz | 37.77MiB
 Thor 441 (1991) (Digital) (AnHeroGold-Empire).cbz | 36.73MiB
 Thor 496 (1996) (Digital) (AnHeroGold-Empire).cbz | 54.54MiB
 Thor Annual 005 (1977) (Digital) (AnHeroGold-Empire).cbz | 81.85MiB
-Thor Corps (2016) (Digital) (AnHeroGold-Empire).cbz | 502.20MiB
+[Thor Corps (2016) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thor-Corps-2016-Digital-AnHeroGold-Empire-cbz.md) | 502.20MiB
 Thor Corps 001 (1993) (Digital) (AnHeroGold-Empire).cbz | 43.76MiB
 Thor Corps 002 (1993) (Digital) (AnHeroGold-Empire).cbz | 50.58MiB
 Thor Corps 003 (1993) (Digital) (AnHeroGold-Empire).cbz | 52.49MiB

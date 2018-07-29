@@ -1,5 +1,9 @@
 ## Gold Key - Alliance 001 (2016) (2 covers) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Gold Key - Alliance 目录](https://github.com/alicewish/markdown/blob/master/series/Gold-Key-Alliance.md)
+
+
 ![Gold Key - Aliance 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs1iy6bspfj21j72cwu0x.jpg)
 
 ![Gold Key - Aliance 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs1iyfu28zj21j72cwb2a.jpg)
@@ -53,3 +57,6 @@
 ![Gold Key - Aliance 001-025.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs1j2fdu65j21j72cwnpd.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flxlwvuydjj20zk1io4qp.jpg)
+
+[回到 Gold Key - Alliance 目录](https://github.com/alicewish/markdown/blob/master/series/Gold-Key-Alliance.md)
+

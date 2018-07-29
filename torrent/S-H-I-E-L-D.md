@@ -90,7 +90,7 @@ S.H.I.E.L.D. 02 (of 06) (2011) (2 covers) (2560px) (Minutemen-DTs).cbz | 67.64Mi
 S.H.I.E.L.D. 03 (of 06) (2011) (2 covers) (2560px) (Minutemen-DTs).cbz | 69.82MiB
 S.H.I.E.L.D. 04 (of 06) (2012) (2560px) (Minutemen-DTs).cbz | 69.65MiB
 &emsp;【S.H.I.E.L.D/S.H.I.E.L.D. v3 (001-011) (2015) (digital) (Minutemen-InnerDemons)】 | 
-S.H.I.E.L.D. 001 (2015) (digital) (Minutemen-InnerDemons).cbr | 59.82MiB
+[S.H.I.E.L.D. 001 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-001-2015-digital-Minutemen-InnerDemons-cbr.md) | 59.82MiB
 [S.H.I.E.L.D. 002 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-002-2015-digital-Minutemen-InnerDemons-cbr.md) | 35.88MiB
 [S.H.I.E.L.D. 003 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-003-2015-digital-Minutemen-InnerDemons-cbr.md) | 43.09MiB
 [S.H.I.E.L.D. 004 (2015) (2 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/S-H-I-E-L-D-004-2015-2-covers-digital-Minutemen-InnerDemons-cbr.md) | 37.48MiB

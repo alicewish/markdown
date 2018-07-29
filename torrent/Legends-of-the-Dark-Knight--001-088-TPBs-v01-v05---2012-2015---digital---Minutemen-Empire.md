@@ -90,10 +90,10 @@ Legends of the Dark Knight 076 (2013) (Digital) (Darkness-Empire).cbr | 14.21MiB
 Legends of the Dark Knight 077 (2013) (Digital) (Darkness-Empire).cbr | 13.56MiB
 Legends of the Dark Knight 078 (2013) (Digital) (Darkness-Empire).cbr | 13.25MiB
 Legends of the Dark Knight 079 (2013) (Digital) (Darkness-Empire).cbr | 12.87MiB
-Legends of the Dark Knight 080 (2014) (Digital) (Mephisto-Empire).cbr | 13.75MiB
-Legends of the Dark Knight 081 (2014) (Digital) (Mephisto-Empire).cbr | 12.44MiB
-Legends of the Dark Knight 082 (2014) (Digital) (Mephisto-Empire).cbr | 10.02MiB
-Legends of the Dark Knight 083 (2015) (Digital) (Mephisto-Empire).cbr | 17.04MiB
+[Legends of the Dark Knight 080 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-080-2014-Digital-Mephisto-Empire-cbr.md) | 13.75MiB
+[Legends of the Dark Knight 081 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-081-2014-Digital-Mephisto-Empire-cbr.md) | 12.44MiB
+[Legends of the Dark Knight 082 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-082-2014-Digital-Mephisto-Empire-cbr.md) | 10.02MiB
+[Legends of the Dark Knight 083 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-083-2015-Digital-Mephisto-Empire-cbr.md) | 17.04MiB
 [Legends of the Dark Knight 084 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-084-2015-Digital-Mephisto-Empire-cbr.md) | 16.30MiB
 [Legends of the Dark Knight 085 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-085-2015-Digital-Empire-cbr.md) | 17.74MiB
 Legends of the Dark Knight 086 (2015) (Digital-Empire).cbr | 16.52MiB

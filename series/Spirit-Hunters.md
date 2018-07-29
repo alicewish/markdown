@@ -14,6 +14,10 @@ Ghosts and spirits have been with us since man first started walking the earth. 
 
 
 
+相关种子⬇Related Torrents
+
+[Spirit Hunters (001-012)(2016-2018)(digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Spirit-Hunters--001-012--2016-2018--digital--TLK-EMPIRE-HD.md)
+
 Online | Download
 --- | ---
 [Spirit Hunters 001(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spirit-Hunters-001-2016-Digital-TLK-EMPIRE-HD-cbr.md) | [42.61MiB](https://pan.baidu.com/s/1jIciXoE#list/path=%2F0-Day%20Week%20of%202016%20Q4%2F0-Day%20Week%20of%202016.11.09%2F%E3%82%BD%E3%82%A2%E3%82%B3%E3%82%A2%E3%82%BD%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%A4%E3%82%AF%E3%82%AF%E3%82%AF%E3%82%AF%E3%82%B3%E3%82%A4%E3%82%B7%E3%82%A8%E3%82%AA%E3%82%AD%E3%82%A4%E3%82%B3%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%A8%E3%82%A6%E3%82%A4%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B7%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202016%20Q4)

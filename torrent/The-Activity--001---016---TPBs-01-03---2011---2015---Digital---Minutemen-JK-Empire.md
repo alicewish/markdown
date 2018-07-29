@@ -26,7 +26,7 @@ The Activity 012 (2013) (Digital) (JK-Empire).cbz | 45.32MiB
 The Activity 013 (2013) (Digital) (JK-Empire).cbz | 41.53MiB
 The Activity 014 (2013) (Digital) (JK-Empire).cbr | 34.49MiB
 The Activity 015 (2013) (digital) (Minutemen-Spaztastic).cbr | 37.17MiB
-The Activity 016 (2014) (digital) (Minutemen-Spaztastic).cbr | 57.73MiB
+[The Activity 016 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Activity-016-2014-digital-Minutemen-Spaztastic-cbr.md) | 57.73MiB
 &emsp;【The Activity (001 - 016 + TPBs 01-03) (2011 - 2015) (Digital) (Minutemen+JK-Empire)/The Activity TPB (v1 - v3) (2012 - 2015) (Digital) (DR & Quinch-Empire)】 | 
 The Activity Vol 1 TPB (2012) (Digital) (DR & Quinch-Empire).cbr | 146.17MiB
 The Activity Vol 2 TPB (2013) (Digital) (DR & Quinch-Empire).cbr | 243.37MiB

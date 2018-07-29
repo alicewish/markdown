@@ -1012,7 +1012,7 @@ Wonder Woman - Amazonia (1997) (digital OGN) (Minutemen-Faessla).cbz | 124.37MiB
 Wonder Woman - Gods and Mortals, 2004-07-14 (#TPB) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 287.71MiB
 Wonder Woman - Our Worlds at War (2001) (GrumpyBear-DCP).cbr | 24.06MiB
 Wonder Woman - The Hiketeia, 2002-04-00 (#01) (hybrid) (Glorith-Novus-HD).cbz | 117.42MiB
-Wonder Woman - War of the Gods, 2016-03-23 (#TPB) (digital) (Glorith-Novus-HD).cbz | 468.47MiB
+[Wonder Woman - War of the Gods, 2016-03-23 (#TPB) (digital) (Glorith-Novus-HD).cbz](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-War-of-Gods-2016-03-23-TPB-digital-Glorith-Novus-HD-cbz.md) | 468.47MiB
 Wonder Woman Amazing Powers (AquilaLorelei TRWBD).cbr | 7.15MiB
 Wonder Woman Angle Menace give-a-way \[1980\].cbz | 8.92MiB
 Wonder Woman By Greg Rucka, 2016-07-13 (#01) (digital) (Glorith-Novus-HD).cbz | 513.12MiB
@@ -1064,10 +1064,10 @@ Sensation Comics Featuring Wonder Woman 013 (2014) (digital) (Son of Ultron-Empi
 Sensation Comics Featuring Wonder Woman 014 (2014) (digital) (Son of Ultron-Empire).cbr | 25.35MiB
 Sensation Comics Featuring Wonder Woman 015 (2014) (digital) (Son of Ultron-Empire).cbr | 27.12MiB
 Sensation Comics Featuring Wonder Woman 016 (2014) (digital) (Son of Ultron-Empire).cbr | 32.36MiB
-Sensation Comics Featuring Wonder Woman 017 (2014) (digital) (Son of Ultron-Empire).cbr | 29.00MiB
-Sensation Comics Featuring Wonder Woman 018 (2014) (digital) (Son of Ultron-Empire).cbr | 30.13MiB
-Sensation Comics Featuring Wonder Woman 019 (2014) (digital) (Son of Ultron-Empire).cbr | 25.29MiB
-Sensation Comics Featuring Wonder Woman 020 (2014) (digital) (Son of Ultron-Empire).cbr | 30.73MiB
+[Sensation Comics Featuring Wonder Woman 017 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-017-2014-digital-Son-of-Ultron-Empire-cbr.md) | 29.00MiB
+[Sensation Comics Featuring Wonder Woman 018 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-018-2014-digital-Son-of-Ultron-Empire-cbr.md) | 30.13MiB
+[Sensation Comics Featuring Wonder Woman 019 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-019-2014-digital-Son-of-Ultron-Empire-cbr.md) | 25.29MiB
+[Sensation Comics Featuring Wonder Woman 020 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-020-2014-digital-Son-of-Ultron-Empire-cbr.md) | 30.73MiB
 [Sensation Comics Featuring Wonder Woman 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 21.37MiB
 [Sensation Comics Featuring Wonder Woman 022 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-022-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.35MiB
 [Sensation Comics Featuring Wonder Woman 023 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-023-2015-digital-Son-of-Ultron-Empire-cbr.md) | 11.59MiB

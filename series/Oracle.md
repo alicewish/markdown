@@ -24,6 +24,8 @@ Du présent, elle ne jouit pas. Elle vit recluse dans son temple, préservant le
 
 相关种子⬇Related Torrents
 
+[Oracle (v01-v10)(2017)(digital-Empire+)](https://github.com/alicewish/markdown/blob/master/torrent/Oracle--v01-v10--2017--digital-Empire.md)
+
 [Oracle (T1-T7) (2014-2016) (Sosich)](https://github.com/alicewish/markdown/blob/master/torrent/Oracle--T1-T7---2014-2016---Sosich.md)
 
 Online | Download

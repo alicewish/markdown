@@ -14,6 +14,10 @@ A FOREVER EVIL tie-in limited series! The Justice League is dead, and evil has i
 
 
 
+相关种子⬇Related Torrents
+
+[Forever Evil Rogues Rebellion (01 - 06) (Digital)](https://github.com/alicewish/markdown/blob/master/torrent/Forever-Evil-Rogues-Rebellion--01---06---Digital.md)
+
 Online | Download
 --- | ---
 Forever Evil - Rogues Rebellion 001 (2013) (digital) (Oroboros-DCP).cbr | 33.68MiB

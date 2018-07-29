@@ -173,7 +173,7 @@ B.P.R.D. Hell on Earth 122 - The Broken Equation 01 (of 02) (2014) (digital) (Mi
 B.P.R.D. Hell on Earth 123 - The Broken Equation 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 21.00MiB
 B.P.R.D. Hell on Earth 124 - Grind (2014) (digital) (Minutemen-InnerDemons).cbr | 20.70MiB
 B.P.R.D. Hell on Earth 125 - Flesh and Stone (2014) (digital) (Minutemen-InnerDemons).cbr | 21.80MiB
-B.P.R.D. Hell on Earth 126 (2014) (digital) (Minutemen-InnerDemons).cbr | 24.87MiB
+[B.P.R.D. Hell on Earth 126 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-126-2014-digital-Minutemen-InnerDemons-cbr.md) | 24.87MiB
 [B.P.R.D. Hell on Earth 127 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-127-2015-digital-Minutemen-InnerDemons-cbr.md) | 22.60MiB
 [B.P.R.D. Hell on Earth 128 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-128-2015-digital-Minutemen-InnerDemons-cbr.md) | 23.45MiB
 [B.P.R.D. Hell on Earth 129 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-129-2015-digital-Minutemen-InnerDemons-cbr.md) | 26.41MiB

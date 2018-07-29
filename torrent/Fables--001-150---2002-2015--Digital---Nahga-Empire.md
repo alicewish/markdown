@@ -156,7 +156,7 @@ Fables 143 (2014) (Digital) (phillywilly-Empire).cbr | 36.16MiB
 Fables 144 (2014) (Digital) (phillywilly-Empire).cbr | 34.91MiB
 Fables 145 (2014) (Digital) (phillywilly-Empire).cbr | 35.97MiB
 Fables 146 (2014) (Digital) (phillywilly-Empire).cbr | 36.32MiB
-Fables 147 (2014) (Digital) (phillywilly-Empire).cbr | 34.69MiB
+[Fables 147 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-147-2014-Digital-phillywilly-Empire-cbr.md) | 34.69MiB
 [Fables 148 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-148-2015-Digital-phillywilly-Empire-cbr.md) | 32.37MiB
 [Fables 149 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-149-2015-Digital-Empire-cbr.md) | 40.29MiB
 [Fables Vol. 22 (#150) - Farewell (2015) (Digital TPB) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Vol-22-150-Farewell-2015-Digital-TPB-Nahga-Empire-cbr.md) | 242.97MiB

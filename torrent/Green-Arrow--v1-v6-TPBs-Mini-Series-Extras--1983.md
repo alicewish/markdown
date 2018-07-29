@@ -18,9 +18,9 @@ Arrow - Season 2.5 004 (2014) (Digital) (Pirate-Empire).cbr | 15.66MiB
 Arrow - Season 2.5 005 (2014) (Digital) (Pirate-Empire).cbr | 17.14MiB
 Arrow - Season 2.5 006 (2014) (Digital) (Pirate-Empire).cbr | 14.38MiB
 Arrow - Season 2.5 007 (2014) (Digital) (Pirate-Empire).cbr | 14.55MiB
-Arrow - Season 2.5 008 (2014) (Digital) (Pirate-Empire).cbr | 15.56MiB
+[Arrow - Season 2.5 008 (2014) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arrow-Season-2-5-008-2014-Digital-Pirate-Empire-cbr.md) | 15.56MiB
 Arrow - Season 2.5 009 (2014) (Digital) (Pirate-Empire).cbr | 16.01MiB
-Arrow - Season 2.5 010 (2014) (Digital) (Pirate-Empire).cbr | 15.97MiB
+[Arrow - Season 2.5 010 (2014) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arrow-Season-2-5-010-2014-Digital-Pirate-Empire-cbr.md) | 15.97MiB
 [Arrow - Season 2.5 011 (2015) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arrow-Season-2-5-011-2015-Digital-Pirate-Empire-cbr.md) | 15.70MiB
 [Arrow - Season 2.5 012 (2015) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arrow-Season-2-5-012-2015-Digital-Pirate-Empire-cbr.md) | 15.79MiB
 [Arrow - Season 2.5 013 (2015) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arrow-Season-2-5-013-2015-Digital-Pirate-Empire-cbr.md) | 15.05MiB

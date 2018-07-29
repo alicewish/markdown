@@ -1,5 +1,9 @@
 ## Walt Disney Showcase 003 - The Beagle Boys (2018) (digital) (Salem-Empire).cbr
 
+
+[回到 Walt Disney Showcase 目录](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+
+
 ![Walt Disney Showcase - The Beagle Boys 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkynr3j47j21j82cwhdt.jpg)
 
 ![Walt Disney Showcase - The Beagle Boys 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkynxybejj21j82cw1kx.jpg)
@@ -67,3 +71,6 @@
 ![Walt Disney Showcase - The Beagle Boys 003-032.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkytuqzu4j21j82cw7wh.jpg)
 
 ![Walt Disney Showcase - The Beagle Boys 003-033.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkyu0zia1j21j82cwe81.jpg)
+
+[回到 Walt Disney Showcase 目录](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+

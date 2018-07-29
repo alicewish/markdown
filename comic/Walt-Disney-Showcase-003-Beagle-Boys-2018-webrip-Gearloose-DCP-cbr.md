@@ -1,5 +1,9 @@
 ## Walt Disney Showcase 003 - The Beagle Boys (2018) (webrip) (Gearloose-DCP).cbr
 
+
+[回到 Walt Disney Showcase 目录](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+
+
 ![Walt Disney Showcase 003 - The Beagle Boys - 000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkyu66zwmj21j82cwhdt.jpg)
 
 ![Walt Disney Showcase 003 - The Beagle Boys - 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkyuszgl1j21j82cw1kx.jpg)
@@ -69,3 +73,6 @@
 ![Walt Disney Showcase 003 - The Beagle Boys - 033.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkz2jroajj21j82cwe81.jpg)
 
 ![zzzGearloose.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkp714u3yj20p00iaju7.jpg)
+
+[回到 Walt Disney Showcase 目录](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+

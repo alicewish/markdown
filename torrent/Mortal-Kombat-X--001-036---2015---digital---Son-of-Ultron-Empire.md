@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Mortal Kombat X 001 (2015) (digital) (Son of Ultron-Empire).cbr | 16.94MiB
+[Mortal Kombat X 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.94MiB
 [Mortal Kombat X 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 12.61MiB
 [Mortal Kombat X 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.44MiB
 [Mortal Kombat X 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mortal-Kombat-X-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.05MiB

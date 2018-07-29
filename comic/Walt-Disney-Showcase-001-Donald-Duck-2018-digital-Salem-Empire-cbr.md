@@ -1,5 +1,9 @@
 ## Walt Disney Showcase 001 - Donald Duck (2018) (digital) (Salem-Empire).cbr
 
+
+[回到 Walt Disney Showcase 目录](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+
+
 ![Walt Disney Showcase - Donald Duck 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1foi8ax2fbwj21j82cwhdt.jpg)
 
 ![Walt Disney Showcase - Donald Duck 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1foi8b4qilpj21j82cw4qp.jpg)
@@ -69,3 +73,6 @@
 ![Walt Disney Showcase - Donald Duck 001-033.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1foi8lebroij21j82cwb29.jpg)
 
 ![Walt Disney Showcase - Donald Duck 001-034.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1foi8lqw0fkj21j82cwe81.jpg)
+
+[回到 Walt Disney Showcase 目录](https://github.com/alicewish/markdown/blob/master/series/Walt-Disney-Showcase.md)
+

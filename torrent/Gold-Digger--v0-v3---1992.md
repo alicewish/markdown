@@ -45,7 +45,7 @@ Gold Digger Color Remix 04 (2006) (eclipse-DCP).cbr | 12.55MiB
 Gold Digger 15th Anniversary Special - Sacred Library 01 (2006) (eclipse-DCP).cbz | 21.82MiB
 Gold Digger 15th Anniversary Special - Sacred Library 02 (2007) (eclipse-DCP).cbz | 21.13MiB
 Gold Digger Color Remix - Mangazine Special (2009) (oddBot-DCP).cbz | 19.23MiB
-Gold Digger Dreadwing's Mymior Special (2008)(Digital)(TLK-EMPIRE-HD).cbr | 39.20MiB
+[Gold Digger Dreadwing's Mymior Special (2008)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-Dreadwings-Mymior-Special-2008-Digital-TLK-EMPIRE-HD-cbr.md) | 39.20MiB
 &emsp;【Gold Digger (v0-v3+)(1992-)/Halloween & Holiday Specials + Extras/Gold Digger Halloween Special】 | 
 Gold Digger Halloween Special 004 (2008) (Digital) (TLK-EMPIRE-HD).cbr | 29.74MiB
 Gold Digger Halloween Special 005 (2009) (Digital) (TLK-EMPIRE-HD).cbr | 19.85MiB
@@ -73,7 +73,7 @@ Gold Digger Spellvis - Return of the King Special (2010) (digital) (d'argh-Empir
 Gold Digger Super Special.cbr | 12.26MiB
 Gold Digger Swimsuit 002 (2001) (Antarctic Press).cbz | 8.76MiB
 Gold Digger X-Mas Special 007(c2c)(2013)(TLK-EMPIRE-HD).cbr | 34.84MiB
-Gold Digger X-Mas Special 008(2014)(c2c)(TLK-EMPIRE-HD).cbr | 73.13MiB
+[Gold Digger X-Mas Special 008(2014)(c2c)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-X-Mas-Special-008-2014-c2c-TLK-EMPIRE-HD-cbr.md) | 73.13MiB
 [Gold Digger X-Mas Special 009(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-X-Mas-Special-009-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 37.33MiB
 Gold Digger X-Mas Special 01 (2007) (SoulControl-DCP).cbr | 15.03MiB
 Gold Digger X-Mas Special 02 (Antarctic Press)(2008)(WildBlueZero).cbr | 13.00MiB
@@ -584,7 +584,7 @@ Gold Digger 212(2014)(Digital)(TLK-EMPIRE-HD).cbr | 17.10MiB
 Gold Digger 213 (2014) (Digital) (TLK-EMPIRE-HD).cbr | 25.74MiB
 Gold Digger 214(2014)(Digital)(TLK-EMPIRE-HD).cbr | 25.41MiB
 Gold Digger 215(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.09MiB
-Gold Digger 216(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.81MiB
+[Gold Digger 216(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-216-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 32.81MiB
 [Gold Digger 217(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-217-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 26.43MiB
 [Gold Digger 218(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-218-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 28.55MiB
 [Gold Digger 219(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-219-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.18MiB

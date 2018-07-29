@@ -15,5 +15,5 @@ Death of Wolverine - Logan Legacy 002 (2014) (Digital) (Nahga-Empire).cbr | 36.0
 Death of Wolverine - Logan Legacy 003 (2014) (Digital) (Nahga-Empire).cbr | 38.86MiB
 Death of Wolverine - Logan Legacy 004 (2015) (Digital) (Nahga-Empire).cbr | 42.12MiB
 Death of Wolverine - Logan Legacy 005 (2015) (Digital-Empire).cbr | 30.96MiB
-Death of Wolverine - Logan Legacy 006 (2015) (Digital-Empire).cbr | 36.04MiB
-Death of Wolverine - Logan Legacy 007 (2015) (Digital-Empire).cbr | 38.81MiB
+[Death of Wolverine - Logan Legacy 006 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Logan-Legacy-006-2015-Digital-Empire-cbr.md) | 36.04MiB
+[Death of Wolverine - Logan Legacy 007 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Logan-Legacy-007-2015-Digital-Empire-cbr.md) | 38.81MiB

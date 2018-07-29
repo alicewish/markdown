@@ -141,7 +141,7 @@ Spider-Woman Origin 03 (of 05) (2006) (Digital) (Zone-Empire).cbr | 18.72MiB
 Spider-Woman Origin 04 (of 05) (2006) (Digital) (Zone-Empire).cbr | 17.34MiB
 Spider-Woman Origin 05 (of 05) (2006) (Digital) (Zone-Empire).cbr | 16.06MiB
 Spider-Woman 006 + Spider-Gwen 007 + Spider-Women Alpha 01 + Silk 007 (2016) (J. Scott Campbell Connecting Variants join) (digital) (Minutemen-Mastodon).cbz | 7.54MiB
-Spider-Woman Masterworks v1(2015)(Digital)(TLK-EMPIRE-HD).cbr | 490.66MiB
+[Spider-Woman Masterworks v1(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-Masterworks-v1-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 490.66MiB
 Spider-Woman Saga (2009) (Digital Exclusive).cbz | 4.93MiB
 Spider-Woman v01 - Shifting Gears  - Baby Talk (2016) (Digital) (Zone-Empire).cbr | 172.23MiB
 Spider-Woman v02 - New Duds (2016) (Digital) (Zone-Empire).cbr | 198.58MiB

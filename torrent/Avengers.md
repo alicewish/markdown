@@ -675,7 +675,7 @@ Avengers 035 (2014) (digital) (Minutemen-PhD).cbr | 62.48MiB
 Avengers 036 (2014) (digital) (Minutemen-PhD).cbr | 37.58MiB
 Avengers 037 (2014) (digital) (Minutemen-PhD).cbr | 45.48MiB
 Avengers 038 (2015) (digital) (Minutemen-PhD).cbr | 37.37MiB
-Avengers 039 (2015) (digital) (Minutemen-PhD).cbr | 38.02MiB
+[Avengers 039 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-039-2015-digital-Minutemen-PhD-cbr.md) | 38.02MiB
 Avengers 040 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.01MiB
 [Avengers 041 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-041-2015-digital-Minutemen-InnerDemons-cbr.md) | 38.66MiB
 [Avengers 042 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-042-2015-digital-Minutemen-InnerDemons-cbr.md) | 36.65MiB
@@ -1454,7 +1454,7 @@ Avengers Next 02 (of 05) (2007) (Kryptonia-DCP).cbr | 15.02MiB
 Avengers Next 03 (of 05) (2007) (Kryptonia-DCP).cbr | 13.47MiB
 Avengers Next 04 (of 05) (2007) (TheCaptain-DCP).cbr | 13.51MiB
 Avengers Next 05 (of 05) (2007) (Kryptonia-DCP).cbr | 12.87MiB
-Avengers Now! 001 (2015) (Digital) (Zone-Empire).cbr | 78.17MiB
+[Avengers Now! 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-Now-001-2015-Digital-Zone-Empire-cbr.md) | 78.17MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Avengers Origins One-Shots (2012)(digital)(Minutemen-PhD)】 | 
 Avengers Origins - Ant-Man & the Wasp 01 (2012) (digital) (Minutemen-PhD).cbr | 28.24MiB
 Avengers Origins - Luke Cage 01 (2012) (digital) (Minutemen-PhD).cbr | 35.58MiB
@@ -1639,7 +1639,7 @@ Marvel Universe vs. the Avengers 03 (of 04) (2013) (Digital) (Zone-Empire).cbr |
 Marvel Universe vs. the Avengers 04 (of 04) (2013) (Digital) (Zone-Empire).cbr | 26.97MiB
 [Marvel's Avengers Alliance 001 (2016) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Avengers-Alliance-001-2016-digital-Empire-cbr.md) | 67.79MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Marvel's The Avengers (001-002)(2015)(digital)(Zone-Empire)】 | 
-Marvel's The Avengers 01 (of 02) (2015) (Digital) (Zone-Empire).cbr | 42.79MiB
+[Marvel's The Avengers 01 (of 02) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Avengers-01-of-02-2015-Digital-Zone-Empire-cbr.md) | 42.79MiB
 [Marvel's The Avengers 02 (of 02) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Avengers-02-of-02-2015-Digital-Zone-Empire-cbr.md) | 38.70MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Marvel's The Avengers - Black Widow Strikes (001-003)(2012)(digital)】 | 
 Marvel's the Avengers - Black Widow Strikes 01 (of 03) (2012) (Digital) (Zone-Empire).cbr | 29.37MiB
@@ -3097,7 +3097,7 @@ Marvel Universe vs. Avengers (2013) (Digital) (Kileko-Empire).cbr | 138.45MiB
 Siege - New Avengers (2011) (digital) (Minutemen-Slayer).cbr | 268.54MiB
 Target Avengers Earth's Mightest Heroes TPB (Bchry-DCP).cbz | 164.37MiB
 The Avengers - Citizen Kang TPB (2010) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 403.60MiB
-The Unbeatable Squirrel Girl & The Great Lakes Avengers (2016) (Digital) (AnHeroGold-Empire).cbz | 449.40MiB
+[The Unbeatable Squirrel Girl & The Great Lakes Avengers (2016) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Unbeatable-Squirrel-Girl-Great-Lakes-Avengers-2016-Digital-AnHeroGold-Empire-cbz.md) | 449.40MiB
 Young Marvel - Little X-Men, Little Avengers, Big Trouble (2013) (digital TPB) (Minutemen-Faessla).cbz | 303.31MiB
 &emsp;【Avengers/Ultimate Avengers/Ultimate Avengers v1 (001-006)(2009-2010)(digital)(Zone-Empire)】 | 
 Ultimate Avengers 01 (of 06) (2009) (digital-HD) (Zone-Empire).cbr | 40.71MiB

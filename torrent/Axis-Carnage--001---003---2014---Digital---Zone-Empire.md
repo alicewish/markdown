@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 Axis - Carnage 001 (2014) (Digital) (Zone-Empire).cbr | 39.70MiB
 Axis - Carnage 002 (2014) (Digital) (Zone-Empire).cbr | 40.63MiB
-Axis - Carnage 003 (2015) (Digital) (Zone-Empire).cbr | 46.34MiB
+[Axis - Carnage 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Axis-Carnage-003-2015-Digital-Zone-Empire-cbr.md) | 46.34MiB

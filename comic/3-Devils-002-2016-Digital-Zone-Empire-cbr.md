@@ -1,5 +1,9 @@
 ## 3 Devils 002 (2016) (Digital) (Zone-Empire).cbr
 
+
+[回到 3 Devils 目录](https://github.com/alicewish/markdown/blob/master/series/3-Devils.md)
+
+
 ![3 Devils 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frz9eh73o3j21jy2cw4oo.jpg)
 
 ![3 Devils 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frz9em72dsj21j82cw19d.jpg)
@@ -57,3 +61,6 @@
 ![3 Devils 002-027.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frz9m0f8rgj21j82cw7wh.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fm4h7zwxvrj21kw1c84il.jpg)
+
+[回到 3 Devils 目录](https://github.com/alicewish/markdown/blob/master/series/3-Devils.md)
+

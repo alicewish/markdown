@@ -16,6 +16,8 @@ The tale of Venus, a beautiful woman from another planet. But what purpose does 
 
 相关种子⬇Related Torrents
 
+[Venus (001-019)(1948-1952)(digital+)](https://github.com/alicewish/markdown/blob/master/torrent/Venus--001-019--1948-1952--digital.md)
+
 [Venus (001-004) (2015-2016) (digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Venus--001-004---2015-2016---digital---Son-of-Ultron-Empire.md)
 
 [Venus (001-004+)(2015-2016)(digital)(Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Venus--001-004---2015-2016--digital--Minutemen-Slayer.md)

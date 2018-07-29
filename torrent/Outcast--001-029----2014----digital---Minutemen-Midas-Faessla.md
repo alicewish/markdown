@@ -15,7 +15,7 @@ Outcast 002 (2014) (digital) (Minutemen-Midas).cbr | 35.82MiB
 Outcast 003 (2014) (digital) (Minutemen-Midas).cbr | 40.87MiB
 Outcast 004 (2014) (digital) (Minutemen-Midas).cbr | 40.01MiB
 Outcast 005 (2014) (digital) (Minutemen-Midas).cbr | 40.85MiB
-Outcast 006 (2014) (digital) (Minutemen-Midas).cbr | 35.50MiB
+[Outcast 006 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-006-2014-digital-Minutemen-Midas-cbr.md) | 35.50MiB
 [Outcast 007 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-007-2015-digital-Minutemen-Midas-cbr.md) | 32.81MiB
 [Outcast 008 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-008-2015-digital-Minutemen-Midas-cbr.md) | 34.63MiB
 [Outcast 009 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-009-2015-digital-Minutemen-Midas-cbr.md) | 44.15MiB

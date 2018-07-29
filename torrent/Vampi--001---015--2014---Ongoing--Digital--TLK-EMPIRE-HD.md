@@ -19,9 +19,9 @@ Vampi 006(2014)(Digital)(TLK-EMPIRE-HD).cbr | 46.35MiB
 Vampi 007(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 42.60MiB
 Vampi 008(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 41.43MiB
 Vampi 009(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 42.05MiB
-Vampi 010(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 46.36MiB
-Vampi 011(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 48.45MiB
-Vampi 012(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 49.99MiB
-Vampi 013(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 54.64MiB
-Vampi 014(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 45.02MiB
-Vampi 015(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 42.33MiB
+[Vampi 010(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampi-010-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 46.36MiB
+[Vampi 011(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampi-011-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 48.45MiB
+[Vampi 012(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampi-012-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 49.99MiB
+[Vampi 013(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampi-013-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 54.64MiB
+[Vampi 014(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampi-014-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 45.02MiB
+[Vampi 015(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampi-015-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 42.33MiB

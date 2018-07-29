@@ -201,7 +201,7 @@ Aliens - Fire and Stone 04 (of 04) (2014) (Digital) (Minutemen-Wyvern).cbr | 18.
 Aliens - Fire and Stone 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 33.23MiB
 Aliens - Fire and Stone 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 33.91MiB
 Aliens - Fire and Stone 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 33.87MiB
-Aliens - Fire and Stone 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 35.81MiB
+[Aliens - Fire and Stone 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aliens-Fire-Stone-04-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 35.81MiB
 &emsp;【Aliens Collection/Aliens (Dark Horse)/Fire and Stone/Prometheus - Fire and Stone (001-004) (2014) (Digital) (Minutemen-Wyvern)】 | 
 Prometheus - Fire and Stone 01 (of 04) (2014) (Digital) (Minutemen-Wyvern).cbr | 27.46MiB
 Prometheus - Fire and Stone 02 (of 04) (2014) (Digital) (Minutemen-Wyvern).cbr | 20.03MiB

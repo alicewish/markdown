@@ -68,7 +68,7 @@ Godzilla Cataclysm 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 26.66MiB
 Godzilla Cataclysm 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 45.04MiB
 Godzilla Cataclysm 003 (2014) (Digital) (TLK-EMPIRE-HD).cbr | 44.59MiB
 Godzilla Cataclysm 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 48.69MiB
-Godzilla Cataclysm 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 43.11MiB
+[Godzilla Cataclysm 005(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Cataclysm-005-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 43.11MiB
 &emsp;【Godzilla/Godzilla - Cataclysm (001-005)(2014)(digital)(TLK-EMPIRE-HD)/Variant Covers】 | 
 Godzilla Cataclysm 001 (2014) (2 Variants Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 5.68MiB
 Godzilla Cataclysm 002 (2014) (Bob Eggleton Variant Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.76MiB
@@ -170,7 +170,7 @@ Godzilla Rulers Of Earth 015(2014)(Digital)(TLK-EMPIRE-HD).cbr | 44.38MiB
 Godzilla Rulers Of Earth 016(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.64MiB
 Godzilla Rulers Of Earth 017(2014)(Digital)(TLK-EMPIRE-HD).cbr | 35.85MiB
 Godzilla Rulers Of Earth 018(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.77MiB
-Godzilla Rulers Of Earth 019 (2014) (Digital) (TLK-EMPIRE-HD).cbr | 38.91MiB
+[Godzilla Rulers Of Earth 019 (2014) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-019-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.91MiB
 [Godzilla Rulers Of Earth 020(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-020-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 36.15MiB
 [Godzilla Rulers Of Earth 021 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-021-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 39.71MiB
 [Godzilla Rulers Of Earth 022(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Rulers-Of-Earth-022-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 69.68MiB

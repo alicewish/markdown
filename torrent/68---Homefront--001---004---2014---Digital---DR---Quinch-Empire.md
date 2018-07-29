@@ -13,4 +13,4 @@ Online | Download
 '68 - Homefront 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 54.32MiB
 '68 - Homefront 01 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr | 47.63MiB
 '68 - Homefront 03 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr | 41.31MiB
-'68 - Homefront 04 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr | 43.79MiB
+['68 - Homefront 04 (of 04) (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/68-Homefront-04-of-04-2014-Digital-DR-Quinch-Empire-cbr.md) | 43.79MiB

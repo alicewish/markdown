@@ -1,5 +1,9 @@
 ## Nancy Drew 002 (2018) (3 covers) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Nancy Drew 目录](https://github.com/alicewish/markdown/blob/master/series/Nancy-Drew.md)
+
+
 ![Nancy Drew 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkqnq52zuj21j72cw4qq.jpg)
 
 ![Nancy Drew 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkqo07otpj21j72cwnpd.jpg)
@@ -49,3 +53,6 @@
 ![Nancy Drew 002-023.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftkqrmgardj21j72cw7wh.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqdd52rmj20zk1io4qp.jpg)
+
+[回到 Nancy Drew 目录](https://github.com/alicewish/markdown/blob/master/series/Nancy-Drew.md)
+

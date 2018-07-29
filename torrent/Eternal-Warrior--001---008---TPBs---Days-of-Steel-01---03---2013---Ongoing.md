@@ -13,7 +13,7 @@ Online | Download
 &emsp;【Eternal Warrior (001 - 008 + TPBs & Days of Steel 01 - 03) (2013 - Ongoing)】 | 
 &emsp;【Eternal Warrior (001 - 008 + TPBs & Days of Steel 01 - 03) (2013 - Ongoing)/Eternal Warrior - Days Of Steel (001 - 003) (2014 - Ongoing)】 | 
 Eternal Warrior - Days Of Steel 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 46.71MiB
-Eternal Warrior - Days Of Steel 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 39.35MiB
+[Eternal Warrior - Days Of Steel 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eternal-Warrior-Days-Of-Steel-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 39.35MiB
 [Eternal Warrior - Days Of Steel 003 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eternal-Warrior-Days-Of-Steel-003-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.41MiB
 Eternal Warrior 001 (2013) (digital) (Minutemen-Spaztastic).cbr | 46.52MiB
 Eternal Warrior 002 (2013) (digital) (Minutemen-Spaztastic).cbr | 33.79MiB

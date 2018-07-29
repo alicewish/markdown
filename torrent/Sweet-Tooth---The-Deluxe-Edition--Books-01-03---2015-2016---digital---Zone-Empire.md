@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Sweet Tooth - The Deluxe Edition Book 01 (2015) (Digital) (Zone-Empire).cbr | 304.34MiB
+[Sweet Tooth - The Deluxe Edition Book 01 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sweet-Tooth-Deluxe-Edition-Book-01-2015-Digital-Zone-Empire-cbr.md) | 304.34MiB
 Sweet Tooth - The Deluxe Edition Book 02 (2016) (Digital) (Zone-Empire).cbr | 360.42MiB
 Sweet Tooth - The Deluxe Edition Book 03 (2016) (Digital) (Zone-Empire).cbr | 469.03MiB

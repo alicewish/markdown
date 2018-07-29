@@ -17,8 +17,8 @@ Evil Empire 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 37.22MiB
 Evil Empire 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 42.01MiB
 Evil Empire 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 51.97MiB
 Evil Empire 007 (2014) (digital) (Minutemen-Spaztastic).cbr | 46.74MiB
-Evil Empire 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 36.22MiB
-Evil Empire 009 (2014) (digital) (Minutemen-Spaztastic).cbr | 36.79MiB
+[Evil Empire 008 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-008-2014-digital-Minutemen-Spaztastic-cbr.md) | 36.22MiB
+[Evil Empire 009 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-009-2014-digital-Minutemen-Spaztastic-cbr.md) | 36.79MiB
 [Evil Empire 010 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-010-2015-digital-Minutemen-Spaztastic-cbr.md) | 33.49MiB
 [Evil Empire 011 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-011-2015-digital-Minutemen-Spaztastic-cbr.md) | 46.94MiB
 [Evil Empire 012 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-012-2015-digital-Minutemen-Spaztastic-cbr.md) | 65.68MiB

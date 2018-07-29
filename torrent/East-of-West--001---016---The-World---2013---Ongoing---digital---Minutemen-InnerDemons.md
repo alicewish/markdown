@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-East of West - The World 01 (2014) (digital) (Minutemen-Faessla).cbz | 21.16MiB
+[East of West - The World 01 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-World-01-2014-digital-Minutemen-Faessla-cbz.md) | 21.16MiB
 East of West 001 (2013) (Forbidden Planet Variant) (COVER ONLY) (2048px) (COVERED-Novus-HD).cbz | 1.19MiB
 East of West 001 (2013) (Ghost Variant Only) \[extracted\] (RedResin-Minutemen-Novus-HD).cbr | 1.69MiB
 East of West 001 (2013) (digital) (Minutemen-InnerDemons).cbr | 36.90MiB

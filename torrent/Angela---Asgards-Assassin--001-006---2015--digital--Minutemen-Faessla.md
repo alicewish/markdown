@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Angela - Asgard's Assassin (001-006+)(2015)(digital)(Minutemen-Faessla)】 | 
-Angela - Asgard's Assassin 001 (2015) (digital) (Minutemen-Faessla).cbz | 47.60MiB
+[Angela - Asgard's Assassin 001 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-001-2015-digital-Minutemen-Faessla-cbz.md) | 47.60MiB
 [Angela - Asgard's Assassin 002 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-002-2015-digital-Minutemen-Faessla-cbz.md) | 46.79MiB
 [Angela - Asgard's Assassin 003 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-003-2015-digital-Minutemen-Faessla-cbz.md) | 45.55MiB
 [Angela - Asgard's Assassin 004 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Angela-Asgards-Assassin-004-2015-digital-Minutemen-Faessla-cbz.md) | 42.59MiB

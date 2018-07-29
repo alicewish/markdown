@@ -15,7 +15,7 @@ Southern Bastards 002 (2014) (digital) (Minutemen-Faessla).cbz | 58.93MiB
 Southern Bastards 003 (2014) (digital) (Minutemen-Faessla).cbz | 61.86MiB
 Southern Bastards 004 (2014) (digital) (Minutemen-Faessla).cbz | 60.47MiB
 Southern Bastards 005 (2014) (digital) (Minutemen-Faessla).cbz | 60.07MiB
-Southern Bastards 006 (2014) (digital) (Minutemen-Faessla).cbz | 60.31MiB
+[Southern Bastards 006 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-006-2014-digital-Minutemen-Faessla-cbz.md) | 60.31MiB
 [Southern Bastards 007 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-007-2015-digital-Minutemen-Faessla-cbz.md) | 55.27MiB
 [Southern Bastards 008 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-008-2015-digital-Minutemen-Faessla-cbz.md) | 50.73MiB
 [Southern Bastards 009 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Southern-Bastards-009-2015-digital-Minutemen-Faessla-cbz.md) | 46.15MiB

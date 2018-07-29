@@ -49,7 +49,7 @@ Star Trek 035 (2014) (digital-Empire).cbr | 36.41MiB
 Star Trek 036 (2014) (digital) (CompetentRipper-Empire).cbr | 38.56MiB
 Star Trek 037 (2014) (digital) (CompetentRipper-Empire).cbr | 40.85MiB
 Star Trek 038 (2014) (digital) (CompetentRipper-Empire).cbr | 52.49MiB
-Star Trek 039 (2014) (digital-Empire).cbr | 46.66MiB
+[Star Trek 039 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-039-2014-digital-Empire-cbr.md) | 46.66MiB
 [Star Trek 040 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-040-2015-digital-Empire-cbr.md) | 44.41MiB
 [Star Trek 041 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-041-2015-digital-Empire-cbr.md) | 39.08MiB
 [Star Trek 042 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-042-2015-digital-Empire-cbr.md) | 41.61MiB

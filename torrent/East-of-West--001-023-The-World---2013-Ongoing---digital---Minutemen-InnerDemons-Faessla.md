@@ -16,7 +16,7 @@ East of West 001 (2013) (Forbidden Planet Variant) (COVER ONLY) (2048px) (COVERE
 East of West 001 (2013) (Ghost Variant Only) \[extracted\] (RedResin-Minutemen-Novus-HD).cbr | 1.69MiB
 East of West 016 (2014) (8 Variants Only) \[extracted\] (RedResin-Minutemen-Novus-HD).cbr | 16.97MiB
 Image Firsts - East of West 001 (2014-04) (cover only) (Monafekk-Empire).cbz | 3.16MiB
-East of West - The World 01 (2014) (digital) (Minutemen-Faessla).cbz | 21.16MiB
+[East of West - The World 01 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-World-01-2014-digital-Minutemen-Faessla-cbz.md) | 21.16MiB
 East of West 001 (2013) (digital) (Minutemen-InnerDemons).cbr | 36.90MiB
 East of West 002 (2013) (digital) (Minutemen-InnerDemons).cbr | 25.98MiB
 East of West 003 (2013) (digital) (Minutemen-InnerDemons).cbr | 26.84MiB

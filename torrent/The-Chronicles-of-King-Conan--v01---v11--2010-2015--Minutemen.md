@@ -19,5 +19,5 @@ The Chronicles of King Conan Vol. 06 - A Death in Stygia and Other Stories (2013
 The Chronicles of King Conan Vol. 07 - Day of Wrath and Other Stories (2014) (Digital) (Minutemen-Endriago).cbr | 247.03MiB
 The Chronicles of King Conan Vol. 08 - The Road to Empire and Other Stories (2014) (digital) (Minutemen-Endriago).cbz | 258.87MiB
 The Chronicles of King Conan Vol. 09 - The Blood of the Serpent and Other Stories (2014) (digital) (Minutemen-Endriago).cbz | 292.31MiB
-The Chronicles of King Conan Vol. 10 - The Warlord of Koth and Other Stories (2015) (digital) (Minutemen-Endriago).cbz | 264.33MiB
+[The Chronicles of King Conan Vol. 10 - The Warlord of Koth and Other Stories (2015) (digital) (Minutemen-Endriago).cbz](https://github.com/alicewish/markdown/blob/master/comic/Chronicles-of-King-Conan-Vol-10-Warlord-of-Koth-Other-Stories-2015-digital-Minutemen-Endriago-cbz.md) | 264.33MiB
 The Chronicles of King Conan Vol. 11 - Nightmare and Other Stories (2015) (digital) (Minutemen-Thoth).cbr | 353.38MiB

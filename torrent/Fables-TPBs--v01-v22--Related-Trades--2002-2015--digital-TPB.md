@@ -37,7 +37,7 @@ Fables Vol. 20 - Camelot (2014) (Digital TPB) (Nahga-Empire).cbr | 382.46MiB
 Fables Vol. 21 - Happily Ever After (2015) (Digital TPB) (Nahga-Empire).cbr | 290.48MiB
 [Fables Vol. 22 (#150) - Farewell (2015) (Digital-TPB) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Vol-22-150-Farewell-2015-Digital-TPB-Nahga-Empire-cbr.md) | 242.97MiB
 Fables - 1001 Nights of Snowfall (2006) (Digital TPB) (Nahga-Empire).cbr | 255.08MiB
-Fables - The Complete Covers by James Jean (2015) (Digital) (Dogmatix-Empire).cbr | 300.32MiB
+[Fables - The Complete Covers by James Jean (2015) (Digital) (Dogmatix-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-Complete-Covers-by-James-Jean-2015-Digital-Dogmatix-Empire-cbr.md) | 300.32MiB
 Fables - The Deluxe Edition Book 09 (2014) (digital) (Minutemen-PhD).cbr | 510.14MiB
 Fables - Werewolves of the Heartland (2012) (Digital) (Nahga-Empire).cbr | 238.75MiB
 Fables Encyclopedia (2013) (Digital) (Nahga-Empire).cbr | 245.41MiB

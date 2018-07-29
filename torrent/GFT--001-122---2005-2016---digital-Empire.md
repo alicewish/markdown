@@ -114,7 +114,7 @@ Grimm Fairy Tales 101(2014)(Digital)(TLK-EMPIRE-HD).cbr | 21.11MiB
 Grimm Fairy Tales 102(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.41MiB
 Grimm Fairy Tales 103(2014)(Digital)(TLK-EMPIRE-HD).cbr | 44.79MiB
 Grimm Fairy Tales 104(2014)(Digital)(TLK-EMPIRE-HD).cbr | 39.53MiB
-Grimm Fairy Tales 105(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.88MiB
+[Grimm Fairy Tales 105(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-105-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 37.88MiB
 [Grimm Fairy Tales 106(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-106-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 40.79MiB
 [Grimm Fairy Tales 107(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-107-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 33.05MiB
 [Grimm Fairy Tales 108(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-108-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 34.49MiB

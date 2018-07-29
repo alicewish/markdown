@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Hellboy and the B.P.R.D. 001 (2014) (digital) (Minutemen-InnerDemons).cbr | 18.75MiB
+[Hellboy and the B.P.R.D. 001 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellboy-B-P-R-D-001-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.75MiB
 [Hellboy and the B.P.R.D. 002 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellboy-B-P-R-D-002-2015-digital-Minutemen-InnerDemons-cbr.md) | 15.62MiB
 [Hellboy and the B.P.R.D. 003 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellboy-B-P-R-D-003-2015-digital-Minutemen-InnerDemons-cbr.md) | 15.26MiB
 [Hellboy and the B.P.R.D. 004 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hellboy-B-P-R-D-004-2015-digital-Minutemen-InnerDemons-cbr.md) | 19.57MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 T.H.U.N.D.E.R. Agents Classics Vol 005(2015)(Digital)(TLK-EMPIRE-HD).cbr | 267.50MiB
-T.H.U.N.D.E.R. Agents Classics Vol 006(2015)(Digital)(TLK-EMPIRE-HD).cbr | 323.06MiB
+[T.H.U.N.D.E.R. Agents Classics Vol 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/T-H-U-N-D-E-R-Agents-Classics-Vol-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 323.06MiB
 T.H.U.N.D.E.R. Agents Classics v01 (2013) (Digital) (Darkness-Empire).cbr | 288.17MiB
 T.H.U.N.D.E.R. Agents Classics v02 (2013) (Digital) (Salem-Empire).cbr | 277.80MiB
 T.H.U.N.D.E.R. Agents Classics v03 (2014) (Digital) (Salem-Empire).cbr | 251.94MiB

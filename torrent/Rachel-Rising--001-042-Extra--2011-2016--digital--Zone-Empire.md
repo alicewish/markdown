@@ -39,7 +39,7 @@ Rachel Rising 026 (2014) (Digital) (Zone-Empire).cbr | 30.14MiB
 Rachel Rising 027 (2014) (Digital) (Zone-Empire).cbr | 25.19MiB
 Rachel Rising 028 (2014) (Digital) (Zone-Empire).cbr | 30.96MiB
 Rachel Rising 029 (2014) (Digital) (Zone-Empire).cbr | 34.49MiB
-Rachel Rising 030 (2014) (Digital) (Zone-Empire).cbr | 33.18MiB
+[Rachel Rising 030 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rachel-Rising-030-2014-Digital-Zone-Empire-cbr.md) | 33.18MiB
 [Rachel Rising 031 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rachel-Rising-031-2015-Digital-Zone-Empire-cbr.md) | 29.29MiB
 [Rachel Rising 032 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rachel-Rising-032-2015-Digital-Zone-Empire-cbr.md) | 32.61MiB
 [Rachel Rising 033 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rachel-Rising-033-2015-Digital-Zone-Empire-cbr.md) | 26.26MiB

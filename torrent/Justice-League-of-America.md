@@ -2017,4 +2017,4 @@ Justice League International - A New Beginning \[TPB\].cbr | 45.91MiB
 Justice League United v01 - Justice League Canada (2015) (Digital) (Zone-Empire).cbr | 207.75MiB
 Secret Origins of the World's Greatest Super-Heroes TPB (1990).cbr | 56.85MiB
 Secret Origins of the World's Greatest Super-Heroes TPB Extra's Only (2).cbr | 14.82MiB
-Superman and Justice League America, Volume 1, 2016-03-23 (#TPB) (digital) (Glorith-Novus-HD).cbz | 329.35MiB
+[Superman and Justice League America, Volume 1, 2016-03-23 (#TPB) (digital) (Glorith-Novus-HD).cbz](https://github.com/alicewish/markdown/blob/master/comic/Superman-Justice-League-America-Volume-1-2016-03-23-TPB-digital-Glorith-Novus-HD-cbz.md) | 329.35MiB

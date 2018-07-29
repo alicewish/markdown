@@ -14,5 +14,5 @@ Clive Barker's Hellraiser - Bestiary 01 (of 06) (2014) (Digital-Empire).cbr | 52
 Clive Barker's Hellraiser - Bestiary 02 (of 06) (2014) (Digital-Empire).cbr | 66.78MiB
 Clive Barker's Hellraiser - Bestiary 03 (of 06) (2014) (Digital-Empire).cbr | 60.67MiB
 Clive Barker's Hellraiser - Bestiary 04 (of 06) (2014) (Digital-Empire).cbr | 56.34MiB
-Clive Barker's Hellraiser - Bestiary 05 (of 06) (2014) (Digital-Empire).cbr | 47.50MiB
+[Clive Barker's Hellraiser - Bestiary 05 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-05-of-06-2014-Digital-Empire-cbr.md) | 47.50MiB
 [Clive Barker's Hellraiser - Bestiary 06 (of 06) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-06-of-06-2015-Digital-Empire-cbr.md) | 56.16MiB

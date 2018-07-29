@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Bitch Planet 001 (2014) (Digital) (Mephisto-Empire).cbr | 54.09MiB
+[Bitch Planet 001 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bitch-Planet-001-2014-Digital-Mephisto-Empire-cbr.md) | 54.09MiB
 [Bitch Planet 002 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bitch-Planet-002-2015-Digital-Mephisto-Empire-cbr.md) | 34.62MiB
 [Bitch Planet 003 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bitch-Planet-003-2015-Digital-Mephisto-Empire-cbr.md) | 81.57MiB
 [Bitch Planet 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bitch-Planet-004-2015-Digital-Mephisto-Empire-cbr.md) | 47.77MiB

@@ -1674,11 +1674,11 @@ Batman - The Jiro Kuwata Batmanga 019 (2014) (digital) (Minutemen-InnerDemons).c
 Batman - The Jiro Kuwata Batmanga 020 (2014) (digital) (Son of Ultron-Empire).cbr | 19.27MiB
 Batman - The Jiro Kuwata Batmanga 021 (2014) (digital) (Minutemen-InnerDemons).cbr | 15.83MiB
 Batman - The Jiro Kuwata Batmanga 022 (2014) (digital) (Son of Ultron-Empire).cbr | 18.22MiB
-Batman - The Jiro Kuwata Batmanga 023 (2014) (digital) (Son of Ultron-Empire).cbr | 15.03MiB
-Batman - The Jiro Kuwata Batmanga 024 (2014) (digital) (Son of Ultron-Empire).cbr | 15.57MiB
-Batman - The Jiro Kuwata Batmanga 025 (2015) (digital) (Son of Ultron-Empire).cbr | 16.34MiB
-Batman - The Jiro Kuwata Batmanga 026 (2014) (digital) (Son of Ultron-Empire).cbr | 15.70MiB
-Batman - The Jiro Kuwata Batmanga 027 (2015) (digital) (Son of Ultron-Empire).cbr | 16.15MiB
+[Batman - The Jiro Kuwata Batmanga 023 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-023-2014-digital-Son-of-Ultron-Empire-cbr.md) | 15.03MiB
+[Batman - The Jiro Kuwata Batmanga 024 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-024-2014-digital-Son-of-Ultron-Empire-cbr.md) | 15.57MiB
+[Batman - The Jiro Kuwata Batmanga 025 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-025-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.34MiB
+[Batman - The Jiro Kuwata Batmanga 026 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-026-2014-digital-Son-of-Ultron-Empire-cbr.md) | 15.70MiB
+[Batman - The Jiro Kuwata Batmanga 027 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-027-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.15MiB
 [Batman - The Jiro Kuwata Batmanga 028 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-028-2014-digital-Son-of-Ultron-Empire-cbr.md) | 24.52MiB
 [Batman - The Jiro Kuwata Batmanga 029 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-029-2015-digital-Son-of-Ultron-Empire-cbr.md) | 14.20MiB
 [Batman - The Jiro Kuwata Batmanga 030 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-030-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.34MiB
@@ -3609,7 +3609,7 @@ Detective Comics 033 (2014) (2 covers) (digital-Empire).cbr | 43.40MiB
 Detective Comics 034 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr | 35.41MiB
 Detective Comics 035 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr | 32.50MiB
 [Detective Comics 036 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-036-2015-2-covers-digital-empire-cbr.md) | 27.58MiB
-Detective Comics 037 (2015) (2 covers) (digital-empire).cbr | 38.14MiB
+[Detective Comics 037 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-037-2015-2-covers-digital-empire-cbr.md) | 38.14MiB
 [Detective Comics 038 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-038-2015-2-covers-digital-empire-cbr.md) | 35.29MiB
 [Detective Comics 039 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-039-2015-2-covers-digital-empire-cbr.md) | 40.96MiB
 [Detective Comics 040 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-040-2015-2-covers-digital-empire-cbr.md) | 39.30MiB
@@ -3730,10 +3730,10 @@ Legends of the Dark Knight 076 (2013) (Digital) (Darkness-Empire).cbr | 14.21MiB
 Legends of the Dark Knight 077 (2013) (Digital) (Darkness-Empire).cbr | 13.56MiB
 Legends of the Dark Knight 078 (2013) (Digital) (Darkness-Empire).cbr | 13.25MiB
 Legends of the Dark Knight 079 (2013) (Digital) (Darkness-Empire).cbr | 12.87MiB
-Legends of the Dark Knight 080 (2014) (Digital) (Mephisto-Empire).cbr | 13.75MiB
-Legends of the Dark Knight 081 (2014) (Digital) (Mephisto-Empire).cbr | 12.44MiB
-Legends of the Dark Knight 082 (2014) (Digital) (Mephisto-Empire).cbr | 10.02MiB
-Legends of the Dark Knight 083 (2015) (Digital) (Mephisto-Empire).cbr | 17.04MiB
+[Legends of the Dark Knight 080 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-080-2014-Digital-Mephisto-Empire-cbr.md) | 13.75MiB
+[Legends of the Dark Knight 081 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-081-2014-Digital-Mephisto-Empire-cbr.md) | 12.44MiB
+[Legends of the Dark Knight 082 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-082-2014-Digital-Mephisto-Empire-cbr.md) | 10.02MiB
+[Legends of the Dark Knight 083 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-083-2015-Digital-Mephisto-Empire-cbr.md) | 17.04MiB
 [Legends of the Dark Knight 084 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-084-2015-Digital-Mephisto-Empire-cbr.md) | 16.30MiB
 [Legends of the Dark Knight 085 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Legends-of-Dark-Knight-085-2015-Digital-Empire-cbr.md) | 17.74MiB
 Legends of the Dark Knight 086 (2015) (Digital-Empire).cbr | 16.52MiB
@@ -5641,7 +5641,7 @@ Batman - The Golden Age v01 (2016) (Digital) (Zone-Empire).cbr | 500.53MiB
 Batman - Time and the Batman (2011) (Digital) (Zone-Empire).cbr | 166.71MiB
 Batman - Whatever Happened To the Caped Crusader - The Deluxe Edition (2010) (Digital) (Zone-Empire).cbr | 166.85MiB
 Batman - Year One (2005) (digital) (Minutemen-InnerDemons).cbr | 148.36MiB
-Batman Arkham - The Riddler (2015) (Digital) (Zone-Empire).cbr | 367.92MiB
+[Batman Arkham - The Riddler (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Riddler-2015-Digital-Zone-Empire-cbr.md) | 367.92MiB
 [Batman Noir - The Killing Joke (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Noir-Killing-Joke-2016-Digital-Zone-Empire-cbr.md) | 177.18MiB
 Batman Unwrapped - R.I.P. (2015) (Digital) (Zone-Empire).cbr | 347.84MiB
 Batman Versus Bane (2012) (Digital) (Zone-Empire).cbr | 232.82MiB

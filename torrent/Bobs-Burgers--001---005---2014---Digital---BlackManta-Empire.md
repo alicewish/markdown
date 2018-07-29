@@ -14,4 +14,4 @@ Bob's Burgers - Digital Exclusive Edition 001 (2014) (Digital) (BlackManta-Empir
 Bob's Burgers - Digital Exclusive Edition 003 (2014) (Digital) (BlackManta-Empire).cbr | 56.38MiB
 Bob's Burgers - Digital Exclusive Edition 004 (2014) (Digital) (BlackManta-Empire).cbr | 44.18MiB
 Bob's Burgers 002 (2014) (digital-Empire).cbr | 48.83MiB
-Bob's Burgers 005 (2015) (Digital) (BlackManta-Empire).cbr | 50.77MiB
+[Bob's Burgers 005 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bobs-Burgers-005-2015-Digital-BlackManta-Empire-cbr.md) | 50.77MiB

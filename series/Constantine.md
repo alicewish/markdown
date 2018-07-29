@@ -18,6 +18,8 @@ The star of JUSTICE LEAGUE DARK is unleashed in his own series! Liar, cheater, m
 
 [Constantine (001 - 016) (2013 - Ongoing) (Digital) (Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Constantine--001---016---2013---Ongoing---Digital---Darkness-Empire.md)
 
+[Constantine (001 - 021) (2013 - Ongoing) (Digital) (Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Constantine--001---021---2013---Ongoing---Digital---Darkness-Empire.md)
+
 [Constantine (001-023) (2013-2015) (Digital) (Darkness-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Constantine--001-023---2013-2015---Digital---Darkness-Empire.md)
 
 Online | Download

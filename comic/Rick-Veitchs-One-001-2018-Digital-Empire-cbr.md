@@ -1,5 +1,9 @@
 ## Rick Veitch's The One 001 (2018) (Digital-Empire).cbr
 
+
+[回到 Rick Veitch's The One 目录](https://github.com/alicewish/markdown/blob/master/series/Rick-Veitchs-One.md)
+
+
 ![Rick Veitch's The One 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp82v8kp8gj21j82cwkjl.jpg)
 
 ![Rick Veitch's The One 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp82vtfo56j21j82cwu0x.jpg)
@@ -63,3 +67,6 @@
 ![Rick Veitch's The One 001-030.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp838an4gnj21j82cwhdt.jpg)
 
 ![Rick Veitch's The One 001-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp838qkzbgj21j82cwu0x.jpg)
+
+[回到 Rick Veitch's The One 目录](https://github.com/alicewish/markdown/blob/master/series/Rick-Veitchs-One.md)
+

@@ -109,28 +109,28 @@ Sub-Mariner 048(1972)(FB-DCP)(C2C).cbr | 25.09MiB
 Sub-Mariner 048 (1972) (Digital) (Shadowcat-Empire).cbz | 38.14MiB
 Sub-Mariner 049 (1972) (Digital) (Shadowcat-Empire).cbz | 41.21MiB
 The Sub-Mariner 050 (1972) (Digital) (AnHeroGold-Empire).cbz | 51.09MiB
-Sub-Mariner 050 (1972) (Digital) (Shadowcat-Empire).cbz | 51.38MiB
+[Sub-Mariner 050 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-050-1972-Digital-Shadowcat-Empire-cbz.md) | 51.38MiB
 The Sub-Mariner 051 (1972) (Digital) (AnHeroGold-Empire).cbz | 51.46MiB
-Sub-Mariner 051 (1972) (Digital) (Shadowcat-Empire).cbz | 51.75MiB
+[Sub-Mariner 051 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-051-1972-Digital-Shadowcat-Empire-cbz.md) | 51.75MiB
 The Sub-Mariner 052 (1972) (Digital) (AnHeroGold-Empire).cbz | 43.18MiB
-Sub-Mariner 052 (1972) (Digital) (Shadowcat-Empire).cbz | 43.48MiB
+[Sub-Mariner 052 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-052-1972-Digital-Shadowcat-Empire-cbz.md) | 43.48MiB
 The Sub-Mariner 053 (1972) (Digital) (AnHeroGold-Empire).cbz | 29.58MiB
-Sub-Mariner 053 (1972) (Digital) (Shadowcat-Empire).cbz | 29.88MiB
+[Sub-Mariner 053 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-053-1972-Digital-Shadowcat-Empire-cbz.md) | 29.88MiB
 The Sub-Mariner 054 (1972) (Digital) (AnHeroGold-Empire).cbz | 34.77MiB
-Sub-Mariner 054 (1972) (Digital) (Shadowcat-Empire).cbz | 35.07MiB
+[Sub-Mariner 054 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-054-1972-Digital-Shadowcat-Empire-cbz.md) | 35.07MiB
 The Sub-Mariner 055 (1972) (Digital) (AnHeroGold-Empire).cbz | 47.30MiB
 Sub-Mariner 055(1972)(FB-DCP)(C2C).cbr | 25.20MiB
-Sub-Mariner 055 (1972) (Digital) (Shadowcat-Empire).cbz | 47.60MiB
+[Sub-Mariner 055 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-055-1972-Digital-Shadowcat-Empire-cbz.md) | 47.60MiB
 The Sub-Mariner 056 (1972) (Digital) (AnHeroGold-Empire).cbz | 44.18MiB
-Sub-Mariner 056 (1972) (Digital) (Shadowcat-Empire).cbz | 44.47MiB
+[Sub-Mariner 056 (1972) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-056-1972-Digital-Shadowcat-Empire-cbz.md) | 44.47MiB
 The Sub-Mariner 057 (1973) (Digital) (AnHeroGold-Empire).cbz | 49.47MiB
-Sub-Mariner 057 (1973) (Digital) (Shadowcat-Empire).cbz | 49.76MiB
+[Sub-Mariner 057 (1973) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-057-1973-Digital-Shadowcat-Empire-cbz.md) | 49.76MiB
 The Sub-Mariner 058 (1973) (Digital) (AnHeroGold-Empire).cbz | 49.97MiB
-Sub-Mariner 058 (1973) (Digital) (Shadowcat-Empire).cbz | 50.26MiB
+[Sub-Mariner 058 (1973) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-058-1973-Digital-Shadowcat-Empire-cbz.md) | 50.26MiB
 The Sub-Mariner 059 (1973) (Digital) (AnHeroGold-Empire).cbz | 40.57MiB
-Sub-Mariner 059 (1973) (Digital) (Shadowcat-Empire).cbz | 40.87MiB
+[Sub-Mariner 059 (1973) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-059-1973-Digital-Shadowcat-Empire-cbz.md) | 40.87MiB
 The Sub-Mariner 060 (1973) (Digital) (AnHeroGold-Empire).cbz | 41.73MiB
-Sub-Mariner 060 (1973) (Digital) (Shadowcat-Empire).cbz | 42.02MiB
+[Sub-Mariner 060 (1973) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Sub-Mariner-060-1973-Digital-Shadowcat-Empire-cbz.md) | 42.02MiB
 Sub-Mariner 061 (1973) (Digital) (Shadowcat-Empire).cbz | 80.75MiB
 Sub-Mariner 062 (1973) (Digital) (Shadowcat-Empire).cbz | 75.18MiB
 Sub-Mariner 063 (1973) (Digital) (Shadowcat-Empire).cbz | 73.44MiB

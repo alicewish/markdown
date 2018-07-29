@@ -30,6 +30,8 @@ In 1775, Seth Abbott fought to win his fellow Americans their independence. In 1
 
 [Rebels - These Free and Independent States (001-006)(2017)(digital)(Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Rebels---These-Free-and-Independent-States--001-006--2017--digital--Son-of-Ultron-Empire.md)
 
+[Rebels - These Free and Independent States (001-008)(2017)(digital)(Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Rebels---These-Free-and-Independent-States--001-008--2017--digital--Son-of-Ultron-Empire.md)
+
 Online | Download
 --- | ---
 [Rebels - These Free and Independent States 001 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rebels-These-Free-Independent-States-001-2017-digital-Son-of-Ultron-Empire-cbr.md) | [63.95MiB](https://pan.baidu.com/s/1kVEaD1P#list/path=%2F0-Day%20Week%20of%202017%20Q1%2F0-Day%20Week%20of%202017.03.22%2F%E3%82%B5%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%B7%E3%82%A8%E3%82%B5%E3%82%A4%E3%82%A6%E3%82%B5%E3%82%AA%E3%82%B9%E3%82%B9%E3%82%B5%E3%82%BD%E3%82%A2%E3%82%A8%E3%82%A4%E3%82%B7%E3%82%B7%E3%82%BF%E3%82%AD%E3%82%AA%E3%82%AB%E3%82%B1%E3%82%B7%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%B3%E3%82%A4%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202017%20Q1)

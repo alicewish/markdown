@@ -318,7 +318,7 @@ Buffy the Vampire Slayer Season 9 024 (2013) (Digital) (Cypher-Empire).cbr | 16.
 Buffy the Vampire Slayer Season 9 025 (2013) (Digital) (Cypher-Empire).cbr | 20.73MiB
 &emsp;【Buffy The Vampire Slayer/Seasons (08-10)(2007-2016)/Season 09 - Library Edition (v01-v03)(2015)】 | 
 Buffy the Vampire Slayer Season 9 - Library Edition v01 (2015) (digital) (Son of Ultron-Empire).cbr | 437.72MiB
-Buffy the Vampire Slayer Season 9 - Library Edition v02 (2015) (digital) (Son of Ultron-Empire).cbr | 358.19MiB
+[Buffy the Vampire Slayer Season 9 - Library Edition v02 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Buffy-Vampire-Slayer-Season-9-Library-Edition-v02-2015-digital-Son-of-Ultron-Empire-cbr.md) | 358.19MiB
 Buffy the Vampire Slayer Season 9 - Library Edition v03 (2015) (digital) (Son of Ultron-Empire).cbr | 379.62MiB
 &emsp;【Buffy The Vampire Slayer/Seasons (08-10)(2007-2016)/Season 09 TPBs (v01-v05)(2012-2014)】 | 
 Buffy the Vampire Slayer Season 9 v01 - Freefall (2012) (digital) (The Magicians-Empire).cbr | 246.34MiB

@@ -1318,7 +1318,7 @@ Thor By Dan Jurgens & John Romita Jr. Vol. 03 (2010) (digital) (Minutemen-Slayer
 Thor By J. Michael Straczynski Vol. 01 (2008) (digital) (Minutemen-Slayer).cbr | 138.69MiB
 Thor By J. Michael Straczynski Vol. 02 (2009) (digital) (Minutemen-Slayer).cbr | 159.36MiB
 Thor By J. Michael Straczynski Vol. 03 (2010) (digital) (Minutemen-Slayer).cbr | 238.18MiB
-Thor Corps (2016) (Digital) (AnHeroGold-Empire).cbz | 502.20MiB
+[Thor Corps (2016) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thor-Corps-2016-Digital-AnHeroGold-Empire-cbz.md) | 502.20MiB
 Thor Epic Collection - The God Of Thunder (2013) (Digital) (AnHeroGold-Empire).cbz | 375.67MiB
 Thor Epic Collection - To Wake The Mangog (2015) (Digital) (AnHeroGold-Empire).cbz | 857.35MiB
 Thor Epic Collection Vol. 02 - When Titans Clash (2016) (digital) (Minutemen-Slayer).cbr | 967.17MiB

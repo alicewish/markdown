@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 Memetic 01 (of 03) (2014) (Digital) (Mephisto-Empire).cbr | 68.51MiB
 Memetic 02 (of 03) (2014) (Digital) (Mephisto-Empire).cbr | 65.42MiB
-Memetic 03 (of 03) (2014) (Digital) (Mephisto-Empire).cbr | 59.07MiB
+[Memetic 03 (of 03) (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Memetic-03-of-03-2014-Digital-Mephisto-Empire-cbr.md) | 59.07MiB

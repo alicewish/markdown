@@ -5035,6 +5035,8 @@
 
 [Mephisto Vs...](https://github.com/alicewish/markdown/blob/master/series/Mephisto-Vs.md)
 
+[Mera - Queen of Atlantis](https://github.com/alicewish/markdown/blob/master/series/Mera-Queen-of-Atlantis.md)
+
 [Merciless - the Rise of Ming](https://github.com/alicewish/markdown/blob/master/series/Merciless-Rise-of-Ming.md)
 
 [Mercury Heat](https://github.com/alicewish/markdown/blob/master/series/Mercury-Heat.md)
@@ -8037,6 +8039,8 @@
 
 [The Terminator - Enemy of My Enemy](https://github.com/alicewish/markdown/blob/master/series/Terminator-Enemy-of-My-Enemy.md)
 
+[The Terrifics](https://github.com/alicewish/markdown/blob/master/series/Terrifics.md)
+
 [The Testament of Sister New Devil](https://github.com/alicewish/markdown/blob/master/series/Testament-of-Sister-New-Devil.md)
 
 [The Thanos Imperative](https://github.com/alicewish/markdown/blob/master/series/Thanos-Imperative.md)
@@ -10153,6 +10157,8 @@
 
 [DC Week+ (07-18-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-18-2018.md)
 
+[DC Week+ (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-25-2018.md)
+
 ### Hitlist Week
 
 [Hitlist Week of 2015.04.29](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2015-04-29.md)
@@ -10747,6 +10753,8 @@
 
 [Image Week (07-18-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-07-18-2018.md)
 
+[Image Week (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-07-25-2018.md)
+
 ### Marvel Week
 
 [Marvel Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-01-06-2016.md)
@@ -11014,6 +11022,8 @@
 [Marvel Week+ (07-11-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-11-2018.md)
 
 [Marvel Week+ (07-18-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-18-2018.md)
+
+[Marvel Week+ (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-25-2018.md)
 
 ### Novus - Week
 

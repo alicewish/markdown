@@ -74,7 +74,7 @@ Usagi Yojimbo (Book 25) - Fox Hunt (2011) (digital) (Son of Ultron-Empire).cbr |
 Usagi Yojimbo (Book 26) - Traitors of the Earth (2012) (digital) (Son of Ultron-Empire).cbr | 302.86MiB
 Usagi Yojimbo (Book 27) - A Town Called Hell (2013) (digital) (Son of Ultron-Empire).cbr | 304.76MiB
 Usagi Yojimbo (Book 28) - Red Scorpion (2014) (digital) (Son of Ultron-Empire).cbr | 255.99MiB
-Usagi Yojimbo (Book 29) - Two Hundred Jizo (2015) (digital) (Son of Ultron-Empire).cbr | 285.73MiB
+[Usagi Yojimbo (Book 29) - Two Hundred Jizo (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Book-29-Two-Hundred-Jizo-2015-digital-Son-of-Ultron-Empire-cbr.md) | 285.73MiB
 Usagi Yojimbo - Netsuke (1999) (short from Wizard #097) (AnEvilScan).cbr | 3.05MiB
 Usagi Yojimbo - The Cooking Lesson (from Drawing the Line) (AnEvilScan).cbr | 2.81MiB
 Usagi Yojimbo - Yokai (2009) (digital) (The Magicians-Empire).cbr | 178.58MiB
@@ -84,13 +84,13 @@ Usagi Yojimbo - Senso 01 (of 06) (2014) (c2c - 2048px) (F) (theProletariat-Novus
 Usagi Yojimbo - Senso 02 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 49.67MiB
 Usagi Yojimbo - Senso 03 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 52.27MiB
 Usagi Yojimbo - Senso 04 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 50.27MiB
-Usagi Yojimbo - Senso 05 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 41.43MiB
+[Usagi Yojimbo - Senso 05 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-05-of-06-2014-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 41.43MiB
 [Usagi Yojimbo - Senso 06 (of 06) (2015) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-06-of-06-2015-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 49.97MiB
 Usagi Yojimbo - Senso 01 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 24.11MiB
 Usagi Yojimbo - Senso 02 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 26.89MiB
 Usagi Yojimbo - Senso 03 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 31.19MiB
 Usagi Yojimbo - Senso 04 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 29.50MiB
-Usagi Yojimbo - Senso 05 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 25.44MiB
+[Usagi Yojimbo - Senso 05 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-05-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 25.44MiB
 [Usagi Yojimbo - Senso 06 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-06-of-06-2015-digital-Minutemen-InnerDemons-cbr.md) | 30.50MiB
 &emsp;【Usagi Yojimbo/Usagi Yojimbo v1 (001-038)(1987-1993)(digital)(Minutemen-InnerDemons).cbr】 | 
 Usagi Yojimbo 001 (1987) (digital) (Minutemen-InnerDemons).cbr | 15.48MiB

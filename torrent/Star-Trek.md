@@ -380,7 +380,7 @@ Star Trek - Legion of Super-Heroes 06 (of 6) (3 covers) (2012) (Digital) (Zone-E
 Star Trek - Legion of Super-Heroes 01 (2011) (2nd Printing Variant Only) (ScanDog).cbr | 1.16MiB
 Star Trek - Legion of Super-Heroes 01 (2011) (RE Cover Only) \[extracted\] (digital-Empire).cbr | 806.42KiB
 &emsp;【Star Trek/Star Trek (IDW)/Crossovers/Star Trek - Planet Of The Apes (001-005+)(2014-2015)(digital)】 | 
-Star Trek Planet Of The Apes 001(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 40.89MiB
+[Star Trek Planet Of The Apes 001(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-001-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 40.89MiB
 [Star Trek Planet Of The Apes 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 43.55MiB
 [Star Trek Planet Of The Apes 003(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-003-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 38.66MiB
 [Star Trek Planet Of The Apes 004 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Planet-Of-Apes-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 45.25MiB
@@ -461,7 +461,7 @@ Star Trek 035 (2014) (digital-Empire).cbr | 36.41MiB
 Star Trek 036 (2014) (digital) (CompetentRipper-Empire).cbr | 38.56MiB
 Star Trek 037 (2014) (digital) (CompetentRipper-Empire).cbr | 40.85MiB
 Star Trek 038 (2014) (digital) (CompetentRipper-Empire).cbr | 52.49MiB
-Star Trek 039 (2014) (digital-Empire).cbr | 46.66MiB
+[Star Trek 039 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-039-2014-digital-Empire-cbr.md) | 46.66MiB
 [Star Trek 040 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-040-2015-digital-Empire-cbr.md) | 44.41MiB
 [Star Trek 041 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-041-2015-digital-Empire-cbr.md) | 39.08MiB
 [Star Trek 042 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-042-2015-digital-Empire-cbr.md) | 41.61MiB
@@ -699,7 +699,7 @@ Star Trek - New Frontier 05 (2008) (noads) (greengiant-DCP).cbr | 11.81MiB
 Star Trek New Visions 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.92MiB
 Star Trek New Visions 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.13MiB
 Star Trek New Visions 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 52.47MiB
-Star Trek New Visions 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 53.15MiB
+[Star Trek New Visions 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 53.15MiB
 [Star Trek New Visions 005 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.71MiB
 [Star Trek New Visions 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 46.08MiB
 [Star Trek New Visions 007(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-007-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 47.77MiB
@@ -840,7 +840,7 @@ Star Trek Manifest Destiny 001(2016)(Klingon Language Edition)(Digital)(TLK-EMPI
 Star Trek Movie Adaptation (2010) (digital) (SD) (Minutemen-FlynnLives).cbr | 79.27MiB
 Star Trek Nero (2010) (digital) (SD) (Minutemen-FlynnLives).cbr | 49.52MiB
 [Star Trek New Frontier (TPB)(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Frontier-TPB-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 176.73MiB
-Star Trek Romulans Treasury Edition (2014) (Digital) (TLK-EMPIRE-HD).cbr | 138.01MiB
+[Star Trek Romulans Treasury Edition (2014) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Romulans-Treasury-Edition-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 138.01MiB
 Star Trek Spock Reflections (2010) (digital) (SD) (Minutemen-FlynnLives).cbr | 55.36MiB
 &emsp;【Star Trek/Star Trek (IDW)/Star Trek Year Four - Enterprise Experiment (001-005+)(2008)】 | 
 Star Trek Year Four - Enterprise Experiment 001 (2008) (3 covers) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 13.64MiB

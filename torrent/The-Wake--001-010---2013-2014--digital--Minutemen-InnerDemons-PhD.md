@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Wake (2014) (digital TPB+Extras) (Zone-Empire).cbr | 505.17MiB
+[The Wake (2014) (digital TPB+Extras) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wake-2014-digital-TPB-Extras-Zone-Empire-cbr.md) | 505.17MiB
 The Wake 001 Director's Cut (2013) (Digital) (Archangel+Zone-Empire).cbr | 57.88MiB
 The Wake 01 (of 10) (2013) (digital) (Minutemen-InnerDemons).cbr | 51.83MiB
 The Wake 02 (of 10) (2013) (digital) (Minutemen-PhD).cbr | 41.80MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【The Mis-Adventures of Adam West (v1 - v2 + Extras)(2011 - 2014)(Scans+Digital)(DCP+TLK-Empire)】 | 
-Mis-Adventures of Adam West - The Dark Night 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 28.48MiB
+[Mis-Adventures of Adam West - The Dark Night 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mis-Adventures-of-Adam-West-Dark-Night-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 28.48MiB
 Mis-Adventures of Adam West 001-3 covers ctc (Bluewater(2011).cbr | 14.40MiB
 &emsp;【The Mis-Adventures of Adam West (v1 - v2 + Extras)(2011 - 2014)(Scans+Digital)(DCP+TLK-Empire)/Mis-Adventures of Adam West v1 (01 - 04) (2011)】 | 
 The Mis-Adventures Of Adam West 1(c2c)(3 covers)(Bluewater)(2011).cbr | 14.40MiB

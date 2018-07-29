@@ -54,7 +54,7 @@ Dead@17 - The Blasphemy Throne 001 (2014) (Digital) (DR & Quinch-Empire).cbr | 3
 Dead@17 - The Blasphemy Throne 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 37.86MiB
 Dead@17 - The Blasphemy Throne 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 37.01MiB
 Dead@17 - The Blasphemy Throne 004 (2014) (Digital) (DR & Quinch-Empire).cbr | 38.85MiB
-Dead@17 - The Blasphemy Throne 005 (2014) (Digital) (DR & Quinch-Empire).cbr | 33.78MiB
+[Dead@17 - The Blasphemy Throne 005 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-17-Blasphemy-Throne-005-2014-Digital-DR-Quinch-Empire-cbr.md) | 33.78MiB
 [Dead@17 - The Blasphemy Throne 006 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-17-Blasphemy-Throne-006-2015-Digital-DR-Quinch-Empire-cbr.md) | 28.08MiB
 [Dead@17 - The Blasphemy Throne 007 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-17-Blasphemy-Throne-007-2015-Digital-DR-Quinch-Empire-cbr.md) | 36.47MiB
 [Dead@17 - Rebirth 000 (2016) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-17-Rebirth-000-2016-Digital-DR-Quinch-Empire-cbr.md) | 12.78MiB

@@ -14,4 +14,4 @@ Grimm Fairy Tales Presents Tales From Oz 001(2014)(2 covers)(c2c)(Digi-Hybrid)(T
 Grimm Fairy Tales Presents Tales From Oz 002(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 40.12MiB
 Grimm Fairy Tales Presents Tales From Oz 003(2014)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 38.66MiB
 Grimm Fairy Tales Presents Tales From Oz 004(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 56.54MiB
-Grimm Fairy Tales Presents Tales From Oz 005(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 51.11MiB
+[Grimm Fairy Tales Presents Tales From Oz 005(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Tales-From-Oz-005-2014-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 51.11MiB

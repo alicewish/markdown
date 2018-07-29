@@ -166,7 +166,7 @@ Batman 80-Page Giant 03 (2000).cbr | 25.15MiB
 Batman Activity Book (c2c) (2010) (ActionComics-DCP).cbr | 61.76MiB
 Batman Activity Book with Stickers (c2c) (2010) (ActionComics-DCP).cbr | 32.53MiB
 Batman Adventures Vol. 03 (2015) (digital) (Minutemen-FlynnLives).cbr | 263.49MiB
-Batman Arkham - Killer Croc, 2016-06-22 (#TPB) (digital) (Glorith-Novus-HD).cbz | 427.06MiB
+[Batman Arkham - Killer Croc, 2016-06-22 (#TPB) (digital) (Glorith-Novus-HD).cbz](https://github.com/alicewish/markdown/blob/master/comic/Batman-Arkham-Killer-Croc-2016-06-22-TPB-digital-Glorith-Novus-HD-cbz.md) | 427.06MiB
 Batman Blind Justice TPB (1992) (Bchry-DCP).cbz | 264.34MiB
 Batman Chronicles The Gauntlet (1997) (Bchry-DCP).cbz | 64.69MiB
 &emsp;【Batman Collection/Batman Dailies】 | 

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Graveyard Shift 001 (2014) (Digital-Empire).cbr | 44.05MiB
+[Graveyard Shift 001 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Graveyard-Shift-001-2014-Digital-Empire-cbr.md) | 44.05MiB
 [Graveyard Shift 002 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Graveyard-Shift-002-2015-Digital-Empire-cbr.md) | 36.29MiB
 [Graveyard Shift 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Graveyard-Shift-003-2015-Digital-Empire-cbr.md) | 41.51MiB
 [Graveyard Shift 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Graveyard-Shift-004-2015-Digital-Empire-cbr.md) | 40.97MiB

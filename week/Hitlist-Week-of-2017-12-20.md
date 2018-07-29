@@ -260,7 +260,7 @@ Dark Souls - Tales of Ember 001 (2017) (5 covers) (Digital-Empire).cbr | 57.09Mi
 Dark Souls - Tales of Ember 002 (2017) (4 covers) (Digital-Empire).cbr | 58.53MiB
 Deadpool 2099 (2017) (digital) (Minutemen-Slayer).cbr | 282.57MiB
 Deadpool Firsts (2016) (digital) (Minutemen-Slayer).cbr | 530.89MiB
-Deadpool-GLI Summer Fun Spectacular (2007) (Digital) (Shadowcat-Empire).cbz | 80.20MiB
+[Deadpool-GLI Summer Fun Spectacular (2007) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-GLI-Summer-Fun-Spectacular-2007-Digital-Shadowcat-Empire-cbz.md) | 80.20MiB
 Death's Head II 001 (1992) (Digital) (Shadowcat-Empire).cbz | 62.42MiB
 Deathlok Demolisher Complete Collection (2014) (Digital) (Shadowcat-Empire).cbz | 642.91MiB
 Deathmatch 009 (2013) (digital) (Minutemen-Slayer).cbr | 64.31MiB
@@ -487,7 +487,7 @@ Fury Peacemaker 003 (2006) (Digital) (Shadowcat-Empire).cbz | 39.22MiB
 Fury Peacemaker 004 (2006) (Digital) (Shadowcat-Empire).cbz | 36.48MiB
 Fury Peacemaker 005 (2006) (Digital) (Shadowcat-Empire).cbz | 42.10MiB
 Fury Peacemaker 006 (2006) (Digital) (Shadowcat-Empire).cbz | 44.77MiB
-GLX-Mas Special (2005) (Digital) (Shadowcat-Empire).cbz | 61.47MiB
+[GLX-Mas Special (2005) (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/GLX-Mas-Special-2005-Digital-Shadowcat-Empire-cbz.md) | 61.47MiB
 Gaia 00 - Children of the Gaia (2015) (Digital) (Europe Comics).cbr | 17.74MiB
 Gaia 01 - Leo (Digital) (Europe Comics).cbr | 36.65MiB
 Gaia 02 - Milo (Digital) (Europe Comics).cbr | 30.13MiB

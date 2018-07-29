@@ -27,7 +27,7 @@ DC Universe vs. The Masters of the Universe 004 (2014) (digital-Empire).cbr | 33
 DC Universe vs. The Masters of the Universe 005 (2014) (digital-Empire).cbr | 35.27MiB
 DC Universe vs. The Masters of the Universe 006 (2014) (digital-Empire).cbr | 32.43MiB
 &emsp;【Masters of the Universe/(DC) He-Man and the Masters of the Universe/He-Man - The Eternity War (001-015)(2015-2016)(digital-Empire)】 | 
-He-Man - The Eternity War 001 (2015) (digital-Empire).cbr | 38.77MiB
+[He-Man - The Eternity War 001 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-001-2015-digital-Empire-cbr.md) | 38.77MiB
 [He-Man - The Eternity War 002 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-002-2015-digital-Empire-cbr.md) | 34.25MiB
 [He-Man - The Eternity War 003 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-003-2015-digital-Empire-cbr.md) | 32.39MiB
 [He-Man - The Eternity War 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-004-2015-digital-Empire-cbr.md) | 36.99MiB

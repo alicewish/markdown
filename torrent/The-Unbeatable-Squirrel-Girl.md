@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【The Unbeatable Squirrel Girl】 | 
-The Unbeatable Squirrel Girl & The Great Lakes Avengers (2016) (Digital) (AnHeroGold-Empire).cbz | 449.40MiB
+[The Unbeatable Squirrel Girl & The Great Lakes Avengers (2016) (Digital) (AnHeroGold-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Unbeatable-Squirrel-Girl-Great-Lakes-Avengers-2016-Digital-AnHeroGold-Empire-cbz.md) | 449.40MiB
 [The Unbeatable Squirrel Girl - Marvel Legacy Primer Pages (2017) (digital-Minutemen).cbz](https://github.com/alicewish/markdown/blob/master/comic/Unbeatable-Squirrel-Girl-Marvel-Legacy-Primer-Pages-2017-digital-Minutemen-cbz.md) | 12.17MiB
 The Unbeatable Squirrel Girl Beats Up The Marvel Universe (2016) (digital OGN) (Minutemen-Thoth).cbz | 138.17MiB
 The Unbeatable Squirrel Girl Vol. 01 - Squirrel Power (2015) (digital) (Minutemen-Slayer).cbr | 162.56MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Phantom 001 (2014) (digital) (Son of Ultron-Empire).cbr | 62.49MiB
+[The Phantom 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Phantom-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 62.49MiB
 [The Phantom 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Phantom-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 63.49MiB
 [The Phantom 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Phantom-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.63MiB
 [The Phantom 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Phantom-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 56.66MiB

@@ -14,4 +14,4 @@ Grimm Fairy Tales Presents Goddess Inc 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 1
 Grimm Fairy Tales Presents Goddess Inc 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 31.76MiB
 Grimm Fairy Tales Presents Goddess Inc 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 33.30MiB
 Grimm Fairy Tales Presents Goddess Inc 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 36.44MiB
-Grimm Fairy Tales Presents Goddess Inc 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.12MiB
+[Grimm Fairy Tales Presents Goddess Inc 005(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Goddess-Inc-005-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 32.12MiB

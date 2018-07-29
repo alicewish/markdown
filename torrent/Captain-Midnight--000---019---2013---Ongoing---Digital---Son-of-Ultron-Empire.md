@@ -29,6 +29,6 @@ Captain Midnight 014 (2014) (digital) (Son of Ultron-Empire).cbr | 42.08MiB
 Captain Midnight 015 (2014) (digital) (Son of Ultron-Empire).cbr | 47.53MiB
 Captain Midnight 016 (2014) (digital) (Son of Ultron-Empire).cbr | 39.64MiB
 Captain Midnight 017 (2014) (digital) (Son of Ultron-Empire).cbr | 40.07MiB
-Captain Midnight 018 (2014) (digital) (Son of Ultron-Empire).cbr | 52.62MiB
+[Captain Midnight 018 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-018-2014-digital-Son-of-Ultron-Empire-cbr.md) | 52.62MiB
 [Captain Midnight 019 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Midnight-019-2015-digital-Son-of-Ultron-Empire-cbr.md) | 48.44MiB
 Free Comic Book Day - Star Wars and Captain Midnight & Avatar - The Last Airbender (2013) (digital) (Son of Ultron-Empire).cbr | 35.17MiB

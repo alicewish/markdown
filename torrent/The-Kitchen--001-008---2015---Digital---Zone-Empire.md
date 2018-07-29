@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 The Kitchen 01 (of 08) (2015) (Digital) (Zone-Empire).cbr | 48.51MiB
-The Kitchen 02 (of 08) (2015) (Digital) (Zone-Empire).cbr | 44.23MiB
+[The Kitchen 02 (of 08) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kitchen-02-of-08-2015-Digital-Zone-Empire-cbr.md) | 44.23MiB
 The Kitchen 03 (2015) (Digtal) (F) (Zone-Empire).cbr | 41.72MiB
 [The Kitchen 04 (of 08) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kitchen-04-of-08-2015-Digital-Zone-Empire-cbr.md) | 51.11MiB
 [The Kitchen 05 (of 08) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kitchen-05-of-08-2015-Digital-Zone-Empire-cbr.md) | 41.27MiB

@@ -50,6 +50,8 @@ SORCERER SUPREME…OF THE GALAXY! The Eye of Agamotto is closed! Doctor Stephen 
 
 [Doctor Strange (057,068-074) (1983-1985) (digital) (AnHeroGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Strange--057-068-074---1983-1985---digital---AnHeroGold-Empire.md)
 
+[Doctor Strange (075-081) (1986-1987) (Digital) (AnHeroGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Strange--075-081---1986-1987---Digital---AnHeroGold-Empire.md)
+
 [Doctor Strange (001-008) (2015-) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Strange--001-008---2015----digital---Minutemen-Faessla.md)
 
 [Doctor Strange (001-010+) (2015-) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Strange--001-010----2015----digital---Minutemen-Faessla.md)

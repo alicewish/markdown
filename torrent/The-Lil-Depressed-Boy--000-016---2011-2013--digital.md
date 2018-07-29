@@ -19,7 +19,7 @@ The Li'l Depressed Boy v03 - Got Your Money (2012) (Digital) (DR & Quinch-Empire
 The Li'l Depressed Boy v04 - Love Is A Place (2013) (Digital) (DR & Quinch-Empire).cbr | 148.73MiB
 The Li'l Depressed Boy - Supposed To Be There Too 001 (2014) (Digital-Empire).cbr | 48.08MiB
 The Li'l Depressed Boy - Supposed To Be There Too 002 (2014) (Digital-Empire).cbr | 40.51MiB
-The Li'l Depressed Boy - Supposed To Be There Too 003 (2014) (Digital-Empire).cbr | 43.92MiB
+[The Li'l Depressed Boy - Supposed To Be There Too 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lil-Depressed-Boy-Supposed-To-Be-There-Too-003-2014-Digital-Empire-cbr.md) | 43.92MiB
 [The Li'l Depressed Boy - Supposed To Be There Too 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lil-Depressed-Boy-Supposed-To-Be-There-Too-004-2015-Digital-Empire-cbr.md) | 43.62MiB
 [The Li'l Depressed Boy - Supposed To Be There Too 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lil-Depressed-Boy-Supposed-To-Be-There-Too-005-2015-Digital-Empire-cbr.md) | 39.12MiB
 The Li'l Depressed Boy 000 (2011) (c2c) (Minutemen-DTs).cbz | 90.89MiB

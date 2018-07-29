@@ -19,7 +19,7 @@ Amazing Spider-Man - Extra! 01 - Brand New Day (one shot) .cbr | 25.72MiB
 Amazing Spider-Man - Extra! 02 (2009) (GreenGiant-DCP).cbr | 17.36MiB
 Amazing Spider-Man - Extra! 03 (2009) (GreenGiant-DCP).cbr | 17.49MiB
 [Amazing Spider-Man 001 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-001-2014-Digital-Darkness-Empire-cbr.md) | 138.72MiB
-Amazing Spider-Man 001.1 (2014) (Digital) (Darkness-Empire).cbr | 43.94MiB
+[Amazing Spider-Man 001.1 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Spider-Man-001-1-2014-Digital-Darkness-Empire-cbr.md) | 43.94MiB
 &emsp;【Spidey03/Amazing Spider-Man Annuals (01 - 39)】 | 
 Amazing Spider- Man Annual (Vol 01 - 35).txt | 2.53KiB
 Amazing Spider-Man Annual 001 (1964) (Digital) (Cypher-Empire).cbr | 117.27MiB

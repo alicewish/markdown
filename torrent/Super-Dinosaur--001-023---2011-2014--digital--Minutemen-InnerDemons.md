@@ -37,7 +37,7 @@ Super Dinosaur 019 (2013) (digital) (HD) (Minutemen-InnerDemons).cbr | 48.27MiB
 Super Dinosaur 020 (2013) (digital) (Minutemen-InnerDemons).cbr | 36.93MiB
 Super Dinosaur 021 (2014) (digital) (Minutemen-InnerDemons).cbr | 45.72MiB
 Super Dinosaur 022 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.66MiB
-Super Dinosaur 023 (2014) (digital) (Minutemen-InnerDemons).cbr | 49.62MiB
+[Super Dinosaur 023 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Super-Dinosaur-023-2014-digital-Minutemen-InnerDemons-cbr.md) | 49.62MiB
 Super Dinosaur v01 (2011) (Digital) (Salem-Empire).cbr | 263.14MiB
 Super Dinosaur v02 (2012) (Digital) (Salem-Empire).cbr | 248.53MiB
 Super Dinosaur v03 (2013) (Digital) (Salem-Empire).cbr | 249.13MiB

@@ -17,7 +17,7 @@ Afterlife With Archie 003 (2014) (digital) (Minutemen-InnerDemons).cbr | 44.75Mi
 Afterlife With Archie 004 (2014) (digital) (Minutemen-InnerDemons).cbr | 44.64MiB
 Afterlife With Archie 005 (2014) (digital) (Minutemen-InnerDemons).cbr | 44.98MiB
 Afterlife With Archie 006 (2014) (digital) (Minutemen-InnerDemons).cbr | 57.33MiB
-Afterlife With Archie 007 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.47MiB
+[Afterlife With Archie 007 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Afterlife-With-Archie-007-2015-digital-Minutemen-InnerDemons-cbr.md) | 47.47MiB
 &emsp;【Afterlife with Archie (001-007 +Variant Covers) (2013-Ongoing)(Digital) (Minutemen-InnerDemons)/Variant Covers】 | 
 Afterlife With Archie 001 (2013) (Francesco Francavilla cover only) (digital-Empire).cbr | 3.05MiB
 Afterlife With Archie 001 (2013) (Tim Seeley cover only) (digital-Empire).cbr | 2.94MiB

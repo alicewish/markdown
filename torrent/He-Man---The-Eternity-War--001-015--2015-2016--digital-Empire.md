@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-He-Man - The Eternity War 001 (2015) (digital-Empire).cbr | 38.77MiB
+[He-Man - The Eternity War 001 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-001-2015-digital-Empire-cbr.md) | 38.77MiB
 [He-Man - The Eternity War 002 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-002-2015-digital-Empire-cbr.md) | 34.25MiB
 [He-Man - The Eternity War 003 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-003-2015-digital-Empire-cbr.md) | 32.39MiB
 [He-Man - The Eternity War 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Eternity-War-004-2015-digital-Empire-cbr.md) | 36.99MiB

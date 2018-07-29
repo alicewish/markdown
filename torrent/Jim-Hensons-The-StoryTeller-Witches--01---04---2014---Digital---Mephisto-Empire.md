@@ -13,4 +13,4 @@ Online | Download
 Jim Henson's The Storyteller - Witches 01 (of 04) (2014) (Digital) (Mephisto-Empire).cbr | 51.17MiB
 Jim Henson's The Storyteller - Witches 02 (of 04) (2014) (Digital) (Mephisto-Empire).cbr | 36.73MiB
 Jim Henson's The Storyteller - Witches 03 (of 04) (2014) (Digital) (Mephisto-Empire).cbr | 25.34MiB
-Jim Henson's The Storyteller - Witches 04 (of 04) (2014) (Digital) (Mephisto-Empire).cbr | 44.44MiB
+[Jim Henson's The Storyteller - Witches 04 (of 04) (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jim-Hensons-Storyteller-Witches-04-of-04-2014-Digital-Mephisto-Empire-cbr.md) | 44.44MiB

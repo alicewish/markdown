@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-They're Not Like Us 001 (2014) (Digital) (Darkness-Empire).cbr | 63.61MiB
+[They're Not Like Us 001 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Theyre-Not-Like-Us-001-2014-Digital-Darkness-Empire-cbr.md) | 63.61MiB
 [They're Not Like Us 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Theyre-Not-Like-Us-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 51.71MiB
 [They're Not Like Us 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Theyre-Not-Like-Us-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 58.12MiB
 [They're Not Like Us 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Theyre-Not-Like-Us-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.60MiB

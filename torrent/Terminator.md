@@ -104,7 +104,7 @@ Terminator Salvation - The Final Battle 08 (of 12) (2014) (digital) (Son of Ultr
 Terminator Salvation - The Final Battle 09 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 35.73MiB
 Terminator Salvation - The Final Battle 10 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 38.79MiB
 Terminator Salvation - The Final Battle 11 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 37.88MiB
-Terminator Salvation - The Final Battle 12 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 36.11MiB
+[Terminator Salvation - The Final Battle 12 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-12-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 36.11MiB
 The Terminator (1991) (Oneshot).cbr | 16.73MiB
 &emsp;【Terminator/The Terminator (Dark Horse)(1990-2014)/The Terminator - 1984 (001-003+)(2010)(digital+)(Bean-Empire)】 | 
 The Terminator - 1984 01 (2010) (of 03) (Digital) (Bean-Empire).cbz | 15.16MiB

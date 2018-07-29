@@ -49,7 +49,7 @@ The Massive 026 (2014) (digital) (Minutemen-InnerDemons).cbr | 15.91MiB
 The Massive 027 (2014) (digital) (Minutemen-InnerDemons).cbr | 18.44MiB
 The Massive 028 (2014) (digital) (Minutemen-InnerDemons).cbr | 17.74MiB
 The Massive 029 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.30MiB
-The Massive 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 16.28MiB
+[The Massive 030 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Massive-030-2014-digital-Minutemen-InnerDemons-cbr.md) | 16.28MiB
 The Massive Vol. 01 - Black Pacific (2013) (digital) (Minutemen-Slayer).cbr | 233.55MiB
 &emsp;【The Massive (001-030+)(2012-2016)(digital)(Minutemen-InnerDemons)/Variants】 | 
 The Massive 001 (2012) (Rafael Grampa Variant Only) \[extracted\] (theProletariat-DCP).cbr | 3.78MiB

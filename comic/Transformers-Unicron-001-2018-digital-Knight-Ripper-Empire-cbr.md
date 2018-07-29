@@ -1,5 +1,9 @@
 ## Transformers - Unicron 001 (2018) (digital) (Knight Ripper-Empire).cbr
 
+
+[回到 Transformers - Unicron 目录](https://github.com/alicewish/markdown/blob/master/series/Transformers-Unicron.md)
+
+
 ![Transformers - Unicron 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftl02457cbj21j82cwu0x.jpg)
 
 ![Transformers - Unicron 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftl02bpd0kj21j82cwe0v.jpg)
@@ -57,3 +61,6 @@
 ![Transformers - Unicron 001-027.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftl085i192j21j82cwqv5.jpg)
 
 ![Transformers - Unicron 001-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftl08dic7zj21j82cwnpd.jpg)
+
+[回到 Transformers - Unicron 目录](https://github.com/alicewish/markdown/blob/master/series/Transformers-Unicron.md)
+

@@ -33,7 +33,7 @@ Tech Jacket 002 (2014) (Digital) (Darkness-Empire).cbr | 53.83MiB
 Tech Jacket 003 (2014) (Digital) (Darkness-Empire).cbr | 61.07MiB
 Tech Jacket 004 (2014) (Digital) (Darkness-Empire).cbr | 53.88MiB
 Tech Jacket 005 (2014) (Digital) (Darkness-Empire).cbr | 47.93MiB
-Tech Jacket 006 (2014) (Digital) (Darkness-Empire).cbr | 54.26MiB
+[Tech Jacket 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tech-Jacket-006-2014-Digital-Darkness-Empire-cbr.md) | 54.26MiB
 [Tech Jacket 007 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tech-Jacket-007-2015-Digital-Darkness-Empire-cbr.md) | 38.01MiB
 [Tech Jacket 008 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tech-Jacket-008-2015-Digital-Darkness-Empire-cbr.md) | 46.51MiB
 [Tech Jacket 009 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tech-Jacket-009-2015-Digital-Empire-cbr.md) | 47.60MiB

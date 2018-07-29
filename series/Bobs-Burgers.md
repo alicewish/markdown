@@ -44,7 +44,7 @@ Bob's Burgers 001 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 34.59MiB
 Bob's Burgers 002 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 39.47MiB
 Bob's Burgers 003 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 39.49MiB
 Bob's Burgers 004 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 41.09MiB
-Bob's Burgers 005 (2015) (Digital) (BlackManta-Empire).cbr | [50.77MiB](https://pan.baidu.com/s/1sl6zj8T#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.12.17%2F%E3%82%A4%E3%82%AB%E3%82%B9%E3%82%B1%E3%82%B9%E3%82%A8%E3%82%B5%E3%82%BD%E3%82%AD%E3%82%A8%E3%82%A8%E3%82%BD%E3%82%AF%E3%82%AD%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%B3%E3%82%AD%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%B5%E3%82%AA%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%B9%E3%82%AB%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Bob's Burgers 005 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bobs-Burgers-005-2015-Digital-BlackManta-Empire-cbr.md) | [50.77MiB](https://pan.baidu.com/s/1sl6zj8T#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.12.17%2F%E3%82%A4%E3%82%AB%E3%82%B9%E3%82%B1%E3%82%B9%E3%82%A8%E3%82%B5%E3%82%BD%E3%82%AD%E3%82%A8%E3%82%A8%E3%82%BD%E3%82%AF%E3%82%AD%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%B3%E3%82%AD%E3%82%B7%E3%82%B3%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%B5%E3%82%AA%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%B9%E3%82%AB%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Bob's Burgers 005 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 38.77MiB
 Bob's Burgers 006 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 33.89MiB
 Bob's Burgers 007 (2015) (2 covers) (digital) (Minutemen-Faessla).cbz | 29.91MiB

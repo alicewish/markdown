@@ -32,7 +32,7 @@ Stumptown v2 05 (of 5) (2013) (digital) (Minutemen-PhD).cbr | 37.81MiB
 Stumptown v3 001 (2014) (Digital) (Vee-Empire).cbr | 40.27MiB
 Stumptown v3 002 (2014) (Digital) (Vee-Empire).cbr | 39.52MiB
 Stumptown v3 003 (2014) (Digital) (Vee-Empire).cbr | 33.85MiB
-Stumptown v3 004 (2014) (Digital) (Vee-Empire).cbr | 31.58MiB
+[Stumptown v3 004 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stumptown-v3-004-2014-Digital-Vee-Empire-cbr.md) | 31.58MiB
 [Stumptown v3 005 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stumptown-v3-005-2015-Digital-Vee-Empire-cbr.md) | 35.27MiB
 [Stumptown v3 006 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stumptown-v3-006-2015-Digital-Empire-cbr.md) | 37.95MiB
 [Stumptown v3 007 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stumptown-v3-007-2015-Digital-Empire-cbr.md) | 31.60MiB

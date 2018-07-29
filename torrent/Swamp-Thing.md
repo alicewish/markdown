@@ -39,7 +39,7 @@ Saga of the Swamp Thing vol 03 (2013) (digital-Empire).cbz | 340.45MiB
 Saga of the Swamp Thing vol 04 (2013) (digital-Empire).cbz | 339.44MiB
 Saga of the Swamp Thing vol 05 (2013) (digital-Empire).cbz | 273.53MiB
 Saga of the Swamp Thing vol 06 (2014) (digital-Empire).cbz | 458.17MiB
-Swamp Thing - Trial by Fire (2016) (Digital) (Zone-Empire).cbr | 390.75MiB
+[Swamp Thing - Trial by Fire (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swamp-Thing-Trial-by-Fire-2016-Digital-Zone-Empire-cbr.md) | 390.75MiB
 Swamp Thing v01 - Raise Them Bones (2012) (Digital) (Zone-Empire).cbr | 239.07MiB
 Swamp Thing vol 01 (2014) (digital-Empire).cbz | 354.97MiB
 &emsp;【Swamp Thing/v1 (001-025+)(1972-1976)(digital)】 | 

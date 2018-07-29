@@ -19,6 +19,6 @@ WWE Superstars 006 (2014) (digital) (Hogan-DCP).cbr | 48.27MiB
 WWE Superstars 007 (2014) (digital) (Hogan-DCP).cbr | 53.52MiB
 WWE Superstars 008 (2014) (digital) (Hogan-DCP).cbr | 46.40MiB
 WWE Superstars 009 (2014) (digital) (Hogan-DCP).cbr | 50.30MiB
-WWE Superstars 010 (2014) (digital) (Hogan-DCP).cbr | 50.23MiB
+[WWE Superstars 010 (2014) (digital) (Hogan-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/WWE-Superstars-010-2014-digital-Hogan-DCP-cbr.md) | 50.23MiB
 [WWE Superstars 011 (2015) (digital) (Hogan-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/WWE-Superstars-011-2015-digital-Hogan-DCP-cbr.md) | 48.57MiB
 [WWE Superstars 012 (2015) (digital) (Hogan-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/WWE-Superstars-012-2015-digital-Hogan-DCP-cbr.md) | 51.96MiB

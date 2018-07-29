@@ -442,7 +442,7 @@ Spider-Man Daily Strip 2014-08 (webrip by Lusiphur-DCP).cbz | 10.25MiB
 Spider-Man Daily Strip 2014-09 (webrip by Lusiphur-DCP).cbz | 9.87MiB
 Spider-Man Daily Strip 2014-10 (webrip by Lusiphur-DCP).cbz | 10.03MiB
 Spider-Man Daily Strip 2014-11 (webrip by Lusiphur-DCP).cbz | 10.01MiB
-Spider-Man Daily Strip 2014-12 (webrip by Lusiphur-DCP).cbz | 10.27MiB
+[Spider-Man Daily Strip 2014-12 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2014-12-webrip-by-Lusiphur-DCP-cbz.md) | 10.27MiB
 &emsp;【ASM/Extras/Spider-Man Newspaper Strips (1977-1979,2000-2016)(Lusiphur-DCP)/Spider-Man Daily Strip (2015) (webrip by Lusiphur-DCP)】 | 
 [Spider-Man Daily Strip 2015-01 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-01-webrip-by-Lusiphur-DCP-cbz.md) | 9.87MiB
 [Spider-Man Daily Strip 2015-02 (webrip by Lusiphur-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Daily-Strip-2015-02-webrip-by-Lusiphur-DCP-cbz.md) | 9.28MiB
@@ -5363,7 +5363,7 @@ Spider-Woman Origin 03 (of 05) (2006) (Digital) (Zone-Empire).cbr | 18.72MiB
 Spider-Woman Origin 04 (of 05) (2006) (Digital) (Zone-Empire).cbr | 17.34MiB
 Spider-Woman Origin 05 (of 05) (2006) (Digital) (Zone-Empire).cbr | 16.06MiB
 Spider-Woman - Origin (2014) (Digital) (Kileko-Empire).cbr | 102.40MiB
-Spider-Woman Masterworks v1(2015)(Digital)(TLK-EMPIRE-HD).cbr | 490.66MiB
+[Spider-Woman Masterworks v1(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Woman-Masterworks-v1-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 490.66MiB
 Spider-Woman Saga (2009) (Digital Exclusive).cbz | 4.93MiB
 Spider-Woman Vol. 01 - Spider-Verse (2015) (digital) (Minutemen-Slayer).cbr | 186.46MiB
 Spider-Woman v01 - Shifting Gears - Baby Talk (2016) (digital) (Minutemen-Slayer).cbr | 183.99MiB

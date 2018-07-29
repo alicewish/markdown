@@ -11,4 +11,4 @@
 Online | Download
 --- | ---
 Dredd Uprise 01 (of 02) (2014) (Digital) (Cypher 2.0-Empire).cbr | 21.44MiB
-Dredd Uprise 02 (of 02) (2014) (Digital) (Cypher 2.0-Empire).cbr | 20.37MiB
+[Dredd Uprise 02 (of 02) (2014) (Digital) (Cypher 2.0-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dredd-Uprise-02-of-02-2014-Digital-Cypher-2-0-Empire-cbr.md) | 20.37MiB

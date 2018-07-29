@@ -40,7 +40,7 @@ Miracleman Family 01 (of 02) (1988) (c2c).cbr | 18.27MiB
 Miracleman Family 02 (of 02) (1988) (c2c) (Grundy-HaCsA).cbr | 15.83MiB
 Miracleman Triumphant.cbr | 1.26MiB
 &emsp;【Miracleman (1961-2015)/Miracleman v1 (001-016)(2014-2015)(digital)(Marvel)】 | 
-All-New Miracleman Annual 001 (2014) (Digital) (Darkness-Empire).cbr | 52.00MiB
+[All-New Miracleman Annual 001 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Miracleman-Annual-001-2014-Digital-Darkness-Empire-cbr.md) | 52.00MiB
 Miracleman - Parental Advisory Edition 001 (2014) (Digital) (Darkness-Empire).cbr | 117.40MiB
 Miracleman 001 (2014) (Digital) (Darkness-Empire).cbr | 117.38MiB
 Miracleman 002 (2014) (Digital) (Darkness-Empire).cbr | 77.94MiB

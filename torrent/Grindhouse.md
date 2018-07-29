@@ -21,7 +21,7 @@ Grindhouse - Doors Open at Midnight 007 (2014) (digital) (Son of Ultron-Empire)(
 Grindhouse - Doors Open at Midnight 008 (2014) (digital) (Son of Ultron-Empire).cbr | 59.16MiB
 &emsp;【Grindhouse/2- Drive In, Bleed Out (001-008)(2014-2015)】 | 
 Grindhouse - Drive In, Bleed Out 001 - Slay Ride 01 (2014) (digital) (Son of Ultron-Empire).cbr | 51.94MiB
-Grindhouse - Drive In, Bleed Out 002 - Slay Ride 02 (2014) (digital) (Son of Ultron-Empire).cbr | 49.60MiB
+[Grindhouse - Drive In, Bleed Out 002 - Slay Ride 02 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-002-Slay-Ride-02-2014-digital-Son-of-Ultron-Empire-cbr.md) | 49.60MiB
 [Grindhouse - Drive In, Bleed Out 003 - Blood Lagoon 01 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-003-Blood-Lagoon-01-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.96MiB
 Grindhouse - Drive In, Bleed Out 004 - Blo od Lagoon 02 (2015) (digital) (Son of Ultron-Empire).cbr | 50.60MiB
 [Grindhouse - Drive In, Bleed Out 005 - Lady Danger - Agent of B.O.O.T.I. 01 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grindhouse-Drive-In-Bleed-Out-005-Lady-Danger-Agent-of-B-O-O-T-I-01-2015-digital-Son-of-Ultron-Empire-cbr.md) | 45.17MiB

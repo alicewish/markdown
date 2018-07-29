@@ -176,7 +176,7 @@ Guardians of the Galaxy 025 (2010) (Digital) (Zone-Empire).cbr | 48.31MiB
 [Guardians of the Galaxy 025 (2015) (4 Covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-025-2015-4-Covers-digital-Minutemen-Spaztastic-cbr.md) | 58.59MiB
 [Guardians of the Galaxy 026 (2015) (3 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-026-2015-3-covers-digital-Minutemen-Spaztastic-cbr.md) | 38.39MiB
 [Guardians of the Galaxy 027 (2015) (2 covers) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-027-2015-2-covers-digital-Minutemen-Spaztastic-cbr.md) | 40.34MiB
-Guardians of the Galaxy Annual 01 (2015) (digital) (Minutemen-PhD).cbr | 61.04MiB
+[Guardians of the Galaxy Annual 01 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-Annual-01-2015-digital-Minutemen-PhD-cbr.md) | 61.04MiB
 &emsp;【Guardians of the Galaxy (V1-V4+Extras)(1990-2016)/Guardians of the Galaxy V3 (001-027+Extras) (2013-2015) (digital) (Minutemen)/Scans with Xtra Covers】 | 
 Guardians of the Galaxy 00.1 (2013) (3 Covers) (Tarutaru-Novus-HD).cbr | 61.82MiB
 [Guardians of the Galaxy 001 (2013) (21 Covers) (Tarutaru-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-001-2013-21-Covers-Tarutaru-Novus-HD-cbr.md) | 78.39MiB

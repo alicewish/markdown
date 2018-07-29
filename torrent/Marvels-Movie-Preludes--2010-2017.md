@@ -72,7 +72,7 @@ Marvel's Guardians of the Galaxy Prelude 02 (of 02) (2014) (digital) (Minutemen-
 [Marvel's Guardians of the Galaxy Prelude 02 (of 02) (2017) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Guardians-of-Galaxy-Prelude-02-of-02-2017-Digital-Zone-Empire-cbr.md) | 60.29MiB
 Marvel's Guardians of the Galaxy Prelude (2014) (Digital) (Kileko-Empire).cbr | 295.42MiB
 &emsp;【Marvel's Movie Preludes (2010-2017)/Marvel's The Avengers (001-002)(2015)(digital)(Zone-Empire)】 | 
-Marvel's The Avengers 01 (of 02) (2015) (Digital) (Zone-Empire).cbr | 42.79MiB
+[Marvel's The Avengers 01 (of 02) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Avengers-01-of-02-2015-Digital-Zone-Empire-cbr.md) | 42.79MiB
 [Marvel's The Avengers 02 (of 02) (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Avengers-02-of-02-2015-Digital-Zone-Empire-cbr.md) | 38.70MiB
 &emsp;【Marvel's Movie Preludes (2010-2017)/Marvel's The Avengers - Black Widow Strikes (001-003)(2012)(digital)】 | 
 Marvel's the Avengers - Black Widow Strikes 01 (of 03) (2012) (Digital) (Zone-Empire).cbr | 29.37MiB

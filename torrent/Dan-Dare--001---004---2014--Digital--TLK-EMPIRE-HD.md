@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Dan Dare 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 43.27MiB
-Dan Dare 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.51MiB
-Dan Dare 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 50.52MiB
-Dan Dare 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 46.53MiB
+[Dan Dare 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dan-Dare-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 43.27MiB
+[Dan Dare 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dan-Dare-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 37.51MiB
+[Dan Dare 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dan-Dare-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 50.52MiB
+[Dan Dare 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dan-Dare-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 46.53MiB

@@ -1,5 +1,9 @@
 ## Gold Key - Alliance 003 (2016) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Gold Key - Alliance 目录](https://github.com/alicewish/markdown/blob/master/series/Gold-Key-Alliance.md)
+
+
 ![Gold Key- Alliance - Digital Exclusive Edition 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frvgqk0vm9j21j82cwu0x.jpg)
 
 ![Gold Key- Alliance - Digital Exclusive Edition 003-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frvgqr36f5j21j82cwavd.jpg)
@@ -59,3 +63,6 @@
 ![Gold Key- Alliance - Digital Exclusive Edition 003-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frvgvu2t4cj21j82cwkjl.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flxmmyabwrj20zk1io4qp.jpg)
+
+[回到 Gold Key - Alliance 目录](https://github.com/alicewish/markdown/blob/master/series/Gold-Key-Alliance.md)
+

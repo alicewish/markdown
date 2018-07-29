@@ -24,7 +24,7 @@ East of West Vol. 04 (2015) (digital) (Minutemen-Slayer).cbr | 136.46MiB
 East of West Vol. 05 (2016) (digital) (Minutemen-Slayer).cbr | 124.27MiB
 East of West Vol. 06 (2016) (digital) (Minutemen-Slayer).cbr | 141.35MiB
 East of West Vol. 07 (2017) (digital) (Minutemen-Slayer).cbr | 250.11MiB
-East of West - The World 01 (2014) (digital) (Minutemen-Faessla).cbz | 21.16MiB
+[East of West - The World 01 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-World-01-2014-digital-Minutemen-Faessla-cbz.md) | 21.16MiB
 East of West 001 (2013) (digital) (Minutemen-InnerDemons).cbr | 36.90MiB
 East of West 002 (2013) (digital) (Minutemen-InnerDemons).cbr | 25.98MiB
 East of West 003 (2013) (digital) (Minutemen-InnerDemons).cbr | 26.84MiB

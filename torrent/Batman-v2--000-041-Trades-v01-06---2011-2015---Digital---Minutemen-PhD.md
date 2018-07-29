@@ -52,7 +52,7 @@ Online | Download
 Batman 034 (2014) (Digital) (Zone-Empire).cbr | 40.12MiB
 Batman 035 (2014) (Digital) (Zone-Empire).cbr | 55.44MiB
 Batman 036 (2015) (2 covers) (Digital) (Zone-Empire).cbr | 40.51MiB
-Batman 037 (2015) (Digital) (Zone-Empire).cbr | 44.77MiB
+[Batman 037 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-037-2015-Digital-Zone-Empire-cbr.md) | 44.77MiB
 [Batman 038 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-038-2015-Digital-Zone-Empire-cbr.md) | 40.58MiB
 [Batman 039 (2015) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-039-2015-2-covers-Digital-Zone-Empire-cbr.md) | 41.58MiB
 [Batman 040 (2015) (4 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-040-2015-4-covers-digital-Minutemen-Mollylvr-cbr.md) | 38.26MiB

@@ -97,11 +97,11 @@ Insufferable v2 032 (2013) (Waid, Krause -  digital).cbz | 14.95MiB
 Insufferable v3 001 (2014) (Waid, Krause - digital).cbr | 8.75MiB
 Insufferable v3 002 (2014) (Waid, Krause - digital).cbr | 7.29MiB
 Insufferable v3 003 (2014) (Waid, Krause - digital).cbr | 4.86MiB
-Insufferable v3 004 (2014) (F) (Waid, Krause - digital).cbr | 6.27MiB
-Insufferable v3 005 (2014) (Waid, Krause - digital).cbr | 9.30MiB
-Insufferable v3 006 (2014) (Waid, Krause - digital).cbr | 10.57MiB
-Insufferable v3 007 (2014) (Waid, Krause - digital).cbr | 5.75MiB
-Insufferable v3 008 (2014) (Waid, Krause - digital).cbr | 9.87MiB
+[Insufferable v3 004 (2014) (F) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-004-2014-F-Waid-Krause-digital-cbr.md) | 6.27MiB
+[Insufferable v3 005 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-005-2014-Waid-Krause-digital-cbr.md) | 9.30MiB
+[Insufferable v3 006 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-006-2014-Waid-Krause-digital-cbr.md) | 10.57MiB
+[Insufferable v3 007 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-007-2014-Waid-Krause-digital-cbr.md) | 5.75MiB
+[Insufferable v3 008 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-008-2014-Waid-Krause-digital-cbr.md) | 9.87MiB
 [Insufferable v3 009 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-009-2014-Waid-Krause-digital-cbr.md) | 6.18MiB
 [Insufferable v3 010 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-010-2014-Waid-Krause-digital-cbr.md) | 6.29MiB
 [Insufferable v3 011 (2015) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-011-2015-Waid-Krause-digital-cbr.md) | 5.83MiB

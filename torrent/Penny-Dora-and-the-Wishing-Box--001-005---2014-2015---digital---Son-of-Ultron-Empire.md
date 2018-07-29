@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Penny Dora and the Wishing Box 001 (2014) (digital) (Son of Ultron-Empire).cbr | 44.72MiB
-Penny Dora and the Wishing Box 002 (2014) (digital) (Son of Ultron-Empire).cbr | 40.48MiB
+[Penny Dora and the Wishing Box 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Penny-Dora-Wishing-Box-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.48MiB
 [Penny Dora and the Wishing Box 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Penny-Dora-Wishing-Box-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 38.07MiB
 [Penny Dora and the Wishing Box 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Penny-Dora-Wishing-Box-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 43.50MiB
 [Penny Dora and the Wishing Box 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Penny-Dora-Wishing-Box-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.67MiB

@@ -427,7 +427,7 @@ Transformers - Drift 03 (of 04) (2010) (digital-Empire).cbz | 24.72MiB
 Transformers - Drift 04 (of 04) (2010) (digital-Empire).cbz | 27.11MiB
 &emsp;【Transformers/IDW/Drift/Drift - Empire of Stone (001-004)(2014)】 | 
 The Transformers - Drift - Empire of Stone 01 (2014) (digital) (Minutemen-Phantasm).cbz | 52.61MiB
-The Transformers - Drift - Empire of Stone 02 (2014) (digital) (Minutemen-Phantasm).cbz | 55.44MiB
+[The Transformers - Drift - Empire of Stone 02 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Drift-Empire-of-Stone-02-2014-digital-Minutemen-Phantasm-cbz.md) | 55.44MiB
 [The Transformers - Drift - Empire of Stone 03 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Drift-Empire-of-Stone-03-2014-digital-Minutemen-Phantasm-cbz.md) | 49.00MiB
 The Transformers - Drift - Empire of Stone 04 (2014) (digital) (Minutemen-Phantasm).cbz | 54.44MiB
 &emsp;【Transformers/IDW/Escalation (001-006) (2006-2007) (digital-Empire)】 | 
@@ -554,7 +554,7 @@ The Transformers - More Than Meets the Eye 032 (2014) (digital) (Minutemen-Phant
 The Transformers - More Than Meets the Eye 033 (2014) (digital) (Minutemen-Phantasm).cbz | 41.58MiB
 The Transformers - More Than Meets the Eye 034 (2014) (digital (Minutemen-Phantasm).cbz | 40.87MiB
 The Transformers - More Than Meets the Eye 035 (2014) (digital) (Minutemen-Phantasm).cbz | 42.28MiB
-The Transformers - More Than Meets the Eye 036 (2014) (digital) (Minutemen-Phantasm).cbz | 46.52MiB
+[The Transformers - More Than Meets the Eye 036 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-036-2014-digital-Minutemen-Phantasm-cbz.md) | 46.52MiB
 [The Transformers - More Than Meets the Eye 037 (2015) (2 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-037-2015-2-covers-digital-Minutemen-Phantasm-cbz.md) | 52.03MiB
 [The Transformers - More Than Meets the Eye 038 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-038-2015-digital-Minutemen-Phantasm-cbz.md) | 42.24MiB
 [The Transformers - More Than Meets the Eye 039 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-039-2015-digital-Minutemen-Phantasm-cbz.md) | 35.59MiB
@@ -735,7 +735,7 @@ The Transformers - Robots in Disguise 032 (2014) (digital) (Minutemen-Phantasm).
 The Transformers - Robots in Disguise 033 (2014) (digital) (Minutemen-Phantasm).cbz | 32.99MiB
 The Transformers - Robots in Disguise 034 (2014) (digital) (Minutemen-Phantasm).cbz | 36.23MiB
 The Transformers 035 (2014) (digital) (Minutemen-Phantasm).cbz | 35.16MiB
-The Transformers 036 (2014) (digital) (Minutemen-Phantasm).cbz | 40.59MiB
+[The Transformers 036 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-036-2014-digital-Minutemen-Phantasm-cbz.md) | 40.59MiB
 [The Transformers 037 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-037-2015-digital-Minutemen-Phantasm-cbz.md) | 36.17MiB
 [The Transformers 038 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-038-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 44.61MiB
 [The Transformers 039 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-039-2015-digital-Minutemen-Phantasm-cbz.md) | 32.85MiB

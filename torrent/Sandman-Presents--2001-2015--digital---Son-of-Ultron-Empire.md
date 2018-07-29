@@ -32,7 +32,7 @@ Dead Boy Detectives 008 (2014) (digital) (Son of Ultron-Empire).cbr | 52.96MiB
 Dead Boy Detectives 009 (2014) (digital) (Son of Ultron-Empire).cbr | 49.07MiB
 Dead Boy Detectives 010 (2014) (digital) (Son of Ultron-Empire).cbr | 51.92MiB
 Dead Boy Detectives 011 (2015) (digital) (Son of Ultron-Empire).cbr | 49.19MiB
-Dead Boy Detectives 012 (2015) (digital) (Son of Ultron-Empire).cbr | 28.18MiB
+[Dead Boy Detectives 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Boy-Detectives-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.18MiB
 Dead Boy Detectives v01 - Schoolboy Terrors (2014) (Digital) (Zone-Empire).cbr | 171.28MiB
 Dead Boy Detectives v02 - Ghost Snow (2015) (Digital) (Zone-Empire).cbr | 183.27MiB
 &emsp;【Sandman Presents (2001-2015)(digital+)(Son of Ultron-Empire+)/Love Street (001-003)(1999)(digital)(Son of Ultron-Empire)】 | 

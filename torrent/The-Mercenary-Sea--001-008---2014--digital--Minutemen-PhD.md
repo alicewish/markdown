@@ -17,5 +17,5 @@ The Mercenary Sea 004 (2014) (digital) (Minutemen-PhD).cbr | 30.64MiB
 The Mercenary Sea 005 (2014) (digital) (Minutemen-PhD).cbr | 24.74MiB
 The Mercenary Sea 006 (2014) (digital) (Minutemen-PhD).cbr | 20.61MiB
 The Mercenary Sea 007 (2014) (digital) (Minutemen-PhD).cbr | 28.14MiB
-The Mercenary Sea 008 (2014) (Digital-Empire).cbr | 24.19MiB
+[The Mercenary Sea 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mercenary-Sea-008-2014-Digital-Empire-cbr.md) | 24.19MiB
 The Mercenary Sea v01 - Top Hat, White Lies, and Tales (2014) (Digital-Empire).cbr | 117.77MiB

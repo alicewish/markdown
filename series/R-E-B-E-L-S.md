@@ -16,6 +16,8 @@
 
 [R.E.B.E.L.S. (010-011) (2010) (digital) (Monafekk-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/R-E-B-E-L-S---010-011---2010---digital---Monafekk-Empire.md)
 
+[R.E.B.E.L.S. (v1-v2)(1995-2011)(digital)](https://github.com/alicewish/markdown/blob/master/torrent/R-E-B-E-L-S---v1-v2--1995-2011--digital.md)
+
 Online | Download
 --- | ---
 R.E.B.E.L.S., 1994-08-00 (#00) (digital) (Glorith).cbz | 10.96MiB
