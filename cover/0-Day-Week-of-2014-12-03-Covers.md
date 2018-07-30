@@ -28,6 +28,7 @@
 ![Birthright 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqlqa0v90j21j82cwhdu.jpg)
 ![Captain America - Peggy Carter, Agent of S.H.I.E.L.D.-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr19jijgcmj21j82cwkjl.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqgnokxlaj21kw2fy7wi.jpg)
+![Chaos - Holiday Special 2014 (2014) (Digital) (DR & Quinch-Empire) 00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmy5at7rj21j82cwqv5.jpg)
 ![Chastity (2014) (Digital) (DR & Quinch-Empire) 00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjsqwqixj21j82cw1ky.jpg)
 ![Chew 045-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmsk06vvyxj21j82cwb29.jpg)
 ![Cloaks 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqdruijadj21j82cwe81.jpg)
@@ -40,6 +41,7 @@
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqh0mjybsj21js2cn4qp.jpg)
 ![Earth 2 - World's End (2014-) 009-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqdkt1909cj21j82cwnpd.jpg)
 ![Earth 2 (2012-) 029-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqdp6s8i9pj21j82cwnpd.jpg)
+![Epochalypse 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqm2nkrcmj21j82cwe81.jpg)
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqe188finj21j82cw1kx.jpg)
 ![Eternal Warrior- Days of Steel - Digital Exclusives Edition 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqh4bcyyej21j82cwhdt.jpg)
 ![Evil Empire 008-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqe4x0y6ej21j82cwb29.jpg)
@@ -62,8 +64,10 @@
 ![00c.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqemzabalj21j82cwb29.jpg)
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqeqi0y36j21j82cwb29.jpg)
 ![Guardians 3000 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqhl9d6hfj21j82cw7wi.jpg)
+![Haunted Horror 013-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqnidepl9j21j82cwu0y.jpg)
 ![Hellboy and the B.P.R.D. 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqcus0nmqj21101kwha4.jpg)
 ![Hinterkind 13 01.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqezvreg3j21j82cw4qp.jpg)
+![Hinterkind v02 - Written In Blood (2014) (digital) (DR & Quinch-Empire) 000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqnql7avkj21j82cwb29.jpg)
 ![Hulk (2014-) 009-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqf5rf8qmj21j82cwnpd.jpg)
 ![Infinite Crisis - Fight for the Multiverse (2014-) 028-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftq7txdqj3j21j816gasf.jpg)
 ![Inhuman 009-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqho11ku8j21j82cwb29.jpg)
@@ -77,6 +81,7 @@
 ![Lobo (2014-) 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqf8vxwe5j21j82cwhdt.jpg)
 ![Looney Tunes (1994-) 222-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqkj6s11zj21hc29znpd.jpg)
 ![Low 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqkm7kethj21j82cwe82.jpg)
+![Madman - In Your Face 3D Special-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqnqqw0owj21j52cwkjm.jpg)
 ![Magic Whistle 015 (2014) (digital-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfbxfcx2j21kl2cwqv5.jpg)
 ![Men of Wrath 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqffi4ftdj21j82cwe81.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqhqvvq4rj21iw2cw1df.jpg)
@@ -86,6 +91,7 @@
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqi43hyopj21iw2cw1ky.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfj293jdj21kl2cwb29.jpg)
 ![Nailbiter 008 (2014) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqi7sfgrqj21j82cwx6p.jpg)
+![Orphan Blade 001 (2014) (Digital) (Dogmatix-Empire) 00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmg5zntqj21e0230kjl.jpg)
 ![Penny Dora & The Wishing Box 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqicidxfdj21j82cwe81.jpg)
 ![Rai (2014- ) - Digital Exclusives Edition 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqig86gytj21j82cw4qp.jpg)
 ![Robocop 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqktdqv0wj21j82cw4qq.jpg)
@@ -93,6 +99,7 @@
 ![Scooby-Doo Team Up (2013-) 014-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqcxmr56oj21hc150e81.jpg)
 ![Secret Six (2014-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq7sjspa49j21j82cwkjl.jpg)
 ![Sensation Comics Featuring Wonder Woman (2014-) 017-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqczy98o6j21hc1507wc.jpg)
+![Shaft 001-001a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqm7h34k6j21ao1zrx6p.jpg)
 ![Shinobi Ninja Princess 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfmcidafj21jy2cwb29.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfp4s9nzj21kw2eq4qp.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqkwu70a5j21kw2f11kx.jpg)
@@ -102,11 +109,15 @@
 ![Sunday Comics, Oregonian, 2014 Dec 07 pg 1 of 6.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftq7nu4dyij21ef2tp4qp.jpg)
 ![Swamp Thing 037 (2015) (Digital-Empire)001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq60pfknulj21j82cw7wh.jpg)
 ![Tech Jacket 006 (2014) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftql2iopcoj21j82cwe81.jpg)
+![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqn47blxmj211i1k97wh.jpg)
 ![00d.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfw1a0ftj21j82cwkjl.jpg)
 ![Thanos vs. Hulk 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr1v9477w3j21j82cwkjl.jpg)
+![Tooth & Claw 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmbslfcij21j82cwu0x.jpg)
 ![The Double Life of Miranda Turner 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftq7xt4mcxj21hc28xh8w.jpg)
+![The Extinction Parade - War 005 (2014) (Digital) (6 covers) (Monafekk-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmmarscyj21j82cwu0x.jpg)
 ![THITW_eng_01_11_001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqd291eroj21kw16ojs4.jpg)
 ![The Humans 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftql71ih5ij21j82cw1kx.jpg)
+![The Late Child and Other Animals-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqoc62ejej21kw2cs1i7.jpg)
 ![The Names (2014-) 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqd6yq1zsj21j82cw1kx.jpg)
 ![The New 52 - Futures End 031-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfypcx9jj21j82cw7wh.jpg)
 ![The Shadow Midnight in Moscow 006-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqivar5toj21ao1zrx6p.jpg)
@@ -118,12 +129,17 @@
 ![Uber 020 (2014) (5 Covers) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftpw69no1zj21j82cwe81.jpg)
 ![Uncle Grandpa 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqj5x00h4j21j82cwqv7.jpg)
 ![Usagi Yojimbo - Senso 05-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqd9it0ehj21101kw1ky.jpg)
+![Valentine 013-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqn9xcu91j21kw11xdwi.jpg)
 ![valentine_02_40_101.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftq7op255aj21kw11xwpo.jpg)
+![Valiant-Sized Quantum and Woody 001 (2014) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmrq038bj21j82cwqat.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjck4uytj21jy2cwhdt.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjfwjncdj21jy2cwkjl.jpg)
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqlbc4w2cj21jy2cwqv5.jpg)
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjj018lmj21j82cwnpd.jpg)
+![WAKFU Manga - The Quest for the Six Eliatrope Dofus v1-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqocdhf2fj21i62cwe81.jpg)
+![WAKFU Manga - The Legend of Jiva v2-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqoc9pxpgj21hm2cwkjl.jpg)
 ![War Stories 003 (2014) (4 Covers) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjmcjgb9j21j82cwe5k.jpg)
+![White Like She-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqoc2fa2wj21j82cwu0x.jpg)
 ![Wolf Moon 001 (2015) (Digital-Empire)001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqg88mt4yj21j82cwqqv.jpg)
 ![Wolverine and the X-Men 012-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqzh1d8tnaj21j82cwe81.jpg)
 ![Zaya 007-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjpiuofhj21kw21nx6d.jpg)
@@ -174,6 +190,8 @@
 
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqgnokxlaj21kw2fy7wi.jpg)
 
+![Chaos - Holiday Special 2014 (2014) (Digital) (DR & Quinch-Empire) 00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmy5at7rj21j82cwqv5.jpg)
+
 ![Chastity (2014) (Digital) (DR & Quinch-Empire) 00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjsqwqixj21j82cw1ky.jpg)
 
 ![Chew 045-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fmsk06vvyxj21j82cwb29.jpg)
@@ -197,6 +215,8 @@
 ![Earth 2 - World's End (2014-) 009-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqdkt1909cj21j82cwnpd.jpg)
 
 ![Earth 2 (2012-) 029-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqdp6s8i9pj21j82cwnpd.jpg)
+
+![Epochalypse 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqm2nkrcmj21j82cwe81.jpg)
 
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqe188finj21j82cw1kx.jpg)
 
@@ -242,9 +262,13 @@
 
 ![Guardians 3000 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqhl9d6hfj21j82cw7wi.jpg)
 
+![Haunted Horror 013-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqnidepl9j21j82cwu0y.jpg)
+
 ![Hellboy and the B.P.R.D. 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqcus0nmqj21101kwha4.jpg)
 
 ![Hinterkind 13 01.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqezvreg3j21j82cw4qp.jpg)
+
+![Hinterkind v02 - Written In Blood (2014) (digital) (DR & Quinch-Empire) 000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqnql7avkj21j82cwb29.jpg)
 
 ![Hulk (2014-) 009-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqf5rf8qmj21j82cwnpd.jpg)
 
@@ -272,6 +296,8 @@
 
 ![Low 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqkm7kethj21j82cwe82.jpg)
 
+![Madman - In Your Face 3D Special-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqnqqw0owj21j52cwkjm.jpg)
+
 ![Magic Whistle 015 (2014) (digital-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfbxfcx2j21kl2cwqv5.jpg)
 
 ![Men of Wrath 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqffi4ftdj21j82cwe81.jpg)
@@ -290,6 +316,8 @@
 
 ![Nailbiter 008 (2014) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqi7sfgrqj21j82cwx6p.jpg)
 
+![Orphan Blade 001 (2014) (Digital) (Dogmatix-Empire) 00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmg5zntqj21e0230kjl.jpg)
+
 ![Penny Dora & The Wishing Box 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqicidxfdj21j82cwe81.jpg)
 
 ![Rai (2014- ) - Digital Exclusives Edition 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqig86gytj21j82cw4qp.jpg)
@@ -303,6 +331,8 @@
 ![Secret Six (2014-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq7sjspa49j21j82cwkjl.jpg)
 
 ![Sensation Comics Featuring Wonder Woman (2014-) 017-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqczy98o6j21hc1507wc.jpg)
+
+![Shaft 001-001a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqm7h34k6j21ao1zrx6p.jpg)
 
 ![Shinobi Ninja Princess 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfmcidafj21jy2cwb29.jpg)
 
@@ -322,15 +352,23 @@
 
 ![Tech Jacket 006 (2014) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftql2iopcoj21j82cwe81.jpg)
 
+![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqn47blxmj211i1k97wh.jpg)
+
 ![00d.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqfw1a0ftj21j82cwkjl.jpg)
 
 ![Thanos vs. Hulk 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fr1v9477w3j21j82cwkjl.jpg)
 
+![Tooth & Claw 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmbslfcij21j82cwu0x.jpg)
+
 ![The Double Life of Miranda Turner 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftq7xt4mcxj21hc28xh8w.jpg)
+
+![The Extinction Parade - War 005 (2014) (Digital) (6 covers) (Monafekk-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmmarscyj21j82cwu0x.jpg)
 
 ![THITW_eng_01_11_001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqd291eroj21kw16ojs4.jpg)
 
 ![The Humans 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftql71ih5ij21j82cw1kx.jpg)
+
+![The Late Child and Other Animals-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqoc62ejej21kw2cs1i7.jpg)
 
 ![The Names (2014-) 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqd6yq1zsj21j82cw1kx.jpg)
 
@@ -354,7 +392,11 @@
 
 ![Usagi Yojimbo - Senso 05-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqd9it0ehj21101kw1ky.jpg)
 
+![Valentine 013-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqn9xcu91j21kw11xdwi.jpg)
+
 ![valentine_02_40_101.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftq7op255aj21kw11xwpo.jpg)
+
+![Valiant-Sized Quantum and Woody 001 (2014) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqmrq038bj21j82cwqat.jpg)
 
 ![00.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjck4uytj21jy2cwhdt.jpg)
 
@@ -364,7 +406,13 @@
 
 ![00a.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjj018lmj21j82cwnpd.jpg)
 
+![WAKFU Manga - The Quest for the Six Eliatrope Dofus v1-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqocdhf2fj21i62cwe81.jpg)
+
+![WAKFU Manga - The Legend of Jiva v2-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqoc9pxpgj21hm2cwkjl.jpg)
+
 ![War Stories 003 (2014) (4 Covers) (Digital) (Darkness-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqjmcjgb9j21j82cwe5k.jpg)
+
+![White Like She-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqoc2fa2wj21j82cwu0x.jpg)
 
 ![Wolf Moon 001 (2015) (Digital-Empire)001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftqg88mt4yj21j82cwqqv.jpg)
 

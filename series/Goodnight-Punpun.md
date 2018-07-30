@@ -14,6 +14,10 @@ Meet Punpun Punyama. He's an average kid in an average town.  He wants to win a 
 
 
 
+相关种子⬇Related Torrents
+
+[Goodnight Punpun Omnibus (v01-v07)(2016-2017)(digital)(danke-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Goodnight-Punpun-Omnibus--v01-v07--2016-2017--digital--danke-Empire.md)
+
 Online | Download
 --- | ---
 Goodnight Punpun Omnibus v01 (2016) (Digital) (danke-Empire).cbz | 637.34MiB

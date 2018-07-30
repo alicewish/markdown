@@ -14,6 +14,8 @@
 
 [Crisis on Multiple Earths (v01-v06) (2002-2013) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Crisis-on-Multiple-Earths--v01-v06---2002-2013---Digital---Zone-Empire.md)
 
+[Crisis on Multiple Earths (v01-v06)(2002-2013)(digital)(Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Crisis-on-Multiple-Earths--v01-v06--2002-2013--digital--Zone-Empire.md)
+
 Online | Download
 --- | ---
 Crisis on Multiple Earths v01 (2002) (Digital) (Zone-Empire).cbr | 299.97MiB

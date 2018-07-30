@@ -1,5 +1,9 @@
 ## Mera - Queen of Atlantis 006 (2018) (Digital) (BlackManta-Empire).cbz
 
+
+[回到 Mera - Queen of Atlantis 目录](https://github.com/alicewish/markdown/blob/master/series/Mera-Queen-of-Atlantis.md)
+
+
 ![Mera - Queen of Atlantis (2018-) 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftofg48s05j21j82cw7wh.jpg)
 
 ![Mera - Queen of Atlantis (2018-) 006-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftof2tttsej21j82cw4qp.jpg)
@@ -51,3 +55,6 @@
 ![Mera - Queen of Atlantis (2018-) 006-024.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftofjl8fwtj21j82cwb29.jpg)
 
 ![zz.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsc02iql0wj21j82cxawp.jpg)
+
+[回到 Mera - Queen of Atlantis 目录](https://github.com/alicewish/markdown/blob/master/series/Mera-Queen-of-Atlantis.md)
+

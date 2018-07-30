@@ -20,5 +20,5 @@ Image Week Checklist.txt | 230.00B
 [Nailbiter 008 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-008-2014-Digital-Darkness-Empire-cbr.md) | 41.14MiB
 [Penny Dora and the Wishing Box 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Penny-Dora-Wishing-Box-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.48MiB
 [Tech Jacket 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tech-Jacket-006-2014-Digital-Darkness-Empire-cbr.md) | 54.26MiB
-The Autumnlands - Tooth & Claw 002 (2014) (digital) (Son of Ultron-Empire).cbr | 62.58MiB
+[The Autumnlands - Tooth & Claw 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Autumnlands-Tooth-Claw-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 62.58MiB
 [The Humans 002 (2014) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Humans-002-2014-Digital-Pym-Empire-cbz.md) | 58.39MiB

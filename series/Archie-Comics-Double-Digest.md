@@ -16,7 +16,7 @@ Check out the exciting adventures of Archie Andrews in this super-size book! Wit
 
 Online | Download
 --- | ---
-[Archie Comics Double Digest 290 (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Archie-Comics-Double-Digest-290-Digital-Shadowcat-Empire-cbz.md) | 273.95MiB
+[Archie Comics Double Digest 290 (Digital) (Shadowcat-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Archie-Comics-Double-Digest-290-Digital-Shadowcat-Empire-cbz.md) | [273.95MiB](https://pan.baidu.com/s/1HjaVyOBodlanqjTitVVSOA#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.04%2F%E3%82%B3%E3%82%A8%E3%82%A8%E3%82%B3%E3%82%AF%E3%82%B5%E3%82%B5%E3%82%B9%E3%82%A2%E3%82%B7%E3%82%BF%E3%82%B9%E3%82%BF%E3%82%A8%E3%82%A4%E3%82%B3%E3%82%BF%E3%82%AF%E3%82%A6%E3%82%A4%E3%82%AD%E3%82%A6%E3%82%AF%E3%82%BF%E3%82%BD%E3%82%AB%E3%82%AF%E3%82%BB%E3%82%BD%E3%82%AA%E3%82%B9%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202018%20Q3)
 Archie Comics Double Digest 258 (2015) (Forsythe-DCP).cbr | 227.38MiB
 Archie Comics Double Digest 259 (2015) (Forsythe-DCP).cbr | 228.39MiB
 Archie Comics Double Digest 260 (2015) (Forsythe-DCP).cbr | 455.09MiB
@@ -42,4 +42,4 @@ Archie Comics Double Digest 287 (2018) (Forsythe-DCP).cbr | 434.18MiB
 Archie Comics Double Digest 288 (2018) (Forsythe-DCP).cbr | 261.90MiB
 Archie Comics Double Digest 288 (2018) (Digital) (Shadowcat-Empire).cbz | 274.98MiB
 [Archie Comics Double Digest 289 (2018) (Forsythe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-Comics-Double-Digest-289-2018-Forsythe-DCP-cbr.md) | [261.12MiB](https://pan.baidu.com/s/1q_ulXxt7QMqRi5YEP9jofQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.30%2F%E3%82%B5%E3%82%A2%E3%82%B9%E3%82%BB%E3%82%B9%E3%82%A6%E3%82%AB%E3%82%B9%E3%82%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%82%A4%E3%82%AF%E3%82%B9%E3%82%B1%E3%82%A4%E3%82%BD%E3%82%AB%E3%82%B5%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%B3%E3%82%AD%E3%82%AF%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%A6%E3%82%B3%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
-[Archie Comics Double Digest 290 (2018) (Forsythe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-Comics-Double-Digest-290-2018-Forsythe-DCP-cbr.md) | 261.03MiB
+[Archie Comics Double Digest 290 (2018) (Forsythe-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-Comics-Double-Digest-290-2018-Forsythe-DCP-cbr.md) | [261.03MiB](https://pan.baidu.com/s/1HjaVyOBodlanqjTitVVSOA#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.04%2F%E3%82%B3%E3%82%B3%E3%82%B3%E3%82%B9%E3%82%BB%E3%82%BF%E3%82%BF%E3%82%BD%E3%82%BB%E3%82%A6%E3%82%A4%E3%82%B1%E3%82%A4%E3%82%B9%E3%82%B5%E3%82%A6%E3%82%B5%E3%82%B3%E3%82%B7%E3%82%B9%E3%82%AB%E3%82%B5%E3%82%BB%E3%82%B3%E3%82%B1%E3%82%AB%E3%82%B5%E3%82%A6%E3%82%B3%E3%82%BB%E3%82%AA%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202018%20Q3)

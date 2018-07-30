@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Crossed】 | 
 &emsp;【Crossed/Crossed +100 (001-018) (2014-2016) (digital) (Mephisto-Empire)】 | 
-Crossed +100 001 (2014) (10 Covers) (Digital) (Darkness-Empire).cbr | 63.23MiB
+[Crossed +100 001 (2014) (10 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-001-2014-10-Covers-Digital-Darkness-Empire-cbr.md) | 63.23MiB
 [Crossed +100 002 (2015) (7 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-002-2015-7-Covers-Digital-Darkness-Empire-cbr.md) | 56.38MiB
 [Crossed +100 003 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-003-2015-Digital-Dark-VI-Empire-cbr.md) | 49.49MiB
 [Crossed +100 004 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-004-2015-Digital-DR-Quinch-Empire-cbr.md) | 50.39MiB

@@ -22,7 +22,7 @@ Valentine 009 (2014) (digital) (Mr Norrell-Empire).cbr | 68.24MiB
 Valentine 010 (2014) (digital) (Mr Norrell-Empire).cbr | 86.62MiB
 Valentine 011 (2014) (digital) (Mr Norrell-Empire).cbr | 98.60MiB
 Valentine 012 (2014) (digital) (Mr Norrell-Empire).cbr | 87.22MiB
-Valentine 013 (2014) (digital) (Mr Norrell-Empire).cbr | 81.82MiB
+[Valentine 013 (2014) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Valentine-013-2014-digital-Mr-Norrell-Empire-cbr.md) | 81.82MiB
 [Valentine 014 (2015) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Valentine-014-2015-digital-Mr-Norrell-Empire-cbr.md) | 86.98MiB
 [Valentine 015 (2015) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Valentine-015-2015-digital-Mr-Norrell-Empire-cbr.md) | 104.51MiB
 [Valentine 016 (2015) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Valentine-016-2015-digital-Mr-Norrell-Empire-cbr.md) | 72.87MiB

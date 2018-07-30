@@ -29,5 +29,5 @@ Hinterkind 012 (2014) (digital) (Son of Ultron-Empire).cbr | 49.31MiB
 [Hinterkind 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 30.12MiB
 [Hinterkind 018 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-018-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.50MiB
 Hinterkind v01 - The Waking World (2014) (digital) (DR & Quinch-Empire).cbr | 305.24MiB
-Hinterkind v02 - Written In Blood (2014) (digital) (DR & Quinch-Empire).cbr | 173.01MiB
+[Hinterkind v02 - Written In Blood (2014) (digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-v02-Written-In-Blood-2014-digital-DR-Quinch-Empire-cbr.md) | 173.01MiB
 Hinterkind v03 - The Hot Zone (2015) (Digital) (DR & Quinch-Empire).cbr | 178.72MiB

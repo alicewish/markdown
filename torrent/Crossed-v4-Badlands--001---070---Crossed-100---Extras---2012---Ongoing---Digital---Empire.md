@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Crossed +100 001 (2014) (10 Covers) (Digital) (Darkness-Empire).cbr | 63.23MiB
+[Crossed +100 001 (2014) (10 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-001-2014-10-Covers-Digital-Darkness-Empire-cbr.md) | 63.23MiB
 [Crossed +100 002 (2015) (7 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-100-002-2015-7-Covers-Digital-Darkness-Empire-cbr.md) | 56.38MiB
 Crossed - Badlands 001 (2012) (15 covers) (digital) (Son of Ultron-Empire).cbr | 78.16MiB
 Crossed - Badlands 002 (2012) (5 covers) (digital) (Son of Ultron-Empire).cbr | 57.36MiB

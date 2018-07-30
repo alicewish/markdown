@@ -1,5 +1,9 @@
 ## The Terrifics 005 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 The Terrifics 目录](https://github.com/alicewish/markdown/blob/master/series/Terrifics.md)
+
+
 ![The Terrifics (2018-) 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsqi505a7qj21j82cwb29.jpg)
 
 ![The Terrifics (2018-) 005-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsqhlxwc3fj21j72cw7uw.jpg)
@@ -49,3 +53,6 @@
 ![The Terrifics (2018-) 005-023.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsqi8xopbbj21j82cw7wh.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5nf2d7hsj20zk1io4qp.jpg)
+
+[回到 The Terrifics 目录](https://github.com/alicewish/markdown/blob/master/series/Terrifics.md)
+
