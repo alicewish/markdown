@@ -43,8 +43,10 @@ Texas Rangers in Action 031 (1961) (Charlton) (c2c) [RAW] (narfstar).cbz | 34.04
 Texas Rangers in Action 033 (1962) (Charlton) (c2c).cbz | 83.36MiB
 Texas Rangers in Action 035 (1962) (Charlton) (INC).cbz | 16.27MiB
 Texas Rangers in Action 036 (1962) (Charlton) (c2c) (narfstar).cbz | 10.53MiB
+Texas Rangers in Action 039 (c2c) (Charlton) (1963-05) ComicWanderer.cbz | 65.98MiB
 Texas Rangers in Action 041 Sep 1963 Narfstar-Comicwanderer.cbz | 67.17MiB
 Texas Rangers in Action 044 (1964) (Charlton) (c2c) (narfstar).cbz | 68.05MiB
+Texas Rangers in Action 059 (c2c) (Charlton) (1967-02) ComicWanderer.cbz | 70.30MiB
 Texas Rangers in Action 061 (1967) (Charlton) (c2c).cbr | 27.34MiB
 Texas Rangers in Action 067 (1968) (Charlton) (c2c).cbr | 25.83MiB
 Texas Rangers in Action 069 (1968) (Charlton) (c2c).cbr | 26.55MiB

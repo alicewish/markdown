@@ -306,6 +306,13 @@ X-Men 097 (2000) (Digital) (Zone-Empire).cbr | 46.89MiB
 X-Men 098 (2000) (digital) (Minutemen-Bluntman).cbr | 48.55MiB
 X-Men 098 (2000) (Digital) (Zone-Empire).cbr | 47.96MiB
 X-Men 099 (2000) (Digital) (AnHeroGold-Empire).cbz | 45.71MiB
+X-Men, 2000-03-00 (#100) (digital) (Glorith-HD).cbz | 74.18MiB
+X-Men, 2000-04-00 (#101) (digital) (Glorith-HD).cbz | 42.66MiB
+X-Men, 2000-05-00 (#102) (digital) (Glorith-HD).cbz | 48.33MiB
+X-Men, 2000-06-00 (#103) (digital) (Glorith-HD).cbz | 54.51MiB
+X-Men, 2000-07-00 (#104) (digital) (Glorith-HD).cbz | 51.52MiB
+X-Men, 2000-08-00 (#105) (digital) (Glorith-HD).cbz | 48.70MiB
+X-Men, 2000-09-00 (#106) (digital) (Glorith-HD).cbz | 80.29MiB
 X-Men 107 (2000) (Digital) (AnHeroGold-Empire).cbz | 47.15MiB
 X-Men 108 (2001) (Digital) (Kileko-Empire).cbr | 77.80MiB
 X-Men 109 (2001) (Digital) (Shadowcat-Empire).cbz | 82.20MiB

@@ -94,6 +94,8 @@ The Punisher 05 (of 05) (1986) (digital) (Minutemen-Slayer).cbr | 43.89MiB
 Punisher 10 (1988) (Digital) (AnHeroGold-Empire).cbz | 37.91MiB
 The Punisher Annual 001 (1988) (digital) (Oroboros-DCP).cbr | 65.71MiB
 Punisher Annual 001 (1988) (Digital) (Shadowcat-Empire).cbz | 65.74MiB
+Punisher 024 (1989) (Digital) (Shadowcat-Empire).cbz | 39.54MiB
+Punisher 025 (1989) (Digital) (Shadowcat-Empire).cbz | 67.74MiB
 Punisher 028 (1989) (Digital) (Shadowcat-Empire).cbz | 35.75MiB
 Punisher Annual 002 (1989) (Digital) (Shadowcat-Empire).cbz | 39.96MiB
 Punisher 029 (1990) (Digital) (Shadowcat-Empire).cbz | 36.68MiB

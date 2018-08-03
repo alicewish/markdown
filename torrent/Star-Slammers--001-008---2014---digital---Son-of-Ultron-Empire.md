@@ -17,4 +17,4 @@ Star Slammers 004 (2014) (digital) (Son of Ultron-Empire).cbr | 66.78MiB
 Star Slammers 005 (2014) (digital) (Son of Ultron-Empire).cbr | 67.26MiB
 Star Slammers 006 (2014) (digital) (Son of Ultron-Empire).cbr | 62.82MiB
 Star Slammers 007 (2014) (digital) (Son of Ultron-Empire).cbr | 64.90MiB
-Star Slammers 008 (2014) (digital) (Son of Ultron-Empire).cbr | 54.52MiB
+[Star Slammers 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Slammers-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 54.52MiB

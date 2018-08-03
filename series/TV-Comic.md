@@ -19,6 +19,14 @@ TV Comic 0487 [1961-04-15] (Zeg).cbz | 9.80MiB
 TV Comic 0488 [1961-04-22] (Zeg).cbz | 9.25MiB
 TV Comic 0490 [1961-05-06] (Zeg).cbz | 9.93MiB
 TV Comic 0491 [1961-05-13] (Zeg).cbz | 10.13MiB
+TV Comic 0492 [1961-05-20] (Zeg).cbz | 9.39MiB
+TV Comic 0493 [1961-05-27] (Zeg).cbz | 9.35MiB
+TV Comic 0494 [1961-06-03] (Zeg).cbz | 9.58MiB
+TV Comic 0495 [1961-06-10] (Zeg).cbz | 9.70MiB
+TV Comic 0496 [1961-06-17] (Zeg).cbz | 9.57MiB
+TV Comic 0498 [1961-07-01] (Zeg).cbz | 10.22MiB
+TV Comic 0499 [1961-07-08] (Zeg).cbz | 9.02MiB
+TV Comic 0500 [1961-07-15] (Zeg).cbz | 9.90MiB
 TV Comic 0668 (0964-03-10).cbr | 12.20MiB
 TV Comic 0915 (28-06-1969) (Monty).cbz | 12.20MiB
 TV Comic 0920 (02-08-1969) (Monty).cbz | 11.88MiB

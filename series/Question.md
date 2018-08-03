@@ -69,3 +69,5 @@ The Question 020 (1988) (Digital) (Shadowcat-Empire).cbz | 40.68MiB
 The Question 021 (1988) (Digital) (Shadowcat-Empire).cbz | 36.77MiB
 The Question 022 (1988) (Digital) (Shadowcat-Empire).cbz | 40.80MiB
 The Question 023 (1988) (Digital) (Shadowcat-Empire).cbz | 41.66MiB
+The Question 024 (1989) (Digital) (Shadowcat-Empire).cbz | 38.15MiB
+The Question 025 (1989) (Digital) (Shadowcat-Empire).cbz | 32.12MiB

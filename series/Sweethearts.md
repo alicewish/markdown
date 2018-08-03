@@ -37,6 +37,7 @@ Sweethearts 096 (1967 Charlton) (c2c) (Soothsayr-Novus+DMiles).cbz | [26.36MiB](
 Sweethearts 97 (1968 Charlton) (c2c) (Soothsayr-Novus+DMiles).cbz | [43.12MiB](https://pan.baidu.com/s/1pLKEbiz#list/path=%2FNovus%20-%20Week%20of%202017%20Q2%2FNovus%20-%20Week%20of%202017-05-31%2F%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%BD%E3%82%BF%E3%82%B5%E3%82%A8%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%AA%E3%82%B3%E3%82%A2%E3%82%B7%E3%82%AD%E3%82%BD%E3%82%B9%E3%82%B7%E3%82%A2%E3%82%AF%E3%82%B9%E3%82%AB%E3%82%B7%E3%82%A8%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%AF%E3%82%AA%E3%82%B9%E3%82%AF%E3%82%B7&parentPath=%2FNovus%20-%20Week%20of%202017%20Q2)
 Sweethearts 098 (Charlton 1968) (c2c) (Titansfan).cbz | 24.69MiB
 Sweethearts 100 Charlton 1968 Titansfan.cbz | 24.69MiB
+Sweethearts 102 c2c Charlton Feb 1969 Kracalactaka-DMiles.cbz | 53.68MiB
 Sweethearts 102 Charlton 1969 Titansfan.cbz | 24.33MiB
 Sweethearts 102 (1951 Fawcett) (c2c) (rangerhouse-movielover-Novus).cbz | 32.93MiB
 Sweethearts 104 Charlton 1969 Titansfan.cbz | 23.07MiB

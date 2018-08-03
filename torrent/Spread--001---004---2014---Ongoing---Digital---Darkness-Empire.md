@@ -13,5 +13,5 @@ Online | Download
 Spread 001 (2014) (Digital) (Darkness-Empire).cbr | 63.63MiB
 Spread 002 (2014) (Digital) (Darkness-Empire).cbr | 64.47MiB
 Spread 003 (2014) (Digital) (Darkness-Empire).cbr | 57.40MiB
-Spread 004 (2014) (Digital) (Darkness-Empire).cbr | 64.82MiB
+[Spread 004 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-004-2014-Digital-Darkness-Empire-cbr.md) | 64.82MiB
 Spread 01 (2014) (2nd Printing Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 5.58MiB

@@ -647,7 +647,7 @@ Powerless - 04 of 06.cbr | 5.41MiB
 Powerless - 05 of 06.cbr | 6.10MiB
 Powerless - 06 of 06.cbr | 8.26MiB
 &emsp;【The Many Loves of Spider-Man.III/Gwen Stacy/Marvel 75th Anniversary Celebration】 | 
-Marvel 75th Anniversary Celebration 001 (2014) (digital) (Son of Ultron-Empire).cbr | 104.53MiB
+[Marvel 75th Anniversary Celebration 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvel-75th-Anniversary-Celebration-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 104.53MiB
 &emsp;【The Many Loves of Spider-Man.III/Gwen Stacy/Marvel Adventures Spider-Man/v1】 | 
 Marvel Adventures Spider-Man 053 (2009) (GreenGiant-DCP).cbr | 19.38MiB
 Marvel Adventures Spider-Man 054 (2009) (GreenGiant-DCP).cbr | 15.42MiB

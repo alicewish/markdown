@@ -46,5 +46,6 @@ Six-Gun Heroes 048 (1958) (Charlton) (c2c).cbr | 34.35MiB
 Six-Gun Heroes 049 (1958) (Charlton) (c2c).cbr | 34.17MiB
 Six-Gun Heroes 052 (1959) (Charlton) (c2c).cbr | 33.63MiB
 Six-Gun Heroes 058 (1960) (Charlton) (c2c) (srca1941).cbz | 27.87MiB
+Six-Gun Heroes 010 (c2c) (Blue Bird-Charlton) (1961) ComicWanderer.cbz | 68.09MiB
 Six-Gun Heroes 077 (1963) (Charlton) (c2c).cbz | 21.08MiB
 Six-Gun Heroes 081 (1964) (Charlton) (c2c).cbz | 25.42MiB

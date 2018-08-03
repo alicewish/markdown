@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Aliens - Fire and Stone 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 33.23MiB
-Aliens - Fire and Stone 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 33.91MiB
-Aliens - Fire and Stone 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 33.87MiB
+[Aliens - Fire and Stone 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aliens-Fire-Stone-02-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 33.91MiB
+[Aliens - Fire and Stone 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aliens-Fire-Stone-03-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 33.87MiB
 [Aliens - Fire and Stone 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aliens-Fire-Stone-04-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 35.81MiB

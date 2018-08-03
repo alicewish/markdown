@@ -11,9 +11,9 @@ Online | Download
 Action Comics 677 (1992-05) (digital) (fixed) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 33.14MiB
 DC Comics Essentials - Green Lantern - Rebirth 01 (2014-11) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 100.20MiB
 Dream Book of Romance 08 (1954 ME) (c2c) (JVJ-tilliban-Novus).cbz | 41.59MiB
-Fables 146 (2015) (2048px - c2c) (theProletariat-Novus-HD).cbr | 57.03MiB
-Fables 146 (2015) (2048px) (theProletariat-Novus-HD).cbr | 41.87MiB
-Fables 146 (2015) (theProletariat-Novus).cbr | 25.13MiB
+[Fables 146 (2015) (2048px - c2c) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-146-2015-2048px-c2c-theProletariat-Novus-HD-cbr.md) | 57.03MiB
+[Fables 146 (2015) (2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-146-2015-2048px-theProletariat-Novus-HD-cbr.md) | 41.87MiB
+[Fables 146 (2015) (theProletariat-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-146-2015-theProletariat-Novus-cbr.md) | 25.13MiB
 Frankenstein 030 (1954 Prize) (c2c) (Soothsayr-Yoc-Novus).cbz | 38.20MiB
 Legion of Super-Heroes 108 (1998-09) (hybrid) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 52.09MiB
 Legionnaires 13 (1994-04) (hybrid) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 39.11MiB

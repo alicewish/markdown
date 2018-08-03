@@ -15,4 +15,4 @@ Starlight 02 (2014) (2 covers - 2048px) (theProletariat-Novus-HD).cbr | 32.80MiB
 Starlight 03 (2014) (2 covers - 2048px) (theProletariat-Novus-HD).cbr | 34.45MiB
 Starlight 04 (2014) (3 covers - 2048px) (theProletariat-Novus-HD).cbr | 36.30MiB
 Starlight 05 (2014) (2 covers - 2048px - c2c) (theProletariat-Novus-HD).cbr | 38.27MiB
-Starlight 06 (2014) (2 covers - 2048px) (theProletariat-Novus-HD).cbr | 54.05MiB
+[Starlight 06 (2014) (2 covers - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Starlight-06-2014-2-covers-2048px-theProletariat-Novus-HD-cbr.md) | 54.05MiB

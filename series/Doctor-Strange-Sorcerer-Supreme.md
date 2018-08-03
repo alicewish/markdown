@@ -55,6 +55,25 @@ Doctor Strange Sorcerer Supreme 037 (1992) (Digital) (Shadowcat-Empire).cbz | 11
 Doctor Strange Sorcerer Supreme 038 (1992) (Digital) (Shadowcat-Empire).cbz | 103.33MiB
 Doctor Strange Sorcerer Supreme 039 (1992) (Digital) (Shadowcat-Empire).cbz | 112.09MiB
 Doctor Strange Sorcerer Supreme 040 (1992) (Digital) (Shadowcat-Empire).cbz | 96.05MiB
+Doctor Strange - Sorcerer Supreme 041 (1992) (Digital) (Shadowcat-Empire).cbz | 61.30MiB
+Doctor Strange - Sorcerer Supreme 042 (1992) (Digital) (Shadowcat-Empire).cbz | 55.60MiB
+Doctor Strange - Sorcerer Supreme 043 (1992) (Digital) (Shadowcat-Empire).cbz | 57.22MiB
+Doctor Strange - Sorcerer Supreme 044 (1992) (Digital) (Shadowcat-Empire).cbz | 51.57MiB
+Doctor Strange - Sorcerer Supreme 045 (1992) (Digital) (Shadowcat-Empire).cbz | 55.64MiB
+Doctor Strange - Sorcerer Supreme 046 (1992) (Digital) (Shadowcat-Empire).cbz | 55.35MiB
+Doctor Strange - Sorcerer Supreme 047 (1992) (Digital) (Shadowcat-Empire).cbz | 57.51MiB
+Doctor Strange - Sorcerer Supreme 048 (1992) (Digital) (Shadowcat-Empire).cbz | 50.97MiB
+Doctor Strange - Sorcerer Supreme 049 (1993) (Digital) (Shadowcat-Empire).cbz | 50.40MiB
+Doctor Strange - Sorcerer Supreme 050 (1993) (Digital) (Shadowcat-Empire).cbz | 94.70MiB
+Doctor Strange - Sorcerer Supreme 051 (1993) (Digital) (Shadowcat-Empire).cbz | 57.90MiB
+Doctor Strange - Sorcerer Supreme 052 (1993) (Digital) (Shadowcat-Empire).cbz | 51.31MiB
+Doctor Strange - Sorcerer Supreme 053 (1993) (Digital) (Shadowcat-Empire).cbz | 53.66MiB
+Doctor Strange - Sorcerer Supreme 054 (1993) (Digital) (Shadowcat-Empire).cbz | 47.99MiB
+Doctor Strange - Sorcerer Supreme 055 (1993) (Digital) (Shadowcat-Empire).cbz | 49.94MiB
+Doctor Strange - Sorcerer Supreme 056 (1993) (Digital) (Shadowcat-Empire).cbz | 54.27MiB
+Doctor Strange - Sorcerer Supreme 057 (1993) (Digital) (Shadowcat-Empire).cbz | 58.49MiB
+Doctor Strange - Sorcerer Supreme 058 (1993) (Digital) (Shadowcat-Empire).cbz | 63.59MiB
+Doctor Strange - Sorcerer Supreme 059 (1993) (Digital) (Shadowcat-Empire).cbz | 52.37MiB
 Doctor Strange Sorcerer Supreme 076 (1995) (Digital) (Shadowcat-Empire).cbz | 105.15MiB
 Doctor Strange Sorcerer Supreme 077 (1995) (Digital) (Shadowcat-Empire).cbz | 107.26MiB
 Doctor Strange Sorcerer Supreme 078 (1995) (Digital) (Shadowcat-Empire).cbz | 67.16MiB

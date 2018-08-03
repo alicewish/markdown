@@ -37,6 +37,6 @@ The Chronicles of Conan Vol. 24 - Blood Dawn and Other Stories (2013) (Digital) 
 The Chronicles of Conan Vol. 25 - Exodus and Other Stories (2013) (Digital) (Minutemen-Endriago).cbz | 262.97MiB
 The Chronicles of Conan Vol. 26 - Legion of the Dead and Other Stories (2014) (digital) (Minutemen-InnerDemons).cbr | 280.02MiB
 The Chronicles of Conan Vol. 27 - Sands Upon the Earth and Other Stories (2014) (digital) (Minutemen-Endriago).cbz | 304.41MiB
-The Chronicles of Conan Vol. 28 - Blood and Ice and Other Stories (2014) (digital) (Minutemen-Endriago).cbz | 281.84MiB
+[The Chronicles of Conan Vol. 28 - Blood and Ice and Other Stories (2014) (digital) (Minutemen-Endriago).cbz](https://github.com/alicewish/markdown/blob/master/comic/Chronicles-of-Conan-Vol-28-Blood-Ice-Other-Stories-2014-digital-Minutemen-Endriago-cbz.md) | 281.84MiB
 [The Chronicles of Conan Vol. 29 - The Shape in the Shadow and Other Stories (2014) (digital) (Minutemen-Endriago).cbz](https://github.com/alicewish/markdown/blob/master/comic/Chronicles-of-Conan-Vol-29-Shape-in-Shadow-Other-Stories-2014-digital-Minutemen-Endriago-cbz.md) | 278.71MiB
 downloaded from worldwidetorrents.eu.txt | 603.00B

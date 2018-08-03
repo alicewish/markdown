@@ -53,8 +53,8 @@ Baltimore - The Witch of Harju 01 (of 03) (2014) (digital) (Minutemen-InnerDemon
 Baltimore - The Witch of Harju 02 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 19.59MiB
 Baltimore - The Witch of Harju 03 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 19.33MiB
 &emsp;【Baltimore/Baltimore - The Wolf and the Apostle (001-002)(2014)(digital)(Minutemen-InnerDemons)】 | 
-Baltimore - The Wolf and the Apostle 01 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 18.60MiB
-Baltimore - The Wolf and the Apostle 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 14.38MiB
+[Baltimore - The Wolf and the Apostle 01 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Wolf-Apostle-01-of-02-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.60MiB
+[Baltimore - The Wolf and the Apostle 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Wolf-Apostle-02-of-02-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.38MiB
 Baltimore v01 - The Plague Ships (2011) (digital) (Minutemen-Azkaban).cbr | 134.60MiB
 Baltimore v02 - The Curse Bells (2012) (digital) (Son of Ultron-Empire).cbr | 151.18MiB
 Baltimore v03 - A Passing Stranger and Other Stories (2013) (digital) (Son of Ultron-Empire).cbr | 168.51MiB

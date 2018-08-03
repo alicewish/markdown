@@ -12,8 +12,15 @@
 
 Online | Download
 --- | ---
+Fightin Army 018 Charlton Sep 1956 c2c fett.cbr | 34.96MiB
+Fightin Army 019 Charlton Feb 1957 c2c fett.cbr | 34.84MiB
 Fightin' Army 020 Charlton May 1957 c2c.cbr | 22.48MiB
+Fightin Army 021 Charlton Jul 1957 c2c fett.cbr | 34.52MiB
 Fightin' Army 021 Charlton Jul 1957 Narfstar-Kracalactaka.cbz | 16.48MiB
+Fightin Army 022 Charlton Nov 1957 c2c fett.cbr | 34.02MiB
+Fightin Army 023 Charlton Dec 1957 c2c fett.cbr | 34.19MiB
+Fightin Army 025 Charlton Jun 1958 c2c fett.cbr | 33.95MiB
+Fightin Army 026 Charlton Sep 1958 c2c fett.cbr | 33.87MiB
 Fightin' Army 26 Charlton Sep 1958 ottawagrant-Kracalactaka.cbz | 33.19MiB
 Fightin' Army 33 Charlton Jan 1960 Titansfan.cbz | 68.02MiB
 Fightin' Army 36 Charlton Jul 1960 Titansfan.cbz | 65.53MiB

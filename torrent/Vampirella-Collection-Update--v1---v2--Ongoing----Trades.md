@@ -89,7 +89,7 @@ Vampirella Morning In America 001(F)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 59.01Mi
 Vampirella Morning In America 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 58.89MiB
 Vampirella Morning In America 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 56.68MiB
 Vampirella Morning In America 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 58.46MiB
-Vampirella Prelude To The Shadows 001(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 89.50MiB
+[Vampirella Prelude To The Shadows 001(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampirella-Prelude-To-Shadows-001-2014-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 89.50MiB
 &emsp;【Vampirella Collection Update (v1 + v2 (Ongoing) + Trades)/Vampirella Trades (v1 - v4 + Others)】 | 
 Dark Shadows-Vampirella Vol 1 TPB (2013) (Digital) (DR & Quinch-Empire).cbr | 158.99MiB
 Vampirella Strikes Vol 1 TPB (2013) (Digital) (K6-Empire).cbr | 261.61MiB
@@ -106,4 +106,4 @@ Vampirella V2 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr 
 Vampirella V2 004(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 51.41MiB
 Vampirella V2 004(2014)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 52.10MiB
 Vampirella V2 005(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 52.27MiB
-Vampirella V2 006(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 47.60MiB
+[Vampirella V2 006(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampirella-V2-006-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 47.60MiB

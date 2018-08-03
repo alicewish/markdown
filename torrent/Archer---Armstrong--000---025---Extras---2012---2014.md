@@ -36,7 +36,7 @@ Archer and Armstrong 021 (2014) (digital) (Son of Ultron-Empire).cbr | 48.57MiB
 Archer and Armstrong 022 (2014) (digital) (Son of Ultron-Empire).cbr | 71.83MiB
 Archer and Armstrong 023 (2014) (digital) (Son of Ultron-Empire).cbr | 67.59MiB
 Archer and Armstrong 024 (2014) (digital) (Son of Ultron-Empire).cbr | 59.30MiB
-Archer and Armstrong 025 (2014) (digital) (Son of Ultron-Empire).cbr | 104.48MiB
+[Archer and Armstrong 025 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archer-Armstrong-025-2014-digital-Son-of-Ultron-Empire-cbr.md) | 104.48MiB
 &emsp;【Archer & Armstrong (000 - 025 + Extras) (2012 - 2014)/Variants】 | 
 Archer and Armstrong 000 (2013) (Lee Garbett Pullbox Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 1.91MiB
 Archer and Armstrong 10 (2013) (Juan Doe Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 2.34MiB

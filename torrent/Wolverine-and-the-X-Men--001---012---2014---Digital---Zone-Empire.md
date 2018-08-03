@@ -20,5 +20,5 @@ Wolverine and the X-Men 007 (2014) (Digital) (Zone-Empire).cbr | 35.68MiB
 Wolverine and the X-Men 008 (2014) (Digital) (Zone-Empire).cbr | 39.67MiB
 Wolverine and the X-Men 009 (2014) (Digital) (Zone-Empire).cbr | 42.24MiB
 Wolverine and the X-Men 010 (2014) (Digital) (Zone-Empire).cbr | 62.90MiB
-Wolverine and the X-Men 011 (2014) (Digital) (Zone-Empire).cbr | 42.17MiB
-Wolverine and the X-Men 012 (2015) (Digital) (Zone-Empire).cbr | 41.43MiB
+[Wolverine and the X-Men 011 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-011-2014-Digital-Zone-Empire-cbr.md) | 42.17MiB
+[Wolverine and the X-Men 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-X-Men-012-2015-Digital-Zone-Empire-cbr.md) | 41.43MiB

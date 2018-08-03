@@ -28,6 +28,7 @@ Online | Download
 --- | ---
 Web of Spider-Man 001 (1985) (Digital) (AnHeroGold-Empire).cbz | 35.14MiB
 Web of Spider-Man 001 (1985) (digital) (Minutemen-Slayer).cbr | 35.10MiB
+Web of Spider-Man 006 (1985) (Digital) (Shadowcat-Empire).cbz | 43.86MiB
 Web of Spider-Man 029 (1987) (digital) (Minutemen-FactorX).cbr | 71.11MiB
 Web of Spider-Man 031 (1987) (Digital) (Shadowcat-Empire).cbz | 45.28MiB
 Web of Spider-Man 032 (1987) (Digital) (Shadowcat-Empire).cbz | 37.11MiB

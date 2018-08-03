@@ -15,4 +15,4 @@ Grimm Fairy Tales Presents Warlord Of OZ 002(2014)(Digital)(TLK-EMPIRE-HD).cbr |
 Grimm Fairy Tales Presents Warlord Of OZ 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.00MiB
 Grimm Fairy Tales Presents Warlord Of OZ 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.49MiB
 Grimm Fairy Tales Presents Warlord Of OZ 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 37.78MiB
-Grimm Fairy Tales Presents Warlord Of OZ 006(2014)(Digital)(TLK-EMPIRE-HD).cbr | 36.13MiB
+[Grimm Fairy Tales Presents Warlord Of OZ 006(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Warlord-Of-OZ-006-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.13MiB

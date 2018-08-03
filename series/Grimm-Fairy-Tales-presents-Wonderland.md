@@ -16,6 +16,8 @@
 
 [Grimm Fairy Tales Presents Wonderland V2 (001-045+)(2012-)(digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Grimm-Fairy-Tales-Presents-Wonderland-V2--001-045---2012---digital--TLK-EMPIRE-HD.md)
 
+[Grimm Fairy Tales Presents Wonderland v2 (001-050+)(2012-2017)(digital)](https://github.com/alicewish/markdown/blob/master/torrent/Grimm-Fairy-Tales-Presents-Wonderland-v2--001-050---2012-2017--digital.md)
+
 Online | Download
 --- | ---
 Grimm Fairy Tales presents Wonderland 001 (2012) (digital) (Minutemen-Slayer).cbr | 50.28MiB

@@ -79,7 +79,7 @@ Eternal Warrior 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 55.56MiB
 Eternal Warrior v01 - Sword of the Wild (2014) (digital) (Minutemen-Slayer).cbr | 190.07MiB
 Eternal Warrior v02 - Eternal Emporer (2014) (digital-Empire).cbr | 164.58MiB
 &emsp;【Eternal Warrior/Eternal Warrior v3 - Days Of Steel (001-003+)(2014-2015)(digital)】 | 
-Eternal Warrior - Days Of Steel 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 46.71MiB
+[Eternal Warrior - Days Of Steel 001 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eternal-Warrior-Days-Of-Steel-001-2014-digital-Minutemen-Spaztastic-cbr.md) | 46.71MiB
 [Eternal Warrior - Days Of Steel 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eternal-Warrior-Days-Of-Steel-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 39.35MiB
 Eternal Warrior - Days Of Steel 003 (2015) (digital) (F) (Minutemen-Spaztastic).cbr | 40.55MiB
 Eternal Warrior - Days of Steel (2015) (digital) (Son of Ultron-Empire).cbr | 181.51MiB

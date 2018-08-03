@@ -36,5 +36,5 @@ Over The Garden Wall 2017 Special 01 (2017) (Digital-Empire).cbr | 78.18MiB
 [Over The Garden Wall 002 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Over-Garden-Wall-002-2015-Digital-BlackManta-Empire-cbr.md) | 35.34MiB
 [Over The Garden Wall 003 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Over-Garden-Wall-003-2015-Digital-BlackManta-Empire-cbr.md) | 40.67MiB
 [Over The Garden Wall 004 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Over-Garden-Wall-004-2015-Digital-BlackManta-Empire-cbr.md) | 36.88MiB
-Over the Garden Wall Special 001 (2014) (Digital) (BlackManta-Empire).cbr | 55.33MiB
+[Over the Garden Wall Special 001 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Over-Garden-Wall-Special-001-2014-Digital-BlackManta-Empire-cbr.md) | 55.33MiB
 The Art of Over the Garden Wall (2017) (Digital) (danke-Empire).cbz | 645.37MiB

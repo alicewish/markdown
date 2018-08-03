@@ -32,9 +32,9 @@ Nova 018 (2014) (Digital) (Zone-Empire).cbr | 47.25MiB
 Nova 019 (2014) (Digital) (Zone-Empire).cbr | 41.19MiB
 Nova 020 (2014) (Digital) (Zone-Empire).cbr | 44.33MiB
 Nova 021 (2014) (Digital) (Zone-Empire).cbr | 41.97MiB
-Nova 022 (2014) (Digital) (Zone-Empire).cbr | 39.40MiB
-Nova 023 (2015) (Digital) (Zone-Empire).cbr | 43.95MiB
-Nova 024 (2015) (Digital) (Zone-Empire).cbr | 43.94MiB
+[Nova 022 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-022-2014-Digital-Zone-Empire-cbr.md) | 39.40MiB
+[Nova 023 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-023-2015-Digital-Zone-Empire-cbr.md) | 43.95MiB
+[Nova 024 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-024-2015-Digital-Zone-Empire-cbr.md) | 43.94MiB
 [Nova 025 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-025-2015-digital-Minutemen-PhD-cbr.md) | 61.08MiB
 [Nova 026 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-026-2015-Digital-Zone-Empire-cbr.md) | 36.48MiB
 [Nova 027 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-027-2015-Digital-Zone-Empire-cbr.md) | 35.56MiB

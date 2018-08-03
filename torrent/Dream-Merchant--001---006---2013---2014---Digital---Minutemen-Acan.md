@@ -14,5 +14,5 @@ The Dream Merchant 01 (of 06) (2013) (Minutemen-Acan).cbr | 52.09MiB
 The Dream Merchant 02 (of 06) (2013) (Minutemen-Acan).cbr | 35.13MiB
 The Dream Merchant 03 (of 06) (2013) (digital) (Minutemen-Acan).cbr | 32.27MiB
 The Dream Merchant 04 (of 06) (2014) (digital) (Minutemen-Acan).cbr | 42.19MiB
-The Dream Merchant 05 (of 06) (2014) (digital) (Minutemen-Acan).cbr | 42.52MiB
-The Dream Merchant 06 (of 06) (2014) (digital) (Minutemen-Acan).cbr | 41.69MiB
+[The Dream Merchant 05 (of 06) (2014) (digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Merchant-05-of-06-2014-digital-Minutemen-Acan-cbr.md) | 42.52MiB
+[The Dream Merchant 06 (of 06) (2014) (digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Merchant-06-of-06-2014-digital-Minutemen-Acan-cbr.md) | 41.69MiB

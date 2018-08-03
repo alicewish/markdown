@@ -17,4 +17,4 @@ All New Soulfire 004 (Digital)(HD)(Thornn-Empire).cbr | 47.39MiB
 All New Soulfire 005 (Digital)(HD)(Thornn-Empire).cbr | 46.41MiB
 All New Soulfire 006 (2014) (Digital) (Thornn-Empire).cbr | 43.84MiB
 All New Soulfire 007 (2014) (Digital) (HD) (Thornn-Empire).cbr | 49.76MiB
-Soulfire Vol 5 008 (2014) (Digital) (HD) (Thornn-Empire).cbr | 46.55MiB
+[Soulfire Vol 5 008 (2014) (Digital) (HD) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Soulfire-Vol-5-008-2014-Digital-HD-Thornn-Empire-cbr.md) | 46.55MiB

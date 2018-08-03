@@ -10,6 +10,10 @@
 
 
 
+相关种子⬇Related Torrents
+
+[Army of Darkness  Vs Hack-Slash (01 - 06)](https://github.com/alicewish/markdown/blob/master/torrent/Army-of-Darkness--Vs-Hack-Slash--01---06.md)
+
 Online | Download
 --- | ---
 Army of Darkness vs. Hack-Slash 01 (of 06) (2013) (Digital) (K6-Empire).cbr | [54.58MiB](https://pan.baidu.com/s/1qXDC9R2#list/path=%2F0-Day%20Week%20of%202013%20Q3%2F0-Day%20Week%20of%202013.07.24%2F%E3%82%AB%E3%82%B9%E3%82%AD%E3%82%A6%E3%82%B9%E3%82%A2%E3%82%B5%E3%82%AD%E3%82%B7%E3%82%B9%E3%82%AB%E3%82%B7%E3%82%AF%E3%82%B7%E3%82%B3%E3%82%B1%E3%82%B5%E3%82%A8%E3%82%BB%E3%82%A8%E3%82%A2%E3%82%BF%E3%82%B5%E3%82%B3%E3%82%B7%E3%82%AB%E3%82%BD%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202013%20Q3)

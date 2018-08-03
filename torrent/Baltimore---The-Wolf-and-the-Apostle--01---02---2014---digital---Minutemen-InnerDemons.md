@@ -10,5 +10,5 @@
 
 Online | Download
 --- | ---
-Baltimore - The Wolf and the Apostle 01 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 18.60MiB
-Baltimore - The Wolf and the Apostle 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 14.38MiB
+[Baltimore - The Wolf and the Apostle 01 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Wolf-Apostle-01-of-02-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.60MiB
+[Baltimore - The Wolf and the Apostle 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Wolf-Apostle-02-of-02-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.38MiB

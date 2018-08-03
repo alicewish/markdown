@@ -37,6 +37,14 @@ Venus 19 (1952 Atlas) (c2c) (JVJ-tilliban-Novus+Krac Cvr Upgrade).cbz | [30.52Mi
 Venus 019 (Atlas.1952) (c2c) (tilliban-Novus).cbz | [30.02MiB](https://pan.baidu.com/s/1TFbImrMgWFN0gjwZBIatQA#list/path=%2FNovus%20-%20Week%20of%202015%20Q4%2FNovus%20-%20Week%20of%202015-10-14%2F%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%AD%E3%82%AD%E3%82%B1%E3%82%AB%E3%82%AF%E3%82%A2%E3%82%B9%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B9%E3%82%B1%E3%82%B1%E3%82%AF%E3%82%A4%E3%82%BB%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%B7%E3%82%BF%E3%82%A8%E3%82%BF%E3%82%A2%E3%82%B7%E3%82%BD%E3%82%B1%E3%82%AF%E3%82%A8&parentPath=%2FNovus%20-%20Week%20of%202015%20Q4)
 Venus 001 (1948) (digital) (Minutemen-Faessla).cbz | 38.39MiB
 Venus 001(1948)(Digital)(TLK-EMPIRE-HD).cbr | 38.24MiB
+Venus 002 (1948) (Digital) (Shadowcat-Empire).cbz | 38.96MiB
+Venus 003 (1948) (Digital) (Shadowcat-Empire).cbz | 35.72MiB
+Venus 004 (1949) (Digital) (Shadowcat-Empire).cbz | 38.45MiB
+Venus 005 (1949) (Digital) (Shadowcat-Empire).cbz | 36.59MiB
+Venus 006 (1949) (Digital) (Shadowcat-Empire).cbz | 45.64MiB
+Venus 007 (1949) (Digital) (Shadowcat-Empire).cbz | 40.66MiB
+Venus 008 (1950) (Digital) (Shadowcat-Empire).cbz | 44.53MiB
+Venus 009 (1950) (Digital) (Shadowcat-Empire).cbz | 72.74MiB
 Venus 01 (of 04) (2015) (digital) (Minutemen-Slayer).cbr | 43.46MiB
 [Venus 01 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Venus-01-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | [44.61MiB](https://pan.baidu.com/s/1c2uCke8#list/path=%2F0-Day%20Week%20of%202015%20Q4%2F0-Day%20Week%20of%202015.12.30%2F%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%BF%E3%82%A2%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%BD%E3%82%A6%E3%82%B3%E3%82%A8%E3%82%AA%E3%82%AF%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%B1%E3%82%A8%E3%82%A6%E3%82%A2%E3%82%AF%E3%82%AD%E3%82%B1%E3%82%B7%E3%82%B3%E3%82%AB%E3%82%AB%E3%82%AD%E3%82%AB%E3%82%A2%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202015%20Q4)
 Venus (2016) (digital) (Minutemen-Slayer).cbr | 161.90MiB

@@ -13,7 +13,7 @@ Online | Download
 God Hates Astronauts (2010-2012) (Ryan Browne's web-comic, digital).cbr | 94.69MiB
 God Hates Astronauts 001 (2014) (digital) (Eos-Empire).cbr | 63.72MiB
 God Hates Astronauts 002 (2014) (digital) (Eos-Empire).cbr | 58.99MiB
-God Hates Astronauts 003 (2014) (digital) (Eos-Empire).cbr | 59.03MiB
+[God Hates Astronauts 003 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-003-2014-digital-Eos-Empire-cbr.md) | 59.03MiB
 [God Hates Astronauts 004 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-004-2014-digital-Eos-Empire-cbr.md) | 57.18MiB
 [God Hates Astronauts 005 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-005-2015-digital-Eos-Empire-cbr.md) | 51.78MiB
 [God Hates Astronauts 006 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Hates-Astronauts-006-2015-digital-Eos-Empire-cbr.md) | 59.00MiB

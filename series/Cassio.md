@@ -35,3 +35,4 @@ Cassio v6 The Call of Pain (2012) (Sosich).cbr | 40.70MiB
 Cassio v7 The Awakening of a Goddess (2013) (Sosich).cbr | 35.46MiB
 Cassio v8 The Painter of the Dead (2014) (Sosich).cbr | 35.45MiB
 Cassio v9 The Empire of Memories (2015) (Sosich).cbr | 46.28MiB
+Cassio 01 - The First Assassin (2018) (Europe Comics) (Digital-Empire).cbr | 49.91MiB

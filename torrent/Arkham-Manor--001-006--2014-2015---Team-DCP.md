@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Arkham Manor 001 (2014) (Team-DCP).cbr | 31.82MiB
-Arkham Manor 002 (2015) (Team-DCP).cbr | 28.08MiB
+[Arkham Manor 001 (2014) (Team-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arkham-Manor-001-2014-Team-DCP-cbr.md) | 31.82MiB
+[Arkham Manor 002 (2015) (Team-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arkham-Manor-002-2015-Team-DCP-cbr.md) | 28.08MiB
 [Arkham Manor 003 (2015) (Team-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arkham-Manor-003-2015-Team-DCP-cbr.md) | 31.46MiB
 [Arkham Manor 004 (2015) (Team-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arkham-Manor-004-2015-Team-DCP-cbr.md) | 32.79MiB
 [Arkham Manor 005 (2015) (Team-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arkham-Manor-005-2015-Team-DCP-cbr.md) | 28.78MiB

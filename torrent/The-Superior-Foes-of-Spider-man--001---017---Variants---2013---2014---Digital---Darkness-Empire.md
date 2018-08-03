@@ -27,7 +27,7 @@ The Superior Foes of Spider-Man 010 (2014) (Digital) (Darkness-Empire).cbr | 31.
 [The Superior Foes of Spider-Man 014 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-014-2014-Digital-Darkness-Empire-cbr.md) | 36.20MiB
 The Superior Foes of Spider-Man 015 (2014) (Digital) (Darkness-Empire).cbr | 36.66MiB
 The Superior Foes of Spider-Man 016 (2014) (Digital) (Darkness-Empire).cbr | 35.07MiB
-The Superior Foes of Spider-Man 017 (2014) (Digital) (Darkness-Empire).cbr | 37.09MiB
+[The Superior Foes of Spider-Man 017 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-017-2014-Digital-Darkness-Empire-cbr.md) | 37.09MiB
 &emsp;【The Superior Foes of Spider-man (001 - 017 + Variants) (2013 - 2014) (Digital) (Darkness-Empire)/Variant Covers】 | 
 [The Superior Foes Of Spider-Man 003 (2013) (Mark Bagley Variant) (Cover ONLY) (NN).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-Of-Spider-Man-003-2013-Mark-Bagley-Variant-Cover-ONLY-NN-cbr.md) | 1.01MiB
 [The Superior Foes Of Spider-Man 004 (2013) (Declan Shalvey Variant) (Cover ONLY) (NN).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-Of-Spider-Man-004-2013-Declan-Shalvey-Variant-Cover-ONLY-NN-cbr.md) | 1.00MiB

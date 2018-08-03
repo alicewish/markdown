@@ -22,7 +22,7 @@ Betty and Veronica are America's sweethearts... until they turn on each other! W
 
 Online | Download
 --- | ---
-Betty and Veronica (2014 Halloween Comicfest) (GMG-DCP).cbr | [22.21MiB](https://pan.baidu.com/s/1dF2dS9j#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.29%2F%E3%82%B7%E3%82%AF%E3%82%AB%E3%82%B9%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%BD%E3%82%A2%E3%82%BF%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%AD%E3%82%BD%E3%82%AD%E3%82%A2%E3%82%B1%E3%82%AF%E3%82%AD%E3%82%B9%E3%82%BF%E3%82%B5%E3%82%BD%E3%82%BF%E3%82%BD%E3%82%AF%E3%82%A6%E3%82%AB%E3%82%BB%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Betty and Veronica (2014 Halloween Comicfest) (GMG-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Betty-Veronica-2014-Halloween-Comicfest-GMG-DCP-cbr.md) | [22.21MiB](https://pan.baidu.com/s/1dF2dS9j#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.29%2F%E3%82%B7%E3%82%AF%E3%82%AB%E3%82%B9%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%A2%E3%82%BD%E3%82%A2%E3%82%BF%E3%82%A8%E3%82%B9%E3%82%A2%E3%82%AD%E3%82%BD%E3%82%AD%E3%82%A2%E3%82%B1%E3%82%AF%E3%82%AD%E3%82%B9%E3%82%BF%E3%82%B5%E3%82%BD%E3%82%BF%E3%82%BD%E3%82%AF%E3%82%A6%E3%82%AB%E3%82%BB%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Betty and Veronica 070.cbz | 50.01MiB
 Betty and Veronica 077.cbz | 51.97MiB
 Betty and Veronica Annual 002 (1954) (c2c) (drake10).cbz | 100.32MiB
@@ -72,7 +72,7 @@ Betty & Veronica 271 (2014) (Digital) (Asgard-Empire).cbr | 25.21MiB
 Betty & Veronica 272 (2014) (Digital) (Asgard-Empire).cbr | 28.37MiB
 Betty and Veronica 272 (2014) (c2c) (2 covers) (webrip+) (Forsythe-DCP).cbr | [47.60MiB](https://pan.baidu.com/s/1bZdHLG#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.17%2F%E3%82%BF%E3%82%B5%E3%82%AD%E3%82%A8%E3%82%AA%E3%82%A8%E3%82%AB%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%B7%E3%82%B5%E3%82%BF%E3%82%AD%E3%82%B1%E3%82%A8%E3%82%B7%E3%82%BB%E3%82%B7%E3%82%B3%E3%82%B7%E3%82%A6%E3%82%B7%E3%82%AF%E3%82%AB%E3%82%B7%E3%82%A2%E3%82%AA%E3%82%AD%E3%82%BD%E3%82%AB%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Betty & Veronica 273 (2015) (Digital) (Asgard-Empire).cbr | 32.44MiB
-Betty & Veronica 273 (2015) (Digital) (Salem-Empire).cbr | [39.73MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%B5%E3%82%A6%E3%82%BB%E3%82%A6%E3%82%BB%E3%82%B1%E3%82%A8%E3%82%B9%E3%82%BB%E3%82%A6%E3%82%A2%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%BF%E3%82%B5%E3%82%BB%E3%82%AF%E3%82%AB%E3%82%AF%E3%82%B3%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%B1%E3%82%A6%E3%82%B5%E3%82%B7%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Betty & Veronica 273 (2015) (Digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Betty-Veronica-273-2015-Digital-Salem-Empire-cbr.md) | [39.73MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%B5%E3%82%A6%E3%82%BB%E3%82%A6%E3%82%BB%E3%82%B1%E3%82%A8%E3%82%B9%E3%82%BB%E3%82%A6%E3%82%A2%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%BF%E3%82%B5%E3%82%BB%E3%82%AF%E3%82%AB%E3%82%AF%E3%82%B3%E3%82%B5%E3%82%BF%E3%82%B3%E3%82%B1%E3%82%A6%E3%82%B5%E3%82%B7%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Betty & Veronica 274 (2015) (Digital) (Asgard-Empire).cbr | 35.49MiB
 Betty & Veronica 275 (2015) (Digital) (Asgard-Empire).cbr | 46.66MiB
 Betty & Veronica 276 (2015) (Digital) (Asgard-Empire).cbr | 29.50MiB

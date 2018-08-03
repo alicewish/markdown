@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Dead Squad 001 (2014) (digital-Empire).cbr | 35.43MiB
-Dead Squad 002 (2014) (digital-Empire).cbr | 36.52MiB
+[Dead Squad 002 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Squad-002-2014-digital-Empire-cbr.md) | 36.52MiB
 [Dead Squad 003 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Squad-003-2014-digital-Empire-cbr.md) | 36.49MiB
 [Dead Squad 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Squad-004-2015-digital-Empire-cbr.md) | 34.39MiB
 [Dead Squad 005 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Squad-005-2015-digital-Empire-cbr.md) | 31.55MiB

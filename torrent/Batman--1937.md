@@ -55,7 +55,7 @@ All Star Batman 01 (2016) (Fan Expo Edition Variant Only) (Minutemen-PETA).cbr |
 [Batman & Robin Eternal 025 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Robin-Eternal-025-2016-Digital-Zone-Empire-cbr.md) | 34.76MiB
 [Batman & Robin Eternal 026 (2016)(digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Robin-Eternal-026-2016-digital-Zone-Empire-cbr.md) | 64.02MiB
 &emsp;【Batman (1937-)/Batman Series/Batman '66 (001-073+)(2013-2016)(digital)(Son of Ultron-Empire)】 | 
-Batman '66 - The Lost Episode 001 (2015) (digital) (Zone of Ultron-Empire).cbr | 124.96MiB
+[Batman '66 - The Lost Episode 001 (2015) (digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Lost-Episode-001-2015-digital-Zone-of-Ultron-Empire-cbr.md) | 124.96MiB
 Batman '66 001 (2013) (digital) (Son of Ultron-Empire).cbr | 99.00MiB
 Batman '66 002 (2013) (digital) (Son of Ultron-Empire).cbr | 108.16MiB
 Batman '66 003 (2013) (digital) (Son of Ultron-Empire).cbr | 100.26MiB
@@ -1666,14 +1666,14 @@ Batman - The Jiro Kuwata Batmanga 011 (2014) (digital) (Minutemen-InnerDemons).c
 Batman - The Jiro Kuwata Batmanga 012 (2014) (digital) (Minutemen-InnerDemons).cbr | 19.15MiB
 Batman - The Jiro Kuwata Batmanga 013 (2014) (digital) (Minutemen-InnerDemons).cbr | 13.86MiB
 Batman - The Jiro Kuwata Batmanga 014 (2014) (digital) (Minutemen-InnerDemons).cbr | 20.36MiB
-Batman - The Jiro Kuwata Batmanga 015 (2014) (digital) (Minutemen-InnerDemons).cbr | 15.91MiB
-Batman - The Jiro Kuwata Batmanga 016 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.28MiB
-Batman - The Jiro Kuwata Batmanga 017 (2014) (digital) (Minutemen-InnerDemons).cbr | 13.15MiB
-Batman - The Jiro Kuwata Batmanga 018 (2014) (digital) (Minutemen-InnerDemons).cbr | 19.73MiB
-Batman - The Jiro Kuwata Batmanga 019 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.65MiB
-Batman - The Jiro Kuwata Batmanga 020 (2014) (digital) (Son of Ultron-Empire).cbr | 19.27MiB
-Batman - The Jiro Kuwata Batmanga 021 (2014) (digital) (Minutemen-InnerDemons).cbr | 15.83MiB
-Batman - The Jiro Kuwata Batmanga 022 (2014) (digital) (Son of Ultron-Empire).cbr | 18.22MiB
+[Batman - The Jiro Kuwata Batmanga 015 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-015-2014-digital-Minutemen-InnerDemons-cbr.md) | 15.91MiB
+[Batman - The Jiro Kuwata Batmanga 016 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-016-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.28MiB
+[Batman - The Jiro Kuwata Batmanga 017 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-017-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.15MiB
+[Batman - The Jiro Kuwata Batmanga 018 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-018-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.73MiB
+[Batman - The Jiro Kuwata Batmanga 019 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-019-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.65MiB
+[Batman - The Jiro Kuwata Batmanga 020 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-020-2014-digital-Son-of-Ultron-Empire-cbr.md) | 19.27MiB
+[Batman - The Jiro Kuwata Batmanga 021 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-021-2014-digital-Minutemen-InnerDemons-cbr.md) | 15.83MiB
+[Batman - The Jiro Kuwata Batmanga 022 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-022-2014-digital-Son-of-Ultron-Empire-cbr.md) | 18.22MiB
 [Batman - The Jiro Kuwata Batmanga 023 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-023-2014-digital-Son-of-Ultron-Empire-cbr.md) | 15.03MiB
 [Batman - The Jiro Kuwata Batmanga 024 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-024-2014-digital-Son-of-Ultron-Empire-cbr.md) | 15.57MiB
 [Batman - The Jiro Kuwata Batmanga 025 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-025-2015-digital-Son-of-Ultron-Empire-cbr.md) | 16.34MiB
@@ -5321,9 +5321,9 @@ Batman Beyond 2.0 034 (2014) (digital) (Son of Ultron-Empire).cbr | 24.13MiB
 Batman Beyond 2.0 035 (2014) (digital) (Son of Ultron-Empire).cbr | 22.44MiB
 Batman Beyond 2.0 036 (2014) (digital) (Son of Ultron-Empire).cbr | 22.43MiB
 Batman Beyond 2.0 037 (2014) (digital) (Son of Ultron-Empire).cbr | 25.90MiB
-Batman Beyond 2.0 038 (2014) (digital) (Son of Ultron-Empire).cbr | 27.24MiB
-Batman Beyond 2.0 039 (2014) (digital) (Son of Ultron-Empire).cbr | 28.42MiB
-Batman Beyond 2.0 040 (2014) (digital) (Son of Ultron-Empire).cbr | 22.17MiB
+[Batman Beyond 2.0 038 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-038-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.24MiB
+[Batman Beyond 2.0 039 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-039-2014-digital-Son-of-Ultron-Empire-cbr.md) | 28.42MiB
+[Batman Beyond 2.0 040 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-040-2014-digital-Son-of-Ultron-Empire-cbr.md) | 22.17MiB
 &emsp;【Batman (1937-)/Spin-Offs/Batman Beyond/Batman Beyond 2.0 (001 - 040)(2013-2014)(Digital)/Trades】 | 
 Batman Beyond 2.0 v01 - Rewired (2014) (Digital) (Zone-Empire).cbr | 202.25MiB
 Batman Beyond 2.0 v02 - Justice Lords Beyond (2015) (Digital) (Zone-Empire).cbr | 187.99MiB

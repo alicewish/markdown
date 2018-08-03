@@ -24,6 +24,7 @@ Archie Giant Series Magazine 033 (1965) (Archie) (c2c) (ComicsCastle).cbr | 30.9
 Archie Giant Series Magazine 141 (1966) (Archie) (c2c) (ComicsCastle).cbr | 35.38MiB
 Archie Giant Series Magazine 149 (1967) (Archie) (c2c) ComicsCastle).cbr | 32.94MiB
 Archie Giant Series Magazine 152 (1968) (Archie) (c2c) (ComicsCastle).cbr | 30.97MiB
+Archie Giant Series Magazine 160 (1969) (c2c) (CRX).cbz | 93.94MiB
 Archie Giant Series Magazine 166 (1969) (Archie) (c2c) (ComicsCastle).cbr | 35.13MiB
 Archie Giant Series Magazine 172 (1970) (Archie) (c2c) (ComicsCastle).cbr | 33.33MiB
 Archie Giant Series Magazine 174 (1970) (Archie) (c2c) (ComicsCastle).cbr | 127.47MiB

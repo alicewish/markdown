@@ -14,6 +14,10 @@ BATMAN: ODYSSEY is back in a new volume from legendary writer/artist Neal Adams!
 
 
 
+相关种子⬇Related Torrents
+
+[Batman - Odyssey v2 (001-007) (2011-2012) (digital) (Son of Ultron-Empire).cb](https://github.com/alicewish/markdown/blob/master/torrent/Batman---Odyssey-v2--001-007---2011-2012---digital---Son-of-Ultron-Empire--cb.md)
+
 Online | Download
 --- | ---
 Batman - Odyssey 001 (2010) (2 covers) (Digital) (Zone-Empire).cbr | 51.08MiB

@@ -1,4 +1,4 @@
-# Marvel Super-Heroes
+# Marvel Super Heroes
 
 打包下载📦仍在工事中
 
@@ -44,3 +44,4 @@ Marvel Super-Heroes 010 (1992) (digital) (Minutemen-Slayer).cbr | 33.44MiB
 Marvel Super Heroes 011 (1992) (Digital) (AnHeroGold-Empire).cbz | 58.42MiB
 Marvel Super-Heroes 011 (1992) (digital) (Minutemen-Slayer).cbr | 69.94MiB
 Marvel Super Heroes 011 (1992) (Digital) (Shadowcat-Empire).cbz | 58.36MiB
+Marvel Super Heroes 015 (1993) (Digital) (Shadowcat-Empire).cbz | 35.63MiB

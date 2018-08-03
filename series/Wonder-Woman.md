@@ -74,6 +74,7 @@ Wonder Woman 214 c2c DC Oct-Nov 1974 Stubby's Collection.cbz | 165.24MiB
 Wonder Woman 215 c2c (DC Dec 1974-Jan 1975) (Stubby-ComicWanderer).cbz | 47.05MiB
 Wonder Woman 217 c2c DC Apr-May 1975 Stubby's Collection.cbz | 102.80MiB
 Wonder Woman 232 c2c (36p DC 1977-06) (a DCP scan).cbz | 47.97MiB
+Wonder Woman 255 DC [Whitman] May 1979 Kracalactaka.cbz | 69.30MiB
 Wonder Woman 001 (1942) (Digital) (Shadowcat-Empire).cbz | 27.12MiB
 Wonder Woman 002 (1942) (Digital) (Shadowcat-Empire).cbz | 28.51MiB
 Wonder Woman 003 (1943) (Digital) (Shadowcat-Empire).cbz | 28.12MiB

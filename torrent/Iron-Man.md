@@ -852,7 +852,7 @@ Iron Man-Thor - God Complex (2011) (TPB) (digital-Empire).cbz | 134.64MiB
 Marvel Masterworks - Iron Man v1 (Digital) (Vee-Empire).cbr | 125.64MiB
 Marvel Masterworks - The Invincible Iron Man Vol. 03 (2006) (digital) (Minutemen-PhD).cbr | 802.74MiB
 &emsp;【Iron Man/Superior Iron Man (001 - 004) (2014 - Ongoing)】 | 
-Superior Iron Man 001 (2015) (Digital) (Zone-Empire).cbr | 41.73MiB
-Superior Iron Man 002 (2015) (Digital) (Zone-Empire).cbr | 42.22MiB
+[Superior Iron Man 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Iron-Man-001-2015-Digital-Zone-Empire-cbr.md) | 41.73MiB
+[Superior Iron Man 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Iron-Man-002-2015-Digital-Zone-Empire-cbr.md) | 42.22MiB
 [Superior Iron Man 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Iron-Man-003-2015-Digital-Zone-Empire-cbr.md) | 38.84MiB
 [Superior Iron Man 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Iron-Man-004-2015-Digital-Zone-Empire-cbr.md) | 35.26MiB

@@ -81,7 +81,7 @@ Planet of the Apes - Cataclysm Vol 2 TPB (2013) (Digital) (Dogmatix-Empire).cbr 
 Planet of the Apes - Cataclysm Vol 3 TPB (2014) (Digital) (Dogmatix-Empire).cbr | 144.26MiB
 Planet of the Apes - Special 01 (2013) (digital) (Minutemen-InnerPhDemons).cbr | 48.35MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2015)/Boom! (2011-2015)/Dawn Of The Planet Of The Apes (001-006)(2014-2015)(Digital)(Harkonnen-DCP)】 | 
-Dawn of the Planet of the Apes 01 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cbz | 40.79MiB
+[Dawn of the Planet of the Apes 01 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-01-of-6-2014-Digital-Rip-Harkonnen-DCP-cbz.md) | 40.79MiB
 [Dawn of the Planet of the Apes 02 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-02-of-6-2014-Digital-Rip-Harkonnen-DCP-cbr.md) | 38.77MiB
 Dawn of the Planet of the Apes 03 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cbz | 38.12MiB
 [Dawn of the Planet of the Apes 04 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-04-of-6-2015-Digital-Rip-Harkonnen-DCP-cbz.md) | 41.99MiB

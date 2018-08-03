@@ -13,4 +13,4 @@ Online | Download
 Nightworld 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 64.46MiB
 Nightworld 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 64.98MiB
 Nightworld 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 73.06MiB
-Nightworld 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 70.70MiB
+[Nightworld 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nightworld-04-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 70.70MiB

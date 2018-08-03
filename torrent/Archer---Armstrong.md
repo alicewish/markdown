@@ -74,7 +74,7 @@ Archer & Armstrong 021 (2014) (digital) (Minutemen-Spaztastic).cbr | 36.27MiB
 Archer & Armstrong 022 (2014) (digital) (Minutemen-Spaztastic).cbr | 53.49MiB
 Archer & Armstrong 023 (2014) (digital) (Minutemen-Spaztastic).cbr | 50.06MiB
 Archer & Armstrong 024 (2014) (digital) (Minutemen-Spaztastic).cbr | 43.08MiB
-Archer & Armstrong 025 (2014) (digital) (Minutemen-Spaztastic).cbr | 77.17MiB
+[Archer & Armstrong 025 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archer-Armstrong-025-2014-digital-Minutemen-Spaztastic-cbr.md) | 77.17MiB
 &emsp;【Archer & Armstrong/Archer & Armstrong v2 (000-025+)(2012-2014)(digital)(Minutemen-/Variants】 | 
 Archer & Armstrong - Archer 00 (2014) (Joe Eisma Pullbox Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 1.49MiB
 Archer & Armstrong 000 (2013) (Lee Garbett Pullbox Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 1.91MiB

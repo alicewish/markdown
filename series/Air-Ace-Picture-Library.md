@@ -15,7 +15,9 @@ Online | Download
 Air Ace Picture Library 101 - Blind Fury.cbz | 50.58MiB
 Air Ace Picture Library 107 - Those Who Died.cbz | 47.01MiB
 Air Ace Picture Library 209 - Winged Commando.cbr | 42.35MiB
+Air Ace Picture Library 240 - Havoc Over Russia [1965] (missing pg6-7).cbr | 2.00MiB
 Air Ace Picture Library 428 - Cats Eyes.cbr | 41.26MiB
+Air Ace Picture Library 505 - The Knockout Punch [1970].cbr | 17.18MiB
 Air Ace Picture Library 080 (1961) - Night Havoc.cbz | 43.11MiB
 Air Ace Picture Library 080 Night Havoc (1961) (Fleetway) (c2c) (fixed).cbr | 43.12MiB
 Air Ace Picture Library 101 Blind Fury (1962) (Fleetway) (c2c) (fixed).cbr | 50.58MiB

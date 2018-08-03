@@ -13,7 +13,7 @@ Online | Download
 Tom Corbett Space Cadet Classics 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.05MiB
 Tom Corbett Space Cadet Classics 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 115.67MiB
 Tom Corbett Space Cadet Classics 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 119.61MiB
-Tom Corbett Space Cadet Classics 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 113.77MiB
+[Tom Corbett Space Cadet Classics 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tom-Corbett-Space-Cadet-Classics-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 113.77MiB
 Tom Corbett Space Cadet Classics 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 56.14MiB
 Tom Corbett Space Cadet Classics 006(2014)(Digital)(TLK-EMPIRE-HD).cbr | 90.21MiB
 Tom Corbett Space Cadet Classics 007(2014)(Digital)(TLK-EMPIRE-HD).cbr | 57.25MiB

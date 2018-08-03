@@ -17,7 +17,7 @@ John Carpenter's Asylum 004 (2014) (Digital) (Ookla-Empire).cbr | 43.62MiB
 John Carpenter's Asylum 005 (2014) (Digital) (Ookla-Empire).cbr | 48.86MiB
 John Carpenter's Asylum 006 (2014) (Digital) (Ookla-Empire).cbz | 43.63MiB
 John Carpenter's Asylum 007 (2014) (Digital) (Ookla-Empire).cbr | 47.77MiB
-John Carpenter's Asylum 008 (2014) (Digital) (Ookla-Empire).cbr | 52.33MiB
+[John Carpenter's Asylum 008 (2014) (Digital) (Ookla-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carpenters-Asylum-008-2014-Digital-Ookla-Empire-cbr.md) | 52.33MiB
 [John Carpenter's Asylum 009 (2015) (Digital) (TheArchivist-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carpenters-Asylum-009-2015-Digital-TheArchivist-Empire-cbr.md) | 41.32MiB
 [John Carpenter's Asylum 010 (2015) (Digital) (TheArchivist-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carpenters-Asylum-010-2015-Digital-TheArchivist-Empire-cbr.md) | 40.33MiB
 [John Carpenter's Asylum 011 (2015) (Digital) (TheArchivist-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carpenters-Asylum-011-2015-Digital-TheArchivist-Empire-cbr.md) | 39.64MiB

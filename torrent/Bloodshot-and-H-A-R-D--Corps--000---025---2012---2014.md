@@ -26,7 +26,7 @@ Bloodshot 011 (2013) (digital) (Minutemen-InnerPhDemons).cbr | 41.03MiB
 Bloodshot 012 (2013) (digital) (Minutemen-InnerPhDemons).cbr | 37.75MiB
 Bloodshot 013 (2013) (digital) (Minutemen-InnerPhDemons).cbr | 42.87MiB
 Bloodshot 024 (2014) (digital) (Son of Ultron-Empire).cbr | 54.60MiB
-Bloodshot 025 (2014) (digital) (Son of Ultron-Empire).cbr | 130.72MiB
+[Bloodshot 025 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-025-2014-digital-Son-of-Ultron-Empire-cbr.md) | 130.72MiB
 Bloodshot and H.A.R.D. Corps 000 (2014) (digital) (Son of Ultron-Empire).cbr | 66.66MiB
 Bloodshot and H.A.R.D. Corps 014 (2013) (digital) (Son of Ultron-Empire).cbr | 63.24MiB
 Bloodshot and H.A.R.D. Corps 015 (2013) (digital) (Son of Ultron-Empire).cbr | 65.89MiB

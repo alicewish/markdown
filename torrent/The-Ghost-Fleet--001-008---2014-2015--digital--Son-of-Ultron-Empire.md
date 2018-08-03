@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Ghost Fleet 001 (2014) (digital) (Son of Ultron-Empire).cbr | 50.62MiB
+[The Ghost Fleet 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Fleet-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 50.62MiB
 [The Ghost Fleet 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Fleet-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 51.21MiB
 [The Ghost Fleet 003 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Fleet-003-2015-digital-Son-of-Ultron-Empire-cbr.md) | 53.16MiB
 [The Ghost Fleet 004 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghost-Fleet-004-2015-digital-Son-of-Ultron-Empire-cbr.md) | 45.84MiB

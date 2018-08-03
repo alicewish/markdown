@@ -38,12 +38,12 @@ Batman Eternal 025 (2014) (Digital) (Nahga-Empire).cbr | 35.70MiB
 Batman Eternal 026 (2014) (Digital) (Nahga-Empire).cbr | 37.69MiB
 Batman Eternal 027 (2014) (Digital) (Nahga-Empire).cbr | 49.10MiB
 Batman Eternal 028 (2014) (Digital) (Nahga-Empire).cbr | 38.50MiB
-Batman Eternal 029 (2014) (Digital) (Nahga-Empire).cbr | 39.81MiB
-Batman Eternal 030 (2014) (Digital) (Nahga-Empire).cbr | 43.40MiB
-Batman Eternal 031 (2014) (Digital) (Nahga-Empire).cbr | 43.57MiB
-Batman Eternal 032 (2014) (Digital) (Nahga-Empire).cbr | 37.40MiB
-Batman Eternal 033 (2014) (Digital) (Nahga-Empire).cbr | 33.98MiB
-Batman Eternal 034 (2015) (Digital-Empire).cbr | 29.13MiB
+[Batman Eternal 029 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-029-2014-Digital-Nahga-Empire-cbr.md) | 39.81MiB
+[Batman Eternal 030 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-030-2014-Digital-Nahga-Empire-cbr.md) | 43.40MiB
+[Batman Eternal 031 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-031-2014-Digital-Nahga-Empire-cbr.md) | 43.57MiB
+[Batman Eternal 032 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-032-2014-Digital-Nahga-Empire-cbr.md) | 37.40MiB
+[Batman Eternal 033 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-033-2014-Digital-Nahga-Empire-cbr.md) | 33.98MiB
+[Batman Eternal 034 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-034-2015-Digital-Empire-cbr.md) | 29.13MiB
 [Batman Eternal 035 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-035-2015-Digital-Empire-cbr.md) | 27.90MiB
 [Batman Eternal 036 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-036-2015-Digital-Empire-cbr.md) | 26.20MiB
 [Batman Eternal 037 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-037-2015-Digital-Empire-cbr.md) | 34.98MiB

@@ -44,8 +44,8 @@ The Transformers - Robots in Disguise 030 (2014) (digital) (Minutemen-Phantasm).
 The Transformers - Robots in Disguise 031 (2014) (digital) (Minutemen-Phantasm).cbz | 39.62MiB
 The Transformers - Robots in Disguise 032 (2014) (digital) (Minutemen-Phantasm).cbz | 39.71MiB
 The Transformers - Robots in Disguise 033 (2014) (digital) (Minutemen-Phantasm).cbz | 32.99MiB
-The Transformers - Robots in Disguise 034 (2014) (digital) (Minutemen-Phantasm).cbz | 36.23MiB
-The Transformers 035 (2014) (digital) (Minutemen-Phantasm).cbz | 35.16MiB
+[The Transformers - Robots in Disguise 034 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Robots-in-Disguise-034-2014-digital-Minutemen-Phantasm-cbz.md) | 36.23MiB
+[The Transformers 035 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-035-2014-digital-Minutemen-Phantasm-cbz.md) | 35.16MiB
 [The Transformers 036 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-036-2014-digital-Minutemen-Phantasm-cbz.md) | 40.59MiB
 [The Transformers 037 (2015) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-037-2015-digital-Minutemen-Phantasm-cbz.md) | 36.17MiB
 [The Transformers 038 (2015) (3 covers) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-038-2015-3-covers-digital-Minutemen-Phantasm-cbz.md) | 44.61MiB

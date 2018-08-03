@@ -182,7 +182,7 @@ Incredible Hercules 124.cbr | 16.61MiB
 Incredible Hercules 125.cbr | 12.24MiB
 Incredible Hercules 139.cbr | 29.42MiB
 &emsp;【Mary Jane/Marvel 75th Anniversary Celebration】 | 
-Marvel 75th Anniversary Celebration 001 (2014) (digital) (Son of Ultron-Empire).cbr | 104.53MiB
+[Marvel 75th Anniversary Celebration 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvel-75th-Anniversary-Celebration-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 104.53MiB
 &emsp;【Mary Jane/Marvel Adventures Spider-Man】 | 
 Marvel Adventures Spider-Man 001 (2010) (GreenGiant-DCP).cbr | 15.05MiB
 &emsp;【Mary Jane/Marvel Fact Files】 | 

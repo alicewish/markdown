@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 War Stories 001 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 46.78MiB
-War Stories 002 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 38.11MiB
+[War Stories 002 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-002-2014-4-Covers-Digital-Darkness-Empire-cbr.md) | 38.11MiB
 [War Stories 003 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-003-2014-4-Covers-Digital-Darkness-Empire-cbr.md) | 39.81MiB
 [War Stories 004 (2015) (4 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-004-2015-4-Covers-Digital-Darkness-Empire-cbr.md) | 40.30MiB
 [War Stories 005 (2015) (Digital) (The Dark VI-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/War-Stories-005-2015-Digital-Dark-VI-Empire-cbr.md) | 35.62MiB

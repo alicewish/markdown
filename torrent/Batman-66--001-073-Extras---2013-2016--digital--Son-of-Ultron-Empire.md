@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Batman '66 (001-073+Extras) (2013-2016)(digital)(Son of Ultron-Empire)】 | 
-Batman '66 - The Lost Episode 001 (2015) (digital) (Zone of Ultron-Empire).cbr | 124.96MiB
+[Batman '66 - The Lost Episode 001 (2015) (digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Lost-Episode-001-2015-digital-Zone-of-Ultron-Empire-cbr.md) | 124.96MiB
 Batman '66 001 (2013) (digital) (Son of Ultron-Empire).cbr | 99.00MiB
 Batman '66 002 (2013) (digital) (Son of Ultron-Empire).cbr | 108.16MiB
 Batman '66 003 (2013) (digital) (Son of Ultron-Empire).cbr | 100.26MiB

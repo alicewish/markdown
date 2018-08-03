@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 October Faction 007 (2015) (digital) (Damien Worm Subscription variant) (Minutemen-Mastodon).cbz | 831.64KiB
 The October Faction 001 (2014) (digital-Empire).cbr | 26.87MiB
-The October Faction 002 (2014) (digital-Empire).cbr | 22.87MiB
+[The October Faction 002 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-002-2014-digital-Empire-cbr.md) | 22.87MiB
 [The October Faction 003 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-003-2014-digital-Empire-cbr.md) | 29.58MiB
 [The October Faction 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-004-2015-digital-Empire-cbr.md) | 23.73MiB
 [The October Faction 005 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/October-Faction-005-2015-digital-Empire-cbr.md) | 22.91MiB

@@ -13,5 +13,5 @@ Online | Download
 Sally of the Wasteland 001 (2014) (Digital) (Mephisto).cbr | 45.85MiB
 Sally of the Wasteland 002 (2014) (Digital) (Mephisto).cbr | 44.58MiB
 Sally of the Wasteland 003 (2014) (Digital) (Mephisto).cbr | 38.56MiB
-Sally of the Wasteland 004 (2014) (Digital) (Mephisto-Empire).cbr | 45.41MiB
+[Sally of the Wasteland 004 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sally-of-Wasteland-004-2014-Digital-Mephisto-Empire-cbr.md) | 45.41MiB
 Sally of the Wasteland 005 (2014) (Digital) (Mephisto-Empire).cbr | 44.09MiB

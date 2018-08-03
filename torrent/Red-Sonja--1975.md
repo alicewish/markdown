@@ -179,7 +179,7 @@ Red Sonja - The Black Tower 02 (of 04) (2014) (digital) (Minutemen-Slayer).cbr |
 Red Sonja - The Black Tower 03 (of 04) (2014) (digital) (Minutemen-Slayer).cbr | 49.45MiB
 Red Sonja - The Black Tower 04 (of 04) (2015) (digital) (Minutemen-Slayer).cbr | 47.14MiB
 &emsp;【Red Sonja (1975-)/Dynamite/Red Sonja - Unchained (001-004+)(2013)(digital)(Tiger+TLK-EMPIRE)】 | 
-Red Sonja Unchained 001(2013)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 62.00MiB
+[Red Sonja Unchained 001(2013)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Sonja-Unchained-001-2013-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 62.00MiB
 Red Sonja Unchained 002(2013)(Digital)(TLK-EMPIRE-HD).cbr | 67.52MiB
 Red Sonja Unchained 003(2013)(Digital)(TLK-EMPIRE-HD).cbr | 59.93MiB
 Red Sonja Unchained 004(2013)(Digital)(TLK-EMPIRE-HD).cbr | 65.60MiB

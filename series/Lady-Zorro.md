@@ -27,4 +27,4 @@ Lady Zorro 002 (2014) (digital) (Son of Ultron-Empire).cbr | [41.56MiB](https://
 Lady Zorro 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 72.66MiB
 Lady Zorro 003 (2014) (digital) (Son of Ultron-Empire).cbr | [50.78MiB](https://pan.baidu.com/s/1boMQ1Bp#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.10%2F%E3%82%BF%E3%82%B9%E3%82%AD%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%BF%E3%82%AF%E3%82%BD%E3%82%B9%E3%82%A6%E3%82%BB%E3%82%AD%E3%82%B7%E3%82%A6%E3%82%B7%E3%82%B9%E3%82%B3%E3%82%AF%E3%82%B5%E3%82%BF%E3%82%AB%E3%82%AF%E3%82%BB%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%A2%E3%82%A2%E3%82%B9%E3%82%AB%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Lady Zorro 004 (2014) (Digital) (DR & Quinch-Empire).cbr | 81.42MiB
-Lady Zorro 004 (2014) (digital) (Son of Ultron-Empire).cbr | 54.94MiB
+[Lady Zorro 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lady-Zorro-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 54.94MiB

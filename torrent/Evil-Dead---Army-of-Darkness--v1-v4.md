@@ -23,7 +23,7 @@ Online | Download
 Army of Darkness Ash Gets Hitched 001(2014)(5 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 30.15MiB
 Army of Darkness Ash Gets Hitched 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.16MiB
 Army of Darkness Ash Gets Hitched 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 52.19MiB
-Army of Darkness Ash Gets Hitched 004(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.70MiB
+[Army of Darkness Ash Gets Hitched 004(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-004-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 49.70MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Army of Darkness - Ash Saves Obama (001-004)(2009)(digital)】 | 
 Army Of Darkness Ash Saves Obama 001(2009)(Digital)(TLK-EMPIRE-HD).cbr | 29.97MiB
 Army Of Darkness Ash Saves Obama 002(2009)(Digital)(TLK-EMPIRE-HD).cbr | 29.80MiB
@@ -184,7 +184,7 @@ Evil Dead 04 (of 04) (2008) (Minutemen-Army of Dead).cbr | 15.31MiB
 [Evil Dead 2 Tales Of The Ex-Mortis 009(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Dead-2-Tales-Of-Ex-Mortis-009-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 20.53MiB
 [Evil Dead 2 Tales Of The Ex-Mortis 010(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Dead-2-Tales-Of-Ex-Mortis-010-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 24.52MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Extras】 | 
-Army Of Darkness 1992.1(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr | 82.86MiB
+[Army Of Darkness 1992.1(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-Of-Darkness-1992-1-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 82.86MiB
 Army Of Darkness Reanimator(2013)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 44.64MiB
 Army of Darkness Convention Invasion (2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 66.03MiB
 [Army of Darkness Election Special (2016)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Election-Special-2016-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 65.78MiB

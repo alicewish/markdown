@@ -13,4 +13,4 @@ Online | Download
 Grimm Fairy Tales Presents Masumi 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.82MiB
 Grimm Fairy Tales Presents Masumi 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.67MiB
 Grimm Fairy Tales Presents Masumi 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.78MiB
-Grimm Fairy Tales Presents Masumi 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 36.76MiB
+[Grimm Fairy Tales Presents Masumi 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Masumi-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.76MiB

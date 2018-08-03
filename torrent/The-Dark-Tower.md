@@ -52,7 +52,7 @@ The Dark Tower - The Battle of Jericho Hill (2010) (Digital) (Zone-Empire).cbr |
 The Dark Tower - The Drawing of the Three - The Prisoner 01 (of 05) (digital) (Zone of Ultron-Empire).cbr | 70.86MiB
 The Dark Tower - The Drawing of the Three - The Prisoner 02 (of 05) (2014) (digital) (Zone of Ultron-Empire).cbr | 77.11MiB
 The Dark Tower - The Drawing of the Three - The Prisoner 03 (of 05) (2014) (digital) (Zone of Ultron-Empire).cbr | 80.07MiB
-The Dark Tower - The Drawing of the Three - The Prisoner 04 (of 05) (2015) (digital) (Zone of Ultron-Empire).cbr | 78.42MiB
+[The Dark Tower - The Drawing of the Three - The Prisoner 04 (of 05) (2015) (digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-Prisoner-04-of-05-2015-digital-Zone-of-Ultron-Empire-cbr.md) | 78.42MiB
 [The Dark Tower - The Drawing of the Three - The Prisoner 05 (of 05) (2015) (digital) (Zone of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-Prisoner-05-of-05-2015-digital-Zone-of-Ultron-Empire-cbr.md) | 74.07MiB
 &emsp;【The Dark Tower/The Dark Tower - The Drawing of the Three - The Sailor (001-005)(2016-2017)(digital)(Zone-Empire)】 | 
 [The Dark Tower - The Drawing of the Three - The Sailor 01 (of 05) (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Tower-Drawing-of-Three-Sailor-01-of-05-2016-Digital-Zone-Empire-cbr.md) | 51.22MiB

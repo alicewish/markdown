@@ -174,6 +174,7 @@ Journey Into Mystery 503 (1996) (Digital) (Shadowcat-Empire).cbz | 51.54MiB
 Journey Into Mystery 504 (1996) (Digital) (AnPymGold-Empire).cbz | 11.69MiB
 Journey Into Mystery 504 (1996) (digital) (Minutemen-Slayer).cbr | 50.86MiB
 Journey Into Mystery 504 (1996) (Digital) (Shadowcat-Empire).cbz | 50.79MiB
+Journey Into Mystery (-1) (1997) (Digital) (Shadowcat-Empire).cbz | 41.10MiB
 Journey Into Mystery 505 (1997) (Digital) (AnPymGold-Empire).cbz | 10.77MiB
 Journey Into Mystery 505 (1997) (digital) (Minutemen-Slayer).cbr | 46.99MiB
 Journey Into Mystery 505 (1997) (Digital) (Shadowcat-Empire).cbz | 46.92MiB

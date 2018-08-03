@@ -495,5 +495,5 @@ Spawn 243 (2014) (Eisenhart-DCP).cbr | 25.23MiB
 Spawn 244 (2014) (DarkNahga-Empire).cbr | 47.20MiB
 Spawn 245 (2014) (DarkNahga-Empire).cbr | 42.81MiB
 Spawn 246 (2014) (Eisenhart-DCP).cbr | 26.20MiB
-Spawn 247 (2014) (Eisenhart-DCP).cbr | 26.30MiB
-Spawn 248 (2014) (Eisenhart-DCP).cbr | 27.15MiB
+[Spawn 247 (2014) (Eisenhart-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spawn-247-2014-Eisenhart-DCP-cbr.md) | 26.30MiB
+[Spawn 248 (2014) (Eisenhart-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spawn-248-2014-Eisenhart-DCP-cbr.md) | 27.15MiB

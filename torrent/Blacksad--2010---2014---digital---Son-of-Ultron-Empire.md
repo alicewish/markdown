@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 Blacksad (2010) (digital) (Son of Ultron II-Empire).cbr | 485.85MiB
 Blacksad - A Silent Hell (2012) (digital) (Son of Ultron-Empire).cbr | 105.80MiB
-Blacksad - Amarillo (2014) (digital) (Son of Ultron-Empire).cbr | 120.34MiB
+[Blacksad - Amarillo (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Blacksad-Amarillo-2014-digital-Son-of-Ultron-Empire-cbr.md) | 120.34MiB

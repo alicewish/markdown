@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Copperhead 001 (2014) (digital) (Son of Ultron-Empire).cbr | 52.65MiB
 Copperhead 002 (2014) (digital) (Son of Ultron-Empire).cbr | 66.99MiB
-Copperhead 003 (2014) (digital) (Son of Ultron-Empire).cbr | 45.77MiB
+[Copperhead 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 45.77MiB
 [Copperhead 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 53.43MiB
 [Copperhead 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 54.27MiB
 [Copperhead 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Copperhead-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 57.59MiB

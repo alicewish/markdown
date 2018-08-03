@@ -94,9 +94,9 @@ Insufferable v2 030 (2013) (Waid, Krause -  digital).cbz | 8.06MiB
 Insufferable v2 031 (2013) (Waid, Krause -  digital).cbz | 6.66MiB
 Insufferable v2 032 (2013) (Waid, Krause -  digital).cbz | 14.95MiB
 &emsp;【Insufferable (v1-v3+Extras)(2012-2016)(digital)/Insufferable v3 (001-020) (2014-2015) (digital)】 | 
-Insufferable v3 001 (2014) (Waid, Krause - digital).cbr | 8.75MiB
-Insufferable v3 002 (2014) (Waid, Krause - digital).cbr | 7.29MiB
-Insufferable v3 003 (2014) (Waid, Krause - digital).cbr | 4.86MiB
+[Insufferable v3 001 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-001-2014-Waid-Krause-digital-cbr.md) | 8.75MiB
+[Insufferable v3 002 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-002-2014-Waid-Krause-digital-cbr.md) | 7.29MiB
+[Insufferable v3 003 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-003-2014-Waid-Krause-digital-cbr.md) | 4.86MiB
 [Insufferable v3 004 (2014) (F) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-004-2014-F-Waid-Krause-digital-cbr.md) | 6.27MiB
 [Insufferable v3 005 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-005-2014-Waid-Krause-digital-cbr.md) | 9.30MiB
 [Insufferable v3 006 (2014) (Waid, Krause - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Insufferable-v3-006-2014-Waid-Krause-digital-cbr.md) | 10.57MiB

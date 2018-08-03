@@ -56,3 +56,5 @@ Hellboy Vol. 11 - The Bride of Hell and Others (2011) (digital) (Minutemen-Slaye
 Hellboy v12 - The Storm and the Fury (2012) (digital) (Son of Ultron-Empire).cbr | 218.23MiB
 Hellboy v12 - The Storm and the Fury (2012) (Digital) (Zone-Empire).cbr | 246.20MiB
 Hellboy Vol. 12 - The Storm and the Fury (2012) (digital) (Minutemen-Slayer).cbr | 191.74MiB
+Hellboy Omnibus v01 - Seed of Destruction (2018) (digital) (Son of Ultron-Empire).cbr | 297.92MiB
+Hellboy Omnibus v02 - Strange Places (2018) (digital) (Son of Ultron-Empire).cbr | 370.06MiB

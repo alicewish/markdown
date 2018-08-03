@@ -68,6 +68,9 @@ Warlock and the Infinity Watch 020 (1993) (digital) (Minutemen-Slayer).cbr | 48.
 Warlock and the Infinity Watch 021 (1993) (digital) (Minutemen-Slayer).cbr | 41.81MiB
 Warlock And The Infinity Watch 021 (1993) (MrWoodman).cbr | 29.40MiB
 Warlock and the Infinity Watch 022 (1993) (digital) (Minutemen-Slayer).cbr | 45.62MiB
+Warlock and the Infinity Watch 023 (1993) (Digital) (Shadowcat-Empire).cbz | 49.00MiB
+Warlock and the Infinity Watch 024 (1994) (Digital) (Shadowcat-Empire).cbz | 56.46MiB
+Warlock and the Infinity Watch 025 (1994) (Digital) (Shadowcat-Empire).cbz | 96.11MiB
 Warlock and the Infinity Watch 026 (1994) (digital) (Minutemen-Slayer).cbr | 52.97MiB
 Warlock and the Infinity Watch 026 (1994) (Digital) (Shadowcat-Empire).cbz | 52.88MiB
 Warlock and the Infinity Watch 027 (1994) (digital) (Minutemen-Slayer).cbr | 60.88MiB

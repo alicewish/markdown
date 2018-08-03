@@ -372,3 +372,4 @@ X-Factor v18 - Breaking Points (2013) (Digital) (Asgard-Empire).cbr | 170.16MiB
 X-Factor v19 - Short Stories (2013) (Digital) (Asgard-Empire).cbr | 133.54MiB
 X-Factor v20 - Hell On Earth War (2013) (Digital) (Asgard-Empire).cbr | 257.55MiB
 X-Factor v21 - The End Of X-Factor (2014) (Digital) (Asgard-Empire).cbr | 210.12MiB
+X-Factor Epic Collection v01 - Genesis & Apocalypse (2017) (Digital) (Kileko-Empire).cbr | 802.37MiB

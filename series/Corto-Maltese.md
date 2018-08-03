@@ -27,6 +27,8 @@ Corto Maltese 08 - The Ethiopian (Pratt, 2009) (edition 2.1) (Scanlation-Extende
 Corto Maltese 09 - In Siberia (Pratt, 2010) (edition 2.5) (Scanlation-Concise, 2018).cbr | 66.87MiB
 Corto Maltese 09 - In Siberia (Pratt, 2010) (edition 2.5) (Scanlation-Extended, 2018).cbr | 426.25MiB
 Corto Maltese 10 - Fable of Venice (Pratt, 2009) (edition 1.0) (Scanlation-Concise, 2018).cbr | 50.46MiB
+Corto Maltese 11 - The Golden House of Samarkand (Pratt, 2010) (Scanlation-Concise, 2018).cbr | 94.90MiB
+Corto Maltese 11 - The Golden House of Samarkand (Pratt, 2010) (edition 1.0) (Scanlation-Extended, 2018).cbr | 297.55MiB
 Corto Maltese 15 - Under the Midnight Sun (Canales-Pellejero, 2015) (edition 1.5) (Scanlation-Extended, 2018).cbr | 168.04MiB
 Corto Maltese 16 - Equatoria (Canales-Pellejero, 2017) (edition 1.0) (Scanlation-Extended, 2018).cbr | 113.90MiB
 Corto Maltese 16 - Equatoria (Canales-Pellejero, 2017) (edition 1.2) (Scanlation-Extended, 2018).cbr | 113.88MiB

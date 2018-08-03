@@ -24,9 +24,9 @@ Batman - The Jiro Kuwata Batmanga 011 (2014) (digital) (Minutemen-InnerDemons).c
 Batman - The Jiro Kuwata Batmanga 012 (2014) (digital) (Minutemen-InnerDemons).cbr | 19.15MiB
 Batman - The Jiro Kuwata Batmanga 013 (2014) (digital) (Minutemen-InnerDemons).cbr | 13.86MiB
 Batman - The Jiro Kuwata Batmanga 014 (2014) (digital) (Minutemen-InnerDemons).cbr | 20.36MiB
-Batman - The Jiro Kuwata Batmanga 015 (2014) (digital) (Minutemen-InnerDemons).cbr | 15.91MiB
-Batman - The Jiro Kuwata Batmanga 016 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.28MiB
-Batman - The Jiro Kuwata Batmanga 017 (2014) (digital) (Minutemen-InnerDemons).cbr | 13.15MiB
-Batman - The Jiro Kuwata Batmanga 018 (2014) (digital) (Minutemen-InnerDemons).cbr | 19.73MiB
-Batman - The Jiro Kuwata Batmanga 019 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.65MiB
-Batman - The Jiro Kuwata Batmanga 020 (2014) (digital) (Son of Ultron-Empire).cbr | 19.27MiB
+[Batman - The Jiro Kuwata Batmanga 015 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-015-2014-digital-Minutemen-InnerDemons-cbr.md) | 15.91MiB
+[Batman - The Jiro Kuwata Batmanga 016 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-016-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.28MiB
+[Batman - The Jiro Kuwata Batmanga 017 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-017-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.15MiB
+[Batman - The Jiro Kuwata Batmanga 018 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-018-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.73MiB
+[Batman - The Jiro Kuwata Batmanga 019 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-019-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.65MiB
+[Batman - The Jiro Kuwata Batmanga 020 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-020-2014-digital-Son-of-Ultron-Empire-cbr.md) | 19.27MiB

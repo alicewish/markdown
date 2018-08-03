@@ -20,7 +20,7 @@ Daredevil 006 (2014) (Digital) (Zone-Empire).cbr | 34.04MiB
 Daredevil 007 (2014) (Digital) (Zone-Empire).cbr | 36.44MiB
 Daredevil 008 (2014) (Digital) (Zone-Empire).cbr | 32.27MiB
 Daredevil 009 (2014) (Digital) (Zone-Empire).cbr | 36.85MiB
-Daredevil 010 (2014) (Digital) (Zone-Empire).cbr | 34.39MiB
+[Daredevil 010 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-010-2014-Digital-Zone-Empire-cbr.md) | 34.39MiB
 [Daredevil 011 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-011-2015-Digital-Zone-Empire-cbr.md) | 36.79MiB
 [Daredevil 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-012-2015-Digital-Zone-Empire-cbr.md) | 34.85MiB
 [Daredevil 013 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Daredevil-013-2015-Digital-Zone-Empire-cbr.md) | 25.78MiB

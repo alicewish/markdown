@@ -26,6 +26,10 @@ Justice League of America v1 201 c2c (36p DC 1982-04) (a DCP scan).cbz | 39.92Mi
 Justice League of America v1 202 c2c (36p DC 1982-05) (a DCP scan).cbz | 40.61MiB
 Justice League of America v1 204 c2c (36p DC 1982-07) (terrible scanner).cbz | 48.39MiB
 Justice League of America v1 205 c2c (36p DC 1982-08) (terrible scanner).cbz | 46.77MiB
+Justice League of America v1 206 c2c (36p DC 1982-09) (terrible scanner).cbz | 47.48MiB
+Justice League of America v1 210 c2c (36p DC 1983-01) (terrible scanner).cbz | 47.52MiB
+Justice League of America v1 211 c2c (36p DC 1983-02) (terrible scanner).cbz | 47.56MiB
+Justice League of America v1 212 c2c (36p DC 1983-03) (terrible scanner).cbz | 47.54MiB
 Justice League of America v1 180 (1980) (c2c) (bluejeff & Oroboros-DCP).cbr | 76.02MiB
 Justice League of America v1 181 (1980) (c2c) (bluejeff & Oroboros-DCP).cbr | 69.01MiB
 Justice League of America v1 182 (1980) (c2c) (bluejeff & Oroboros-DCP).cbr | 69.26MiB

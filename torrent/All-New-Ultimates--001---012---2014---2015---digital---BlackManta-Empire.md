@@ -19,6 +19,6 @@ All-New Ultimates 006 (2014) (Digital) (BlackManta-Empire).cbr | 44.23MiB
 All-New Ultimates 007 (2014) (digital) (BlackManta-Empire).cbr | 65.93MiB
 All-New Ultimates 008 (2014) (digital) (BlackManta-Empire).cbr | 62.91MiB
 All-New Ultimates 009 (2014) (Digital) (BlackManta-Empire).cbr | 46.75MiB
-All-New Ultimates 010 (2014) (Digital) (BlackManta-Empire).cbr | 38.23MiB
+[All-New Ultimates 010 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Ultimates-010-2014-Digital-BlackManta-Empire-cbr.md) | 38.23MiB
 [All-New Ultimates 011 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Ultimates-011-2015-Digital-BlackManta-Empire-cbr.md) | 40.22MiB
 [All-New Ultimates 012 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Ultimates-012-2015-Digital-BlackManta-Empire-cbr.md) | 43.49MiB

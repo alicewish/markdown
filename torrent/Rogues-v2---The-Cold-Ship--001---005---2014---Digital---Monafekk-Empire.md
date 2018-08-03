@@ -14,4 +14,4 @@ Rogues! v2 - The Cold Ship 01 (of 05) (2014) (Digital) (Monafekk-Empire).cbr | 4
 Rogues! v2 - The Cold Ship 02 (of 04) (2014) (Digital) (Monafekk-Empire).cbr | 43.72MiB
 Rogues! v2 - The Cold Ship 03 (of 04) (2014) (Digital) (Monafekk-Empire).cbr | 39.99MiB
 Rogues! v2 - The Cold Ship 04 (of 04) (2014) (Digital) (Monafekk-Empire).cbr | 44.22MiB
-Rogues! v2 - The Cold Ship 05 (of 05) (2014) (Digital) (Monafekk-Empire).cbr | 41.77MiB
+[Rogues! v2 - The Cold Ship 05 (of 05) (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rogues-v2-Cold-Ship-05-of-05-2014-Digital-Monafekk-Empire-cbr.md) | 41.77MiB

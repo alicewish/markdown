@@ -56,3 +56,4 @@ Back to the Future 021 (2017) (Digital) (F) (Kileko-Empire).cbr | 81.83MiB
 Back to the Future v02 - Continuum Conundrum (2017) (Digital) (Kileko-Empire).cbr | 245.76MiB
 Back to the Future v03 - Who Is Marty McFly (2017) (Digital) (Kileko-Empire).cbr | 338.63MiB
 Back to the Future v04 - Hard Time (2018) (Digital) (Kileko-Empire).cbr | 232.12MiB
+Back to the Future v05 - Time Served (2018) (Digital) (Kileko-Empire).cbr | 140.11MiB

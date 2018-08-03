@@ -22,5 +22,5 @@ Fantastic Four 008 (2014) (Digital) (Zone-Empire).cbr | 41.05MiB
 Fantastic Four 009 (2014) (Digital) (Zone-Empire).cbr | 46.09MiB
 Fantastic Four 010 (2014) (Digital) (Zone-Empire).cbr | 46.05MiB
 Fantastic Four 011 (2014) (Digital) (Zone-Empire).cbr | 39.34MiB
-Fantastic Four 012 (2014) (Digital) (Zone-Empire).cbr | 36.38MiB
+[Fantastic Four 012 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fantastic-Four-012-2014-Digital-Zone-Empire-cbr.md) | 36.38MiB
 Fantastic Four Annual 001 (2014) (Digital) (Zone-Empire).cbr | 65.35MiB

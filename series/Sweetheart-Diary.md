@@ -22,3 +22,4 @@ Sweetheart Diary 58 (1961 Charlton) (c2c) (rangerhouse-movielover-Novus).cbz | [
 Sweetheart Diary 61 Charlton Nov 1961 IRA-RangerHouse-Kracalactaka.cbz | 35.74MiB
 Sweetheart Diary 63 Charlton Apr 1962 titansfan.cbz | 59.86MiB
 Sweetheart Diary 64 Charlton Jun 1962 titansfan.cbz | 52.50MiB
+Sweetheart Diary 062 (c2c) (Charlton) (1962-01) ComicWanderer.cbz | 67.88MiB

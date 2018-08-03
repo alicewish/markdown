@@ -27,5 +27,5 @@ He-Man and the Masters of the Universe 014 (2014) (digital-Empire).cbr | 39.85Mi
 He-Man and the Masters of the Universe 015 (2014) (digital-Empire).cbr | 32.29MiB
 He-Man and the Masters of the Universe 016 (2014) (digital) (CompetentRipper-Empire).cbr | 32.04MiB
 He-Man and the Masters of the Universe 017 (2014) (digital) (CompetentRipper-Empire).cbr | 32.50MiB
-He-Man and the Masters of the Universe 018 (2014) (digital) (CompetentRipper-Empire).cbr | 34.84MiB
-He-Man and the Masters of the Universe 019 (2015) (digital-Empire).cbr | 30.13MiB
+[He-Man and the Masters of the Universe 018 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Masters-of-Universe-018-2014-digital-CompetentRipper-Empire-cbr.md) | 34.84MiB
+[He-Man and the Masters of the Universe 019 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Masters-of-Universe-019-2015-digital-Empire-cbr.md) | 30.13MiB

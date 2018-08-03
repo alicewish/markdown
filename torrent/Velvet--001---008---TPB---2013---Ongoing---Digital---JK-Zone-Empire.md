@@ -17,5 +17,5 @@ Velvet 004 (2014) (Digital) (JK-Empire).cbr | 43.17MiB
 Velvet 005 (2014) (Digital-Empire).cbr | 46.69MiB
 Velvet 006 (2014) (Digital-Empire).cbr | 46.40MiB
 Velvet 007 (2014) (Digital-Empire).cbr | 42.80MiB
-Velvet 008 (2014) (Digital-Empire).cbr | 45.72MiB
+[Velvet 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Velvet-008-2014-Digital-Empire-cbr.md) | 45.72MiB
 Velvet Vol. 1 - Before The Living End (2014) (Digital-TPB) (JK Zone-Empire).cbr | 167.24MiB

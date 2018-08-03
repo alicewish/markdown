@@ -177,7 +177,7 @@ Fleener 003 (1997).cbz | 19.12MiB
 Futurama - Simpsons Infinitely Secret Crossover Crisis 001 (2002).cbz | 11.81MiB
 Futurama - Simpsons Infinitely Secret Crossover Crisis 002 (2002).cbz | 12.02MiB
 &emsp;【Bongo Comics/Futurama Comics (001-072+)(2000-2016)】 | 
-Bongo Comics Presents Futurama Comics 073 (2014) (Harkonnen-DCP).cbz | 38.43MiB
+[Bongo Comics Presents Futurama Comics 073 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-073-2014-Harkonnen-DCP-cbz.md) | 38.43MiB
 [Bongo Comics Presents Futurama Comics 074 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-074-2015-Harkonnen-DCP-cbz.md) | 37.83MiB
 [Bongo Comics Presents Futurama Comics 075 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-075-2015-Harkonnen-DCP-cbz.md) | 30.97MiB
 [Bongo Comics Presents Futurama Comics 076 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Bongo-Comics-Presents-Futurama-Comics-076-2015-Harkonnen-DCP-cbz.md) | 32.38MiB
@@ -606,7 +606,7 @@ Simpsons Winter Wingding 005 (2010) (c2c) (team-cps).cbr | 28.18MiB
 Simpsons Winter Wingding 006 (2011) (c2c) (jojo).cbr | 32.89MiB
 Simpsons Winter Wingding 007 (2012) 49p (jojo).cbr | 36.67MiB
 Simpsons Winter Wingding 008 (2013) (Harkonnen-DCP).cbz | 57.57MiB
-Simpsons Winter Wingding 009 (2014) (Harkonnen-DCP).cbz | 59.52MiB
+[Simpsons Winter Wingding 009 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Winter-Wingding-009-2014-Harkonnen-DCP-cbz.md) | 59.52MiB
 &emsp;【Bongo Comics/The Simpsons Futurama Crossover Crisis II (001-002)(2005)】 | 
 The Simpsons Futurama Crossover Crisis II 001 (2005) (Oroboros-DCP).cbr | 9.00MiB
 The Simpsons Futurama Crossover Crisis II 002 (2005) (Oroboros-DCP).cbr | 12.73MiB

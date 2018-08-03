@@ -19,6 +19,7 @@ Submarine Attack 38 Charlton Mar 1963 titansfan.cbz | 55.03MiB
 Submarine Attack 050 (Charlton 1965) (c2c) (Kracalactaka+DaveH).cbz | 22.14MiB
 Submarine Attack 014 (1958) (Charlton) (c2c).cbr | 34.94MiB
 Submarine Attack 015 (1959) (Charlton) (c2c).cbr | 34.40MiB
+Submarine Attack 023 (c2c) (Charlton) (1960-08) ComicWanderer.cbz | 64.65MiB
 Submarine Attack 025 (1960) (Charlton) (INC) 33pgs.cbz | 56.38MiB
 Submarine Attack 026 (1961) (Charlton) (c2c) [RAW] (narfstar).cbz | 38.98MiB
 Submarine Attack 030 (1961) (Charlton) (c2c).cbz | 33.82MiB

@@ -142,7 +142,7 @@ Elephantmen 058 (2014) (digital) (Son of Ultron-Empire).cbr | [56.90MiB](https:/
 Elephantmen 059 (2014) (digital) (Minutemen-Slayer).cbr | 44.92MiB
 Elephantmen 059 (2014) (digital) (Son of Ultron-Empire).cbr | [64.98MiB](https://pan.baidu.com/s/1slbrbWx#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.03%2F%E3%82%A2%E3%82%B1%E3%82%B9%E3%82%AB%E3%82%AB%E3%82%B5%E3%82%AD%E3%82%A2%E3%82%A6%E3%82%B7%E3%82%AA%E3%82%A2%E3%82%BD%E3%82%BF%E3%82%BF%E3%82%B7%E3%82%B3%E3%82%BF%E3%82%A6%E3%82%B3%E3%82%AF%E3%82%AB%E3%82%BD%E3%82%AD%E3%82%B1%E3%82%AA%E3%82%A4%E3%82%BB%E3%82%A6%E3%82%B3%E3%82%B3%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Elephantmen 060 (2014) (digital) (Minutemen-Slayer).cbr | 46.82MiB
-Elephantmen 060 (2014) (digital) (Son of Ultron-Empire).cbr | 67.91MiB
+[Elephantmen 060 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-060-2014-digital-Son-of-Ultron-Empire-cbr.md) | 67.91MiB
 Elephantmen 061 (2015) (digital) (Minutemen-Slayer).cbr | 38.12MiB
 [Elephantmen 061 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-061-2015-digital-Son-of-Ultron-Empire-cbr.md) | [39.27MiB](https://pan.baidu.com/s/1eR9TnW2#list/path=%2F0-Day%20Week%20of%202015%20Q1%2F0-Day%20Week%20of%202015.01.07%2F%E3%82%A8%E3%82%B1%E3%82%BF%E3%82%B5%E3%82%A2%E3%82%B5%E3%82%AA%E3%82%B5%E3%82%AA%E3%82%B7%E3%82%AF%E3%82%B1%E3%82%BD%E3%82%AF%E3%82%AD%E3%82%AD%E3%82%AB%E3%82%B3%E3%82%AD%E3%82%AB%E3%82%B5%E3%82%A8%E3%82%AD%E3%82%A2%E3%82%BB%E3%82%B9%E3%82%B1%E3%82%AA%E3%82%A8%E3%82%B7%E3%82%A2%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202015%20Q1)
 Elephantmen 062 (2015) (digital) (Minutemen-Slayer).cbr | 43.00MiB

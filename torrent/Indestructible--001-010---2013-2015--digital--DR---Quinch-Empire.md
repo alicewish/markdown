@@ -18,7 +18,7 @@ Indestructible 005 (2014) (2 covers) (digital) (DR Quinch-Empire).cbr | 43.61MiB
 Indestructible 006 (2014) (digital) (DR Quinch-Empire).cbr | 38.00MiB
 Indestructible 007 (2014) (digital) (DR Quinch-Empire).cbr | 49.51MiB
 Indestructible 008 (2014) (Digital) (DR & Quinch-Empire).cbr | 35.75MiB
-Indestructible 009 (2014) (Digital) (DR & Quinch-Empire).cbr | 46.76MiB
+[Indestructible 009 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Indestructible-009-2014-Digital-DR-Quinch-Empire-cbr.md) | 46.76MiB
 [Indestructible 010 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Indestructible-010-2014-Digital-DR-Quinch-Empire-cbr.md) | 35.27MiB
 Indestructible v01 - Not So Much (2014) (Digital) (DR & Quinch-Empire).cbr | 159.62MiB
 Indestructible v02 - Fake It Till You Make It (2015) (Digital) (DR & Quinch-Empire).cbr | 275.14MiB

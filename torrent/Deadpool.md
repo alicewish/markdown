@@ -264,8 +264,8 @@ Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.12MiB
 Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.71MiB
 Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr | 61.52MiB
 Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 36.95MiB
-Deadpool 036 (2014) (digital) (Minutemen-InnerDemons).cbr | 39.08MiB
-Deadpool 037 (2015) (digital) (Minutemen-InnerDemons).cbr | 42.12MiB
+[Deadpool 036 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-036-2014-digital-Minutemen-InnerDemons-cbr.md) | 39.08MiB
+[Deadpool 037 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-037-2015-digital-Minutemen-InnerDemons-cbr.md) | 42.12MiB
 [Deadpool 038 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-038-2015-digital-Minutemen-InnerDemons-cbr.md) | 43.16MiB
 [Deadpool 039 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-039-2015-digital-Minutemen-InnerDemons-cbr.md) | 38.56MiB
 [Deadpool 040 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-040-2015-digital-Minutemen-InnerDemons-cbr.md) | 66.76MiB
@@ -667,7 +667,7 @@ Deadpool MAX X-Mas Special 01 (2012) (Minutemen-DTs).cbz | 39.28MiB
 Deadpool Team-Up 01 (1998) (Minutemen).cbr | 36.96MiB
 Deadpool and Death (OS) (1998) (Minutemen-XxxX).cbr | 30.21MiB
 Deadpool-GLI - Summer Fun Spectacular 01 (2007) (digital) (Minutemen-Faessla).cbz | 80.28MiB
-Death of Wolverine - Deadpool & Captain America 01 (2014) (digital) (Minutemen-Faessla).cbz | 59.07MiB
+[Death of Wolverine - Deadpool & Captain America 01 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Deadpool-Captain-America-01-2014-digital-Minutemen-Faessla-cbz.md) | 59.07MiB
 Encyclopedia Deadpoolica 001 (1998) (NastyNat).cbr | 14.02MiB
 Lady Deadpool 01 (2010) (digital) (Minutemen-Faessla).cbz | 51.05MiB
 Marvel Chess Collection - 43 - Deadpool.cbz | 112.43MiB

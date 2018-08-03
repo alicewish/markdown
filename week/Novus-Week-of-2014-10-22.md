@@ -67,9 +67,9 @@ Enchanted 003 (Sirius - 1997) (Novus Year Two) (Talon-Novus-HD).cbr | 45.39MiB
 FBP - Federal Bureau of Physics 11 (2014) (2048px - c2c) (TaruTariat-Novus-HD).cbr | 48.31MiB
 FBP - Federal Bureau of Physics 11 (2014) (2048px) (TaruTariat-Novus-HD).cbr | 31.72MiB
 FBP - Federal Bureau of Physics 11 (2014) (TaruTariat-Novus).cbr | 18.70MiB
-Fables 145 (2014) (2048px - c2c) (theProletariat-Novus-HD).cbr | 58.29MiB
-Fables 145 (2014) (2048px) (theProletariat-Novus-HD).cbr | 42.55MiB
-Fables 145 (2014) (theProletariat-Novus).cbr | 25.20MiB
+[Fables 145 (2014) (2048px - c2c) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-145-2014-2048px-c2c-theProletariat-Novus-HD-cbr.md) | 58.29MiB
+[Fables 145 (2014) (2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-145-2014-2048px-theProletariat-Novus-HD-cbr.md) | 42.55MiB
+[Fables 145 (2014) (theProletariat-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-145-2014-theProletariat-Novus-cbr.md) | 25.20MiB
 Famous Funnies 082 (1941-05 Eastern Color) (c2c) (HALO-movielover-Novus).cbz | 83.70MiB
 Fantastic Comics 05 (1940 Fox) (paper+1fiche - no ifc) (rangerhouse-movielover-Novus).cbz | 69.26MiB
 Femme Macabre 002 (London Night - 1994) (Novus Year Two) (Talon-Novus-HD).cbr | 30.19MiB

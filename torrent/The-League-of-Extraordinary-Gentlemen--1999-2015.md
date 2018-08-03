@@ -20,7 +20,7 @@ The League of Extraordinary Gentlemen Bumper Compendium Edition 001 (1999).cbz |
 The League of Extraordinary Gentlemen v01 (2002) (Digital) (Zone-Empire).cbr | 257.94MiB
 The League of Extraordinary Gentlemen v02 (digital) (2004) (Tithe-Empire).cbr | 156.02MiB
 The League of Extraordinary Gentlemen v03 - Century (2014) (digital HC) (Minutemen-Faessla).cbz | 426.22MiB
-Vertigo Essentials - The League of Extraordinary Gentlemen 001 (2014) (Digital) (UberSoldier-DCP).cbr | 81.89MiB
+[Vertigo Essentials - The League of Extraordinary Gentlemen 001 (2014) (Digital) (UberSoldier-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vertigo-Essentials-League-of-Extraordinary-Gentlemen-001-2014-Digital-UberSoldier-DCP-cbr.md) | 81.89MiB
 &emsp;【The League of Extraordinary Gentlemen (1999-2015)/v1 (001-006)(1999-2000)】 | 
 The League of Extraordinary Gentlemen v1 01 (of 06) (1999) (c2c) (Steam-DCP).cbr | 28.73MiB
 The League of Extraordinary Gentlemen v1 02 (of 06) (1999) (c2c) (Steam-DCP).cbr | 27.85MiB

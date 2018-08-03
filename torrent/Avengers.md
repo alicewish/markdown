@@ -673,8 +673,8 @@ Avengers 034.1 (2014) (digital) (Minutemen-PhD).cbr | 63.24MiB
 Avengers 034.2 (2015) (digital) (Minutemen-InnerDemons).cbr | 44.67MiB
 Avengers 035 (2014) (digital) (Minutemen-PhD).cbr | 62.48MiB
 Avengers 036 (2014) (digital) (Minutemen-PhD).cbr | 37.58MiB
-Avengers 037 (2014) (digital) (Minutemen-PhD).cbr | 45.48MiB
-Avengers 038 (2015) (digital) (Minutemen-PhD).cbr | 37.37MiB
+[Avengers 037 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-037-2014-digital-Minutemen-PhD-cbr.md) | 45.48MiB
+[Avengers 038 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-038-2015-digital-Minutemen-PhD-cbr.md) | 37.37MiB
 [Avengers 039 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-039-2015-digital-Minutemen-PhD-cbr.md) | 38.02MiB
 Avengers 040 (2015) (digital) (Minutemen-InnerDemons).cbr | 47.01MiB
 [Avengers 041 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-041-2015-digital-Minutemen-InnerDemons-cbr.md) | 38.66MiB
@@ -1182,7 +1182,7 @@ Marvel Masterworks - The Avengers v12 (2012) (digital) (Minutemen-Slayer).cbr | 
 Marvel Masterworks - The Avengers v13 (2013) (digital) (Minutemen-Slayer).cbr | 517.87MiB
 Marvel Masterworks - The Avengers v16 (2016) (digital) (Minutemen-Slayer).cbr | 633.69MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc】 | 
-Attack on Avengers 01 (2014) (from Brutus No.790-2014).cbz | 4.43MiB
+[Attack on Avengers 01 (2014) (from Brutus No.790-2014).cbz](https://github.com/alicewish/markdown/blob/master/comic/Attack-on-Avengers-01-2014-from-Brutus-No-790-2014-cbz.md) | 4.43MiB
 &emsp;【Avengers/Mini-Series, One-Shot, Misc/Avengers & The Infinity Gauntlet (001-004)(2010-2011)(digital)(Minutemen-Slayer)】 | 
 Avengers & The Infinity Gauntlet 01 (of 04) (2010) (digital) (Minutemen-Slayer).cbr | 38.99MiB
 Avengers & The Infinity Gauntlet 02 (of 04) (2010) (digital) (Minutemen-Slayer).cbr | 42.59MiB

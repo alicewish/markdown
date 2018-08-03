@@ -51,9 +51,9 @@ Batman Beyond 2.0 034 (2014) (digital) (Son of Ultron-Empire).cbr | 24.13MiB
 Batman Beyond 2.0 035 (2014) (digital) (Son of Ultron-Empire).cbr | 22.44MiB
 Batman Beyond 2.0 036 (2014) (digital) (Son of Ultron-Empire).cbr | 22.43MiB
 Batman Beyond 2.0 037 (2014) (digital) (Son of Ultron-Empire).cbr | 25.90MiB
-Batman Beyond 2.0 038 (2014) (digital) (Son of Ultron-Empire).cbr | 27.24MiB
-Batman Beyond 2.0 039 (2014) (digital) (Son of Ultron-Empire).cbr | 28.42MiB
-Batman Beyond 2.0 040 (2014) (digital) (Son of Ultron-Empire).cbr | 22.17MiB
+[Batman Beyond 2.0 038 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-038-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.24MiB
+[Batman Beyond 2.0 039 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-039-2014-digital-Son-of-Ultron-Empire-cbr.md) | 28.42MiB
+[Batman Beyond 2.0 040 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-040-2014-digital-Son-of-Ultron-Empire-cbr.md) | 22.17MiB
 &emsp;【Batman Beyond/Batman Beyond 2.0 (001 - 040)(2013-2014)(Digital)/Trades】 | 
 Batman Beyond 2.0 v01 - Rewired (2014) (Digital) (Zone-Empire).cbr | 202.25MiB
 Batman Beyond 2.0 v02 - Justice Lords Beyond (2015) (Digital) (Zone-Empire).cbr | 187.99MiB

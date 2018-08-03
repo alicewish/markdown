@@ -123,7 +123,7 @@ Infestation 1 - Ghostbusters 01 (of 02) (2011) (Digital) (Li'l DR & Quinch-Empir
 Infestation 1 - Ghostbusters 02 (of 02) (2011) (Digital) (Li'l DR & Quinch-Empire).cbr | 15.85MiB
 Mars Attacks The Real Ghostbusters 01 (2013) (digital-TheGroup).cbr | 11.88MiB
 &emsp;【Ghostbusters (1987-2018)/Ghostbusters (IDW)/Teenage Mutant Ninja Turtles-Ghostbusters (001-004)(2014-2015)(digital-Empire)】 | 
-Teenage Mutant Ninja Turtles-Ghostbusters 001 (2014) (digital) (CompetentRipper-Empire).cbr | 39.10MiB
+[Teenage Mutant Ninja Turtles-Ghostbusters 001 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Ghostbusters-001-2014-digital-CompetentRipper-Empire-cbr.md) | 39.10MiB
 Teenage Mutant Ninja Turtles-Ghostbusters 002 (2014) (2 covers) (digital-Empire).cbr | 35.74MiB
 [Teenage Mutant Ninja Turtles-Ghostbusters 003 (2014) (2 covers) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Ghostbusters-003-2014-2-covers-digital-Empire-cbr.md) | 34.83MiB
 [Teenage Mutant Ninja Turtles-Ghostbusters 004 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-Ghostbusters-004-2015-digital-Empire-cbr.md) | 33.92MiB

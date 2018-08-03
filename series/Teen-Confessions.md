@@ -49,6 +49,7 @@ Teen Confessions 93 c2c Charlton titansfan.cbz | 23.13MiB
 Teen Confessions 39 (1966) (Jon-Novus-NMS).cbz | 12.34MiB
 Teen Confessions 42 (1966) (Jon-Novus-NMS).cbz | [12.34MiB](https://pan.baidu.com/s/1i5itmYx#list/path=%2FNovus%20-%20Week%20of%202016%20Q1%2FNovus%20-%20Week%20of%202016-01-20%2F%E3%82%B3%E3%82%B3%E3%82%B3%E3%82%BF%E3%82%BB%E3%82%AD%E3%82%B3%E3%82%AF%E3%82%B9%E3%82%A4%E3%82%B1%E3%82%B1%E3%82%A8%E3%82%BD%E3%82%AA%E3%82%A4%E3%82%B5%E3%82%AD%E3%82%AF%E3%82%BD%E3%82%AB%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%AD%E3%82%B7%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%BB%E3%82%B5%E3%82%B5&parentPath=%2FNovus%20-%20Week%20of%202016%20Q1)
 Teen Confessions 066 (1971) (Charlton) (c2c) (titansfan).cbz | 25.97MiB
+Teen Confessions 067 (c2c) (Charlton) (1971-04) ComicWanderer.cbz | 69.53MiB
 Teen Confessions 094 (1976) (Charlton) (c2c) (titansfan).cbz | 26.88MiB
 Teen Confessions 096 (1976) (Charlton) (c2c) (titansfan).cbz | 25.76MiB
 Teen Confessions 097 (1976) (Charlton) (c2c) (titansfan).cbz | 25.81MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Grimm Fairy Tales Presents Dark Shaman 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 46.54MiB
-Grimm Fairy Tales Presents Dark Shaman 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 45.81MiB
+[Grimm Fairy Tales Presents Dark Shaman 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Dark-Shaman-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 46.54MiB
+[Grimm Fairy Tales Presents Dark Shaman 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Dark-Shaman-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 45.81MiB
 [Grimm Fairy Tales Presents Dark Shaman 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Dark-Shaman-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.44MiB
 [Grimm Fairy Tales Presents Dark Shaman 004 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Dark-Shaman-004-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 41.87MiB

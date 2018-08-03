@@ -55,6 +55,7 @@ The Thing 021 (1985) (digital) (Minutemen-Slayer).cbr | 38.93MiB
 The Thing 022 (1985) (digital) (Minutemen-Slayer).cbr | 35.95MiB
 The Thing 023 (1985) (digital) (Minutemen-Slayer).cbr | 37.29MiB
 Thing 023 (1985) (Digital) (Shadowcat-Empire).cbz | 37.73MiB
+Thing 030 (1985) (Digital) (Shadowcat-Empire).cbz | 41.26MiB
 The Thing 034 (1986) (MrWoodman).cbr | 41.41MiB
 Thing 001 (2005) (Digital) (Shadowcat-Empire).cbz | 47.71MiB
 The Thing 001 (2006) (digital) (Minutemen-Slayer).cbr | 47.78MiB

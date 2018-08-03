@@ -24,6 +24,8 @@ Instead of surrendering, Harada has one last unthinkable gambit to play: to achi
 
 相关种子⬇Related Torrents
 
+[Imperium (v01- v02) (2015) (digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Imperium--v01--v02---2015---digital---Son-of-Ultron-Empire.md)
+
 [Imperium (001-010) (2015-) (digital) (Minutemen-Spaztastic)](https://github.com/alicewish/markdown/blob/master/torrent/Imperium--001-010---2015----digital---Minutemen-Spaztastic.md)
 
 [Imperium (001-016+) (2015-) (digital) (Minutemen-Spaztastic)](https://github.com/alicewish/markdown/blob/master/torrent/Imperium--001-016----2015----digital---Minutemen-Spaztastic.md)

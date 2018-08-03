@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Death of Wolverine - The Weapon X Program 001 (2015) (Digital) (Nahga-Empire).cbr | 24.80MiB
-Death of Wolverine - The Weapon X Program 002 (2015) (Digital) (Nahga-Empire).cbr | 32.83MiB
+[Death of Wolverine - The Weapon X Program 001 (2015) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-001-2015-Digital-Nahga-Empire-cbr.md) | 24.80MiB
+[Death of Wolverine - The Weapon X Program 002 (2015) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-002-2015-Digital-Nahga-Empire-cbr.md) | 32.83MiB
 [Death of Wolverine - The Weapon X Program 003 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-003-2015-Digital-Empire-cbr.md) | 31.09MiB
 [Death of Wolverine - The Weapon X Program 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-004-2015-Digital-Empire-cbr.md) | 35.90MiB
 [Death of Wolverine - The Weapon X Program 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-005-2015-Digital-Empire-cbr.md) | 34.79MiB

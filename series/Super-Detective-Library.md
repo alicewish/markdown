@@ -24,7 +24,10 @@ Super-Detective Library 047 (Bogof39).cbz | 35.75MiB
 Super-Detective Library 050 (Bogof39).cbz | 40.82MiB
 Super-Detective Library 058 (Bogof39).cbz | 39.72MiB
 Super-Detective Library 066 (Bogof39).cbz | 41.68MiB
+Super-Detective Library 078 - Sherlock Holmes and the Hound of the Baskervilles (Mr Tweedy).cbr | 40.58MiB
 Super-Detective Library 081 (Bogof39).cbz | 43.17MiB
 Super-Detective Library 125 Stephen.cbz | 45.93MiB
 Super-Detective Library 140 (Bogof39).cbz | 39.87MiB
+Super-Detective Library 179 - John Steel in Cargo X (Mr Tweedy).cbr | 44.37MiB
 Super-Detective Library 180 (Fleetway 1960) (Bogof39).cbz | 28.87MiB
+Super-Detective Library 187 - John Steel in The Reign of Terror [1961] (Mr Tweedy).cbr | 32.88MiB

@@ -30,6 +30,8 @@
 
 Online | Download
 --- | ---
+Lone Ranger 21 c2c Gold Key Jun 1975 Kracalactaka-a nonny moose.cbz | 38.47MiB
+Lone Ranger 26 c2c Gold Key Sep 1976 Kracalactaka-a nonny moose.cbz | 39.27MiB
 The Lone Ranger 026 (Gold Key 1976) (c2c) (Worldbreaker-DCP).cbr | 75.57MiB
 Lone Ranger 9 Gold Key Jan 1968 C2C (js-DCP).cbz | 13.65MiB
 Lone Ranger 15 Gold Key Oct 1969 C2C (js DCP).cbz | 14.10MiB

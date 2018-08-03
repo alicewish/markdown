@@ -16,6 +16,8 @@ For centuries, the legendary King Arthur has served as a shining example of just
 
 相关种子⬇Related Torrents
 
+[Camelot 3000 (001-012) (1982-1985) (digital) (Minutemen-Mookie)](https://github.com/alicewish/markdown/blob/master/torrent/Camelot-3000--001-012---1982-1985---digital---Minutemen-Mookie.md)
+
 [Camelot 3000 (001-012)(1982-1985)(digital)(Minutemen-Mookie)](https://github.com/alicewish/markdown/blob/master/torrent/Camelot-3000--001-012--1982-1985--digital--Minutemen-Mookie.md)
 
 Online | Download

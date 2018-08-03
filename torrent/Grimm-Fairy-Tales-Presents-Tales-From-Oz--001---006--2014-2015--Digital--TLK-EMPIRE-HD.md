@@ -13,6 +13,6 @@ Online | Download
 Grimm Fairy Tales Presents Tales From Oz 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 36.77MiB
 Grimm Fairy Tales Presents Tales From Oz 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 33.93MiB
 Grimm Fairy Tales Presents Tales From Oz 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 29.14MiB
-Grimm Fairy Tales Presents Tales From Oz 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 48.63MiB
+[Grimm Fairy Tales Presents Tales From Oz 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Tales-From-Oz-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 48.63MiB
 [Grimm Fairy Tales Presents Tales From Oz 005(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Tales-From-Oz-005-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.16MiB
 [Grimm Fairy Tales Presents Tales From Oz 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Tales-From-Oz-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 42.52MiB

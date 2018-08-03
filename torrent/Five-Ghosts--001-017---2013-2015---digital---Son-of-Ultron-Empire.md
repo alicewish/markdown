@@ -23,7 +23,7 @@ Five Ghosts 009 (2014) (digital) (Son of Ultron-Empire).cbr | 78.24MiB
 Five Ghosts 010 (2014) (digital) (Son of Ultron-Empire).cbr | 74.42MiB
 Five Ghosts 011 (2014) (digital) (Son of Ultron-Empire).cbr | 72.70MiB
 Five Ghosts 012 (2014) (digital) (Son of Ultron-Empire).cbr | 74.24MiB
-Five Ghosts 013 (2014) (digital) (Son of Ultron-Empire).cbr | 68.08MiB
+[Five Ghosts 013 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Five-Ghosts-013-2014-digital-Son-of-Ultron-Empire-cbr.md) | 68.08MiB
 [Five Ghosts 014 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Five-Ghosts-014-2014-digital-Son-of-Ultron-Empire-cbr.md) | 50.17MiB
 [Five Ghosts 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Five-Ghosts-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 49.06MiB
 [Five Ghosts 016 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Five-Ghosts-016-2015-digital-Minutemen-InnerDemons-cbr.md) | 53.21MiB

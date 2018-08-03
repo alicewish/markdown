@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Predator - Fire and Stone 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 43.93MiB
-Predator - Fire and Stone 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 47.17MiB
+[Predator - Fire and Stone 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-Fire-Stone-01-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 43.93MiB
+[Predator - Fire and Stone 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-Fire-Stone-02-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 47.17MiB
 [Predator - Fire and Stone 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-Fire-Stone-03-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 49.51MiB
 [Predator - Fire and Stone 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-Fire-Stone-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 56.53MiB

@@ -83,13 +83,13 @@ Usagi Yojimbo - Yokai (2009) (digital) (The Magicians-Empire).cbr | 178.58MiB
 Usagi Yojimbo - Senso 01 (of 06) (2014) (c2c - 2048px) (F) (theProletariat-Novus-HD).cbr | 45.66MiB
 Usagi Yojimbo - Senso 02 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 49.67MiB
 Usagi Yojimbo - Senso 03 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 52.27MiB
-Usagi Yojimbo - Senso 04 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 50.27MiB
+[Usagi Yojimbo - Senso 04 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-04-of-06-2014-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 50.27MiB
 [Usagi Yojimbo - Senso 05 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-05-of-06-2014-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 41.43MiB
 [Usagi Yojimbo - Senso 06 (of 06) (2015) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-06-of-06-2015-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 49.97MiB
 Usagi Yojimbo - Senso 01 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 24.11MiB
 Usagi Yojimbo - Senso 02 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 26.89MiB
 Usagi Yojimbo - Senso 03 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 31.19MiB
-Usagi Yojimbo - Senso 04 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 29.50MiB
+[Usagi Yojimbo - Senso 04 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-04-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 29.50MiB
 [Usagi Yojimbo - Senso 05 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-05-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 25.44MiB
 [Usagi Yojimbo - Senso 06 (of 06) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-06-of-06-2015-digital-Minutemen-InnerDemons-cbr.md) | 30.50MiB
 &emsp;【Usagi Yojimbo/Usagi Yojimbo v1 (001-038)(1987-1993)(digital)(Minutemen-InnerDemons).cbr】 | 

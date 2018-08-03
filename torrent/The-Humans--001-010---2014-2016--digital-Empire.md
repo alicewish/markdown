@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Humans 001 (2014) (Digital) (Pym-Empire).cbz | 62.75MiB
+[The Humans 001 (2014) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Humans-001-2014-Digital-Pym-Empire-cbz.md) | 62.75MiB
 [The Humans 002 (2014) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Humans-002-2014-Digital-Pym-Empire-cbz.md) | 58.39MiB
 [The Humans 003 (2015) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Humans-003-2015-Digital-Pym-Empire-cbz.md) | 48.94MiB
 The Humans 004 (2015) (Digital) (Pym-Empire).cbz | 46.87MiB

@@ -51,7 +51,10 @@ Hawkman 012 (1966) (Digital) (Shadowcat-Empire).cbz | 49.54MiB
 Hawkman 013 (1966) (Digital) (Shadowcat-Empire).cbz | 54.41MiB
 Hawkman 014 (1966) (Digital) (Shadowcat-Empire).cbz | 51.42MiB
 Hawkman 015 (1966) (Digital) (Shadowcat-Empire).cbz | 46.33MiB
+Hawkman 016 (1966) (Digital) (Shadowcat-Empire).cbz | 29.58MiB
+Hawkman 017 (1967) (Digital) (Shadowcat-Empire).cbz | 46.54MiB
 Hawkman 018 (1967) (Digital) (Shadowcat-Empire).cbz | 30.81MiB
+Hawkman 019 (1967) (Digital) (Shadowcat-Empire).cbz | 41.21MiB
 Hawkman 001 (1986) (Digital) (Shadowcat-Empire).cbz | 33.53MiB
 Hawkman 002 (1986) (Digital) (Shadowcat-Empire).cbz | 33.13MiB
 Hawkman 003 (1986) (Digital) (Shadowcat-Empire).cbz | 30.22MiB
@@ -67,6 +70,8 @@ Hawkman 012 (1987) (Digital) (Shadowcat-Empire).cbz | 28.67MiB
 Hawkman 013 (1987) (Digital) (Shadowcat-Empire).cbz | 29.71MiB
 Hawkman 014 (1987) (Digital) (Shadowcat-Empire).cbz | 29.58MiB
 Hawkman 015 (1987) (Digital) (Shadowcat-Empire).cbz | 51.52MiB
+Hawkman 016 (1987) (Digital) (Shadowcat-Empire).cbz | 33.74MiB
+Hawkman 017 (1987) (Digital) (Shadowcat-Empire).cbz | 37.02MiB
 Hawkman 000 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 13.15MiB
 Hawkman 013 (1994) (Digital-SD) (Shadowcat-Empire).cbz | 12.32MiB
 Hawkman 001 (2002) (Digital-SD) (Shadowcat-Empire).cbz | 12.14MiB

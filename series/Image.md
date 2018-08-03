@@ -16,6 +16,8 @@
 
 [Image+ (001-012) (2016-) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Image---001-012---2016----digital---Minutemen-Faessla.md)
 
+[Image+ (v1-v2)(2016-2018)(digital)](https://github.com/alicewish/markdown/blob/master/torrent/Image---v1-v2--2016-2018--digital.md)
+
 Online | Download
 --- | ---
 Image+ 001 (2016) (digital) (Minutemen-Faessla).cbz | 94.72MiB

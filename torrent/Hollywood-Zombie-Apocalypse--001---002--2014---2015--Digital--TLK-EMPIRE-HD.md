@@ -10,5 +10,5 @@
 
 Online | Download
 --- | ---
-Hollywood Zombie Apocalypse 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 66.58MiB
+[Hollywood Zombie Apocalypse 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hollywood-Zombie-Apocalypse-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 66.58MiB
 [Hollywood Zombie Apocalypse 002(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hollywood-Zombie-Apocalypse-002-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 60.78MiB

@@ -19,6 +19,6 @@ Drumhellar 006 (2014) (Digital) (Darkness-Empire).cbr | 37.96MiB
 Drumhellar 007 (2014) (Digital) (Darkness-Empire).cbr | 37.37MiB
 Drumhellar 008 (2014) (Digital-Empire).cbr | 49.84MiB
 Drumhellar 009 (2014) (Digital-Empire).cbr | 41.26MiB
-Drumhellar 010 (2014) (Digital-Empire).cbr | 39.95MiB
+[Drumhellar 010 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drumhellar-010-2014-Digital-Empire-cbr.md) | 39.95MiB
 Drumhellar v01 - Badlands and Bad Trips (2014) (Digital-Empire).cbr | 195.42MiB
 Drumhellar v02 - Dogs and Gods (2014) (Digital) (Zone-Empire).cbr | 184.97MiB

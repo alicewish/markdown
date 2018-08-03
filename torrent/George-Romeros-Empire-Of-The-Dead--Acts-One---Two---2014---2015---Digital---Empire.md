@@ -19,6 +19,6 @@ Empire of the Dead 005 (2014) (Digital) (Nahga-Empire).cbr | 37.80MiB
 &emsp;【George Romero's Empire Of The Dead (Acts One & Two) (2014 - 2015) (Digital) (Empire)/George Romero's Empire Of The Dead Act Two (01 - 05) (2014 - 2015) (Digital) (Zone-Empire)】 | 
 George Romero's Empire of the Dead - Act Two 001 (2014) (Digital) (Zone-Empire).cbr | 35.60MiB
 George Romero's Empire of the Dead - Act Two 002 (2014) (Digital) (Zone-Empire).cbr | 31.79MiB
-George Romero's Empire of the Dead - Act Two 003 (2015) (Digital) (Zone-Empire).cbr | 33.22MiB
+[George Romero's Empire of the Dead - Act Two 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Two-003-2015-Digital-Zone-Empire-cbr.md) | 33.22MiB
 [George Romero's Empire of the Dead - Act Two 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Two-004-2015-Digital-Zone-Empire-cbr.md) | 29.82MiB
 [George Romero's Empire of the Dead - Act Two 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Romeros-Empire-of-Dead-Act-Two-005-2015-Digital-Zone-Empire-cbr.md) | 29.56MiB

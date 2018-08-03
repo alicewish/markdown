@@ -62,6 +62,7 @@ Marvel Premiere 028 (1976) (Digital) (Shadowcat-Empire).cbz | 45.29MiB
 Marvel Premiere 035 (1977) (Digital) (Shadowcat-Empire).cbz | 40.70MiB
 Marvel Premiere 038 (1977) (Digital) (Shadowcat-Empire).cbz | 37.26MiB
 Marvel Premiere 041(1978)(FB-DCP)(C2C).cbr | 26.36MiB
+Marvel Premiere 042 (1978) (Digital) (Shadowcat-Empire).cbz | 42.53MiB
 Marvel Premiere 047(1979)(Digital)(TLK-EMPIRE-HD).cbr | 30.73MiB
 Marvel Premiere 048(1979)(Digital)(TLK-EMPIRE-HD).cbr | 30.14MiB
 Marvel Premiere 049 (1979) (Digital) (Shadowcat-Empire).cbz | 32.26MiB

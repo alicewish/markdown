@@ -18,4 +18,4 @@ Moon Knight 005 (2014) (Digital) (Zone-Empire).cbr | 29.77MiB
 Moon Knight 006 (2014) (Digital) (Zone-Empire).cbr | 36.26MiB
 Moon Knight 007 (2014) (Digital) (Zone-Empire).cbr | 31.35MiB
 Moon Knight 008 (2014) (Digital) (Zone-Empire).cbr | 23.36MiB
-Moon Knight 009 (2014) (Digital) (Zone-Empire).cbr | 33.26MiB
+[Moon Knight 009 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Moon-Knight-009-2014-Digital-Zone-Empire-cbr.md) | 33.26MiB

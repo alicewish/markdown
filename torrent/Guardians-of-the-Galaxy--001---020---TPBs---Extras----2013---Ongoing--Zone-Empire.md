@@ -32,7 +32,7 @@ Guardians of the Galaxy 013 (2014) (Digital) (Zone-Empire).cbr | 29.33MiB
 [Guardians of the Galaxy 017 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-017-2014-Digital-Zone-Empire-cbr.md) | 40.46MiB
 Guardians of the Galaxy 018 (2014) (Digital) (Zone-Empire).cbr | 36.06MiB
 Guardians of the Galaxy 019 (2014) (Digital) (Zone-Empire).cbr | 44.25MiB
-Guardians of the Galaxy 020 (2014) (Digital) (Zone-EMpire).cbr | 37.53MiB
+[Guardians of the Galaxy 020 (2014) (Digital) (Zone-EMpire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-020-2014-Digital-Zone-EMpire-cbr.md) | 37.53MiB
 &emsp;【Guardians of the Galaxy (001 - 020 + TPBs & Extras) ( 2013 - Ongoing)(Zone-Empire)/Guardians of the Galaxy Infinite Comic (001 - 004) (2013)】 | 
 [Guardians of the Galaxy Infinite Comic 001 (2013) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-Infinite-Comic-001-2013-digital-Son-of-Ultron-Empire-cbr.md) | 30.24MiB
 [Guardians of the Galaxy Infinite Comic 002 (2013) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-Infinite-Comic-002-2013-digital-Son-of-Ultron-Empire-cbr.md) | 51.68MiB

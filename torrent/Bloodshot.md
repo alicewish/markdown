@@ -126,7 +126,7 @@ Bloodshot and H.A.R.D. Corps 018 (2014) (Lewis LaRosa Pullbox Variant Cover) (Re
 Bloodshot and H.A.R.D. Corps 019 (2014) (Bart Sears Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 2.54MiB
 &emsp;【Bloodshot/Bloodshot v3 (000-025)(2012-2013)(digital)/3- Bloodshot (024-025)(2014)(digital)(Minutemen-Spaztastic)】 | 
 Bloodshot 024 (2014) (digital) (Minutemen-Spaztastic).cbr | 39.44MiB
-Bloodshot 025 (2014) (digital) (Minutemen-Spaztastic).cbr | 97.61MiB
+[Bloodshot 025 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-025-2014-digital-Minutemen-Spaztastic-cbr.md) | 97.61MiB
 &emsp;【Bloodshot/Bloodshot v3 TPBs (v01-v06)】 | 
 Bloodshot Vol. 01 - Setting the World on Fire (2012) (digital) (Minutemen-Slayer).cbr | 195.79MiB
 Bloodshot Vol. 02 - The Rise and the Fall (2013) (digital-Empire).cbr | 188.87MiB

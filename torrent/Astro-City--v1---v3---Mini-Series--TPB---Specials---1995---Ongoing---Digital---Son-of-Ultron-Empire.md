@@ -90,7 +90,7 @@ Astro City 013 (2014) (digital) (Son of Ultron-Empire).cbr | 65.83MiB
 Astro City 014 (2014) (digital) (Son of Ultron-Empire).cbr | 72.98MiB
 Astro City 015 (2014) (digital) (Son of Ultron-Empire).cbr | 66.49MiB
 Astro City 016 (2014) (digital) (Son of Ultron-Empire).cbr | 64.04MiB
-Astro City 017 (2015) (digital) (Son of Ultron-Empire).cbr | 44.41MiB
+[Astro City 017 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Astro-City-017-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.41MiB
 [Astro City 018 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Astro-City-018-2015-digital-Son-of-Ultron-Empire-cbr.md) | 42.67MiB
 &emsp;【Astro City (v1 - v3 + Mini-Series, TPB & Specials) (1995 - Ongoing) (Digital) (Son of Ultron-Empire)/Specials】 | 
 Astro City & Arrowsmith Flipbook (2004) (Jnx).cbz | 10.77MiB

@@ -25,6 +25,6 @@ Federal Bureau of Physics 011 (2014) (Digital) (Nahga-Empire).cbr | 26.96MiB
 Federal Bureau of Physics 012 (2014) (Digital) (Nahga-Empire).cbr | 31.95MiB
 Federal Bureau of Physics 013 (2014) (Digital) (Nahga-Empire).cbr | 32.06MiB
 Federal Bureau of Physics 014 (2014) (Digital) (Nahga-Empire).cbr | 32.28MiB
-Federal Bureau of Physics 015 (2014) (Digital) (Nahga-Empire).cbr | 35.40MiB
+[Federal Bureau of Physics 015 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Federal-Bureau-of-Physics-015-2014-Digital-Nahga-Empire-cbr.md) | 35.40MiB
 [Federal Bureau of Physics 016 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Federal-Bureau-of-Physics-016-2015-Digital-Empire-cbr.md) | 28.68MiB
 [Federal Bureau of Physics 017 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Federal-Bureau-of-Physics-017-2015-Digital-Empire-cbr.md) | 30.30MiB

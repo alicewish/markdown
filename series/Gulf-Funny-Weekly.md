@@ -16,6 +16,7 @@ Gulf Funny Weekly 020 [1933-09-08] pp 1 & 4 only Kracalactaka.cbz | 2.58MiB
 Gulf Funny Weekly 022 [1933-09-22] pp 1 & 4 only Kracalactaka.cbz | 3.14MiB
 Gulf Funny Weekly 038 [1934-01-12] pg 1 only Kracalactaka.cbz | 1.11MiB
 Gulf Funny Weekly 056 [1934-05-18] pg 1 only Kracalactaka.cbz | 1.14MiB
+Gulf Funny Weekly 065 (Gulf Oil 1934) Kracalactaka-a nonny moose.cbz | 36.10MiB
 Gulf Funny Weekly 197 [1937-01-29] pg 1 only Kracalactaka.cbz | 1.88MiB
 Gulf Funny Weekly 319 [1939-06-02] pg 1 only Kracalactaka.cbz | 920.82KiB
 Gulf Funny Weekly 344 [1939-11-24] (inc missng pgs 2-4) Kracalactaka.cbz | 759.30KiB

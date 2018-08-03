@@ -15,7 +15,7 @@ C.O.W.L. 002 (2014) (Digital) (Darkness-Empire).cbr | 38.21MiB
 C.O.W.L. 003 (2014) (Digital) (Darkness-Empire).cbr | 36.04MiB
 C.O.W.L. 004 (2014) (Digital) (Darkness-Empire).cbr | 37.67MiB
 C.O.W.L. 005 (2014) (Digital) (Darkness-Empire).cbr | 37.02MiB
-C.O.W.L. 006 (2014) (Digital) (Darkness-Empire).cbr | 120.86MiB
+[C.O.W.L. 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-006-2014-Digital-Darkness-Empire-cbr.md) | 120.86MiB
 [C.O.W.L. 007 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-007-2014-Digital-Darkness-Empire-cbr.md) | 39.67MiB
 [C.O.W.L. 008 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-008-2015-Digital-Darkness-Empire-cbr.md) | 30.96MiB
 [C.O.W.L. 009 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-009-2015-Digital-Zone-Empire-cbr.md) | 37.09MiB

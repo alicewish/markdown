@@ -22,7 +22,7 @@ Sometimes science fiction is all in your head... and sometimes it's all in your 
 
 Online | Download
 --- | ---
-Six (2014) (Digital) (BlurPixel-Empire).cbr | [87.22MiB](https://pan.baidu.com/s/1eRSkhW2#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.12%2F%E3%82%BD%E3%82%B1%E3%82%B1%E3%82%B3%E3%82%B5%E3%82%A4%E3%82%BB%E3%82%B3%E3%82%B9%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%BD%E3%82%BD%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%BD%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%A4%E3%82%A2%E3%82%A8%E3%82%A2%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Six (2014) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Six-2014-Digital-BlurPixel-Empire-cbr.md) | [87.22MiB](https://pan.baidu.com/s/1eRSkhW2#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.12%2F%E3%82%BD%E3%82%B1%E3%82%B1%E3%82%B3%E3%82%B5%E3%82%A4%E3%82%BB%E3%82%B3%E3%82%B9%E3%82%BB%E3%82%A6%E3%82%AD%E3%82%B9%E3%82%AD%E3%82%BD%E3%82%BD%E3%82%B1%E3%82%AB%E3%82%BF%E3%82%BD%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%BD%E3%82%A6%E3%82%A6%E3%82%BB%E3%82%A4%E3%82%A2%E3%82%A8%E3%82%A2%E3%82%AF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Six 01 (of 08) (2015) (digital) (d'argh-Empire).cbr | 85.19MiB
 Six 02 (of 08) (2015) (digital) (d'argh-Empire).cbr | 77.87MiB
 Six 03 (of 08) (2016) (digital) (d'argh-Empire).cbr | 55.28MiB

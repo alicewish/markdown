@@ -18,7 +18,7 @@ Transformers vs. G.I. Joe 000 (FCBD 2014) (digital) (Minutemen-Phantasm).cbz | 6
 Transformers vs. G.I. Joe 001 (2014) (digital) (Minutemen-Midas).cbr | 63.11MiB
 Transformers vs. G.I. Joe 002 (2014) (digital) (Minutemen-Midas).cbr | 52.75MiB
 Transformers vs. G.I. Joe 003 (2014) (4 covers) (digital) (Minutemen-Midas).cbr | 61.15MiB
-Transformers vs. G.I. Joe 004 (2014) (digital) (Minutemen-Midas).cbr | 55.06MiB
+[Transformers vs. G.I. Joe 004 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-004-2014-digital-Minutemen-Midas-cbr.md) | 55.06MiB
 [Transformers vs. G.I. Joe 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-005-2015-digital-Minutemen-Midas-cbr.md) | 57.09MiB
 Transformers vs. G.I. Joe 006 (2015) (3 covers) (digital) (Minutemen-Midas).cbr | 66.98MiB
 [Transformers vs. G.I. Joe 007 (2015) (3 covers) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-007-2015-3-covers-digital-Minutemen-Midas-cbr.md) | 53.10MiB

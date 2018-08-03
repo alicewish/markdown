@@ -15,7 +15,7 @@ Amazing Forest 002 (2013) (digital) (Minutemen-InnerDemons).cbr | 23.92MiB
 Amazing Forest 003 (2013) (digital) (Minutemen-InnerDemons).cbr | 33.84MiB
 Amazing Forest 004 (2014) (digital) (Minutemen-InnerDemons).cbr | 28.23MiB
 Amazing Forest 005 (2014) (digital) (Minutemen-InnerDemons).cbr | 26.50MiB
-Amazing Forest 006 (2014) (digital) (Minutemen-InnerDemons).cbr | 27.11MiB
+[Amazing Forest 006 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Forest-006-2014-digital-Minutemen-InnerDemons-cbr.md) | 27.11MiB
 [Amazing Forest 007 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Forest-007-2015-digital-Minutemen-InnerDemons-cbr.md) | 33.15MiB
 [Amazing Forest 008 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Forest-008-2015-digital-Minutemen-InnerDemons-cbr.md) | 49.53MiB
 [Amazing Forest 009 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Amazing-Forest-009-2015-digital-Minutemen-InnerDemons-cbr.md) | 32.03MiB

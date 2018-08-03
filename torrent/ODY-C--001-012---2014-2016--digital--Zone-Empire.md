@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-ODY-C 001 (2014) (Digital) (F) (Zone-Empire).cbr | 87.31MiB
+[ODY-C 001 (2014) (Digital) (F) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-001-2014-Digital-F-Zone-Empire-cbr.md) | 87.31MiB
 [ODY-C 002 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-002-2015-Digital-Zone-Empire-cbr.md) | 43.40MiB
 [ODY-C 003 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-003-2015-Digital-Zone-Empire-cbr.md) | 46.47MiB
 [ODY-C 004 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/ODY-C-004-2015-Digital-Zone-Empire-cbr.md) | 42.61MiB

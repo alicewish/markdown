@@ -24,6 +24,8 @@ Batman, Booster Gold, Green Lantern Guy Gardner, August General in Iron, Fire, I
 
 [Justice League International (v01-v05) (2009-2011) (digital) (Minutemen-FlynnLives)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-League-International--v01-v05---2009-2011---digital---Minutemen-FlynnLives.md)
 
+[Justice League International (01 - 12 + Annual) (2011 - 2012) (Minutemen-DeadCold)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-League-International--01---12---Annual---2011---2012---Minutemen-DeadCold.md)
+
 Online | Download
 --- | ---
 Justice League International 008 (1987) (Digital) (AnHeroGold-Empire).cbz | 32.97MiB

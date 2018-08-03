@@ -865,7 +865,7 @@ Captain America v05 - The Tomorrow Soldier (2014) (Digital HC) (BroadCast-Empire
 &emsp;【Captain America/Event-Specific Issues】 | 
 [Captain America - Road to War 001 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-Road-to-War-001-2016-Digital-Zone-Empire-cbr.md) | 69.58MiB
 Daily Bugle Civil War Fallen Son Special (2007) (Oroboros-Kryptonia-DCP).cbr | 6.20MiB
-Death of Wolverine - Deadpool & Captain America 01 (2014) (digital) (Minutemen-Faessla).cbz | 59.07MiB
+[Death of Wolverine - Deadpool & Captain America 01 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Deadpool-Captain-America-01-2014-digital-Minutemen-Faessla-cbz.md) | 59.07MiB
 Fear Itself 07.1 - Captain America (2012) (digital) (Minutemen-InnerDemons).cbr | 25.03MiB
 Iron Man Captain America - Casualties of War (2007) (PhoenixFactor-DCP).cbr | 29.10MiB
 &emsp;【Captain America/Event-Specific Issues/Misc】 | 

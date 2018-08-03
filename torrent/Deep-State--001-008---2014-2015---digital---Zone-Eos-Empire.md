@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Deep State 001 (2014) (digital) (Eos-Empire).cbr | 38.13MiB
+[Deep State 001 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-001-2014-digital-Eos-Empire-cbr.md) | 38.13MiB
 [Deep State 002 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-002-2014-digital-Eos-Empire-cbr.md) | 31.89MiB
 [Deep State 003 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-003-2015-digital-Eos-Empire-cbr.md) | 31.21MiB
 [Deep State 004 (2015) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deep-State-004-2015-digital-Eos-Empire-cbr.md) | 37.97MiB

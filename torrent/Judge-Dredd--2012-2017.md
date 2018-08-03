@@ -51,7 +51,7 @@ Judge Dredd 021 (2014) (Digital-Empire).cbr | 32.84MiB
 Judge Dredd 022 (2014) (Digital-Empire).cbr | 39.08MiB
 Judge Dredd 023 (2014) (Digital-Empire).cbr | 35.77MiB
 Judge Dredd 024 (2014) (Digital-Empire).cbr | 39.76MiB
-Judge Dredd 025 (2014) (Digital-Empire).cbr | 33.68MiB
+[Judge Dredd 025 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-025-2014-Digital-Empire-cbr.md) | 33.68MiB
 [Judge Dredd 026 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-026-2014-Digital-Empire-cbr.md) | 35.79MiB
 [Judge Dredd 027 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-027-2015-Digital-Empire-cbr.md) | 36.33MiB
 [Judge Dredd 028 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-028-2015-Digital-Empire-cbr.md) | 37.67MiB
@@ -68,7 +68,7 @@ Judge Dredd v07 (2015) (Digital) (DR & Quinch-Empire).cbr | 223.95MiB
 &emsp;【Judge Dredd (2012-2017)/Judge Dredd - Anderson, PSI Division (001-004)(2014)(digital)(DR & Quinch-Empire)】 | 
 Judge Dredd - Anderson, Psi-Division 001 (2014) (Digital) (DR & Quinch-Empire).cbr | 29.37MiB
 Judge Dredd - Anderson, Psi-Division 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 28.93MiB
-Judge Dredd - Anderson, Psi-Division 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 26.53MiB
+[Judge Dredd - Anderson, Psi-Division 003 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Anderson-Psi-Division-003-2014-Digital-DR-Quinch-Empire-cbr.md) | 26.53MiB
 [Judge Dredd - Anderson, Psi-Division 004 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Anderson-Psi-Division-004-2014-Digital-DR-Quinch-Empire-cbr.md) | 27.18MiB
 &emsp;【Judge Dredd (2012-2017)/Judge Dredd - Mega-City Two (001-005+)(2014)(digital)(K6-Empire)】 | 
 Judge Dredd - Mega-City Two (2014) (Digital) (DR & Quinch-Empire).cbr | 272.71MiB

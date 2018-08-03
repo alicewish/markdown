@@ -88,16 +88,27 @@ West Coast Avengers 028 (1988) (Digital) (Shadowcat-Empire).cbz | 78.17MiB
 West Coast Avengers 029 (1988) (Digital) (Shadowcat-Empire).cbz | 78.11MiB
 West Coast Avengers 030 (1988) (Digital) (Shadowcat-Empire).cbz | 77.36MiB
 West Coast Avengers, 1988-02-00 (#31) (digital) (Glorith-HD).cbz | 39.21MiB
+West Coast Avengers 031 (1988) (Digital) (Shadowcat-Empire).cbz | 39.76MiB
 West Coast Avengers, 1988-03-00 (#32) (digital) (Glorith-HD).cbz | 36.96MiB
+West Coast Avengers 032 (1988) (Digital) (Shadowcat-Empire).cbz | 37.37MiB
 West Coast Avengers, 1988-04-00 (#33) (digital) (Glorith-HD).cbz | 39.17MiB
+West Coast Avengers 033 (1988) (Digital) (Shadowcat-Empire).cbz | 39.61MiB
 West Coast Avengers, 1988-05-00 (#34) (digital) (Glorith-HD).cbz | 39.35MiB
+West Coast Avengers 034 (1988) (Digital) (Shadowcat-Empire).cbz | 39.85MiB
 West Coast Avengers, 1988-04-26 (#35) (digital) (Glorith-HD).cbz | 37.13MiB
+West Coast Avengers 035 (1988) (Digital) (Shadowcat-Empire).cbz | 37.51MiB
 West Coast Avengers, 1988-07-00 (#36) (digital) (Glorith-HD).cbz | 37.53MiB
+West Coast Avengers 036 (1988) (Digital) (Shadowcat-Empire).cbz | 37.87MiB
 West Coast Avengers, 1988-08-00 (#37) (digital) (Glorith-HD).cbz | 35.94MiB
+West Coast Avengers 037 (1988) (Digital) (Shadowcat-Empire).cbz | 36.22MiB
 West Coast Avengers, 1988-09-00 (#38) (digital) (Glorith-HD).cbz | 41.21MiB
+West Coast Avengers 038 (1988) (Digital) (Shadowcat-Empire).cbz | 41.87MiB
 West Coast Avengers, 1988-10-00 (#39) (digital) (Glorith-HD).cbz | 37.64MiB
+West Coast Avengers 039 (1988) (Digital) (Shadowcat-Empire).cbz | 38.15MiB
 West Coast Avengers, 1988-11-00 (#40) (digital) (Glorith-HD).cbz | 37.60MiB
 West Coast Avengers, 1988-12-00 (#41) (digital) (Glorith-HD).cbz | 42.18MiB
 West Coast Avengers Annual 003 (1988) (Digital) (Shadowcat-Empire).cbz | 83.25MiB
 West Coast Avengers Annual, 1989-11-00 (#04) (digital) (Glorith-HD).cbz | [57.84MiB](https://pan.baidu.com/s/1Aiau_bcm_D1eY1Up4SNQKw#list/path=%2FHitlist%20Week%20of%202018%20Q1%2FHitlist%20Week%20of%202018.02.14%2F%E3%82%BD%E3%82%B3%E3%82%AB%E3%82%A4%E3%82%BF%E3%82%A4%E3%82%A4%E3%82%A2%E3%82%BB%E3%82%A4%E3%82%A6%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%A6%E3%82%A6%E3%82%AF%E3%82%A6%E3%82%AD%E3%82%A8%E3%82%A6%E3%82%A6%E3%82%BD%E3%82%A8%E3%82%BD%E3%82%A4%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%B9%E3%82%BF%E3%82%B9&parentPath=%2FHitlist%20Week%20of%202018%20Q1)
+West Coast Avengers 040 (1989) (Digital) (Shadowcat-Empire).cbz | 38.00MiB
+West Coast Avengers 041 (1989) (Digital) (Shadowcat-Empire).cbz | 43.01MiB
 West Coast Avengers Annual 004 (1989) (Digital) (Shadowcat-Empire).cbz | 59.92MiB

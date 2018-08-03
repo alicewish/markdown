@@ -44,3 +44,4 @@ Druids v03 - The Spear of Lugh (2017) (digital) (The Magicians-Empire).cbr | 164
 Druids v04 - Isle of the Mighty (2017) (digital) (The Magicians-Empire).cbr | 164.06MiB
 Druids 06 - Voyage of Discovery (2018) (Soleil) (Digital-Empire).cbr | 106.68MiB
 Druids 07 - The Missing Souls of Kerné (2018) (Soleil) (Digital-Empire).cbr | 82.37MiB
+Druids 09 - Ravens of Vengeance (2018) (Soleil) (Digital-Empire).cbr | 150.88MiB

@@ -979,10 +979,10 @@ Flash - Rebirth 02 (2009) (2nd Printing Variant Only) (ScanDog).cbr | 960.36KiB
 The Flash - Season Zero 001 (2014) (Digital) (BlackManta-Empire).cbr | 14.79MiB
 The Flash - Season Zero 002 (2014) (Digital) (BlackManta-Empire).cbr | 12.82MiB
 The Flash - Season Zero 003 (2014) (Digital) (BlackManta-Empire).cbr | 14.28MiB
-The Flash - Season Zero 004 (2014) (Digital) (BlackManta-Empire).cbr | 14.03MiB
-The Flash - Season Zero 005 (2014) (Digital) (BlackManta-Empire).cbr | 13.08MiB
-The Flash - Season Zero 006 (2014) (Digital) (BlackManta-Empire).cbr | 13.96MiB
-The Flash - Season Zero 007 (2014) (Digital) (BlackManta-Empire).cbr | 13.55MiB
+[The Flash - Season Zero 004 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-004-2014-Digital-BlackManta-Empire-cbr.md) | 14.03MiB
+[The Flash - Season Zero 005 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-005-2014-Digital-BlackManta-Empire-cbr.md) | 13.08MiB
+[The Flash - Season Zero 006 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-006-2014-Digital-BlackManta-Empire-cbr.md) | 13.96MiB
+[The Flash - Season Zero 007 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-007-2014-Digital-BlackManta-Empire-cbr.md) | 13.55MiB
 [The Flash - Season Zero 008 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-008-2014-Digital-BlackManta-Empire-cbr.md) | 15.32MiB
 [The Flash - Season Zero 009 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-009-2014-Digital-BlackManta-Empire-cbr.md) | 15.72MiB
 [The Flash - Season Zero 010 (2015) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-010-2015-Digital-BlackManta-Empire-cbr.md) | 17.02MiB

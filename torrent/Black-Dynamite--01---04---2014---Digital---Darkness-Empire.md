@@ -13,4 +13,4 @@ Online | Download
 Black Dynamite 01 (of 04) (2014) (Digital) (Darkness-Empire).cbr | 39.20MiB
 Black Dynamite 02 (of 04) (2014) (Digital) (Darkness-Empire).cbr | 41.36MiB
 Black Dynamite 03 (of 04) (2014) (Digital) (Darkness-Empire).cbr | 36.58MiB
-Black Dynamite 04 (of 04) (2014) (Digital) (Darkness-Empire).cbr | 40.75MiB
+[Black Dynamite 04 (of 04) (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Dynamite-04-of-04-2014-Digital-Darkness-Empire-cbr.md) | 40.75MiB

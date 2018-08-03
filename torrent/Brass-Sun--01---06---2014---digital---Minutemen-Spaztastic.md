@@ -15,4 +15,4 @@ Brass Sun 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 17.87MiB
 Brass Sun 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 14.97MiB
 Brass Sun 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 16.06MiB
 Brass Sun 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 17.10MiB
-Brass Sun 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 18.59MiB
+[Brass Sun 006 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Brass-Sun-006-2014-digital-Minutemen-Spaztastic-cbr.md) | 18.59MiB

@@ -13,6 +13,7 @@
 Online | Download
 --- | ---
 Fightin' Marines 17 Charlton Jan 1956 Narfstar-Kracalactaka-fett.cbz | 44.90MiB
+Fightin' Marines 21 Charlton May 1957 KingFaraday-Kracalactaka.cbz | 24.94MiB
 Fightin' Marines 021 (Charlton 1957) (c2c) (KingFaraday-rangerhouse-Dave Hayward).cbz | 23.64MiB
 Fightin' Marines 025 (Charlton 1958) (c2c) (KingFaraday-rangerhouse-Dave Hayward).cbz | 45.17MiB
 Fightin' Marines 026 (Charlton 1958) (c2c) (JVJ-Soothsayr-Krac-Novus).cbz | [74.69MiB](https://pan.baidu.com/s/1qYHUkFE#list/path=%2FNovus%20-%20Week%20of%202017%20Q1%2FNovus%20-%20Week%20of%202017-03-29%2F%E3%82%A4%E3%82%AB%E3%82%B1%E3%82%BF%E3%82%AF%E3%82%B3%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%B3%E3%82%B5%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%B9%E3%82%B1%E3%82%AF%E3%82%A4%E3%82%BD%E3%82%BD%E3%82%B7%E3%82%A6%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%AA%E3%82%BB%E3%82%B3%E3%82%B9%E3%82%B1&parentPath=%2FNovus%20-%20Week%20of%202017%20Q1)
@@ -62,6 +63,7 @@ Fightin' Marines 154 Charlton 1981 Titansfan.cbz | 29.40MiB
 Fightin' Marines 156 Charlton 1981 c2c nomscans+TF.cbz | 29.56MiB
 Fightin' Marines 157 Charlton 1981 c2c nomscans+TF.cbz | 23.58MiB
 Fightin' Marines 159 Charlton 1981 c2c nomscans+TF.cbz | 19.15MiB
+Fightin' Marines 161 Charlton Feb 1982 titansfan.cbz | 66.78MiB
 Fightin' Marines 163 (Charlton 1982) (c2c) (titansfan).cbz | 26.54MiB
 Fightin' Marines 165 Charlton 1982 c2c nomscans+TF.cbz | 23.77MiB
 Fightin' Marines 166 Charlton 1982 c2c Unk+TF.cbz | 21.44MiB

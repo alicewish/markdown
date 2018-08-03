@@ -140,6 +140,8 @@ Marvel Team-Up 101 (1980) (digital) (Minutemen-Faessla).cbz | 41.20MiB
 Marvel Team-Up 103 (1981) (digital) (Minutemen-Faessla).cbz | 38.99MiB
 Marvel Team-Up 103 - Spider-Man and Ant-Man (1981) (Digital) (Zone-Empire).cbr | 39.52MiB
 Marvel Team-Up Annual 04 (1981) (digital) (Minutemen-Faessla).cbz | 63.92MiB
+Marvel Team-Up 115 (1982) (Digital) (Shadowcat-Empire).cbz | 43.40MiB
+Marvel Team-Up 116 (1982) (Digital) (Shadowcat-Empire).cbz | 40.57MiB
 Marvel Team-Up 121 (1982) (Digital) (AnPymGold-Empire).cbz | 29.62MiB
 Marvel Team-Up 121 (1982) (Digital) (Shadowcat-Empire).cbz | 83.11MiB
 Marvel Team-Up Annual 05 (1982) (digital) (Minutemen-Slayer).cbr | 81.79MiB

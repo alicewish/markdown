@@ -120,6 +120,12 @@ Tomb of Dracula 067 (1978) (Digital) (AnPymGold-Empire).cbz | 18.91MiB
 Tomb of Dracula 068 (1978) (Digital) (AnPymGold-Empire).cbz | 20.58MiB
 Tomb of Dracula 069 (1978) (Digital) (AnPymGold-Empire).cbz | 21.35MiB
 Tomb of Dracula 070 (1978) (Digital) (AnPymGold-Empire).cbz | 37.67MiB
+Tomb of Dracula 001 (1979) (Digital) (Shadowcat-Empire).cbz | 107.68MiB
+Tomb of Dracula 002 (1979) (Digital) (Shadowcat-Empire).cbz | 106.82MiB
+Tomb of Dracula 003 (1980) (Digital) (Shadowcat-Empire).cbz | 130.65MiB
+Tomb of Dracula 004 (1980) (Digital) (Shadowcat-Empire).cbz | 132.35MiB
+Tomb of Dracula 005 (1980) (Digital) (Shadowcat-Empire).cbz | 115.50MiB
+Tomb of Dracula 006 (1980) (Digital) (Shadowcat-Empire).cbz | 116.99MiB
 Tomb of Dracula 001 (2004) (Digital) (Shadowcat-Empire).cbz | 59.50MiB
 Tomb of Dracula 002 (2005) (Digital) (Shadowcat-Empire).cbz | 72.32MiB
 Tomb of Dracula 003 (2005) (Digital) (Shadowcat-Empire).cbz | 84.14MiB

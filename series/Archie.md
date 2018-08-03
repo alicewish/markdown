@@ -155,6 +155,9 @@ Archie Annual 015 (1963-1964) (c2c) Unk+drake10 fills.cbr | 43.82MiB
 Archie Annual 016 (1964-1965) (c2c) (drake10).cbz | 67.39MiB
 Archie 152 Feb 1965 c2c ybcguy714-Kracalactaka-drake10.cbz | 49.23MiB
 Archie 155 Archie Jun 1965 C2C.cbz | 50.32MiB
+Archie 159 (1965) (Digital) (Shadowcat-Empire).cbz | 79.74MiB
+Archie 160 (1965) (Digital) (Shadowcat-Empire).cbz | 75.98MiB
+Archie 161 (1966) (Digital) (Shadowcat-Empire).cbz | 77.89MiB
 Archie 165 (1966) (Digital) (Shadowcat-Empire).cbz | 75.22MiB
 Archie 166 (1966) (Digital) (Shadowcat-Empire).cbz | 77.33MiB
 Archie 167 (1966) (Digital) (Shadowcat-Empire).cbz | 87.81MiB
@@ -779,9 +782,9 @@ Archie 660 (2014) (Digital) (Asgard-Empire).cbr | 24.32MiB
 Archie 660 (2014) c2c (2 covers) (Jojo).cbr | [27.94MiB](https://pan.baidu.com/s/1c1IKHYo#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.08%2F%E3%82%B1%E3%82%AA%E3%82%AF%E3%82%BF%E3%82%B7%E3%82%BD%E3%82%B9%E3%82%A4%E3%82%B9%E3%82%A4%E3%82%B3%E3%82%BD%E3%82%AA%E3%82%A6%E3%82%AF%E3%82%AD%E3%82%BF%E3%82%AD%E3%82%AB%E3%82%B9%E3%82%AA%E3%82%AA%E3%82%B1%E3%82%B5%E3%82%B9%E3%82%A4%E3%82%B1%E3%82%BB%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Archie 660 (2014) (2 covers) (digital) (Minutemen-Slayer).cbr | 30.26MiB
 Archie 660 (2014) (Digital) (Salem-Empire).cbr | [30.48MiB](https://pan.baidu.com/s/1c1IKHYo#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.08%2F%E3%82%AA%E3%82%BF%E3%82%A6%E3%82%AA%E3%82%BF%E3%82%AF%E3%82%A2%E3%82%A4%E3%82%AF%E3%82%A4%E3%82%A6%E3%82%B3%E3%82%BB%E3%82%AA%E3%82%A6%E3%82%B9%E3%82%BD%E3%82%B9%E3%82%A8%E3%82%AF%E3%82%A6%E3%82%A8%E3%82%AF%E3%82%B3%E3%82%B9%E3%82%B7%E3%82%AB%E3%82%A6%E3%82%BB%E3%82%B1%E3%82%B1%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
-Archie 661 (2014) c2c (2 covers) (Jojo).cbr | [28.49MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%BD%E3%82%A4%E3%82%A8%E3%82%AA%E3%82%BF%E3%82%AF%E3%82%B5%E3%82%BB%E3%82%BB%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%AA%E3%82%AB%E3%82%AD%E3%82%AF%E3%82%BB%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%A8%E3%82%A2%E3%82%AD%E3%82%B7%E3%82%A8%E3%82%B3%E3%82%B5%E3%82%BD%E3%82%A4%E3%82%B1%E3%82%AF%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Archie 661 (2014) c2c (2 covers) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-661-2014-c2c-2-covers-Jojo-cbr.md) | [28.49MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%BD%E3%82%A4%E3%82%A8%E3%82%AA%E3%82%BF%E3%82%AF%E3%82%B5%E3%82%BB%E3%82%BB%E3%82%A6%E3%82%BB%E3%82%B3%E3%82%AA%E3%82%AB%E3%82%AD%E3%82%AF%E3%82%BB%E3%82%AB%E3%82%B5%E3%82%B7%E3%82%A8%E3%82%A2%E3%82%AD%E3%82%B7%E3%82%A8%E3%82%B3%E3%82%B5%E3%82%BD%E3%82%A4%E3%82%B1%E3%82%AF%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Archie 661 (2014) (2 covers) (digital) (Minutemen-Slayer).cbr | 36.21MiB
-Archie 661 (2014) (Digital) (Salem-Empire).cbr | [36.44MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%B1%E3%82%BB%E3%82%A8%E3%82%AD%E3%82%BB%E3%82%B3%E3%82%B1%E3%82%B1%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%AA%E3%82%A4%E3%82%AB%E3%82%AA%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%BB%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%A4%E3%82%BB%E3%82%BD%E3%82%AD%E3%82%AF%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%A2%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
+[Archie 661 (2014) (Digital) (Salem-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archie-661-2014-Digital-Salem-Empire-cbr.md) | [36.44MiB](https://pan.baidu.com/s/1bo1RPi3#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.11.05%2F%E3%82%B1%E3%82%BB%E3%82%A8%E3%82%AD%E3%82%BB%E3%82%B3%E3%82%B1%E3%82%B1%E3%82%BF%E3%82%A4%E3%82%A6%E3%82%AA%E3%82%A4%E3%82%AB%E3%82%AA%E3%82%AF%E3%82%B5%E3%82%B9%E3%82%BB%E3%82%AF%E3%82%A6%E3%82%B3%E3%82%A4%E3%82%BB%E3%82%BD%E3%82%AD%E3%82%AF%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%A2%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202014%20Q4)
 Archie 1000 Page Celebration (2014).cbr | 573.31MiB
 Archie 1000 Page Celebration (2014) (Digital) (Asgard-Empire).cbr | 1.22GiB
 Archie 1000 Page Comics Bonanza - Part 1 (2014) (Digital) (Asgard-Empire).cbr | 397.68MiB

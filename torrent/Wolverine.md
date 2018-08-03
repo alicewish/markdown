@@ -1015,7 +1015,7 @@ Death of Wolverine 02 (of 4) (2014) (digital) (Minutemen-Faessla).cbz | 47.98MiB
 Death of Wolverine 03 (of 4) (2014) (digital) (Minutemen-Faessla).cbz | 50.09MiB
 Death of Wolverine 04 (of 4) (2014) (digital) (Minutemen-Faessla).cbz | 58.80MiB
 [Death of Wolverine (2015) (digital HC) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-2015-digital-HC-Minutemen-Faessla-cbz.md) | 244.02MiB
-Death of Wolverine - Life After Logan 01 (2015) (digital) (Minutemen-Faessla).cbz | 53.68MiB
+[Death of Wolverine - Life After Logan 01 (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Life-After-Logan-01-2015-digital-Minutemen-Faessla-cbz.md) | 53.68MiB
 &emsp;【Wolverine/Series/Death of Wolverine, Weapon X Program, Logan Legacy, Wolverines & HC trade/Death of Wolverine - The Weapon X Program (01-05)(2014-2015)】 | 
 [Death of Wolverine - The Weapon X Program 01 (of 05) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-01-of-05-2015-digital-Minutemen-Faessla-cbz.md) | 25.70MiB
 [Death of Wolverine - The Weapon X Program 02 (of 05) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Weapon-X-Program-02-of-05-2015-digital-Minutemen-Faessla-cbz.md) | 34.46MiB

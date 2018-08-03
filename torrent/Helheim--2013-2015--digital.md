@@ -13,7 +13,7 @@ Online | Download
 &emsp;【Helheim (2013-2015)(digital)】 | 
 &emsp;【Helheim (2013-2015)(digital)/Brides of Helheim (001-006) (2014-2015) (Digital-Empire)】 | 
 Brides of Helheim 001 (2014) (Digital-Empire).cbr | 46.93MiB
-Brides of Helheim 002 (2014) (Digital-Empire).cbr | 48.80MiB
+[Brides of Helheim 002 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Brides-of-Helheim-002-2014-Digital-Empire-cbr.md) | 48.80MiB
 [Brides of Helheim 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Brides-of-Helheim-003-2014-Digital-Empire-cbr.md) | 42.88MiB
 [Brides of Helheim 004 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Brides-of-Helheim-004-2015-Digital-Empire-cbr.md) | 46.12MiB
 [Brides of Helheim 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Brides-of-Helheim-005-2015-Digital-Empire-cbr.md) | 36.62MiB

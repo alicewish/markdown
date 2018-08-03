@@ -69,8 +69,14 @@ Pep 315 (1976) (c2c) (titansfan).cbz | 23.71MiB
 Pep 319 (1976) (c2c) (CRX).cbz | 52.28MiB
 Pep 329 (1977) (c2c) (CRX).cbz | 47.86MiB
 Pep 331 (1977) (c2c) (CRX).cbz | 51.91MiB
+Pep 336 (1978) (c2c) (CRX).cbz | 50.56MiB
 Pep 348 Archie Apr 1979 c2c Titansfan.cbz | 24.07MiB
 Pep 351 (1979) (c2c) (Darkmark-DCP).cbr | 16.93MiB
+Pep 357 (1980) (c2c) (CRX).cbz | 50.86MiB
+Pep 358 (1980) (c2c) (CRX).cbz | 49.29MiB
 Pep 360 Archie Apr 1980 c2c Titansfan.cbz | 22.94MiB
 Pep 370 (1981) (c2c) (K CW).cbz | 34.87MiB
+Pep 378 (1981) (c2c) (CRX).cbz | 50.79MiB
+Pep 405 (1986) (c2c) (CRX).cbz | 48.28MiB
+Pep 408 (1986) (c2c) (CRX).cbz | 56.96MiB
 Pep 411 (1987) (c2c) (Kracalactaka-titansfan).cbz | 26.62MiB

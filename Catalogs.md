@@ -125,6 +125,8 @@
 
 [Ace Comics](https://github.com/alicewish/markdown/blob/master/series/Ace-Comics.md)
 
+[Acne](https://github.com/alicewish/markdown/blob/master/series/Acne.md)
+
 [Action Comics](https://github.com/alicewish/markdown/blob/master/series/Action-Comics.md)
 
 [Action Comics v2](https://github.com/alicewish/markdown/blob/master/series/Action-Comics-v2.md)
@@ -1007,6 +1009,8 @@
 
 [Battle Chasers](https://github.com/alicewish/markdown/blob/master/series/Battle-Chasers.md)
 
+[Battle Picture Library](https://github.com/alicewish/markdown/blob/master/series/Battle-Picture-Library.md)
+
 [Battle Scars](https://github.com/alicewish/markdown/blob/master/series/Battle-Scars.md)
 
 [Battlefield Action](https://github.com/alicewish/markdown/blob/master/series/Battlefield-Action.md)
@@ -1097,13 +1101,13 @@
 
 [Betty & Veronica](https://github.com/alicewish/markdown/blob/master/series/Betty-Veronica.md)
 
+[Betty & Veronica - Vixens](https://github.com/alicewish/markdown/blob/master/series/Betty-Veronica-Vixens.md)
+
 [Betty & Veronica Comics Digest](https://github.com/alicewish/markdown/blob/master/series/Betty-Veronica-Comics-Digest.md)
 
 [Betty & Veronica Comics Double Digest](https://github.com/alicewish/markdown/blob/master/series/Betty-Veronica-Comics-Double-Digest.md)
 
 [Betty & Veronica Double Digest](https://github.com/alicewish/markdown/blob/master/series/Betty-Veronica-Double-Digest.md)
-
-[Betty & Veronica Vixens](https://github.com/alicewish/markdown/blob/master/series/Betty-Veronica-Vixens.md)
 
 [Betty and Me](https://github.com/alicewish/markdown/blob/master/series/Betty-Me.md)
 
@@ -1425,6 +1429,8 @@
 
 [Buster](https://github.com/alicewish/markdown/blob/master/series/Buster.md)
 
+[Buster Adventure Library](https://github.com/alicewish/markdown/blob/master/series/Buster-Adventure-Library.md)
+
 [Buster Fortnightly](https://github.com/alicewish/markdown/blob/master/series/Buster-Fortnightly.md)
 
 [Butterfly](https://github.com/alicewish/markdown/blob/master/series/Butterfly.md)
@@ -1738,6 +1744,8 @@
 [Colder](https://github.com/alicewish/markdown/blob/master/series/Colder.md)
 
 [Combat Kelly](https://github.com/alicewish/markdown/blob/master/series/Combat-Kelly.md)
+
+[Combat Picture Library](https://github.com/alicewish/markdown/blob/master/series/Combat-Picture-Library.md)
 
 [Comeback](https://github.com/alicewish/markdown/blob/master/series/Comeback.md)
 
@@ -2443,6 +2451,8 @@
 
 [Dracula - The Company of Monsters](https://github.com/alicewish/markdown/blob/master/series/Dracula-Company-of-Monsters.md)
 
+[Dracula Lives!](https://github.com/alicewish/markdown/blob/master/series/Dracula-Lives.md)
+
 [Drafted](https://github.com/alicewish/markdown/blob/master/series/Drafted.md)
 
 [Drag N' Wheels](https://github.com/alicewish/markdown/blob/master/series/Drag-N-Wheels.md)
@@ -3078,6 +3088,8 @@
 [Gearhearts Steampunk Glamor Revue](https://github.com/alicewish/markdown/blob/master/series/Gearhearts-Steampunk-Glamor-Revue.md)
 
 [Gene Autry Comics](https://github.com/alicewish/markdown/blob/master/series/Gene-Autry-Comics.md)
+
+[Generation Gone](https://github.com/alicewish/markdown/blob/master/series/Generation-Gone.md)
 
 [Generation Hope](https://github.com/alicewish/markdown/blob/master/series/Generation-Hope.md)
 
@@ -3814,6 +3826,8 @@
 [Hunter X Hunter](https://github.com/alicewish/markdown/blob/master/series/Hunter-X-Hunter.md)
 
 [Hunter's Moon](https://github.com/alicewish/markdown/blob/master/series/Hunters-Moon.md)
+
+[Hurricane](https://github.com/alicewish/markdown/blob/master/series/Hurricane.md)
 
 [Husbands](https://github.com/alicewish/markdown/blob/master/series/Husbands.md)
 
@@ -4629,6 +4643,8 @@
 
 [Lobo Unbound](https://github.com/alicewish/markdown/blob/master/series/Lobo-Unbound.md)
 
+[Lobster Johnson](https://github.com/alicewish/markdown/blob/master/series/Lobster-Johnson.md)
+
 [Lobster Johnson - Get the Lobster](https://github.com/alicewish/markdown/blob/master/series/Lobster-Johnson-Get-Lobster.md)
 
 [Lobster Johnson - Metal Monsters of Midtown](https://github.com/alicewish/markdown/blob/master/series/Lobster-Johnson-Metal-Monsters-of-Midtown.md)
@@ -4927,9 +4943,9 @@
 
 [Marvel Super Hero Contest of Champions](https://github.com/alicewish/markdown/blob/master/series/Marvel-Super-Hero-Contest-of-Champions.md)
 
-[Marvel Super Heroes Secret Wars](https://github.com/alicewish/markdown/blob/master/series/Marvel-Super-Heroes-Secret-Wars.md)
+[Marvel Super Heroes](https://github.com/alicewish/markdown/blob/master/series/Marvel-Super-Heroes.md)
 
-[Marvel Super-Heroes](https://github.com/alicewish/markdown/blob/master/series/Marvel-Super-Heroes.md)
+[Marvel Super Heroes Secret Wars](https://github.com/alicewish/markdown/blob/master/series/Marvel-Super-Heroes-Secret-Wars.md)
 
 [Marvel Team-Up](https://github.com/alicewish/markdown/blob/master/series/Marvel-Team-Up.md)
 
@@ -5391,6 +5407,8 @@
 
 [Nighthawk](https://github.com/alicewish/markdown/blob/master/series/Nighthawk.md)
 
+[Nightmask](https://github.com/alicewish/markdown/blob/master/series/Nightmask.md)
+
 [Nightwasp - The Man Who Is Hardly Ever Afraid](https://github.com/alicewish/markdown/blob/master/series/Nightwasp-Man-Who-Is-Hardly-Ever-Afraid.md)
 
 [Nightwing](https://github.com/alicewish/markdown/blob/master/series/Nightwing.md)
@@ -5559,6 +5577,8 @@
 
 [Paradise X](https://github.com/alicewish/markdown/blob/master/series/Paradise-X.md)
 
+[Paradiso](https://github.com/alicewish/markdown/blob/master/series/Paradiso.md)
+
 [Parallel Man - Invasion America](https://github.com/alicewish/markdown/blob/master/series/Parallel-Man-Invasion-America.md)
 
 [Parasyte](https://github.com/alicewish/markdown/blob/master/series/Parasyte.md)
@@ -5608,6 +5628,8 @@
 [Pearls Before Swine](https://github.com/alicewish/markdown/blob/master/series/Pearls-Before-Swine.md)
 
 [Pebbles and Bamm-Bamm](https://github.com/alicewish/markdown/blob/master/series/Pebbles-Bamm-Bamm.md)
+
+[Peek A Boo](https://github.com/alicewish/markdown/blob/master/series/Peek-A-Boo.md)
 
 [Penny Dora and the Wishing Box](https://github.com/alicewish/markdown/blob/master/series/Penny-Dora-Wishing-Box.md)
 
@@ -5688,6 +5710,10 @@
 [Playhour](https://github.com/alicewish/markdown/blob/master/series/Playhour.md)
 
 [Plutona](https://github.com/alicewish/markdown/blob/master/series/Plutona.md)
+
+[Pocket Chiller Library](https://github.com/alicewish/markdown/blob/master/series/Pocket-Chiller-Library.md)
+
+[Pocket Detective Library](https://github.com/alicewish/markdown/blob/master/series/Pocket-Detective-Library.md)
 
 [Poe Dameron](https://github.com/alicewish/markdown/blob/master/series/Poe-Dameron.md)
 
@@ -6759,6 +6785,8 @@
 
 [Spidey](https://github.com/alicewish/markdown/blob/master/series/Spidey.md)
 
+[Spidey - School's Out](https://github.com/alicewish/markdown/blob/master/series/Spidey-Schools-Out.md)
+
 [Spike](https://github.com/alicewish/markdown/blob/master/series/Spike.md)
 
 [Spike - Asylum](https://github.com/alicewish/markdown/blob/master/series/Spike-Asylum.md)
@@ -7161,6 +7189,8 @@
 
 [Supercrooks](https://github.com/alicewish/markdown/blob/master/series/Supercrooks.md)
 
+[Superfreaks](https://github.com/alicewish/markdown/blob/master/series/Superfreaks.md)
+
 [Supergirl](https://github.com/alicewish/markdown/blob/master/series/Supergirl.md)
 
 [Supergirl and the Legion of Super-Heroes](https://github.com/alicewish/markdown/blob/master/series/Supergirl-Legion-of-Super-Heroes.md)
@@ -7340,6 +7370,8 @@
 [Teen Titans Spotlight](https://github.com/alicewish/markdown/blob/master/series/Teen-Titans-Spotlight.md)
 
 [Teen Titans Vol05](https://github.com/alicewish/markdown/blob/master/series/Teen-Titans-Vol05.md)
+
+[Teen-Age Confidential Confessions](https://github.com/alicewish/markdown/blob/master/series/Teen-Age-Confidential-Confessions.md)
 
 [Teen-Age Love](https://github.com/alicewish/markdown/blob/master/series/Teen-Age-Love.md)
 
@@ -7573,6 +7605,8 @@
 
 [The Crow - Midnight Legends](https://github.com/alicewish/markdown/blob/master/series/Crow-Midnight-Legends.md)
 
+[The Curse of Brimstone](https://github.com/alicewish/markdown/blob/master/series/Curse-of-Brimstone.md)
+
 [The Damnation of Charlie Wormwood](https://github.com/alicewish/markdown/blob/master/series/Damnation-of-Charlie-Wormwood.md)
 
 [The Damnation of Charlie Wormwood v02](https://github.com/alicewish/markdown/blob/master/series/Damnation-of-Charlie-Wormwood-v02.md)
@@ -7616,6 +7650,8 @@
 [The Devil Is a Part-Timer!](https://github.com/alicewish/markdown/blob/master/series/Devil-Is-a-Part-Timer.md)
 
 [The Devilers](https://github.com/alicewish/markdown/blob/master/series/Devilers.md)
+
+[The DFC](https://github.com/alicewish/markdown/blob/master/series/DFC.md)
 
 [The Disciples](https://github.com/alicewish/markdown/blob/master/series/Disciples.md)
 
@@ -8097,6 +8133,8 @@
 
 [The Unbelievable Gwenpool](https://github.com/alicewish/markdown/blob/master/series/Unbelievable-Gwenpool.md)
 
+[The Unexpected](https://github.com/alicewish/markdown/blob/master/series/Unexpected.md)
+
 [The United States of Murder Inc.](https://github.com/alicewish/markdown/blob/master/series/United-States-of-Murder-Inc.md)
 
 [The Unsound](https://github.com/alicewish/markdown/blob/master/series/Unsound.md)
@@ -8289,6 +8327,8 @@
 
 [Top Cat](https://github.com/alicewish/markdown/blob/master/series/Top-Cat.md)
 
+[Top Secret Picture Library](https://github.com/alicewish/markdown/blob/master/series/Top-Secret-Picture-Library.md)
+
 [TOPPU GP](https://github.com/alicewish/markdown/blob/master/series/TOPPU-GP.md)
 
 [Torch](https://github.com/alicewish/markdown/blob/master/series/Torch.md)
@@ -8464,6 +8504,8 @@
 [Twin Spica](https://github.com/alicewish/markdown/blob/master/series/Twin-Spica.md)
 
 [Twin Star Exorcists](https://github.com/alicewish/markdown/blob/master/series/Twin-Star-Exorcists.md)
+
+[Tyler Cross](https://github.com/alicewish/markdown/blob/master/series/Tyler-Cross.md)
 
 [Tyson Hesse's Diesel](https://github.com/alicewish/markdown/blob/master/series/Tyson-Hesses-Diesel.md)
 
@@ -9043,6 +9085,8 @@
 
 [X-men - Die By The Sword](https://github.com/alicewish/markdown/blob/master/series/X-men-Die-By-Sword.md)
 
+[X-Men - First Class](https://github.com/alicewish/markdown/blob/master/series/X-Men-First-Class.md)
+
 [X-Men - Grand Design](https://github.com/alicewish/markdown/blob/master/series/X-Men-Grand-Design.md)
 
 [X-Men - Kitty Pryde - Shadow and Flame](https://github.com/alicewish/markdown/blob/master/series/X-Men-Kitty-Pryde-Shadow-Flame.md)
@@ -9098,6 +9142,8 @@
 [X-Treme X-Men](https://github.com/alicewish/markdown/blob/master/series/X-Treme-X-Men.md)
 
 [Xena - Warrior Princess](https://github.com/alicewish/markdown/blob/master/series/Xena-Warrior-Princess.md)
+
+[XIII](https://github.com/alicewish/markdown/blob/master/series/XIII.md)
 
 ### Y
 
@@ -9887,6 +9933,8 @@
 
 [0-Day Week of 2018.07.11](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-07-11.md)
 
+[0-Day Week of 2018.07.18](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-07-18.md)
+
 ### DC Week
 
 [DC Week (12-10-2014)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-12-10-2014.md)
@@ -10158,6 +10206,8 @@
 [DC Week+ (07-18-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-18-2018.md)
 
 [DC Week+ (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-25-2018.md)
+
+[DC Week+ (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-08-01-2018.md)
 
 ### Hitlist Week
 
@@ -10485,6 +10535,8 @@
 
 [Hitlist Week of 2018.07.11](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-07-11.md)
 
+[Hitlist Week of 2018.07.18](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-07-18.md)
+
 ### Image Week
 
 [Image Week (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-01-06-2016.md)
@@ -10755,6 +10807,8 @@
 
 [Image Week (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-07-25-2018.md)
 
+[Image Week (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-08-01-2018.md)
+
 ### Marvel Week
 
 [Marvel Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-01-06-2016.md)
@@ -11024,6 +11078,8 @@
 [Marvel Week+ (07-18-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-18-2018.md)
 
 [Marvel Week+ (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-25-2018.md)
+
+[Marvel Week+ (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-08-01-2018.md)
 
 ### Novus - Week
 

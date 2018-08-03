@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-John Carter Warlord Of Mars V2 001(2014)(5 covers)(Digital)(TLK-EMPIRE-HD).cbr | 73.85MiB
+[John Carter Warlord Of Mars V2 001(2014)(5 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carter-Warlord-Of-Mars-V2-001-2014-5-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 73.85MiB
 [John Carter Warlord Of Mars V2 002(2014)(3 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carter-Warlord-Of-Mars-V2-002-2014-3-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 75.73MiB
 [John Carter Warlord Of Mars V2 003(2015)(3 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carter-Warlord-Of-Mars-V2-003-2015-3-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 68.32MiB
 [John Carter Warlord Of Mars V2 004(2015)(3 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/John-Carter-Warlord-Of-Mars-V2-004-2015-3-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 54.16MiB

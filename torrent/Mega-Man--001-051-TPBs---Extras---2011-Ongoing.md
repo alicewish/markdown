@@ -58,8 +58,8 @@ Mega Man 038 (2014) (digital-Empire).cbr | 37.98MiB
 Mega Man 039 (2014) (digital-Empire).cbr | 37.08MiB
 Mega Man 040 (2014) (digital) (CompetentRipper-Empire).cbr | 39.37MiB
 Mega Man 041 (2014) (digital) (CompetentRipper-Empire).cbr | 39.09MiB
-Mega Man 042 (2014) (digital) (CompetentRipper-Empire).cbr | 36.48MiB
-Mega Man 043 (2014) (digital) (CompetentRipper-Empire).cbr | 35.71MiB
+[Mega Man 042 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-042-2014-digital-CompetentRipper-Empire-cbr.md) | 36.48MiB
+[Mega Man 043 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-043-2014-digital-CompetentRipper-Empire-cbr.md) | 35.71MiB
 [Mega Man 044 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-044-2015-digital-Empire-cbr.md) | 31.57MiB
 [Mega Man 045 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-045-2015-digital-Empire-cbr.md) | 31.60MiB
 [Mega Man 046 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mega-Man-046-2015-digital-Empire-cbr.md) | 30.46MiB
