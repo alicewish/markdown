@@ -14,7 +14,7 @@ Online | Download
 &emsp;【Harbinger/Armor Hunters - Harbinger (001-003)(2014)(digital)(Minutemen-Spaztastic)】 | 
 Armor Hunters - Harbinger 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 63.08MiB
 Armor Hunters - Harbinger 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 58.79MiB
-Armor Hunters - Harbinger 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 52.39MiB
+[Armor Hunters - Harbinger 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Harbinger-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 52.39MiB
 Armor Hunters - Harbinger (2014) (digital) (Son of Ultron-Empire).cbr | 185.88MiB
 &emsp;【Harbinger/Book Of Death - Fall Of Harbinger 001 (2015) (digital) (Minutemen-Spaztastic).cbr】 | 
 &emsp;【Harbinger/Extras】 | 
@@ -64,7 +64,7 @@ Harbinger - Bleeding Monk 00 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.07
 [Harbinger - Faith 000 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Faith-000-2014-digital-Minutemen-Spaztastic-cbr.md) | 51.12MiB
 &emsp;【Harbinger/Harbinger - Omegas (001-003)(2014)(digital)(Minutemen-Spaztastic)】 | 
 Harbinger - Omegas 01 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 61.24MiB
-Harbinger - Omegas 02 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 47.04MiB
+[Harbinger - Omegas 02 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Omegas-02-of-03-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.04MiB
 Harbinger - Omegas 03 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 42.13MiB
 &emsp;【Harbinger/Harbinger Files (001-002)(1994-1995)(digital)(Minutemen-Slayer)】 | 
 Harbinger Files 01 (1994) (digital) (Minutemen-Slayer).cbr | 40.13MiB

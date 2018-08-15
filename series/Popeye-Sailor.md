@@ -12,6 +12,7 @@
 
 Online | Download
 --- | ---
+Popeye the Sailor 066 c2c Gold Key Oct 1962 eem+a nonny moose.cbz | 120.56MiB
 Popeye the Sailor 071 c2c Gold Key Feb 1964 eem+a nonny moose.cbz | 47.09MiB
 Popeye the Sailor 072 c2c Gold Key May 1964 eem+a nonny moose.cbz | 47.80MiB
 Popeye the Sailor 074 c2c Gold Key Nov 1964 eem+a nonny moose.cbz | 49.96MiB

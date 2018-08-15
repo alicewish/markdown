@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Batman '66 Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 288.48MiB
-Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
+[Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-02-2014-digital-Minutemen-PhD-cbr.md) | 227.11MiB
 Batman - Legends of the Dark Knight Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 203.49MiB
 Batman - Legends of the Dark Knight Vol. 03 (2014) (digital) (Minutemen-PhD).cbr | 237.36MiB
 Batman - Li'l Gotham Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 197.90MiB

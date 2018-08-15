@@ -459,7 +459,7 @@ Star Trek 033 (2014) (digital-Empire).cbr | 45.45MiB
 Star Trek 034 (2014) (digital-Empire).cbr | 39.46MiB
 Star Trek 035 (2014) (digital-Empire).cbr | 36.41MiB
 Star Trek 036 (2014) (digital) (CompetentRipper-Empire).cbr | 38.56MiB
-Star Trek 037 (2014) (digital) (CompetentRipper-Empire).cbr | 40.85MiB
+[Star Trek 037 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-037-2014-digital-CompetentRipper-Empire-cbr.md) | 40.85MiB
 [Star Trek 038 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-038-2014-digital-CompetentRipper-Empire-cbr.md) | 52.49MiB
 [Star Trek 039 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-039-2014-digital-Empire-cbr.md) | 46.66MiB
 [Star Trek 040 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-040-2015-digital-Empire-cbr.md) | 44.41MiB
@@ -546,7 +546,7 @@ Star Trek - Assignment - Earth 002 (2 covers) (2008) (Digital) (Tyrant Lizard Ki
 Star Trek - Assignment - Earth 003 (2 covers) (2008) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 15.23MiB
 Star Trek - Assignment - Earth 004 (2008) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 14.40MiB
 Star Trek - Assignment - Earth 005 (2008) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 12.52MiB
-Star Trek - Assignment Earth (TPB) (2014) (Digital) (TLK-EMPIRE-HD).cbr | 166.10MiB
+[Star Trek - Assignment Earth (TPB) (2014) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Assignment-Earth-TPB-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 166.10MiB
 &emsp;【Star Trek/Star Trek (IDW)/Star Trek - Assignment Earth (001-005+)(2008)(digital)/Variant Covers】 | 
 Star Trek - Assignment Earth 01 (2008) (RI Virgin Cover Only) (WildBlueZero).cbr | 492.16KiB
 Star Trek - Assignment Earth 02 (2008) (RI Virgin Cover Only) (WildBlueZero).cbr | 344.39KiB
@@ -557,7 +557,7 @@ Star Trek - Burden of Knowledge 01 (2010) (IDW Publishing) (c2c) (YZ1).cbr | 16.
 Star Trek - Burden of Knowledge 02 (2010) (IDW Publishing) (c2c) (YZ1).cbr | 14.89MiB
 Star Trek - Burden of Knowledge 03 (2010) (2 covers) (IDW Publishing) (c2c) (YZ1).cbr | 13.93MiB
 Star Trek - Burden of Knowledge 04 (2010) (2 covers) (IDW Publishing) (c2c) (YZ1).cbr | 20.34MiB
-Star Trek Burden of Knowledge (TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 147.31MiB
+[Star Trek Burden of Knowledge (TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Burden-of-Knowledge-TPB-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 147.31MiB
 &emsp;【Star Trek/Star Trek (IDW)/Star Trek - Captains Log (001-004)(2010)(digital)】 | 
 Star Trek- Captain's Log 001 - Sulu (2010) (Digital-SD) (Asgard-Empire).cbr | 10.21MiB
 Star Trek- Captain's Log 002 - Harriman (2010) (Digital-SD) (Asgard-Empire).cbr | 12.63MiB
@@ -683,7 +683,7 @@ Star Trek - Mission's End 02 (2009) (c2c) (GreenGiant-DCP).cbr | 17.45MiB
 Star Trek - Mission's End 03 (2009) (c2c) (GreenGiant-DCP).cbr | 17.04MiB
 Star Trek - Mission's End 04 (2009) (c2c) (GreenGiant-DCP).cbr | 16.34MiB
 Star Trek - Mission's End 05 (2009) (c2c) (GreenGiant-DCP).cbr | 17.65MiB
-Star Trek Misson's End (TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 192.51MiB
+[Star Trek Misson's End (TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Missons-End-TPB-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 192.51MiB
 &emsp;【Star Trek/Star Trek (IDW)/Star Trek - Nero (001-004)(2009)】 | 
 Star Trek - Nero 01 (2009) (c2c) (GreenGiant-DCP).cbr | 12.97MiB
 Star Trek - Nero 02 (2009) (c2c) (GreenGiant-DCP).cbr | 11.93MiB
@@ -698,7 +698,7 @@ Star Trek - New Frontier 05 (2008) (noads) (greengiant-DCP).cbr | 11.81MiB
 &emsp;【Star Trek/Star Trek (IDW)/Star Trek - New Visions (001-016+)(2014-2017)(digital)(TLK-EMPIRE-HD)】 | 
 Star Trek New Visions 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.92MiB
 Star Trek New Visions 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.13MiB
-Star Trek New Visions 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 52.47MiB
+[Star Trek New Visions 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 52.47MiB
 [Star Trek New Visions 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 53.15MiB
 [Star Trek New Visions 005 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.71MiB
 [Star Trek New Visions 006(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-006-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 46.08MiB
@@ -848,7 +848,7 @@ Star Trek Year Four - Enterprise Experiment 002 (2008) (Digital) (Tyrant Lizard 
 Star Trek Year Four - Enterprise Experiment 003 (2008) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 16.40MiB
 Star Trek Year Four - Enterprise Experiment 004 (2008) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 15.63MiB
 Star Trek Year Four - Enterprise Experiment 005 (2008) (Digital) (Tyrant Lizard King-EMPIRE).cbr | 14.31MiB
-Star Trek Year Four The Enterprise Experiment (TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr | 199.70MiB
+[Star Trek Year Four The Enterprise Experiment (TPB)(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-Year-Four-Enterprise-Experiment-TPB-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 199.70MiB
 Star Trek-Green Lantern - The Spectrum War (2016) (digital) (Minutemen-Slayer).cbr | 251.54MiB
 &emsp;【Star Trek/Star Trek (Malibu)】 | 
 Star Trek Collector's Preview 001 (1996) (c2ce-DCP).cbr | 4.20MiB

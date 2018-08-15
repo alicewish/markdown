@@ -665,7 +665,7 @@ Totino's Presents - Batman (2008) (Minutemen-Locke).cbr | 4.19MiB
 &emsp;【Batman Collection/Trades (2012 - 2014) (Digital-TPB) (Minutemen-PhD)】 | 
 [Batman '66 Meets the Man From U.N.C.L.E. (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Man-From-U-N-C-L-E-2016-digital-Son-of-Ultron-Empire-cbr.md) | 304.22MiB
 Batman '66 Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 288.48MiB
-Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
+[Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-02-2014-digital-Minutemen-PhD-cbr.md) | 227.11MiB
 Batman - Legends of the Dark Knight Vol. 01 (2013) (digital) (Minutemen-PhD).cbr | 178.63MiB
 Batman - Legends of the Dark Knight Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 203.49MiB
 Batman - Legends of the Dark Knight Vol. 03 (2014) (digital) (Minutemen-PhD).cbr | 237.36MiB

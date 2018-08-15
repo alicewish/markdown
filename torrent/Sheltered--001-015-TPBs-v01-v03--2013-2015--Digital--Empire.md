@@ -20,7 +20,7 @@ Sheltered 007 (2014) (Digital) (Vee-Empire).cbr | 44.49MiB
 Sheltered 008 (2014) (digital) (Vee-Empire).cbr | 36.04MiB
 Sheltered 009 (2014) (Digital) (DR & Quinch-Empire).cbr | 49.65MiB
 Sheltered 010 (2014) (digital) (DR & Quinch-Empire).cbr | 45.09MiB
-Sheltered 011 (2014) (Digital) (Vee-Empire).cbr | 37.00MiB
+[Sheltered 011 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheltered-011-2014-Digital-Vee-Empire-cbr.md) | 37.00MiB
 [Sheltered 012 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheltered-012-2014-Digital-Vee-Empire-cbr.md) | 45.15MiB
 [Sheltered 013 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheltered-013-2014-Digital-Vee-Empire-cbr.md) | 44.21MiB
 [Sheltered 014 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheltered-014-2015-Digital-Vee-Empire-cbr.md) | 35.96MiB

@@ -655,7 +655,7 @@ Thor - God of Thunder 021 (2014) (digital) (Minutemen-PhD).cbr | 25.59MiB
 Thor - God of Thunder 022 (2014) (digital) (Minutemen-PhD).cbr | 26.72MiB
 Thor - God of Thunder 023 (2014) (digital) (Minutemen-PhD).cbr | 29.34MiB
 Thor - God of Thunder 024 (2014) (digital) (Minutemen-PhD).cbr | 38.42MiB
-Thor - God of Thunder 025 (2014) (digital) (Minutemen-PhD).cbr | 70.62MiB
+[Thor - God of Thunder 025 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-025-2014-digital-Minutemen-PhD-cbr.md) | 70.62MiB
 &emsp;【Thor/06-Thor - God of Thunder (001-025+)(2012-2014)(digital)(Minutemen-PhD)/Variant Covers】 | 
 [Thor - God of Thunder 001 (2013) (Blank Cover Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-001-2013-Blank-Cover-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 317.00KiB
 [Thor - God of Thunder 001 (2013) (Daniel Acuna Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-001-2013-Daniel-Acuna-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 849.59KiB

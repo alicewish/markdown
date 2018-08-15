@@ -12,6 +12,8 @@
 
 相关种子⬇Related Torrents
 
+[Fear Agent (v1 - v6 + extra) (2007 - 2012) (Digital) (Minutemen-InnerDemons)](https://github.com/alicewish/markdown/blob/master/torrent/Fear-Agent--v1---v6---extra---2007---2012---Digital---Minutemen-InnerDemons.md)
+
 [Fear Agent (v01-v06) (2007-2012) (Digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Fear-Agent--v01-v06---2007-2012---Digital---Zone-Empire.md)
 
 [Fear Agent (v01-v06+)(2007-2012)(digital)(Minutemen-InnerDemons)](https://github.com/alicewish/markdown/blob/master/torrent/Fear-Agent--v01-v06---2007-2012--digital--Minutemen-InnerDemons.md)

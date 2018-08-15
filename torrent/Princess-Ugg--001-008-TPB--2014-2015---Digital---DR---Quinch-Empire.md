@@ -13,9 +13,9 @@ Online | Download
 Princess Ugg 001 (2014) (Digital) (K6-Empire).cbr | 59.48MiB
 Princess Ugg 002 (2014) (Digital) (K6-Empire).cbr | 45.55MiB
 Princess Ugg 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 46.04MiB
-Princess Ugg 004 (2014) (Digital) (DR & Quinch-Empire).cbr | 46.25MiB
+[Princess Ugg 004 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-004-2014-Digital-DR-Quinch-Empire-cbr.md) | 46.25MiB
 [Princess Ugg 005 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-005-2014-Digital-DR-Quinch-Empire-cbr.md) | 44.23MiB
 [Princess Ugg 006 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-006-2014-Digital-DR-Quinch-Empire-cbr.md) | 47.16MiB
 [Princess Ugg 007 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-007-2015-Digital-DR-Quinch-Empire-cbr.md) | 41.70MiB
 [Princess Ugg 008 (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-008-2015-Digital-DR-Quinch-Empire-cbr.md) | 43.86MiB
-Princess Ugg Vol 1 TPB (2014) (Digital) (Dogmatix-Empire).cbr | 196.07MiB
+[Princess Ugg Vol 1 TPB (2014) (Digital) (Dogmatix-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-Vol-1-TPB-2014-Digital-Dogmatix-Empire-cbr.md) | 196.07MiB

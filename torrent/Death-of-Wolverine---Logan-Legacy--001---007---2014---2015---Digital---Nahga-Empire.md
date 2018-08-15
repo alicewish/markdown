@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Death of Wolverine - Logan Legacy 001 (2014) (Digital) (Nahga-Empire).cbr | 42.04MiB
+[Death of Wolverine - Logan Legacy 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Logan-Legacy-001-2014-Digital-Nahga-Empire-cbr.md) | 42.04MiB
 [Death of Wolverine - Logan Legacy 002 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Logan-Legacy-002-2014-Digital-Nahga-Empire-cbr.md) | 36.02MiB
 [Death of Wolverine - Logan Legacy 003 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Logan-Legacy-003-2014-Digital-Nahga-Empire-cbr.md) | 38.86MiB
 [Death of Wolverine - Logan Legacy 004 (2015) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-Logan-Legacy-004-2015-Digital-Nahga-Empire-cbr.md) | 42.12MiB

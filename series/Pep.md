@@ -45,6 +45,7 @@ Pep 237 (1970) (c2c) (Titansfan).cbz | 25.04MiB
 Pep 239 (1970) (c2c) (titansfan).cbz | 23.54MiB
 Pep 240 (1970) (CRX).cbz | 51.20MiB
 Pep 241 (1970) (c2c) [low res cvr].cbr | 25.77MiB
+Pep 242 (1970) (c2c) (CRX) fixed.cbz | 50.48MiB
 Pep 242 (1970) (CRX).cbz | 50.82MiB
 Pep 244 (1970) (c2c) (titansfan).cbz | 25.46MiB
 Pep 245 (1970) (c2c) (Titansfan).cbz | 25.10MiB

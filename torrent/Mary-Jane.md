@@ -1176,7 +1176,7 @@ Amazing Spider-Man v3 015 (2015) (digital) (Minutemen-InnerDemons).cbr | 44.27Mi
 [Edge of Spider-Verse 02 (of 05) (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Edge-of-Spider-Verse-02-of-05-2014-digital-Minutemen-Faessla-cbz.md) | 33.25MiB
 Guardians of the Galaxy (FCDB 2014) (GreenManGroup-DCP).cbr | 38.02MiB
 [Scarlet Spiders 03 (of 03) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Scarlet-Spiders-03-of-03-2015-digital-Minutemen-Faessla-cbz.md) | 49.20MiB
-Spider-Man 2099 005 (2014) (Digital) (Darkness-Empire).cbr | 29.57MiB
+[Spider-Man 2099 005 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-2099-005-2014-Digital-Darkness-Empire-cbr.md) | 29.57MiB
 [Spider-Verse 01 (of 02) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Spider-Verse-01-of-02-2015-digital-Minutemen-Faessla-cbz.md) | 66.99MiB
 Spider-Woman v5 003 (2015) (digital) (Minutemen-InnerDemons).cbr | 37.08MiB
 &emsp;【Mary Jane/Superior Spider-Man】 | 

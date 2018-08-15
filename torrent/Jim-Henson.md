@@ -30,7 +30,7 @@ The Storyteller - Dragons 02 (of 04) (2015) (digital) (Salem-Empire).cbr | 43.15
 The Storyteller - Dragons 03 (of 04) (2016) (digital) (Salem-Empire).cbr | 49.33MiB
 The Storyteller - Dragons 04 (of 04) (2016) (digital) (Salem-Empire).cbr | 43.55MiB
 &emsp;【Jim Henson/The Storyteller - Witches (001-004)(2014)(digital)(Mephisto-Empire)】 | 
-Jim Henson's The Storyteller - Witches 01 (of 04) (2014) (Digital) (Mephisto-Empire).cbr | 51.17MiB
-Jim Henson's The Storyteller - Witches 02 (of 04) (2014) (Digital) (Mephisto-Empire).cbr | 36.73MiB
+[Jim Henson's The Storyteller - Witches 01 (of 04) (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jim-Hensons-Storyteller-Witches-01-of-04-2014-Digital-Mephisto-Empire-cbr.md) | 51.17MiB
+[Jim Henson's The Storyteller - Witches 02 (of 04) (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jim-Hensons-Storyteller-Witches-02-of-04-2014-Digital-Mephisto-Empire-cbr.md) | 36.73MiB
 [Jim Henson's The Storyteller - Witches 03 (of 04) (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jim-Hensons-Storyteller-Witches-03-of-04-2014-Digital-Mephisto-Empire-cbr.md) | 25.34MiB
 [Jim Henson's The Storyteller - Witches 04 (of 04) (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Jim-Hensons-Storyteller-Witches-04-of-04-2014-Digital-Mephisto-Empire-cbr.md) | 44.44MiB

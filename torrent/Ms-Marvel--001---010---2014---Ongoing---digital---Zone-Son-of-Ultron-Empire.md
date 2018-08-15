@@ -17,7 +17,7 @@ Ms. Marvel 004 (2014) (digital) (Son of Ultron-Empire).cbr | 55.61MiB
 Ms. Marvel 005 (2014) (digital) (Son of Ultron-Empire).cbr | 52.08MiB
 Ms. Marvel 006 (2014) (digital) (Son of Ultron-Empire).cbr | 67.70MiB
 Ms. Marvel 007 (2014) (digital) (Son of Ultron-Empire).cbr | 74.99MiB
-Ms. Marvel 008 (2014) (Digital) (Zone-Empire).cbr | 55.86MiB
-Ms. Marvel 009 (2014) (Digital) (Zone-Empire).cbr | 56.95MiB
+[Ms. Marvel 008 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-008-2014-Digital-Zone-Empire-cbr.md) | 55.86MiB
+[Ms. Marvel 009 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-009-2014-Digital-Zone-Empire-cbr.md) | 56.95MiB
 [Ms. Marvel 010 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ms-Marvel-010-2015-Digital-Zone-Empire-cbr.md) | 53.27MiB
 Ms. Marvel Infinite 001 (2014) (digital) (Son of Ultron-Empire).cbr | 19.58MiB

@@ -164,8 +164,8 @@ Hack-Slash - Son of Samhain 001 (2014) (Ale Garza Phantom Variant Cover) (TaruTa
 Hack-Slash - Son of Samhain 001 (2014) (Cameron Stewart Variant Cover) (Tarutaru-Novus-HD).cbr | 1.28MiB
 Hack-Slash - Son of Samhain 001 (2014) (Digital) (Darkness-Empire).cbr | 53.45MiB
 Hack-Slash - Son of Samhain 002 (2014) (Digital) (Darkness-Empire).cbr | 59.06MiB
-Hack-Slash - Son of Samhain 003 (2014) (Digital) (Darkness-Empire).cbr | 52.42MiB
-Hack-Slash - Son of Samhain 004 (2014) (Digital) (Darkness-Empire).cbr | 60.84MiB
+[Hack-Slash - Son of Samhain 003 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-003-2014-Digital-Darkness-Empire-cbr.md) | 52.42MiB
+[Hack-Slash - Son of Samhain 004 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-004-2014-Digital-Darkness-Empire-cbr.md) | 60.84MiB
 [Hack-Slash - Son of Samhain 005 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-005-2014-Digital-Darkness-Empire-cbr.md) | 58.19MiB
 Hack-Slash - Son of Samhain v01 (2015) (Digital) (DR & Quinch-Empire).cbr | 227.44MiB
 downloaded from worldwidetorrents.eu.txt | 260.00B

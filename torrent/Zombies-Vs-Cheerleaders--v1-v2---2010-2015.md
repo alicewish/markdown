@@ -16,7 +16,7 @@ Rotten & Zombies vs Cheerleaders Flips Out 01 (2011) (c2c) (Oroboros-Danger-CPS)
 [Zombies Vs Cheerleaders 2015 Halloween Special(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombies-Vs-Cheerleaders-2015-Halloween-Special-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 44.86MiB
 [Zombies Vs Cheerleaders 2015 St Pattys Day Special (2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombies-Vs-Cheerleaders-2015-St-Pattys-Day-Special-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 44.46MiB
 Zombies Vs Cheerleaders Geektacular 01 (2010) (c2c) (4 Covers) (Legion-CPS).cbr | 17.87MiB
-Zombies Vs Cheerleaders Halloween Special (2014)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 48.84MiB
+[Zombies Vs Cheerleaders Halloween Special (2014)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombies-Vs-Cheerleaders-Halloween-Special-2014-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 48.84MiB
 &emsp;【Zombies Vs Cheerleaders (v1+v2+)(2010-2015)/Zombies Vs Cheerleaders v1 (001-007)(2010-2012)(CPS+DCP)】 | 
 Zombies Vs Cheerleaders 01 (2010) (c2c) (4 Covers) (Legion-CPS).cbr | 15.46MiB
 Zombies Vs Cheerleaders 02 (2010) (c2c) (4 Covers) (Legion-CPS).cbr | 16.63MiB
@@ -32,4 +32,4 @@ Zombies Vs Cheerleaders v2 003 (2013) (c2c) (2 covers) (TLK-EMPIRE-HD).cbr | 42.
 Zombies vs Cheerleaders - Geektacular (2010) (3 Variants Only) \[extracted\] (Legion-CPS).cbr | 1.34MiB
 Zombies vs Cheerleaders - The Mis-Adventures of Becky And Bob 01 (2012) (c2c) (Re-em-DCP-HD).cbr | 26.93MiB
 Zombies vs Cheerleaders Halloween Special (2014) (2 Variants Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 5.43MiB
-Zombies vs Cheerleaders Halloween Special (2014) (Digital) (TLK-EMPIRE-HD).cbr | 38.41MiB
+[Zombies vs Cheerleaders Halloween Special (2014) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombies-vs-Cheerleaders-Halloween-Special-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.41MiB

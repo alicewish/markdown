@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Alien vs. Predator - Fire and Stone 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 36.88MiB
+[Alien vs. Predator - Fire and Stone 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alien-vs-Predator-Fire-Stone-01-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 36.88MiB
 [Alien vs. Predator - Fire and Stone 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alien-vs-Predator-Fire-Stone-02-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.29MiB
 [Alien vs. Predator - Fire and Stone 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alien-vs-Predator-Fire-Stone-03-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 36.72MiB
 [Alien vs. Predator - Fire and Stone 04 (of 04) (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alien-vs-Predator-Fire-Stone-04-of-04-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.16MiB

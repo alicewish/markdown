@@ -35,10 +35,16 @@ The Savage Sword of Conan v02 (2008) (digital) (Son of Ultron II-Empire).cbr | 7
 The Savage Sword of Conan v03 (2008) (digital) (Son of Ultron II-Empire).cbr | 979.49MiB
 The Savage Sword of Conan v04 (2008) (digital) (Son of Ultron II-Empire).cbr | 753.29MiB
 The Savage Sword of Conan v05 (2009) (digital) (Son of Ultron II-Empire).cbr | 627.64MiB
+The Savage Sword of Conan v06 (2009) (digital) (Son of Ultron II-Empire).cbr | 758.61MiB
+The Savage Sword of Conan v07 (2010) (digital) (Son of Ultron-Empire).cbr | 837.88MiB
 The Savage Sword of Conan v08 (2010) (digital) (Son of Ultron-Empire).cbr | 710.56MiB
 The Savage Sword of Conan v09 (2011) (digital) (Son of Ultron-Empire).cbr | 754.18MiB
+The Savage Sword of Conan v10 (2011) (digital) (Son of Ultron-Empire).cbr | 804.53MiB
 The Savage Sword of Conan v11 (2012) (digital) (Son of Ultron-Empire).cbr | 865.14MiB
+The Savage Sword of Conan v12 (2012) (digital) (Son of Ultron-Empire).cbr | 908.95MiB
+The Savage Sword of Conan v13 (2013) (digital) (Son of Ultron-Empire).cbr | 1011.55MiB
 The Savage Sword of Conan v14 (2013) (Digital) (Bean-Empire).cbz | 643.66MiB
+The Savage Sword of Conan v15 (2013) (digital) (Son of Ultron-Empire).cbr | 986.31MiB
 The Savage Sword of Conan v16 (2014) (Digital) (Bean-Empire).cbz | 735.16MiB
 The Savage Sword of Conan v17 (2014) (Digital) (Bean-Empire).cbz | 735.71MiB
 The Savage Sword of Conan Vol. 17 (2014) (digital) (Minutemen-Endriago).cbr | 560.09MiB

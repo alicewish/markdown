@@ -23,14 +23,19 @@ Dans un monde futuriste, dévasté par les pires criminels, les États-Unis ne s
 Online | Download
 --- | ---
 Wolverine - Old Man Logan (2008) (digital) (Minutemen-Thoth).cbz | 278.92MiB
+Wolverine - Old Man Logan v00 - Warzones! (2015) (Digital) (F) (Zone-Empire).cbr | 152.67MiB
 Wolverine - Old Man Logan v00 - Warzones! (2015) (Digital) (Zone-Empire).cbr | 180.35MiB
 Wolverine - Old Man Logan Vol. 00 - Warzones! (2015) (digital) (Minutemen-Thoth).cbz | 198.68MiB
+Wolverine - Old Man Logan v01 - Berzerker (2016) (Digital) (F) (Zone-Empire).cbr | 187.64MiB
 [Wolverine - Old Man Logan v01 - Berzerker (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-Old-Man-Logan-v01-Berzerker-2016-Digital-Zone-Empire-cbr.md) | [223.77MiB](https://pan.baidu.com/s/1c2fdbOk#list/path=%2F0-Day%20Week%20of%202016%20Q3%2F0-Day%20Week%20of%202016.07.13%2F%E3%82%A8%E3%82%AB%E3%82%A2%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%B3%E3%82%B9%E3%82%AD%E3%82%BD%E3%82%A8%E3%82%B7%E3%82%A4%E3%82%A6%E3%82%AD%E3%82%AD%E3%82%AA%E3%82%AB%E3%82%B5%E3%82%B1%E3%82%B9%E3%82%AB%E3%82%AF%E3%82%AB%E3%82%B5%E3%82%A8%E3%82%A4%E3%82%B7%E3%82%B9%E3%82%AB%E3%82%BF%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202016%20Q3)
+Wolverine - Old Man Logan v02 - Bordertown (2016) (Digital) (F) (Zone-Empire).cbr | 167.36MiB
 Wolverine - Old Man Logan v02 - Bordertown (2016) (Digital) (Zone-Empire).cbr | 176.81MiB
 Wolverine - Old Man Logan Vol. 01 - Berzerker (2016) (digital) (Minutemen-Thoth).cbz | 179.82MiB
 Wolverine - Old Man Logan Vol. 02 - Bordertown (2016) (digital) (Minutemen-Thoth).cbz | 185.26MiB
+Wolverine - Old Man Logan v03 - The Last Ronin (2017) (Digital) (F) (Kileko-Empire).cbr | 134.84MiB
 Wolverine - Old Man Logan v03 - The Last Ronin (2017) (Digital) (Kileko-Empire).cbr | 180.69MiB
 Wolverine - Old Man Logan v04 - Old Monsters (2017) (Digital) (Kileko-Empire).cbr | 243.80MiB
+Wolverine - Old Man Logan v05 - Past Lives (2017) (Digital) (F) (Zone-Empire).cbr | 211.43MiB
 Wolverine - Old Man Logan v05 - Past Lives (2017) (Digital) (Zone-Empire).cbr | 283.20MiB
 Wolverine - Old Man Logan v06 - Days of Anger (2018) (Digital) (GodMagnus).cbr | 340.37MiB
 Wolverine - Old Man Logan v06 - Days of Anger (2018) (Digital) (Kileko-Empire).cbr | 558.83MiB

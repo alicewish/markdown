@@ -125,5 +125,5 @@ Alien Legion - Dead and Buried TPB (2014) (digital) (Lusiphur-DCP).cbz | 410.60M
 Alien Legion - Uncivil War 001 (2014) (Digital) (Cypher-Empire).cbr | 39.32MiB
 Alien Legion - Uncivil War 002 (2014) (F) (Digital) (Cypher-Empire).cbr | 40.32MiB
 Alien Legion - Uncivil War 003 (2014) (Digital) (Cypher-Empire).cbr | 41.43MiB
-Alien Legion - Uncivil War 004 (2014) (Digital) (Cypher-Empire).cbr | 39.90MiB
+[Alien Legion - Uncivil War 004 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alien-Legion-Uncivil-War-004-2014-Digital-Cypher-Empire-cbr.md) | 39.90MiB
 Alien Legion - Uncivil War TPB (2015) (digital) (Lusiphur-DCP).cbz | 207.06MiB

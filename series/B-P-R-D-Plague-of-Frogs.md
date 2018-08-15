@@ -14,6 +14,10 @@ In 2001, Hellboy quit the B.P.R.D., leaving Abe Sapien, Liz Sherman, and a bizar
 
 
 
+相关种子⬇Related Torrents
+
+[B.P.R.D. - Plague of Frogs (v01-v04) (2014-2015) (digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/B-P-R-D----Plague-of-Frogs--v01-v04---2014-2015---digital---Son-of-Ultron-Empire.md)
+
 Online | Download
 --- | ---
 B.P.R.D. - Plague of Frogs 01 (of 05) (2004) (digital) (Minutemen-Azkaban).cbr | 49.79MiB

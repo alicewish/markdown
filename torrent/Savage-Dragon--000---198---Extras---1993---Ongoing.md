@@ -212,7 +212,7 @@ Savage Dragon 194(2014)(Digital)(TLK-EMPIRE-HD).cbr | 40.31MiB
 Savage Dragon 195(2014)(Digital)(TLK-EMPIRE-HD).cbr | 35.06MiB
 Savage Dragon 196(2014)(Digital)(TLK-EMPIRE-HD).cbr | 36.48MiB
 Savage Dragon 197(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.93MiB
-Savage Dragon 198(2014)(Digital)(TLK-EMPIRE-HD).cbr | 64.86MiB
+[Savage Dragon 198(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Savage-Dragon-198-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 64.86MiB
 &emsp;【Savage Dragon (000 - 198 + Extras) (1993 - Ongoing)/Savage Dragon Crossovers】 | 
 &emsp;【Savage Dragon (000 - 198 + Extras) (1993 - Ongoing)/Savage Dragon Crossovers/Mars Attacks - The Savage Dragon (01 - 04) (1996)】 | 
 Mars Attacks - The Savage Dragon 01 (1996).cbr | 11.41MiB

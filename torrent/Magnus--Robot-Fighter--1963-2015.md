@@ -169,8 +169,8 @@ Magnus - Robot Fighter 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 55.23MiB
 Magnus - Robot Fighter 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 57.77MiB
 Magnus - Robot Fighter 004 (2014) (digital) (Mr Norrell-Empire).cbr | 54.64MiB
 Magnus - Robot Fighter 005 (2014) (digital) (Mr Norrell-Empire).cbr | 50.07MiB
-Magnus - Robot Fighter 006 (2014) (digital) (Mr Norrell-Empire).cbr | 42.46MiB
-Magnus - Robot Fighter 007 (2014) (digital) (Mr Norrell-Empire).cbr | 48.77MiB
+[Magnus - Robot Fighter 006 (2014) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magnus-Robot-Fighter-006-2014-digital-Mr-Norrell-Empire-cbr.md) | 42.46MiB
+[Magnus - Robot Fighter 007 (2014) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magnus-Robot-Fighter-007-2014-digital-Mr-Norrell-Empire-cbr.md) | 48.77MiB
 [Magnus - Robot Fighter 008 (2014) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magnus-Robot-Fighter-008-2014-digital-Mr-Norrell-Empire-cbr.md) | 46.10MiB
 [Magnus - Robot Fighter 009 (2014) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magnus-Robot-Fighter-009-2014-digital-Mr-Norrell-Empire-cbr.md) | 40.01MiB
 [Magnus - Robot Fighter 010 (2015) (digital) (Mr Norrell-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Magnus-Robot-Fighter-010-2015-digital-Mr-Norrell-Empire-cbr.md) | 37.64MiB

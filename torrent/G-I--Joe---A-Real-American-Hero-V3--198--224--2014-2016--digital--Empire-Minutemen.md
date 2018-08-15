@@ -20,8 +20,8 @@ G.I. Joe - A Real American Hero 202 (2014) (DIGITAL HD) (Zinc-Empire).cbr | 37.4
 G.I. Joe - A Real American Hero 203 (2014) (Digital HD) (Zinc-Empire).cbr | 34.10MiB
 G.I. Joe - A Real American Hero 204 (2014) (digital) (Minutemen-BigLob).cbr | 33.30MiB
 G.I. Joe - A Real American Hero 205 (2014) (digital) (Minutemen-BigLob).cbr | 36.32MiB
-G.I. Joe - A Real American Hero 206 (2014) (digital) (Minutemen-BigLob).cbr | 39.91MiB
-G.I. Joe - A Real American Hero 207 (2014) (digital) (Minutemen-BigLob).cbr | 35.37MiB
+[G.I. Joe - A Real American Hero 206 (2014) (digital) (Minutemen-BigLob).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-206-2014-digital-Minutemen-BigLob-cbr.md) | 39.91MiB
+[G.I. Joe - A Real American Hero 207 (2014) (digital) (Minutemen-BigLob).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-207-2014-digital-Minutemen-BigLob-cbr.md) | 35.37MiB
 [G.I. Joe - A Real American Hero 208 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-208-2014-digital-Minutemen-Midas-cbr.md) | 39.03MiB
 [G.I. Joe - A Real American Hero 209 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-209-2014-digital-Minutemen-Midas-cbr.md) | 35.62MiB
 [G.I. Joe - A Real American Hero 210 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-210-2015-digital-Minutemen-Midas-cbr.md) | 38.54MiB

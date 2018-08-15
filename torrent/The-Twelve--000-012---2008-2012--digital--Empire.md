@@ -16,7 +16,7 @@ The Twelve 01 (2008) (2nd Printing) (Cover Only) (ScanDog).cbr | 2.34MiB
 The Twelve 02 (2008) (2nd Printing) (Cover Only) (ScanDog).cbr | 2.14MiB
 The Twelve 03 (2008) (2nd Printing) (Cover Only) (ScanDog).cbr | 2.25MiB
 The Twelve - Spearhead 01 (2010) (F) (Minutemen-Shepafella).cbr | 43.01MiB
-The Twelve - Voices of the Martyrs OGN (2014) (Digital) (TheDemiurge-Empire).cbr | 269.40MiB
+[The Twelve - Voices of the Martyrs OGN (2014) (Digital) (TheDemiurge-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Twelve-Voices-of-Martyrs-OGN-2014-Digital-TheDemiurge-Empire-cbr.md) | 269.40MiB
 The Twelve 0.5 (of 12) (2008) (Minutemen-TheKid).cbr | 79.62MiB
 The Twelve 00 (of 12) (2008) (Minutemen-Y2K).cbr | 36.88MiB
 The Twelve 01 (of 12) (2008) (Digital) (Zone-Empire).cbr | 55.29MiB

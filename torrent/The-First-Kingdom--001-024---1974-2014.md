@@ -39,6 +39,6 @@ The First Kingdom 024 (1986) (Pudgy).cbr | 25.86MiB
 The First Kingdom Vol 1 - The Birth of Tundran (2013) (Digital) (phillywilly-Empire).cbr | 508.52MiB
 The First Kingdom Vol 2 - The Galaxy Hunters (Digital) (phillywilly-Empire).cbr | 481.98MiB
 The First Kingdom Vol 3 - Vengeance (Digital) (phillywilly-Empire).cbr | 466.88MiB
-The First Kingdom Vol 4 - Migration (2014) (Digital) (phillywilly-Empire).cbr | 412.46MiB
-The First Kingdom Vol 5 - The Space Explorers Club (2014) (Digital) (phillywilly-Empire).cbr | 326.36MiB
-The First Kingdom Vol 6 - Destiny (2014) (Digital) (phillywilly-Empire).cbr | 183.77MiB
+[The First Kingdom Vol 4 - Migration (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/First-Kingdom-Vol-4-Migration-2014-Digital-phillywilly-Empire-cbr.md) | 412.46MiB
+[The First Kingdom Vol 5 - The Space Explorers Club (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/First-Kingdom-Vol-5-Space-Explorers-Club-2014-Digital-phillywilly-Empire-cbr.md) | 326.36MiB
+[The First Kingdom Vol 6 - Destiny (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/First-Kingdom-Vol-6-Destiny-2014-Digital-phillywilly-Empire-cbr.md) | 183.77MiB

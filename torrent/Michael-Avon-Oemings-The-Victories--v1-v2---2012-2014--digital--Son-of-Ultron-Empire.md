@@ -30,7 +30,7 @@ Michael Avon Oeming's The Victories v2 011 - Metahuman 01 (of 05) (2014) (digita
 Michael Avon Oeming's The Victories v2 012 - Metahuman 02 (of 05) (2014) (digital) (Son of Ultron-Empire).cbr | 36.03MiB
 Michael Avon Oeming's The Victories v2 013 - Metahuman 03 (of 05) (2014) (digital) (Son of Ultron-Empire).cbr | 39.94MiB
 Michael Avon Oeming's The Victories v2 014 - Metahuman 04 (of 05) (2014) (digital) (Son of br    Ultron-Empire).cbr | 42.13MiB
-Michael Avon Oeming's The Victories v2 015 - Metahuman 05 (of 05) (2014) (digital) (Son of Ultron-Empire).cbr | 42.56MiB
+[Michael Avon Oeming's The Victories v2 015 - Metahuman 05 (of 05) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Michael-Avon-Oemings-Victories-v2-015-Metahuman-05-of-05-2014-digital-Son-of-Ultron-Empire-cbr.md) | 42.56MiB
 &emsp;【Michael Avon Oeming's The Victories (v1-v2+)(2012-2014)(digital)(Son of Ultron-Empire)/The Victories - Sketchcard (2013) (digital)】 | 
 The Victories - Sketchcard 001 (2013) (digital).cbr | 1013.87KiB
 The Victories - Sketchcard 002 (2013) (digital).cbr | 906.35KiB

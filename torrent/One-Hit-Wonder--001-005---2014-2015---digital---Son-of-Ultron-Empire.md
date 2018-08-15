@@ -13,5 +13,5 @@ Online | Download
 One-Hit Wonder 001 (2014) (digital) (Son of Ultron-Empire).cbr | 56.10MiB
 One-Hit Wonder 002 (2014) (digital) (Son of Ultron-Empire).cbr | 54.94MiB
 One-Hit Wonder 003 (2014) (digital) (Son of Ultron-Empire).cbr | 71.67MiB
-One-Hit Wonder 004 (2014) (digital) (Son of Ultron-Empire).cbr | 76.97MiB
+[One-Hit Wonder 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/One-Hit-Wonder-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 76.97MiB
 [One-Hit Wonder 005 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/One-Hit-Wonder-005-2015-digital-Son-of-Ultron-Empire-cbr.md) | 57.87MiB

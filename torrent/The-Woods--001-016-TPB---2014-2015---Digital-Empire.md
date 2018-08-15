@@ -14,8 +14,8 @@ The Woods 001 (2014) (Digital-Empire).cbr | 38.42MiB
 The Woods 002 (2014) (Digital-Empire).cbr | 38.08MiB
 The Woods 003 (2014) (Digital-Empire).cbr | 39.88MiB
 The Woods 004  (2014) (Digital-Empire).cbr | 37.89MiB
-The Woods 005 (2014) (Digital-Empire).cbr | 48.51MiB
-The Woods 006 (2014) (Digital-Empire).cbr | 44.63MiB
+[The Woods 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-005-2014-Digital-Empire-cbr.md) | 48.51MiB
+[The Woods 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-006-2014-Digital-Empire-cbr.md) | 44.63MiB
 [The Woods 007 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-007-2014-Digital-Empire-cbr.md) | 47.42MiB
 [The Woods 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-008-2014-Digital-Empire-cbr.md) | 38.26MiB
 [The Woods 009 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-009-2015-Digital-Empire-cbr.md) | 44.88MiB

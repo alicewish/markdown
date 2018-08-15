@@ -1983,6 +1983,8 @@
 
 [Daredevil](https://github.com/alicewish/markdown/blob/master/series/Daredevil.md)
 
+[Daredevil - Back In Black](https://github.com/alicewish/markdown/blob/master/series/Daredevil-Back-In-Black.md)
+
 [Daredevil - Dark Nights](https://github.com/alicewish/markdown/blob/master/series/Daredevil-Dark-Nights.md)
 
 [Daredevil - End of Days](https://github.com/alicewish/markdown/blob/master/series/Daredevil-End-of-Days.md)
@@ -2557,6 +2559,8 @@
 
 [Eclipse](https://github.com/alicewish/markdown/blob/master/series/Eclipse.md)
 
+[Edens Zero](https://github.com/alicewish/markdown/blob/master/series/Edens-Zero.md)
+
 [Edge of Spider-Verse](https://github.com/alicewish/markdown/blob/master/series/Edge-of-Spider-Verse.md)
 
 [Edge of Venomverse](https://github.com/alicewish/markdown/blob/master/series/Edge-of-Venomverse.md)
@@ -2662,6 +2666,8 @@
 [Eternal Warrior - Days of Steel](https://github.com/alicewish/markdown/blob/master/series/Eternal-Warrior-Days-of-Steel.md)
 
 [Eternals](https://github.com/alicewish/markdown/blob/master/series/Eternals.md)
+
+[Eternity Girl](https://github.com/alicewish/markdown/blob/master/series/Eternity-Girl.md)
 
 [Ether](https://github.com/alicewish/markdown/blob/master/series/Ether.md)
 
@@ -3553,7 +3559,7 @@
 
 [Hail Hydra](https://github.com/alicewish/markdown/blob/master/series/Hail-Hydra.md)
 
-[Hal Jordan & the Green Lantern Corps](https://github.com/alicewish/markdown/blob/master/series/Hal-Jordan-Green-Lantern-Corps.md)
+[Hal Jordan and the Green Lantern Corps](https://github.com/alicewish/markdown/blob/master/series/Hal-Jordan-Green-Lantern-Corps.md)
 
 [Half Past Danger](https://github.com/alicewish/markdown/blob/master/series/Half-Past-Danger.md)
 
@@ -4125,6 +4131,8 @@
 
 [Jim Henson's - The Power of the Dark Crystal](https://github.com/alicewish/markdown/blob/master/series/Jim-Hensons-Power-of-Dark-Crystal.md)
 
+[Jim Henson's Labyrinth - Coronation](https://github.com/alicewish/markdown/blob/master/series/Jim-Hensons-Labyrinth-Coronation.md)
+
 [Jimmy's Bastards](https://github.com/alicewish/markdown/blob/master/series/Jimmys-Bastards.md)
 
 [Jinnrise](https://github.com/alicewish/markdown/blob/master/series/Jinnrise.md)
@@ -4208,6 +4216,8 @@
 [Judge Dredd - The Complete Case Files](https://github.com/alicewish/markdown/blob/master/series/Judge-Dredd-Complete-Case-Files.md)
 
 [Judge Dredd - The Restricted Files](https://github.com/alicewish/markdown/blob/master/series/Judge-Dredd-Restricted-Files.md)
+
+[Judge Dredd - Under Siege](https://github.com/alicewish/markdown/blob/master/series/Judge-Dredd-Under-Siege.md)
 
 [Judge Dredd The Megazine](https://github.com/alicewish/markdown/blob/master/series/Judge-Dredd-Megazine.md)
 
@@ -4352,6 +4362,8 @@
 [Kanan - The Last Padawan](https://github.com/alicewish/markdown/blob/master/series/Kanan-Last-Padawan.md)
 
 [Kaptara](https://github.com/alicewish/markdown/blob/master/series/Kaptara.md)
+
+[Karate Kid](https://github.com/alicewish/markdown/blob/master/series/Karate-Kid.md)
 
 [Karma City](https://github.com/alicewish/markdown/blob/master/series/Karma-City.md)
 
@@ -4918,6 +4930,8 @@
 [Marvel Masterworks - The Amazing Spider-Man](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Amazing-Spider-Man.md)
 
 [Marvel Masterworks - The Avengers](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Avengers.md)
+
+[Marvel Masterworks - The Fantastic Four](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Fantastic-Four.md)
 
 [Marvel Masterworks - The Incredible Hulk](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Incredible-Hulk.md)
 
@@ -5861,6 +5875,8 @@
 
 [Punisher War Zone](https://github.com/alicewish/markdown/blob/master/series/Punisher-War-Zone.md)
 
+[Punks Not Dead](https://github.com/alicewish/markdown/blob/master/series/Punks-Not-Dead.md)
+
 [Puppet Master](https://github.com/alicewish/markdown/blob/master/series/Puppet-Master.md)
 
 [Purgatori](https://github.com/alicewish/markdown/blob/master/series/Purgatori.md)
@@ -6153,6 +6169,8 @@
 
 [Rocket Raccoon and Groot](https://github.com/alicewish/markdown/blob/master/series/Rocket-Raccoon-Groot.md)
 
+[Rocket Salvage](https://github.com/alicewish/markdown/blob/master/series/Rocket-Salvage.md)
+
 [Rocketeer Adventures](https://github.com/alicewish/markdown/blob/master/series/Rocketeer-Adventures.md)
 
 [Rockstars](https://github.com/alicewish/markdown/blob/master/series/Rockstars.md)
@@ -6438,6 +6456,8 @@
 [Shahrazad](https://github.com/alicewish/markdown/blob/master/series/Shahrazad.md)
 
 [Shaman King](https://github.com/alicewish/markdown/blob/master/series/Shaman-King.md)
+
+[Shang-Chi, Master Of Kung-Fu](https://github.com/alicewish/markdown/blob/master/series/Shang-Chi-Master-Of-Kung-Fu.md)
 
 [Shanna She-Devil](https://github.com/alicewish/markdown/blob/master/series/Shanna-She-Devil.md)
 
@@ -9935,6 +9955,8 @@
 
 [0-Day Week of 2018.07.18](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-07-18.md)
 
+[0-Day Week of 2018.07.25](https://github.com/alicewish/markdown/blob/master/week/0-Day-Week-of-2018-07-25.md)
+
 ### DC Week
 
 [DC Week (12-10-2014)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-12-10-2014.md)
@@ -10208,6 +10230,8 @@
 [DC Week+ (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-07-25-2018.md)
 
 [DC Week+ (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-08-01-2018.md)
+
+[DC Week+ (08-08-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-08-08-2018.md)
 
 ### Hitlist Week
 
@@ -10537,6 +10561,8 @@
 
 [Hitlist Week of 2018.07.18](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-07-18.md)
 
+[Hitlist Week of 2018.07.25](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2018-07-25.md)
+
 ### Image Week
 
 [Image Week (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-01-06-2016.md)
@@ -10809,6 +10835,8 @@
 
 [Image Week (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-08-01-2018.md)
 
+[Image Week (08-08-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-08-08-2018.md)
+
 ### Marvel Week
 
 [Marvel Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-01-06-2016.md)
@@ -11080,6 +11108,8 @@
 [Marvel Week+ (07-25-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-07-25-2018.md)
 
 [Marvel Week+ (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-08-01-2018.md)
+
+[Marvel Week+ (08-08-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-08-08-2018.md)
 
 ### Novus - Week
 
@@ -11424,3 +11454,5 @@
 [Novus - Week of 2018-06-27](https://github.com/alicewish/markdown/blob/master/week/Novus-Week-of-2018-06-27.md)
 
 [Novus - Week of 2018-07-04](https://github.com/alicewish/markdown/blob/master/week/Novus-Week-of-2018-07-04.md)
+
+[Novus - Week of 2018-07-25](https://github.com/alicewish/markdown/blob/master/week/Novus-Week-of-2018-07-25.md)

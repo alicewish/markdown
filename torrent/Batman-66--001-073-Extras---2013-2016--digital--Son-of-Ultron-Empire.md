@@ -53,13 +53,13 @@ Batman '66 038 (2014) (digital) (Son of Ultron-Empire).cbr | 48.81MiB
 Batman '66 039 (2014) (digital) (Son of Ultron-Empire).cbr | 106.36MiB
 Batman '66 040 (2014) (digital) (Son of Ultron-Empire).cbr | 68.53MiB
 Batman '66 041 (2014) (digital) (Son of Ultron-Empire).cbr | 62.75MiB
-Batman '66 042 (2014) (digital) (Son of Ultron-Empire).cbr | 91.96MiB
-Batman '66 043 (2014) (digital) (F) (Son of Ultron-Empire).cbr | 57.40MiB
-Batman '66 044 (2014) (digital) (Son of Ultron-Empire).cbr | 53.48MiB
-Batman '66 045 (2014) (digital) (Son of Ultron-Empire).cbr | 53.26MiB
-Batman '66 046 (2014) (digital) (Son of Ultron-Empire).cbr | 60.31MiB
-Batman '66 047 (2014) (digital) (Son of Ultron-Empire).cbr | 70.88MiB
-Batman '66 048 (2014) (digital) (Son of Ultron-Empire).cbr | 69.17MiB
+[Batman '66 042 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-042-2014-digital-Son-of-Ultron-Empire-cbr.md) | 91.96MiB
+[Batman '66 043 (2014) (digital) (F) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-043-2014-digital-F-Son-of-Ultron-Empire-cbr.md) | 57.40MiB
+[Batman '66 044 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-044-2014-digital-Son-of-Ultron-Empire-cbr.md) | 53.48MiB
+[Batman '66 045 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-045-2014-digital-Son-of-Ultron-Empire-cbr.md) | 53.26MiB
+[Batman '66 046 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-046-2014-digital-Son-of-Ultron-Empire-cbr.md) | 60.31MiB
+[Batman '66 047 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-047-2014-digital-Son-of-Ultron-Empire-cbr.md) | 70.88MiB
+[Batman '66 048 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-048-2014-digital-Son-of-Ultron-Empire-cbr.md) | 69.17MiB
 [Batman '66 049 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-049-2014-digital-Son-of-Ultron-Empire-cbr.md) | 54.99MiB
 [Batman '66 050 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-050-2014-digital-Son-of-Ultron-Empire-cbr.md) | 54.45MiB
 [Batman '66 051 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-051-2015-digital-Son-of-Ultron-Empire-cbr.md) | 44.05MiB
@@ -101,10 +101,10 @@ Batman '66 Meets The Green Hornet 005 (2014) (digital) (Son of Ultron-Empire).cb
 Batman '66 Meets The Green Hornet 006 (2014) (digital) (Son of Ultron-Empire).cbr | 55.78MiB
 Batman '66 Meets The Green Hornet 007 (2014) (digital) (Son of Ultron-Empire).cbr | 45.74MiB
 Batman '66 Meets The Green Hornet 008 (2014) (digital) (Son of Ultron-Empire).cbr | 67.49MiB
-Batman '66 Meets The Green Hornet 009 (2014) (digital) (Son of Ultron-Empire).cbr | 56.49MiB
-Batman '66 Meets The Green Hornet 010 (2014) (digital) (Son of Ultron-Empire).cbr | 77.74MiB
-Batman '66 Meets The Green Hornet 011 (2014) (digital) (Son of Ultron-Empire).cbr | 52.46MiB
-Batman '66 Meets The Green Hornet 012 (2014) (digital) (Son of Ultron-Empire).cbr | 64.18MiB
+[Batman '66 Meets The Green Hornet 009 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-009-2014-digital-Son-of-Ultron-Empire-cbr.md) | 56.49MiB
+[Batman '66 Meets The Green Hornet 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 77.74MiB
+[Batman '66 Meets The Green Hornet 011 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-011-2014-digital-Son-of-Ultron-Empire-cbr.md) | 52.46MiB
+[Batman '66 Meets The Green Hornet 012 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-012-2014-digital-Son-of-Ultron-Empire-cbr.md) | 64.18MiB
 &emsp;【Batman '66 (001-073+Extras) (2013-2016)(digital)(Son of Ultron-Empire)/Batman '66 Meets the Man From U.N.C.L.E (001-012)(2015-2016)(digital)】 | 
 [Batman '66 Meets the Man From U.N.C.L.E. 001 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Man-From-U-N-C-L-E-001-2015-digital-Son-of-Ultron-Empire-cbr.md) | 29.49MiB
 [Batman '66 Meets the Man From U.N.C.L.E. 002 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Man-From-U-N-C-L-E-002-2015-digital-Son-of-Ultron-Empire-cbr.md) | 20.06MiB
@@ -120,7 +120,7 @@ Batman '66 Meets The Green Hornet 012 (2014) (digital) (Son of Ultron-Empire).cb
 [Batman '66 Meets the Man From U.N.C.L.E. 012 (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Man-From-U-N-C-L-E-012-2016-digital-Son-of-Ultron-Empire-cbr.md) | 21.21MiB
 Batman '66 Mike Allred Variant Covers.cbr | 45.72MiB
 Batman '66 Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 288.48MiB
-Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
+[Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-02-2014-digital-Minutemen-PhD-cbr.md) | 227.11MiB
 [Batman '66 Vol. 03 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-03-2015-digital-Minutemen-PhD-cbr.md) | 240.43MiB
 Batman '66 vol. 04 (2015) (digital TPB) (Minutemen-Faessla).cbz | 308.49MiB
 Batman '66 vol. 05 (2016) (digital TPB) (Minutemen-Faessla).cbz | 268.48MiB

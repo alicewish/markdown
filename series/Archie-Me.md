@@ -54,3 +54,4 @@ Archie and Me 101 (1978) (c2c) (titansfan).cbz | 23.85MiB
 Archie and Me 129 (1981) (c2c) (titansfan).cbz | 24.62MiB
 Archie & Me 156 (1986) (c2c).cbr | 23.01MiB
 Archie and Me 161 (1987) (c2c) (titansfan).cbz | 26.41MiB
+Archie and Me Digest 009 (2018) (Forsythe-DCP).cbr | 179.62MiB

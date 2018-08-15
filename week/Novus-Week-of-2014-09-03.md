@@ -8,7 +8,7 @@
 
 Online | Download
 --- | ---
-Action Comics - Futures End 01 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr | 37.00MiB
+[Action Comics - Futures End 01 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Action-Comics-Futures-End-01-2014-Digital-Shining-Knight-SCC-Novus-HD-cbr.md) | 37.00MiB
 [Batwing - Futures End 01 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batwing-Futures-End-01-2014-Digital-Shining-Knight-SCC-Novus-HD-cbr.md) | 36.78MiB
 Beyond Bad Girls - Best of LNS Femme Fatales 001 (London Night - 1999) (Talon-Novus-HD).cbr | 77.18MiB
 Booster Gold 1000000 (2008-09) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 40.05MiB
@@ -16,7 +16,7 @@ Cinderella Love 029 (1955 St. John) (c2c) (soothsayr-movielover-Novus).cbz | 43.
 Crow - Razor - Kill the Pain Tourbook (London Night - 1997) (Talon-Novus-HD).cbr | 56.04MiB
 DreamWalker 003 (DreamWalker Press - 1996) (Talon-Novus-HD).cbr | 49.51MiB
 DreamWalker 004 (DreamWalker Press - 1996) (Talon-Novus-HD).cbr | 47.17MiB
-Earth 2 - Futures End 01 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr | 35.51MiB
+[Earth 2 - Futures End 01 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Earth-2-Futures-End-01-2014-Digital-Shining-Knight-SCC-Novus-HD-cbr.md) | 35.51MiB
 Empty Zone v2 001 (Sirius - 1999) Talon-Novus-HD).cbr | 50.09MiB
 Famous Stars 05 (1951 Ziff-Davis) (c2c) (JVJ-tilliban-Novus).cbz | 40.69MiB
 Green Lantern 90 (1997-09) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 29.08MiB
@@ -43,8 +43,8 @@ The Adventures of Superman 485 (1991-12) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).c
 The New Titans 87 (1992-06) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 46.95MiB
 Thrilling Romances 008 (1950 Standard) (c2c) (JVJ-rangerhouse-movielover-Novus).cbz | 35.49MiB
 Torrent downloaded from demonoid.ph.txt | 46.00B
-Usagi Yojimbo - Senso 02 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr | 49.67MiB
-Usagi Yojimbo - Senso 02 (of 06) (2014) (c2c) (theProletariat-Novus).cbr | 26.53MiB
+[Usagi Yojimbo - Senso 02 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-02-of-06-2014-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 49.67MiB
+[Usagi Yojimbo - Senso 02 (of 06) (2014) (c2c) (theProletariat-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-02-of-06-2014-c2c-theProletariat-Novus-cbr.md) | 26.53MiB
 V...- Comics 002 (1942 Fox) (inc -ifc -ibc) (rangerhouse-movielover-Novus).cbz | 70.90MiB
 Vampirella - 30th Anniversary Celebration (Harris - 1999) (Talon-Novus-HD).cbr | 24.98MiB
 Warrior Nun Areala v4 002 (Antarctic Press - 2001) (Talon-Novus-HD).cbr | 49.33MiB

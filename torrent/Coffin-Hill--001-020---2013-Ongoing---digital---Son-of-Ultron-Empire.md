@@ -20,8 +20,8 @@ Coffin Hill 007 (2014) (digital) (Son of Ultron-Empire).cbr | 44.56MiB
 Coffin Hill 008 (2014) (digital) (Son of Ultron-Empire).cbr | 44.33MiB
 Coffin Hill 009 (2014) (digital) (Son of Ultron-Empire).cbr | 42.06MiB
 Coffin Hill 010 (2014) (digital) (Son of Ultron-Empire).cbr | 48.35MiB
-Coffin Hill 011 (2014) (digital) (Son of Ultron-Empire).cbr | 43.09MiB
-Coffin Hill 012 (2014) (digital) (Son of Ultron-Empire).cbr | 47.55MiB
+[Coffin Hill 011 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Coffin-Hill-011-2014-digital-Son-of-Ultron-Empire-cbr.md) | 43.09MiB
+[Coffin Hill 012 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Coffin-Hill-012-2014-digital-Son-of-Ultron-Empire-cbr.md) | 47.55MiB
 [Coffin Hill 013 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Coffin-Hill-013-2015-digital-Son-of-Ultron-Empire-cbr.md) | 29.62MiB
 [Coffin Hill 014 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Coffin-Hill-014-2015-digital-Son-of-Ultron-Empire-cbr.md) | 35.23MiB
 [Coffin Hill 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Coffin-Hill-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 36.19MiB

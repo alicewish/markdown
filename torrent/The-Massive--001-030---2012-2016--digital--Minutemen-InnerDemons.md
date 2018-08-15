@@ -45,8 +45,8 @@ The Massive 022 (2014) (digital) (Minutemen-InnerDemons).cbr | 22.83MiB
 The Massive 023 (2014) (digital) (Minutemen-InnerDemons).cbr | 19.46MiB
 The Massive 024 (2014) (digital) (Minutemen-InnerDemons).cbr | 19.85MiB
 The Massive 025 (2014) (digital) (Minutemen-InnerDemons).cbr | 18.61MiB
-The Massive 026 (2014) (digital) (Minutemen-InnerDemons).cbr | 15.91MiB
-The Massive 027 (2014) (digital) (Minutemen-InnerDemons).cbr | 18.44MiB
+[The Massive 026 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Massive-026-2014-digital-Minutemen-InnerDemons-cbr.md) | 15.91MiB
+[The Massive 027 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Massive-027-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.44MiB
 [The Massive 028 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Massive-028-2014-digital-Minutemen-InnerDemons-cbr.md) | 17.74MiB
 [The Massive 029 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Massive-029-2014-digital-Minutemen-InnerDemons-cbr.md) | 14.30MiB
 [The Massive 030 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Massive-030-2014-digital-Minutemen-InnerDemons-cbr.md) | 16.28MiB

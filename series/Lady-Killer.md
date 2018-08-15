@@ -18,6 +18,8 @@ Lady Killer
 
 [Lady Killer](https://github.com/alicewish/markdown/blob/master/torrent/Lady-Killer.md)
 
+[Lady Killer (001-005) (2015) (digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Lady-Killer--001-005---2015---digital---Son-of-Ultron-Empire.md)
+
 Online | Download
 --- | ---
 Lady Killer (2015) (digital) (Minutemen-Slayer).cbr | 193.35MiB

@@ -257,7 +257,7 @@ Airfighters with Airboy 02 (2010) (HD) (Strunka).cbr | 114.97MiB
 America's Greatest Comics 008 (1943) (Fawcett) (c2c).cbz | 60.18MiB
 &emsp;【Captain Midnight (1939-2015)/Extras/Captain Action Cat】 | 
 Captain Action Cat- The Timestream Catastrophe - Digital Exclusive Edition 003 (2014) (digital-Empire).cbr | 51.45MiB
-Captain Action Cat- The Timestream Catastrophe - Digital Exclusive Edition 004 (2014) (digital) (CompetentRipper-Empire).cbr | 51.49MiB
+[Captain Action Cat- The Timestream Catastrophe - Digital Exclusive Edition 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Action-Cat-Timestream-Catastrophe-Digital-Exclusive-Edition-004-2014-digital-CompetentRipper-Empire-cbr.md) | 51.49MiB
 Captain Marvel, Jr. 037 (Fawcett 1946) (c2c) (Don Ensign-rangerhouse-Dave Hayward).cbz | 32.41MiB
 FCBD - Project Black Sky (2014) (digital) (Minutemen-PhD).cbr | 24.54MiB
 Free Comic Book Day - Star Wars and Captain Midnight & Avatar - The Last Airbender (2013) (digital) (Son of Ultron-Empire).cbr | 35.17MiB
@@ -272,13 +272,13 @@ Men of Mystery Comics 075 (2008).cbz | 45.70MiB
 Popular Comics 076 (1942) (Dell) (c2c) (dsdaboss).cbr | 36.80MiB
 Popular Comics 077 (1942) (Dell) (c2c) (Etapi-Sooth).cbz | 52.92MiB
 Popular Comics 078 (1942) (c2c) (Etapi-Sooth).cbr | 50.91MiB
-Project Black Sky - Secret Files (2014) (digital) (Son of Ultron-Empire).cbr | 163.49MiB
+[Project Black Sky - Secret Files (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Project-Black-Sky-Secret-Files-2014-digital-Son-of-Ultron-Empire-cbr.md) | 163.49MiB
 &emsp;【Captain Midnight (1939-2015)/Extras/Skyman】 | 
 Skyman 001 (2014) (digital) (Son of Ultron-Empire).cbr | 40.22MiB
 Skyman 002 (2014) (digital) (Son of Ultron-Empire).cbr | 40.93MiB
 Skyman 003 (2014) (digital) (Son of Ultron-Empire).cbr | 38.96MiB
 Skyman 004 (2014) (digital) (Son of Ultron-Empire).cbr | 44.44MiB
-The CBLDF Presents Liberty Annual 2014 (digital) (Son of Ultron-Empire).cbr | 102.72MiB
+[The CBLDF Presents Liberty Annual 2014 (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/CBLDF-Presents-Liberty-Annual-2014-digital-Son-of-Ultron-Empire-cbr.md) | 102.72MiB
 &emsp;【Captain Midnight (1939-2015)/Extras/The Funnies】 | 
 The Funnies 059 (1941) 68p.cbr | 30.61MiB
 The Funnies 061 (1941) 68p (ontology).cbr | 54.67MiB

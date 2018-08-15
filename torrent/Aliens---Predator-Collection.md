@@ -322,7 +322,7 @@ Judge Dredd vs Aliens - Incubus 02 (of 4) (2003) (c2c) (greengiant-DCP).cbr | 18
 Judge Dredd vs Aliens - Incubus 03 (of 4) (2003) (c2c) (greengiant-DCP).cbr | 19.34MiB
 Judge Dredd vs Aliens - Incubus 04 (of 4) (2003) (c2c) (greengiant-DCP).cbr | 16.88MiB
 Judge Dredd vs Aliens - Incubus TPB.cbr | 41.15MiB
-Predator vs. Judge Dredd vs. Aliens - Incubus and Other Stories (2014) (digital) (Son of Ultron-Empire).cbr | 400.16MiB
+[Predator vs. Judge Dredd vs. Aliens - Incubus and Other Stories (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-vs-Judge-Dredd-vs-Aliens-Incubus-Other-Stories-2014-digital-Son-of-Ultron-Empire-cbr.md) | 400.16MiB
 &emsp;【Aliens & Predator Collection/Crossovers/Superman and Batman Vs. Aliens and Predator (001-002)(digital)】 | 
 Superman and Batman Vs. Aliens and Predator, 2007-01-00 (#01) (hybrid) (Glorith-Novus-HD).cbz | 42.61MiB
 Superman and Batman Vs. Aliens and Predator, 2007-02-00 (#02) (hybrid) (Glorith-Novus-HD).cbz | 44.18MiB

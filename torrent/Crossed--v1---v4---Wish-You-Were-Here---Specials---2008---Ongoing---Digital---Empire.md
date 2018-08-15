@@ -223,8 +223,8 @@ Crossed - Badlands 057 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 45.60
 Crossed - Badlands 058 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 46.75MiB
 Crossed - Badlands 059 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 42.07MiB
 Crossed - Badlands 060 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 39.57MiB
-Crossed - Badlands 061 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.58MiB
-Crossed - Badlands 062 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 41.34MiB
+[Crossed - Badlands 061 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-061-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 42.58MiB
+[Crossed - Badlands 062 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-062-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 41.34MiB
 Crossed - Badlands Patient Zero Ashcan (2013) (c2c) (DarkNahga-Empire).cbr | 50.02MiB
 &emsp;【Crossed (v1 - v4 & Wish You Were Here + Specials) (2008 - Ongoing) (Digital) (Empire)/Specials - Annuals】 | 
 Crossed - Badlands Annual (2013) (8 covers) (c2c) (NaggingDanger-Empire).cbr | 107.03MiB

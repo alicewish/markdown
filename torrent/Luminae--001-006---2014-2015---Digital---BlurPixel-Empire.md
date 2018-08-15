@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Luminae 001 (2014) (Digital) (BlurPixel-Empire).cbr | 25.24MiB
+[Luminae 001 (2014) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luminae-001-2014-Digital-BlurPixel-Empire-cbr.md) | 25.24MiB
 [Luminae 002 (2014) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luminae-002-2014-Digital-BlurPixel-Empire-cbr.md) | 25.11MiB
 [Luminae 003 (2014) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luminae-003-2014-Digital-BlurPixel-Empire-cbr.md) | 28.74MiB
 [Luminae 004 (2014) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Luminae-004-2014-Digital-BlurPixel-Empire-cbr.md) | 26.90MiB

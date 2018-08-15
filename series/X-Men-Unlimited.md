@@ -41,6 +41,8 @@ X-Men Unlimited 007 (1994) (Digital) (Shadowcat-Empire).cbz | 99.57MiB
 X-Men Unlimited, 1997-10-00 (#17) (digital) (Glorith-HD).cbz | 70.81MiB
 X-Men Unlimited 017 (1997) (Digital) (Shadowcat-Empire).cbz | 72.07MiB
 X-Men Unlimited 022 (1999) (Digital) (AnHeroGold-Empire).cbz | 63.21MiB
+X-Men Unlimited, 2000-04-00 (#27) (digital) (Glorith-HD).cbz | 56.55MiB
+X-Men Unlimited, 2000-07-00 (#28) (digital) (Glorith-HD).cbz | 69.03MiB
 X-Men Unlimited 029 (2000) (Digital) (AnHeroGold-Empire).cbz | 78.21MiB
 X-Men Unlimited, 2002-12-00 (#40) (digital) (Glorith-HD).cbz | 58.17MiB
 X-Men Unlimited 040 (2003) (Digital-Empire).cbr | 60.62MiB

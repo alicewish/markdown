@@ -29,7 +29,7 @@ Rogues! 05 (of 06) (2013) (c2c) (Monafekk-Empire).cbr | 47.93MiB
 Rogues! 06 (of 06) (2013) (c2c) (Monafekk-Empire).cbr | 48.40MiB
 &emsp;【Rogues! (v1-v4+)(2003-2016)(digital+)(Empire)/Rogues! v2 - The Cold Ship (001-005)(2014)(digital)(Monafekk-Empire)】 | 
 Rogues! v2 - The Cold Ship 01 (of 05) (2014) (Digital) (Monafekk-Empire).cbr | 49.14MiB
-Rogues! v2 - The Cold Ship 02 (of 04) (2014) (Digital) (Monafekk-Empire).cbr | 43.72MiB
+[Rogues! v2 - The Cold Ship 02 (of 04) (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rogues-v2-Cold-Ship-02-of-04-2014-Digital-Monafekk-Empire-cbr.md) | 43.72MiB
 Rogues! v2 - The Cold Ship 03 (of 04) (2014) (Digital) (Monafekk-Empire).cbr | 39.99MiB
 Rogues! v2 - The Cold Ship 04 (of 04) (2014) (Digital) (Monafekk-Empire).cbr | 44.22MiB
 [Rogues! v2 - The Cold Ship 05 (of 05) (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rogues-v2-Cold-Ship-05-of-05-2014-Digital-Monafekk-Empire-cbr.md) | 41.77MiB

@@ -18,7 +18,7 @@ Low v03 - Shore of the Dying Light (2016) (Digital) (Zone-Empire).cbr | 200.11Mi
 Low v04 - Outer Aspects of Inner Attitudes (2017) (Digital) (Zone-Empire).cbr | 337.04MiB
 Low 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 56.65MiB
 Low 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 42.17MiB
-Low 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.56MiB
+[Low 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 45.56MiB
 [Low 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.46MiB
 [Low 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 50.25MiB
 [Low 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 48.16MiB

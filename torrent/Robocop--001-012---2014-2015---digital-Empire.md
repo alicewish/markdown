@@ -12,8 +12,8 @@ Online | Download
 --- | ---
 Robocop 001 (2014) (digital-Empire).cbr | 64.81MiB
 Robocop 002 (2014) (digital)(empire).cbr | 60.57MiB
-Robocop 003 (2014) (digital) (CompetentRipper-Empire).cbr | 67.11MiB
-Robocop 004 (2014) (digital) (CompetentRipper-Empire).cbr | 63.66MiB
+[Robocop 003 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-003-2014-digital-CompetentRipper-Empire-cbr.md) | 67.11MiB
+[Robocop 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-004-2014-digital-CompetentRipper-Empire-cbr.md) | 63.66MiB
 [Robocop 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-005-2014-digital-CompetentRipper-Empire-cbr.md) | 58.44MiB
 [Robocop 006 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-006-2014-digital-Empire-cbr.md) | 54.91MiB
 [Robocop 007 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-007-2015-digital-Empire-cbr.md) | 63.75MiB

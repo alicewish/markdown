@@ -68,7 +68,7 @@ Batcave Companion (2009) (Mazen-DCP).cbr | 124.66MiB
 Batman & Dracula - Red Rain (1991) (digital) (Minutemen-InnerDemons).cbr | 158.72MiB
 [Batman '66 Meets the Man From U.N.C.L.E. (2016) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Man-From-U-N-C-L-E-2016-digital-Son-of-Ultron-Empire-cbr.md) | 304.22MiB
 Batman '66 Vol. 01 (2014) (digital) (Minutemen-PhD).cbr | 288.48MiB
-Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr | 227.11MiB
+[Batman '66 Vol. 02 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-02-2014-digital-Minutemen-PhD-cbr.md) | 227.11MiB
 [Batman '66 Vol. 03 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Vol-03-2015-digital-Minutemen-PhD-cbr.md) | 240.43MiB
 Batman '66 vol. 04 (2015) (digital TPB) (Minutemen-Faessla).cbz | 308.49MiB
 Batman '66 vol. 05 (2016) (digital TPB) (Minutemen-Faessla).cbz | 268.48MiB

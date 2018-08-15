@@ -13,10 +13,10 @@ Online | Download
 Cartoon Network - Super Secret Crisis War! 001 (2014) (2 covers) (digital-Empire).cbr | 41.87MiB
 Cartoon Network - Super Secret Crisis War! 002 (2014) (digital) (CompetentRipper-Empire).cbr | 37.79MiB
 Cartoon Network - Super Secret Crisis War! 003 (2014) (digital) (CompetentRipper-Empire).cbr | 35.97MiB
-Cartoon Network - Super Secret Crisis War! 004 (2014) (digital) (CompetentRipper-Empire).cbr | 45.12MiB
+[Cartoon Network - Super Secret Crisis War! 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-004-2014-digital-CompetentRipper-Empire-cbr.md) | 45.12MiB
 [Cartoon Network - Super Secret Crisis War! 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-005-2014-digital-CompetentRipper-Empire-cbr.md) | 35.72MiB
 [Cartoon Network - Super Secret Crisis War! 006 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-006-2014-digital-CompetentRipper-Empire-cbr.md) | 40.46MiB
 [Cartoon Network - Super Secret Crisis War! Cow and Chicken 001 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-Cow-Chicken-001-2014-digital-CompetentRipper-Empire-cbr.md) | 30.07MiB
-Cartoon Network - Super Secret Crisis War! Foster's Home for Imaginary Friends (2014) (digital-Empire).cbr | 43.50MiB
+[Cartoon Network - Super Secret Crisis War! Foster's Home for Imaginary Friends (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-Fosters-Home-for-Imaginary-Friends-2014-digital-Empire-cbr.md) | 43.50MiB
 Cartoon Network - Super Secret Crisis War! Johnny Bravo 001 (2014) (digital-Empire).cbr | 28.30MiB
 Cartoon Network - Super Secret Crisis War! The Grim Adventures of Billy and Mandy 001 (2014) (digital) (CompetentRipper-Empire).cbr | 35.62MiB

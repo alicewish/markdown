@@ -43,8 +43,8 @@ Plants vs. Zombies - Timepocalypse 01 (of 06) (2014) (digital) (Son of Ultron-Em
 Plants vs. Zombies - Timepocalypse 02 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 27.39MiB
 Plants vs. Zombies - Timepocalypse 03 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 26.00MiB
 Plants vs. Zombies - Timepocalypse 04 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 26.04MiB
-Plants vs. Zombies - Timepocalypse 05 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 26.13MiB
-Plants vs. Zombies - Timepocalypse 06 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 29.18MiB
+[Plants vs. Zombies - Timepocalypse 05 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Timepocalypse-05-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 26.13MiB
+[Plants vs. Zombies - Timepocalypse 06 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Timepocalypse-06-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 29.18MiB
 Plants vs. Zombies - Timepocalypse (2015) (digital) (The Magicians-Empire).cbr | 144.58MiB
 Plants vs. Zombies v04 - Grown Sweet Home (2016) (digital) (Son of Ultron-Empire).cbr | 113.26MiB
 Plants vs. Zombies v05 - Petal to the Metal (2016) (digital) (Son of Ultron-Empire).cbr | 116.22MiB

@@ -58,6 +58,7 @@ Cheyenne Kid 083 c2c Charlton Mar 1971 Gremlin.cbz | 30.76MiB
 Cheyenne Kid 83 c2c Charlton 1971 titansfan.cbz | 41.45MiB
 Cheyenne Kid 087 c2c Charlton Nov 1971 Gremlin.cbz | 35.84MiB
 Cheyenne Kid 087 Charlton Nov 1971 Gremlin.cbz | 34.24MiB
+Cheyenne Kid 89 (1972 Charlton) (c2c) (Soothsayr-Kracalactaka-DMiles-Novus).cbz | 52.89MiB
 Cheyenne Kid 092 Charlton Sep 1972 nom+Gremlin+Kracalactaka.cbz | 14.56MiB
 Cheyenne Kid 93 c2c Charlton Nov 1972 Kracalactaka+a nonny moose.cbz | 40.93MiB
 Cheyenne Kid 94 Charlton c2c Titansfan.cbz | 25.13MiB

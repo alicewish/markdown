@@ -29,7 +29,7 @@ Creepy 014 (2013) (digital) (Son of Ultron-Empire).cbr | 51.54MiB
 Creepy 015 (2014) (digital) (Son of Ultron-Empire).cbr | 56.03MiB
 Creepy 016 (2014) (digital) (Son of Ultron-Empire).cbr | 56.87MiB
 Creepy 017 (2014) (digital) (Son of Ultron-Empire).cbr | 50.54MiB
-Creepy 018 (2014) (digital) (Son of Ultron-Empire).cbr | 68.23MiB
+[Creepy 018 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Creepy-018-2014-digital-Son-of-Ultron-Empire-cbr.md) | 68.23MiB
 Creepy 019 (2015) (digital) (Son fo Ultron-Empire).cbr | 42.69MiB
 [Creepy 020 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Creepy-020-2015-digital-Son-of-Ultron-Empire-cbr.md) | 49.15MiB
 [Creepy 021 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Creepy-021-2015-digital-Son-of-Ultron-Empire-cbr.md) | 40.23MiB

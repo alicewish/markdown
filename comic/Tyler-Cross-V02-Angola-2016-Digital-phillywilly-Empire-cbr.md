@@ -1,5 +1,9 @@
 ## Tyler Cross V02 - Angola (2016) (Digital) (phillywilly-Empire).cbr
 
+
+[回到 Tyler Cross 目录](https://github.com/alicewish/markdown/blob/master/series/Tyler-Cross.md)
+
+
 ![Tyler Cross - Angola v2-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frkquaocisj21kw247000.jpg)
 
 ![Tyler Cross - Angola v2-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frkquecm47j21kw236dke.jpg)
@@ -193,3 +197,6 @@
 ![Tyler Cross - Angola v2-095.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frkresc5qbj21kw236ay7.jpg)
 
 ![Tyler Cross - Angola v2-096.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1frkrex4wu5j21kw2361kn.jpg)
+
+[回到 Tyler Cross 目录](https://github.com/alicewish/markdown/blob/master/series/Tyler-Cross.md)
+

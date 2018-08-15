@@ -17,4 +17,4 @@ All New Fathom v5 004 (2013) (4 Covers) (Digital) (Darkness-Empire).cbr | 50.41M
 All New Fathom v5 005 (2014) (2 Covers) (Digital) (Darkness-Empire).cbr | 30.99MiB
 All New Fathom v5 006 (2014) (2 Covers) (Digital) (Darkness-Empire).cbr | 38.00MiB
 All New Fathom v5 007 (2014) (2 Covers) (Digital) (Darkness-Empire).cbr | 39.00MiB
-All New Fathom v5 008 (2014) (2 Covers) (Digital) (Darkness-Empire).cbr | 37.27MiB
+[All New Fathom v5 008 (2014) (2 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Fathom-v5-008-2014-2-Covers-Digital-Darkness-Empire-cbr.md) | 37.27MiB

@@ -16,7 +16,7 @@ The Bunker 002 (2014) (Digital) (Darkness-Empire).cbr | 70.65MiB
 The Bunker 003 (2014) (Digital) (Darkness-Empire).cbr | 73.82MiB
 The Bunker 004 (2014) (Digital) (Darkness-Empire).cbr | 72.45MiB
 The Bunker 005 (2013) (Digital) (Darkness-Empire).cbr | 34.33MiB
-The Bunker 006 (2014) (Digital) (Darkness-Empire).cbr | 67.95MiB
+[The Bunker 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bunker-006-2014-Digital-Darkness-Empire-cbr.md) | 67.95MiB
 [The Bunker 007 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bunker-007-2014-Digital-Darkness-Empire-cbr.md) | 66.26MiB
 [The Bunker 008 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bunker-008-2014-Digital-Darkness-Empire-cbr.md) | 63.33MiB
 [The Bunker 009 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bunker-009-2015-Digital-Darkness-Empire-cbr.md) | 56.83MiB

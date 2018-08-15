@@ -32,4 +32,4 @@ Saga 019 (2014) (Digital) (Zone-Empire).cbr | 34.71MiB
 Saga 020 (2014) (Digital) (Zone-Empire).cbr | 31.05MiB
 Saga 021 (2014) (Digital) (Zone-Empire).cbr | 30.35MiB
 Saga 022 (2014) (Digital) (Zone-Empire).cbr | 32.30MiB
-Saga 023 (2014) (Digital) (Zone-Empire).cbr | 36.76MiB
+[Saga 023 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-023-2014-Digital-Zone-Empire-cbr.md) | 36.76MiB

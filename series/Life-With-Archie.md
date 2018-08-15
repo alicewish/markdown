@@ -45,6 +45,7 @@ Life With Archie 209 Titansfan.cbz | 23.53MiB
 Life with Archie 210 Titansfan.cbz | 23.29MiB
 Life with Archie 242 Titansfan.cbz | 24.05MiB
 Life with Archie 281 Titansfan.cbz | 24.14MiB
+Life with Archie 062 (1967) (Archie) (c2c) (ComicsCastle).cbr | 18.77MiB
 Life With Archie 080 (1968) (c2c) (titansfan).cbz | 26.12MiB
 Life With Archie 084 (1969) (c2c) (titansfan).cbz | 25.87MiB
 Life With Archie 087 (1969) (c2c) (titansfan).cbz | 24.65MiB

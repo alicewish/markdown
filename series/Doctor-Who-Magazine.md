@@ -14,6 +14,8 @@
 
 [Doctor Who Magazine (001-514)(1979-2017)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Who-Magazine--001-514--1979-2017.md)
 
+[Doctor Who Magazine (470-471, 475-483) (2014-2015)(digital)(PeteThePIPster-Novus)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Who-Magazine--470-471--475-483---2014-2015--digital--PeteThePIPster-Novus.md)
+
 [Doctor Who Magazine (492-495) (2015-2016) (digital) (Minutemen-Bookworm)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Who-Magazine--492-495---2015-2016---digital---Minutemen-Bookworm.md)
 
 Online | Download

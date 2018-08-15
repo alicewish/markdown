@@ -55,7 +55,7 @@ Zombie Tramp v2 008 (2014) (Digital Edition) (Monafekk-Empire).cbr | 12.75MiB
 Zombie Tramp v3 000 (2014) (Digital) (Monafekk-Empire).cbr | 40.27MiB
 Zombie Tramp v3 001 (2014) (Digital) (Monafekk-Empire).cbz | 31.89MiB
 Zombie Tramp v3 002 (2014) (Digital) (Monafekk-Empire).cbr | 29.14MiB
-Zombie Tramp v3 003 (2014) (Digital) (Monafekk-Empire).cbr | 30.73MiB
+[Zombie Tramp v3 003 (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-003-2014-Digital-Monafekk-Empire-cbr.md) | 30.73MiB
 [Zombie Tramp v3 004 (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-004-2014-Digital-Monafekk-Empire-cbr.md) | 29.03MiB
 [Zombie Tramp v3 005 (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-005-2014-Digital-Monafekk-Empire-cbr.md) | 35.48MiB
 [Zombie Tramp v3 006 (2015) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombie-Tramp-v3-006-2015-Digital-Monafekk-Empire-cbr.md) | 35.72MiB

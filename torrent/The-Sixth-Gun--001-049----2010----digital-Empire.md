@@ -35,8 +35,8 @@ The Sixth Gun v07 - Not the Bullet, But the Fall (2014) (Digital) (Zone-Empire).
 The Sixth Gun v08 - Hell and High Water (2015) (Digital) (Zone-Empire).cbr | 246.41MiB
 &emsp;【The Sixth Gun (001-049+) (2010-) (digital-Empire)/The Days of the Dead (001-005)(2014-2015)(digital-Empire)】 | 
 The Sixth Gun - Days of the Dead 001 (2014) (Digital-Empire).cbr | 42.49MiB
-The Sixth Gun - Days of the Dead 002 (2014) (Digital-Empire).cbr | 36.55MiB
-The Sixth Gun - Days of the Dead 003 (2014) (Digital-Empire).cbr | 36.81MiB
+[The Sixth Gun - Days of the Dead 002 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-002-2014-Digital-Empire-cbr.md) | 36.55MiB
+[The Sixth Gun - Days of the Dead 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-003-2014-Digital-Empire-cbr.md) | 36.81MiB
 [The Sixth Gun - Days of the Dead 004 (2015) (F) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-004-2015-F-Digital-Empire-cbr.md) | 40.31MiB
 [The Sixth Gun - Days of the Dead 005 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-005-2015-Digital-Empire-cbr.md) | 39.26MiB
 The Sixth Gun 001 (2010) (Digital) (Zone-Empire).cbr | 35.33MiB
@@ -81,7 +81,7 @@ The Sixth Gun 039 (2014) (Digital) (JK-Empire).cbr | 41.75MiB
 The Sixth Gun 040 (2014) (Digital-Empire).cbr | 41.52MiB
 The Sixth Gun 041 (2014) (Digital-Empire).cbr | 34.73MiB
 The Sixth Gun 042 (2014) (Digital-Empire).cbr | 38.05MiB
-The Sixth Gun 043 (2014) (Digital-Empire).cbr | 35.97MiB
+[The Sixth Gun 043 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-043-2014-Digital-Empire-cbr.md) | 35.97MiB
 [The Sixth Gun 044 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-044-2014-Digital-Empire-cbr.md) | 43.28MiB
 [The Sixth Gun 045 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-045-2014-Digital-Empire-cbr.md) | 40.18MiB
 [The Sixth Gun 046 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-046-2015-Digital-Empire-cbr.md) | 51.52MiB

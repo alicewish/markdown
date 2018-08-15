@@ -11,4 +11,4 @@
 Online | Download
 --- | ---
 Marvel Masterworks - Ka-Zar v01 (2013) (Digital) (Shadowcat-Empire).cbz | 585.76MiB
-Marvel Masterworks - Ka-Zar v02 (2018) (Digital) (Kileko-Empire).cbr | 583.45MiB
+[Marvel Masterworks - Ka-Zar v02 (2018) (Digital) (Kileko-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvel-Masterworks-Ka-Zar-v02-2018-Digital-Kileko-Empire-cbr.md) | 583.45MiB

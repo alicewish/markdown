@@ -13,4 +13,4 @@ Online | Download
 Eye of Newt 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 69.02MiB
 Eye of Newt 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 66.14MiB
 Eye of Newt 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 64.40MiB
-Eye of Newt 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 56.61MiB
+[Eye of Newt 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eye-of-Newt-04-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 56.61MiB

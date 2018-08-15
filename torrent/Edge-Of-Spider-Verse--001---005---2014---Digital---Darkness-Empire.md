@@ -13,5 +13,5 @@ Online | Download
 [Edge of Spider-Verse 001 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edge-of-Spider-Verse-001-2014-Digital-Darkness-Empire-cbr.md) | 35.45MiB
 [Edge of Spider-Verse 002 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edge-of-Spider-Verse-002-2014-Digital-Darkness-Empire-cbr.md) | 33.44MiB
 [Edge of Spider-Verse 003 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edge-of-Spider-Verse-003-2014-Digital-Darkness-Empire-cbr.md) | 49.43MiB
-Edge of Spider-Verse 004 (2014) (Digital) (Darkness-Empire).cbr | 44.10MiB
-Edge of Spider-Verse 005 (2014) (Digital) (Darkness-Empire).cbr | 60.76MiB
+[Edge of Spider-Verse 004 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edge-of-Spider-Verse-004-2014-Digital-Darkness-Empire-cbr.md) | 44.10MiB
+[Edge of Spider-Verse 005 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Edge-of-Spider-Verse-005-2014-Digital-Darkness-Empire-cbr.md) | 60.76MiB

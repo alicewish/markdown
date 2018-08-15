@@ -26,6 +26,8 @@ Five amazing, interconnected new stories take the Doctor on a rollercoaster of t
 
 [Doctor Who The Eighth Doctor (001-005)(2015-2016)(digital)(Minutemen-Bookworm)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Who-The-Eighth-Doctor--001-005--2015-2016--digital--Minutemen-Bookworm.md)
 
+[Doctor Who The Eighth Doctor (001-005)(2015-2016)(digital)(TLK-EMPIRE-HD)](https://github.com/alicewish/markdown/blob/master/torrent/Doctor-Who-The-Eighth-Doctor--001-005--2015-2016--digital--TLK-EMPIRE-HD.md)
+
 Online | Download
 --- | ---
 Doctor Who - The Eighth Doctor 001 (2015) (9 covers) (digital) (Minutemen-Bookworm).cbr | 52.48MiB

@@ -14,6 +14,10 @@ Hikaru Shindo is like any sixth-grader in Japan: a pretty normal schoolboy with 
 
 
 
+相关种子⬇Related Torrents
+
+[Hikaru no Go (v01-v23) (2004-2011) (Digital) (AnHeroGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Hikaru-no-Go--v01-v23---2004-2011---Digital---AnHeroGold-Empire.md)
+
 Online | Download
 --- | ---
 Hikaru no Go v01 (2004) (Digital) (AnHeroGold-Empire).cbz | 220.45MiB

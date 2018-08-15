@@ -35,7 +35,7 @@ Thor - God of Thunder 021 (2014) (digital) (Minutemen-PhD).cbr | 25.59MiB
 Thor - God of Thunder 022 (2014) (digital) (Minutemen-PhD).cbr | 26.72MiB
 Thor - God of Thunder 023 (2014) (digital) (Minutemen-PhD).cbr | 29.34MiB
 Thor - God of Thunder 024 (2014) (digital) (Minutemen-PhD).cbr | 38.42MiB
-Thor - God of Thunder 025 (2014) (digital) (Minutemen-PhD).cbr | 70.62MiB
+[Thor - God of Thunder 025 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-025-2014-digital-Minutemen-PhD-cbr.md) | 70.62MiB
 [Thor - God of Thunder Vol 4 - The Last Days Of Midgard (2014) (Digital HC) (BroadCast-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-Vol-4-Last-Days-Of-Midgard-2014-Digital-HC-BroadCast-Empire-cbz.md) | 250.64MiB
 [Thor God of Thunder Vol. 1 - The God Butcher (2013) (Digital-HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-Vol-1-God-Butcher-2013-Digital-HC-Zone-Empire-cbr.md) | 210.11MiB
 [Thor God of Thunder Vol. 2 - Godbomb (2013) (Digital-HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-Vol-2-Godbomb-2013-Digital-HC-Zone-Empire-cbr.md) | 194.33MiB

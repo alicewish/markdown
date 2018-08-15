@@ -18,7 +18,7 @@ Robert E. Howard's Savage Sword 005 (2012) (Digital) (Minutemen-Endriago).cbr | 
 Robert E. Howard's Savage Sword 006 (2013) (Digital) (Minutemen-Endriago).cbz | 78.52MiB
 Robert E. Howard's Savage Sword 007 (2014) (digital) (Son of Ultron-Empire).cbr | 168.34MiB
 Robert E. Howard's Savage Sword 008 (2014) (digital) (Son of Ultron-Empire).cbr | 181.37MiB
-Robert E. Howard's Savage Sword 009 (2014) (digital) (Son of Ultron-Empire).cbr | 169.03MiB
+[Robert E. Howard's Savage Sword 009 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robert-E-Howards-Savage-Sword-009-2014-digital-Son-of-Ultron-Empire-cbr.md) | 169.03MiB
 [Robert E. Howard's Savage Sword 010 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robert-E-Howards-Savage-Sword-010-2015-digital-Son-of-Ultron-Empire-cbr.md) | 145.86MiB
 Robert E. Howard's Savage Sword v01 (2013) (digital) (Son of Ultron-Empire).cbr | 193.23MiB
 Robert E. Howard's Savage Sword v02 (2015) (digital) (Son of Ultron-Empire).cbr | 263.18MiB

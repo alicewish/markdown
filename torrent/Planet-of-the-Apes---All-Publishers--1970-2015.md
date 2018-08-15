@@ -88,7 +88,7 @@ Dawn of the Planet of the Apes 03 (of 6) (2014) (Digital Rip) (Harkonnen-DCP).cb
 [Dawn of the Planet of the Apes 05 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-05-of-6-2015-Digital-Rip-Harkonnen-DCP-cbz.md) | 42.74MiB
 [Dawn of the Planet of the Apes 06 (of 6) (2015) (Digital Rip) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-06-of-6-2015-Digital-Rip-Harkonnen-DCP-cbz.md) | 43.03MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2015)/Boom! (2011-2015)/Dawn Of The Planet Of The Apes (001-006)(2014-2015)(Digital)(Harkonnen-DCP)/Extras】 | 
-Dawn of the Planet of the Apes - Contagion (2014) (SDCC) (Pirate-Empire & GreenGiant-DCP).cbr | 34.84MiB
+[Dawn of the Planet of the Apes - Contagion (2014) (SDCC) (Pirate-Empire & GreenGiant-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-Contagion-2014-SDCC-Pirate-Empire-GreenGiant-DCP-cbr.md) | 34.84MiB
 Dawn of the Planet of the Apes 01 (2014) (2 Variants Only) \[extracted\] (Jojo).cbr | 1.54MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2015)/Boom! (2011-2015)/Exile on the Planet of the Apes (001-004+TPB v01)(2012)(digital)】 | 
 Exile on the Planet of the Apes 01 (of 04) (2012) (3 covers) (digital) (Minutemen-InnerPhDemons).cbr | 47.77MiB

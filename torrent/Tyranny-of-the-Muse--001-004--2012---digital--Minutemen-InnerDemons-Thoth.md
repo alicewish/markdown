@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Tyranny of the Muse 001 (2012) (digital) (Minutemen-InnerDemons).cbr | 57.00MiB
-Tyranny of the Muse 002 (2014) (digital) (Minutemen-InnerDemons).cbr | 45.72MiB
+[Tyranny of the Muse 002 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tyranny-of-Muse-002-2014-digital-Minutemen-InnerDemons-cbr.md) | 45.72MiB
 Tyranny of the Muse 003 (2015) (digital) (Minutemen-Thoth).cbz | 24.14MiB
 Tyranny of the Muse 004 (2016) (digital) (Minutemen-Thoth).cbz | 33.86MiB

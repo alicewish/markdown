@@ -170,7 +170,7 @@ B.P.R.D. Hell on Earth 119 - The Reign of the Black Flame 05 (of 05) (2014) (dig
 B.P.R.D. Hell on Earth 120 - The Devil's Wings 01 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 16.84MiB
 B.P.R.D. Hell on Earth 121 - The Devil's Wings 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 19.91MiB
 B.P.R.D. Hell on Earth 122 - The Broken Equation 01 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 22.93MiB
-B.P.R.D. Hell on Earth 123 - The Broken Equation 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr | 21.00MiB
+[B.P.R.D. Hell on Earth 123 - The Broken Equation 02 (of 02) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-123-Broken-Equation-02-of-02-2014-digital-Minutemen-InnerDemons-cbr.md) | 21.00MiB
 [B.P.R.D. Hell on Earth 124 - Grind (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-124-Grind-2014-digital-Minutemen-InnerDemons-cbr.md) | 20.70MiB
 [B.P.R.D. Hell on Earth 125 - Flesh and Stone (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-125-Flesh-Stone-2014-digital-Minutemen-InnerDemons-cbr.md) | 21.80MiB
 [B.P.R.D. Hell on Earth 126 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/B-P-R-D-Hell-on-Earth-126-2014-digital-Minutemen-InnerDemons-cbr.md) | 24.87MiB

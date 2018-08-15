@@ -50,8 +50,8 @@ Morning Glories 036 (2014) (Digital) (Darkness-Empire).cbr | 33.07MiB
 Morning Glories 037 (2014) (Digital) (Darkness-Empire).cbr | 34.37MiB
 Morning Glories 038 (2014) (Digital) (Darkness-Empire).cbr | 37.27MiB
 Morning Glories 039 (2014) (Digital) (Darkness-Empire).cbr | 33.79MiB
-Morning Glories 040 (2014) (Digital) (Darkness-Empire).cbr | 35.68MiB
-Morning Glories 041 (2014) (Digital) (Darkness-Empire).cbr | 43.89MiB
+[Morning Glories 040 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Morning-Glories-040-2014-Digital-Darkness-Empire-cbr.md) | 35.68MiB
+[Morning Glories 041 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Morning-Glories-041-2014-Digital-Darkness-Empire-cbr.md) | 43.89MiB
 [Morning Glories 042 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Morning-Glories-042-2014-Digital-Darkness-Empire-cbr.md) | 43.14MiB
 Morning Glories 043 (2015) (digital) (The Magicians-Empire).cbr | 62.59MiB
 Morning Glories 044 (2015) (digital) (The Magicians-Empire).cbr | 55.46MiB

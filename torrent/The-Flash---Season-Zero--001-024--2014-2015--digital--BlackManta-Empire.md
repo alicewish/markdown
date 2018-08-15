@@ -10,9 +10,9 @@
 
 Online | Download
 --- | ---
-The Flash - Season Zero 001 (2014) (Digital) (BlackManta-Empire).cbr | 14.79MiB
-The Flash - Season Zero 002 (2014) (Digital) (BlackManta-Empire).cbr | 12.82MiB
-The Flash - Season Zero 003 (2014) (Digital) (BlackManta-Empire).cbr | 14.28MiB
+[The Flash - Season Zero 001 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-001-2014-Digital-BlackManta-Empire-cbr.md) | 14.79MiB
+[The Flash - Season Zero 002 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-002-2014-Digital-BlackManta-Empire-cbr.md) | 12.82MiB
+[The Flash - Season Zero 003 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-003-2014-Digital-BlackManta-Empire-cbr.md) | 14.28MiB
 [The Flash - Season Zero 004 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-004-2014-Digital-BlackManta-Empire-cbr.md) | 14.03MiB
 [The Flash - Season Zero 005 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-005-2014-Digital-BlackManta-Empire-cbr.md) | 13.08MiB
 [The Flash - Season Zero 006 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-006-2014-Digital-BlackManta-Empire-cbr.md) | 13.96MiB

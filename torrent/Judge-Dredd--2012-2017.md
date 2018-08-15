@@ -49,8 +49,8 @@ Judge Dredd 019 (2014) (Digital) (Fawkes-Empire).cbr | 46.69MiB
 Judge Dredd 020 (2014) (Digital-Empire).cbr | 46.52MiB
 Judge Dredd 021 (2014) (Digital-Empire).cbr | 32.84MiB
 Judge Dredd 022 (2014) (Digital-Empire).cbr | 39.08MiB
-Judge Dredd 023 (2014) (Digital-Empire).cbr | 35.77MiB
-Judge Dredd 024 (2014) (Digital-Empire).cbr | 39.76MiB
+[Judge Dredd 023 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-023-2014-Digital-Empire-cbr.md) | 35.77MiB
+[Judge Dredd 024 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-024-2014-Digital-Empire-cbr.md) | 39.76MiB
 [Judge Dredd 025 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-025-2014-Digital-Empire-cbr.md) | 33.68MiB
 [Judge Dredd 026 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-026-2014-Digital-Empire-cbr.md) | 35.79MiB
 [Judge Dredd 027 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-027-2015-Digital-Empire-cbr.md) | 36.33MiB
@@ -67,7 +67,7 @@ Judge Dredd v06 (2015) (digital) (Minutemen-Thoth).cbr | 156.81MiB
 Judge Dredd v07 (2015) (Digital) (DR & Quinch-Empire).cbr | 223.95MiB
 &emsp;【Judge Dredd (2012-2017)/Judge Dredd - Anderson, PSI Division (001-004)(2014)(digital)(DR & Quinch-Empire)】 | 
 Judge Dredd - Anderson, Psi-Division 001 (2014) (Digital) (DR & Quinch-Empire).cbr | 29.37MiB
-Judge Dredd - Anderson, Psi-Division 002 (2014) (Digital) (DR & Quinch-Empire).cbr | 28.93MiB
+[Judge Dredd - Anderson, Psi-Division 002 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Anderson-Psi-Division-002-2014-Digital-DR-Quinch-Empire-cbr.md) | 28.93MiB
 [Judge Dredd - Anderson, Psi-Division 003 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Anderson-Psi-Division-003-2014-Digital-DR-Quinch-Empire-cbr.md) | 26.53MiB
 [Judge Dredd - Anderson, Psi-Division 004 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-Anderson-Psi-Division-004-2014-Digital-DR-Quinch-Empire-cbr.md) | 27.18MiB
 &emsp;【Judge Dredd (2012-2017)/Judge Dredd - Mega-City Two (001-005+)(2014)(digital)(K6-Empire)】 | 
@@ -84,7 +84,7 @@ Judge Dredd - Mega-City Two (2014) (Digital) (DR & Quinch-Empire).cbr | 272.71Mi
 Judge Dredd - The Daily Dredds v01 - 1981-1986 (2014) (Digital) (DR & Quinch-Empire).cbr | 338.82MiB
 Judge Dredd - Trifecta TPB (2013) (digital).cbz | 101.08MiB
 Judge Dredd - Year One (2013) (digital) (Minutemen-Thoth).cbr | 139.35MiB
-Predator vs. Judge Dredd vs. Aliens - Incubus and Other Stories (2014) (digital) (Son of Ultron-Empire).cbr | 400.16MiB
+[Predator vs. Judge Dredd vs. Aliens - Incubus and Other Stories (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-vs-Judge-Dredd-vs-Aliens-Incubus-Other-Stories-2014-digital-Son-of-Ultron-Empire-cbr.md) | 400.16MiB
 The Art of Judge Dredd - Featuring 35 Years of Zarjaz Covers (2012) (Digital) (DR & Quinch-Empire).cbr | 357.70MiB
 The Batman - Judge Dredd Collection (2014) (Digital) (K6-Empire).cbr | 563.09MiB
 &emsp;【Judge Dredd (2012-2017)/Mars Attacks - Judge Dredd (001-004)(2013)(digital)(Fawkes-Empire)】 | 

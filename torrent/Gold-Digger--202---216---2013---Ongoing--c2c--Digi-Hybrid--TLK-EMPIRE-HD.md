@@ -21,7 +21,7 @@ Gold Digger 209(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 23.89MiB
 Gold Digger 210(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 23.36MiB
 Gold Digger 211(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 24.86MiB
 Gold Digger 212(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 24.31MiB
-Gold Digger 213(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 34.83MiB
-Gold Digger 214(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 33.98MiB
+[Gold Digger 213(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-213-2014-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 34.83MiB
+[Gold Digger 214(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-214-2014-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 33.98MiB
 [Gold Digger 215(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-215-2014-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 31.13MiB
 [Gold Digger 216(2014)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-216-2014-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 40.29MiB

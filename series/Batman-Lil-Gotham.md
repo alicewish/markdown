@@ -18,6 +18,8 @@ Batman, Robin, and all your favorite Gothamites romp through the year in a very 
 
 [Batman - Li'l Gotham (01 - 21 & Special)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---Lil-Gotham--01---21---Special.md)
 
+[Batman - Li'l Gotham (016 - 018)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---Lil-Gotham--016---018.md)
+
 Online | Download
 --- | ---
 Batman Li'l Gotham 001 (2012) (Digital) (Zone-Empire).cbr | [17.97MiB](https://pan.baidu.com/s/1hsKUIbU#list/path=%2F0-Day%20Week%20of%202012%20Q4%2F0-Day%20Week%20of%202012.10.31%2F%E3%82%A8%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%A8%E3%82%AB%E3%82%B3%E3%82%B5%E3%82%A8%E3%82%B3%E3%82%A6%E3%82%B3%E3%82%A2%E3%82%AF%E3%82%A4%E3%82%BF%E3%82%AA%E3%82%AA%E3%82%BF%E3%82%B3%E3%82%B5%E3%82%A2%E3%82%BD%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%AD%E3%82%BF%E3%82%A6%E3%82%A4%E3%82%A4%E3%82%AA&parentPath=%2F0-Day%20Week%20of%202012%20Q4)

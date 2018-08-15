@@ -13,12 +13,15 @@
 Online | Download
 --- | ---
 Jughead v1 006 (Jun 1951) (c2c) (drake10).cbz | 40.56MiB
+Jughead v1 009 (Dec 1951) (c2c) (drake10).cbz | 41.50MiB
 Jughead v1 014 (Oct 1952) (c2c) (drake10).cbz | 39.09MiB
 Jughead v1 023 (Apr 1954) drake10.cbz | 40.42MiB
 Jughead v1 024 (Jun 1954) drake10.cbz | 46.95MiB
 Jughead v1 025 (Aug 1954) drake10.cbz | 44.82MiB
 Jughead v1 028 (Feb 1955) (c2c) (drake10).cbz | 38.30MiB
 Jughead v1 029 (Apr 1955) drake10.cbz | 45.00MiB
+Jughead v1 031 (Aug 1955) (c2c) (drake10).cbz | 34.89MiB
+Jughead v1 033 (Dec 1955) (c2c) (drake10).cbz | 35.36MiB
 Jughead v1 036 (Jun 1956) drake10.cbz | 42.54MiB
 Jughead v1 037 (Aug 1956) (c2c) (drake10).cbz | 35.63MiB
 Jughead v1 042 (Jun 1957) (c2c) (drake10).cbz | 38.63MiB

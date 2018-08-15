@@ -15,7 +15,7 @@ Online | Download
 Armor Hunters - Bloodshot (2014) (Digital) (Zone-Empire).cbr | 165.73MiB
 Armor Hunters - Bloodshot 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.82MiB
 Armor Hunters - Bloodshot 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 52.21MiB
-Armor Hunters - Bloodshot 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 47.59MiB
+[Armor Hunters - Bloodshot 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Bloodshot-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.59MiB
 Bloodshot - Deluxe Edition - Book 01 (2014) (Digital) (Zone-Empire).cbr | 535.93MiB
 Bloodshot - Last Stand (1996) (digital) (d'argh-Empire).cbr | 77.92MiB
 &emsp;【Bloodshot/Bloodshot v1 (000-051+)(1993-1996)(digital)(Minutemen-Excelsior)】 | 
@@ -125,7 +125,7 @@ Bloodshot and H.A.R.D. Corps 015 (2013) (Matthew Waite 8-bit Variant Cover) (Red
 Bloodshot and H.A.R.D. Corps 018 (2014) (Lewis LaRosa Pullbox Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 2.49MiB
 Bloodshot and H.A.R.D. Corps 019 (2014) (Bart Sears Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 2.54MiB
 &emsp;【Bloodshot/Bloodshot v3 (000-025)(2012-2013)(digital)/3- Bloodshot (024-025)(2014)(digital)(Minutemen-Spaztastic)】 | 
-Bloodshot 024 (2014) (digital) (Minutemen-Spaztastic).cbr | 39.44MiB
+[Bloodshot 024 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-024-2014-digital-Minutemen-Spaztastic-cbr.md) | 39.44MiB
 [Bloodshot 025 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bloodshot-025-2014-digital-Minutemen-Spaztastic-cbr.md) | 97.61MiB
 &emsp;【Bloodshot/Bloodshot v3 TPBs (v01-v06)】 | 
 Bloodshot Vol. 01 - Setting the World on Fire (2012) (digital) (Minutemen-Slayer).cbr | 195.79MiB

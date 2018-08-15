@@ -41,6 +41,7 @@ Marvel Previews 011 (June 2018 for Aug 2018) (webrip by Lusiphur-DCP).pdf | 43.0
 Marvel Previews 012 (July 2016 for Sept 2016) (webrip by Lusiphur-DCP).pdf | 31.63MiB
 Marvel Previews 012 (July 2018 for Sep 2018) (webrip by Lusiphur-DCP).pdf | 44.48MiB
 Marvel Previews 013 (Aug 2016 for Oct 2016) (webrip by Lusiphur-DCP).pdf | 47.00MiB
+Marvel Previews 013 (Aug 2018 for Oct 2018) (webrip by Lusiphur-DCP).pdf | 50.20MiB
 Marvel Previews 014 (Sept 2016 for Nov 2016) (webrip by Lusiphur-DCP).pdf | 1.25MiB
 Marvel Previews 015 (Oct 2016 for Dec 2016) (webrip by Lusiphur-DCP).pdf | 44.80MiB
 Marvel Previews 016 (Nov 2016 for Jan 2017) (webrip by Lusiphur-DCP).pdf | 48.75MiB

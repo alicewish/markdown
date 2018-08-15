@@ -314,6 +314,7 @@ X-Men, 2000-07-00 (#104) (digital) (Glorith-HD).cbz | 51.52MiB
 X-Men, 2000-08-00 (#105) (digital) (Glorith-HD).cbz | 48.70MiB
 X-Men, 2000-09-00 (#106) (digital) (Glorith-HD).cbz | 80.29MiB
 X-Men 107 (2000) (Digital) (AnHeroGold-Empire).cbz | 47.15MiB
+X-Men Annual, 2000-07-00 (#2000) (digital) (Glorith-HD).cbz | 87.13MiB
 X-Men 108 (2001) (Digital) (Kileko-Empire).cbr | 77.80MiB
 X-Men 109 (2001) (Digital) (Shadowcat-Empire).cbz | 82.20MiB
 X-Men 110 (2001) (Digital) (Zone-Empire).cbr | 29.17MiB

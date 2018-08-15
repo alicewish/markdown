@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Aquaman (v1-v7+Extras) (1941,1962-Ongoing)/Aquaman and the Others (001-011) (2014-2015) (digital) (BlackManta-Empire)】 | 
-Aquaman and The Others - Futures End 001 (2014) (Worldbreaker-DCP).cbr | 39.11MiB
+[Aquaman and The Others - Futures End 001 (2014) (Worldbreaker-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-Others-Futures-End-001-2014-Worldbreaker-DCP-cbr.md) | 39.11MiB
 [Aquaman and the Others 001 (2014) (digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-Others-001-2014-digital-BlackManta-Empire-cbr.md) | 37.89MiB
 [Aquaman and the Others 002 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-Others-002-2014-Digital-BlackManta-Empire-cbr.md) | 38.89MiB
 [Aquaman and the Others 003 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-Others-003-2014-Digital-BlackManta-Empire-cbr.md) | 41.90MiB

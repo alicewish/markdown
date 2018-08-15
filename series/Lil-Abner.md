@@ -10,6 +10,10 @@
 
 
 
+相关种子⬇Related Torrents
+
+[Li'l Abner](https://github.com/alicewish/markdown/blob/master/torrent/Lil-Abner.md)
+
 Online | Download
 --- | ---
 Lil Abner 061[firstHarvey1947][no ifc,ibc]L246.cbz | 36.32MiB

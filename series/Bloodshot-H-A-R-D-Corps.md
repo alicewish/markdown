@@ -12,6 +12,8 @@
 
 相关种子⬇Related Torrents
 
+[Bloodshot & H.A.R.D. Corps (000 - 018) (ongoing)](https://github.com/alicewish/markdown/blob/master/torrent/Bloodshot---H-A-R-D--Corps--000---018---ongoing.md)
+
 [Bloodshot and H.A.R.D. Corps (000 - 025) (2012 - 2014)](https://github.com/alicewish/markdown/blob/master/torrent/Bloodshot-and-H-A-R-D--Corps--000---025---2012---2014.md)
 
 Online | Download

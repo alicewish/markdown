@@ -1,5 +1,9 @@
 ## The Unexpected 002 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 The Unexpected 目录](https://github.com/alicewish/markdown/blob/master/series/Unexpected.md)
+
+
 ![The Unexpected (2018-) 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqyedkijj21j82cw4qp.jpg)
 
 ![The Unexpected (2018-) 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqdx9tbqj21kw17rkjl.jpg)
@@ -47,3 +51,6 @@
 ![The Unexpected (2018-) 002-022.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyr1tkdwaj21j72cw7wh.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqdd52rmj20zk1io4qp.jpg)
+
+[回到 The Unexpected 目录](https://github.com/alicewish/markdown/blob/master/series/Unexpected.md)
+

@@ -123,7 +123,7 @@ Invincible 110 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.47MiB
 Invincible 111 (2014) (digital) (Minutemen-InnerDemons).cbr | 45.67MiB
 Invincible 112 (2014) (digital) (Minutemen-InnerDemons).cbr | 44.18MiB
 Invincible 113 (2014) (digital) (Minutemen-InnerDemons).cbr | 45.86MiB
-Invincible 114 (2014) (digital) (Minutemen-InnerDemons).cbr | 40.51MiB
+[Invincible 114 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-114-2014-digital-Minutemen-InnerDemons-cbr.md) | 40.51MiB
 [Invincible 115 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-115-2014-digital-Minutemen-InnerDemons-cbr.md) | 55.35MiB
 [Invincible 116 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-116-2015-digital-Minutemen-InnerDemons-cbr.md) | 41.18MiB
 [Invincible 117 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Invincible-117-2015-digital-Minutemen-InnerDemons-cbr.md) | 44.72MiB

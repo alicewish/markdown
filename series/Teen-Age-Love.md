@@ -12,6 +12,7 @@
 
 Online | Download
 --- | ---
+Teen-Age Love 20 c2c Charlton May 1961 ComicWanderer.cbz | 67.14MiB
 Teen-Age Love 28 Charlton Oct 1962 Titansfan.cbz | 22.50MiB
 Teen-Age Love 30 Charlton Feb 1963 titansfan.cbz | 59.50MiB
 Teen-Age Love 037 (Charlton 1964) (c2c) (Titansfan).cbz | 26.03MiB

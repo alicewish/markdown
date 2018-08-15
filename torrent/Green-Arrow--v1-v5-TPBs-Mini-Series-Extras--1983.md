@@ -92,7 +92,7 @@ Green Arrow - Year One 06 (of 6) (2007) (digital) (Minutemen-PhD).cbr | 18.49MiB
 Green Arrow - Year One HC (2008) (Minutemen-TheDizzyZone).cbr | 76.77MiB
 Green Arrow Secret Files 01.cbr | 14.79MiB
 Green Arrow by Jack Kirby TPB (2001).cbz | 28.35MiB
-Green Arrow- Year One - Special Edition 001 (2014) (Digital) (ThatGuy-Empire).cbz | 28.44MiB
+[Green Arrow- Year One - Special Edition 001 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-Year-One-Special-Edition-001-2014-Digital-ThatGuy-Empire-cbz.md) | 28.44MiB
 Green Lantern Green Arrow (TPB) (2013) (Digital) (TLK-EMPIRE-HD).cbr | 430.33MiB
 &emsp;【Green Arrow (v1-v5+TPBs,Mini-Series+Extras)(1983-)/Extras/Shado - Song of the Dragon (001-004) (1992)】 | 
 Shado - Song of the Dragon 001 (1992).cbr | 29.71MiB

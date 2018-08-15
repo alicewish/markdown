@@ -24,7 +24,7 @@ Powers The Bureau 007 (2013) (Digital) (Zone-Empire).cbr | 23.77MiB
 Powers The Bureau 008 (2014) (Digital) (Zone-Empire).cbr | 31.74MiB
 Powers The Bureau 009 (2014) (Digital) (Zone-Empire).cbr | 40.22MiB
 Powers The Bureau 010 (2014) (Digital) (Zone-Empire).cbr | 31.27MiB
-Powers The Bureau 011 (2014) (Digital) (Zone-Empire).cbr | 39.61MiB
+[Powers The Bureau 011 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-Bureau-011-2014-Digital-Zone-Empire-cbr.md) | 39.61MiB
 [Powers The Bureau 012 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-Bureau-012-2014-Digital-Zone-Empire-cbr.md) | 23.89MiB
 &emsp;【Powers (v1-v4+)(2009-2017)(digital)(Minutemen+Empire)/Powers - The Bureau (001-012+)(2013-2014)(digital)(Zone-Empire)/variant covers】 | 
 Powers The Bureau 001 (2012) (David Mack Variant) (Cover ONLY) (ScanDog & Novus).cbz | 1.34MiB

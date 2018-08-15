@@ -38,13 +38,13 @@ Smallville - Chaos 010 (2014) (Digital-Empire).cbr | 12.83MiB
 Smallville - Chaos 011 (2014) (Digital-Empire).cbr | 14.67MiB
 Smallville - Chaos 012 (2014) (Digital-Empire).cbr | 13.38MiB
 &emsp;【Smallville - Season 11 (001 - 069 + Mini-Series) (2012 - 2014) (Digital-Empire)/Smallville - Continuity (001 - 012) (2014) (Digital-Empire)】 | 
-Smallville - Continuity 001 (2014) (Digital-Empire).cbr | 15.65MiB
-Smallville - Continuity 002 (2014) (Digital-Empire).cbr | 14.20MiB
-Smallville - Continuity 003 (2014) (Digital-Empire).cbr | 15.16MiB
-Smallville - Continuity 004 (2014) (Digital-Empire).cbr | 16.06MiB
-Smallville - Continuity 005 (2014) (Digital-Empire).cbr | 17.63MiB
-Smallville - Continuity 006 (2014) (Digital-Empire).cbr | 17.76MiB
-Smallville - Continuity 007 (2014) (Digital-Empire).cbr | 18.86MiB
+[Smallville - Continuity 001 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-001-2014-Digital-Empire-cbr.md) | 15.65MiB
+[Smallville - Continuity 002 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-002-2014-Digital-Empire-cbr.md) | 14.20MiB
+[Smallville - Continuity 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-003-2014-Digital-Empire-cbr.md) | 15.16MiB
+[Smallville - Continuity 004 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-004-2014-Digital-Empire-cbr.md) | 16.06MiB
+[Smallville - Continuity 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-005-2014-Digital-Empire-cbr.md) | 17.63MiB
+[Smallville - Continuity 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-006-2014-Digital-Empire-cbr.md) | 17.76MiB
+[Smallville - Continuity 007 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-007-2014-Digital-Empire-cbr.md) | 18.86MiB
 [Smallville - Continuity 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-008-2014-Digital-Empire-cbr.md) | 16.34MiB
 [Smallville - Continuity 009 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-009-2014-Digital-Empire-cbr.md) | 15.55MiB
 [Smallville - Continuity 010 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-010-2014-Digital-Empire-cbr.md) | 16.70MiB

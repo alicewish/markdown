@@ -16,6 +16,8 @@ Bridging the 10-year gap between the RISE OF THE PLANET OF THE APES and DAWN OF 
 
 相关种子⬇Related Torrents
 
+[Dawn Of The Planet Of The Apes (001-006)(2014-2015) (Digital Rip) (Harkonnen-DCP)](https://github.com/alicewish/markdown/blob/master/torrent/Dawn-Of-The-Planet-Of-The-Apes--001-006--2014-2015---Digital-Rip---Harkonnen-DCP.md)
+
 [Dawn of the Planet of the Apes (001-006+) (2014-2015) (digital) (Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Dawn-of-the-Planet-of-the-Apes--001-006----2014-2015---digital---Minutemen-Slayer.md)
 
 Online | Download

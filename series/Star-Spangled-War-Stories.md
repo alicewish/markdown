@@ -30,6 +30,11 @@ Star Spangled War Stories 172 c2c DC Aug 1973 Kracalactaka+a nonny moose.cbz | 4
 Star Spangled War Stories 173 c2c (36p DC 1973-09) (Stubby-DMiles).cbz | 50.40MiB
 Star Spangled War Stories 185 c2c (36p DC 1975-03) (Stubby-DMiles).cbz | 45.06MiB
 Star Spangled War Stories 186 c2c (36p DC 1975-04) (Stubby-DMiles).cbz | 43.75MiB
+Star Spangled War Stories 175 DC Nov 1973 Titansfan.cbz | 66.13MiB
+Star Spangled War Stories 178 DC Feb 1974 Titansfan.cbz | 67.79MiB
+Star Spangled War Stories 189 DC Jul 1975 Titansfan.cbz | 68.19MiB
+Star Spangled War Stories 191 DC Sep 1975 Titansfan.cbz | 67.80MiB
+Star Spangled War Stories 192 DC Oct 1975 Titansfan.cbz | 66.47MiB
 [Star Spangled War Stories - Futures End 001 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Spangled-War-Stories-Futures-End-001-2014-digital-CompetentRipper-Empire-cbr.md) | [27.08MiB](https://pan.baidu.com/s/1dEJy9Eh#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.24%2F%E3%82%BD%E3%82%B3%E3%82%AF%E3%82%A6%E3%82%BF%E3%82%BB%E3%82%AA%E3%82%BD%E3%82%A8%E3%82%B5%E3%82%B3%E3%82%AB%E3%82%BF%E3%82%AD%E3%82%A2%E3%82%A2%E3%82%A2%E3%82%A8%E3%82%AB%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%BD%E3%82%AA%E3%82%B5%E3%82%B3%E3%82%AF%E3%82%AA%E3%82%AA%E3%82%B5%E3%82%AA%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Star Spangled War Stories - Futures End 001 (2014) (digital) (Oroboros-DCP).cbr | 27.16MiB
 Star Spangled War Stories 001 (2014) (digital) (Oroboros-DCP).cbr | 27.80MiB

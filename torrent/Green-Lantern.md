@@ -1576,7 +1576,7 @@ Green Lantern Superman - Legend of the Green Flame (Neil Gaiman).cbr | 21.55MiB
 Green Lantern v2 (original art) 001 (1960-DC) 10p.cbr | 4.36MiB
 Green Lantern v3 048-050 Unreleased Original Pages and Story.cbr | 623.13KiB
 Green Lantern vs Silver Surfer.cbr | 31.16MiB
-Green Lantern-New Gods - Godhead 001 (2014) (digital) (CompetentRipper-Empire).cbr | 66.54MiB
+[Green Lantern-New Gods - Godhead 001 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Lantern-New-Gods-Godhead-001-2014-digital-CompetentRipper-Empire-cbr.md) | 66.54MiB
 Green Lantern-Plastic Man - Weapons of Mass Deception 01 (2011) (Minutemen-Hawaiian Punch).cbz | 43.96MiB
 Iron Lantern 01 (1997) (Minutemen-SeeNoBobHearNoBob).cbz | 25.54MiB
 [Justice League - Darkseid War - Green Lantern 001 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Darkseid-War-Green-Lantern-001-2016-Digital-Zone-Empire-cbr.md) | 31.75MiB

@@ -11,9 +11,9 @@
 Online | Download
 --- | ---
 Requiem Vampire Knight v01 - Resurrection (2014) (Digital) (DR & Quinch-Empire).cbr | 136.11MiB
-Requiem Vampire Knight v02 - Danse Macabre (2014) (Digital) (DR & Quinch-Empire).cbr | 149.01MiB
-Requiem Vampire Knight v03 - Dracula (2014) (Digital) (DR & Quinch-Empire).cbr | 148.86MiB
-Requiem Vampire Knight v04 - The Vampires' Ball (2014) (Digital) (DR & Quinch-Empire).cbr | 178.05MiB
+[Requiem Vampire Knight v02 - Danse Macabre (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Requiem-Vampire-Knight-v02-Danse-Macabre-2014-Digital-DR-Quinch-Empire-cbr.md) | 149.01MiB
+[Requiem Vampire Knight v03 - Dracula (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Requiem-Vampire-Knight-v03-Dracula-2014-Digital-DR-Quinch-Empire-cbr.md) | 148.86MiB
+[Requiem Vampire Knight v04 - The Vampires' Ball (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Requiem-Vampire-Knight-v04-Vampires-Ball-2014-Digital-DR-Quinch-Empire-cbr.md) | 178.05MiB
 Requiem Vampire Knight v05 - Dragon Blitz (2014) (Digital) (DR & Quinch-Empire).cbr | 178.15MiB
 Requiem Vampire Knight v06 - Hellfire Club (2014) (Digital) (DR & Quinch-Empire).cbr | 177.79MiB
 Requiem Vampire Knight v07 - The Convent of the Sisters of Blood (2015) (Digital) (DR & Quinch-Empire).cbr | 179.56MiB

@@ -58,7 +58,7 @@ Danger Girl The Chase! 04 (of 04) (2013) (Digital) (Cypher-Empire).cbr | 30.05Mi
 Danger Girl Mayday 01 (of 04) (2014) (Digital) (Cypher-Empire).cbr | 32.34MiB
 Danger Girl Mayday 02 (of 04) (2014) (Digital) (Cypher-Empire).cbr | 36.78MiB
 Danger Girl Mayday 03 (of 04) (2014) (Digital) (Cypher-Empire).cbr | 40.66MiB
-Danger Girl Mayday 04 (of 04) (2014) (Digital) (Cypher-Empire).cbr | 36.22MiB
+[Danger Girl Mayday 04 (of 04) (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Danger-Girl-Mayday-04-of-04-2014-Digital-Cypher-Empire-cbr.md) | 36.22MiB
 &emsp;【Danger Girl Collection (Mini-Series, Trades & One-Shots) (1997 - 2014)/Danger Girl Preview】 | 
 Danger Girl - Preview (2011) 9p (digital-empire) \[image\].cbr | 6.59MiB
 Danger Girl - Preview (eng) \[Danger Girl Preview variant.jpg\].cbr | 224.04KiB

@@ -25,9 +25,11 @@ Online | Download
 Joe Palooka 23 Harvey Aug 1948 Kracalactaka-DMiles.cbz | 75.92MiB
 Joe Palooka 026 (Harvey 1948) (c2c) (Kracalactaka-a nonny moose).cbz | 77.63MiB
 Joe Palooka 36 Harvey 1949 Kracalactaka-DMiles.cbz | 40.60MiB
+Joe Palooka 055 c2c Harvey Apr 1951 Kracalactaka-DMiles.cbz | 56.25MiB
 Joe Palooka 82 Harvey Mar 1954 Kracalactaka-DMiles.cbz | 46.60MiB
 Joe Palooka 084 Harvey Jul 1954 Narfstar-Prime-a nonny moose.cbz | 33.82MiB
 Joe Palooka 090 Harvey July 1955 Buckaroo.cbz | 30.62MiB
+Joe Palooka 102 c2c Harvey Sep 1957 Kracalactaka-a nonny moose.cbz | 37.75MiB
 Joe Palooka 019 (1948) (Harvey) (INC) 46pgs.cbr | 12.58MiB
 Joe Palooka 030 (1949) (Harvey) (c2c) [DMG ifc].cbr | 17.93MiB
 Joe Palooka 037 (1949) (Harvey) (INC) 32pgs.cbr | 10.78MiB

@@ -32,11 +32,14 @@ Archie Giant Series Magazine 177 (1970) (Archie) (c2c) (ComicsCastle).cbr | 37.1
 Archie Giant Series Magazine 178 (1970) (Archie) (c2c) (ComicsCastle).cbr | 33.81MiB
 Archie Giant Series Magazine 184 Archie Jun 1971 C2C [Betty and Veronica Spectacular].cbz | 148.84MiB
 Archie Giant Series Magazine 188 (1971) (Archie) (c2c) (ComicsCastle).cbr | 96.86MiB
+Archie Giant Series Magazine 197 (1972) (c2c) (CRX).cbz | 77.03MiB
 Archie Giant Series Magazine 199 (1972) (Archie) (c2c) (ComicsCastle).cbr | 26.27MiB
 Archie Giant Series Magazine 202 (1972) (Archie) (c2c) (ComicsCastle).cbr | 26.83MiB
 Archie Giant Series Magazine 212 (1973) (INC - 41of52pgs) (K CW).cbz | 32.17MiB
 Archie Giant Series Magazine 249 (1976) (c2c) (titansfan).cbz | 24.89MiB
 Archie Giant Series Magazine 250 (1976) (Archie) (c2c) (ComicsCastle).cbr | 65.18MiB
 Archie Giant Series Magazine 461 (1977) (c2c) (titansfan).cbz | 24.47MiB
+Archie Giant Series Magazine 552 (1985) (c2c) (CRX).cbz | 43.65MiB
+Archie Giant Series Magazine 554 (1985) (c2c) (CRX).cbz | 46.25MiB
 Archie Giant Series Magazine 555 (1985) (c2c) (Archie) titansfan.cbz | 25.17MiB
 Archie Giant Series Magazine 596 (1989) (c2c) (Archie) titansfan.cbz | 27.00MiB

@@ -16,6 +16,8 @@ The Hood recruits an army of Titania, Mad Thinker, Thunderball, Black Ant and En
 
 相关种子⬇Related Torrents
 
+[Illuminati (001-007) (2016) (digital) (Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Illuminati--001-007---2016---digital---Zone-Empire.md)
+
 [Illuminati (001-007)(2016)(digital)(Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Illuminati--001-007--2016--digital--Minutemen-Slayer.md)
 
 Online | Download

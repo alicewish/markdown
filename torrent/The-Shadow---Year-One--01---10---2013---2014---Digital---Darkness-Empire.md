@@ -19,4 +19,4 @@ The Shadow - Year One 06 (of 10) (2013) (5 Covers) (Digital) (Darkness-Empire).c
 The Shadow - Year One 07 (of 10) (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 40.06MiB
 The Shadow - Year One 08 (of 10) (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 37.02MiB
 The Shadow - Year One 09 (of 10) (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 41.83MiB
-The Shadow - Year One 10 (of 10) (2014) (Digital) (Darkness-Empire).cbr | 54.34MiB
+[The Shadow - Year One 10 (of 10) (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shadow-Year-One-10-of-10-2014-Digital-Darkness-Empire-cbr.md) | 54.34MiB

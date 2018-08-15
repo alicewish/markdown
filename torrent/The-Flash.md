@@ -976,9 +976,9 @@ Flash - Rebirth 01 (2009) (4th Printing Variant Only) \[extracted\] (Minutemen-D
 Flash - Rebirth 01 (2009) (Ethan Van Sciver 2nd Printing Cover) (Minutemen-DTs).cbz | 678.95KiB
 Flash - Rebirth 02 (2009) (2nd Printing Variant Only) (ScanDog).cbr | 960.36KiB
 &emsp;【The Flash/The Flash - Season Zero (001-024)(2014-2015)(digital)(BlackManta-Empire)】 | 
-The Flash - Season Zero 001 (2014) (Digital) (BlackManta-Empire).cbr | 14.79MiB
-The Flash - Season Zero 002 (2014) (Digital) (BlackManta-Empire).cbr | 12.82MiB
-The Flash - Season Zero 003 (2014) (Digital) (BlackManta-Empire).cbr | 14.28MiB
+[The Flash - Season Zero 001 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-001-2014-Digital-BlackManta-Empire-cbr.md) | 14.79MiB
+[The Flash - Season Zero 002 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-002-2014-Digital-BlackManta-Empire-cbr.md) | 12.82MiB
+[The Flash - Season Zero 003 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-003-2014-Digital-BlackManta-Empire-cbr.md) | 14.28MiB
 [The Flash - Season Zero 004 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-004-2014-Digital-BlackManta-Empire-cbr.md) | 14.03MiB
 [The Flash - Season Zero 005 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-005-2014-Digital-BlackManta-Empire-cbr.md) | 13.08MiB
 [The Flash - Season Zero 006 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Flash-Season-Zero-006-2014-Digital-BlackManta-Empire-cbr.md) | 13.96MiB

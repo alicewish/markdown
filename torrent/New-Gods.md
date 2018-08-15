@@ -120,7 +120,7 @@ Death of the New Gods 05 (of 08) (2008) (digital) (OkC.O.M.P.U.T.O.-Novus).cbz |
 Death of the New Gods 06 (of 08) (2008) (digital) (OkC.O.M.P.U.T.O.-Novus).cbz | 16.26MiB
 Death of the New Gods 07 (of 08) (2008) (digital) (OkC.O.M.P.U.T.O.-Novus).cbz | 19.98MiB
 Death of the New Gods 08 (of 08) (2008) (digital) (OkC.O.M.P.U.T.O.-Novus).cbz | 20.37MiB
-Green Lantern-New Gods - Godhead 001 (2014) (digital) (CompetentRipper-Empire).cbr | 66.54MiB
+[Green Lantern-New Gods - Godhead 001 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Lantern-New-Gods-Godhead-001-2014-digital-CompetentRipper-Empire-cbr.md) | 66.54MiB
 New Gods - The Hunger Dogs (1985) (GN4).cbz | 29.16MiB
 &emsp;【New Gods/Super Powers (001-004)(1986)】 | 
 Super Powers 01 (of 04) (1986).cbr | 7.64MiB

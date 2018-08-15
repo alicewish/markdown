@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-Annihilator 001 (2014) (Digital) (Zone-Empire).cbr | 65.00MiB
-Annihilator 002 (2014) (Digital) (Zone-Empire).cbr | 55.40MiB
+[Annihilator 001 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Annihilator-001-2014-Digital-Zone-Empire-cbr.md) | 65.00MiB
+[Annihilator 002 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Annihilator-002-2014-Digital-Zone-Empire-cbr.md) | 55.40MiB
 [Annihilator 003 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Annihilator-003-2014-Digital-Zone-Empire-cbr.md) | 60.49MiB
 [Annihilator 004 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Annihilator-004-2014-Digital-Zone-Empire-cbr.md) | 74.32MiB
 [Annihilator 005 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Annihilator-005-2015-Digital-Zone-Empire-cbr.md) | 66.24MiB

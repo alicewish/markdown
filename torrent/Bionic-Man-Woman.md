@@ -87,7 +87,7 @@ The Bionic Woman 008 (2013) (Digital) (Zone-Empire).cbr | 47.82MiB
 The Bionic Woman 009 (2013) (Digital) (Roxrite-Empire).cbr | 32.60MiB
 The Bionic Woman 010 (2013) (Digital) (Cypher-Empire).cbr | 37.90MiB
 &emsp;【Bionic Man-Woman/The Bionic Woman/(Dynamite)/The Bionic Woman v2 Season 4 (001-004)(2014)(digital)】 | 
-The Bionic Woman - Season 4 001 (2014) (digital) (Son of Ultron-Empire).cbr | 39.41MiB
+[The Bionic Woman - Season 4 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bionic-Woman-Season-4-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 39.41MiB
 [The Bionic Woman - Season 4 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bionic-Woman-Season-4-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 34.64MiB
 [The Bionic Woman - Season 4 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bionic-Woman-Season-4-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 36.51MiB
 [The Bionic Woman - Season 4 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bionic-Woman-Season-4-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.53MiB

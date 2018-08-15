@@ -30,8 +30,8 @@ SpongeBob Comics 030 (2014) (c2c) (Jojo).cbr | 26.38MiB
 SpongeBob Comics 031 (2014) (c2c) (Jojo).cbr | 28.44MiB
 SpongeBob Comics 032 (2014) (c2c) (Jojo).cbr | 30.70MiB
 SpongeBob Comics 035 (2014) (c2c) (Jojo).cbr | 27.01MiB
-SpongeBob Comics 036 (2014) (c2c) (Jojo).cbr | 28.83MiB
-SpongeBob Comics 037 (2014) (c2c) (Jojo).cbr | 28.68MiB
+[SpongeBob Comics 036 (2014) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/SpongeBob-Comics-036-2014-c2c-Jojo-cbr.md) | 28.83MiB
+[SpongeBob Comics 037 (2014) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/SpongeBob-Comics-037-2014-c2c-Jojo-cbr.md) | 28.68MiB
 [SpongeBob Comics 038 (2014) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/SpongeBob-Comics-038-2014-c2c-Jojo-cbr.md) | 27.31MiB
 [SpongeBob Comics 039 (2014) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/SpongeBob-Comics-039-2014-c2c-Jojo-cbr.md) | 27.40MiB
 [SpongeBob Comics 041 (2015) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/SpongeBob-Comics-041-2015-c2c-Jojo-cbr.md) | 29.40MiB

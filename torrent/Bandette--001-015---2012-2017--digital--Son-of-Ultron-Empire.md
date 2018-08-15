@@ -23,7 +23,7 @@ Bandette - Urchin Stories 008 (2013) (digital) (Son of Ultron-Empire).cbr | 1.68
 Bandette - Urchin Stories 009 (2013) (digital-Empire) (Ok).cbz | 3.62MiB
 Bandette - Urchin Stories 010 (2014) (digital-Empire).cbz | 3.86MiB
 Bandette - Urchin Stories 011 (2014) (digital) (Son of Ultron-Empire).cbr | 2.65MiB
-Bandette - Urchin Stories 012 (2014) (digital) (Son of Ultron-Empire).cbr | 5.70MiB
+[Bandette - Urchin Stories 012 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bandette-Urchin-Stories-012-2014-digital-Son-of-Ultron-Empire-cbr.md) | 5.70MiB
 Bandette - Urchin Stories 013 (2014) (digital) (Son of Ultron-Empire).cbr | 7.58MiB
 Bandette - Urchin Stories 014 (2014) (digital) (Son of Ultron-Empire).cbr | 8.10MiB
 [Bandette - Urchin Stories 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bandette-Urchin-Stories-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 8.56MiB

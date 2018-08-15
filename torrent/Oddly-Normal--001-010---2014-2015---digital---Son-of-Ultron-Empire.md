@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Oddly Normal 001 (2014) (digital) (Son of Ultron-Empire).cbr | 53.00MiB
+[Oddly Normal 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 53.00MiB
 [Oddly Normal 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 52.60MiB
 [Oddly Normal 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 42.86MiB
 [Oddly Normal 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Oddly-Normal-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.70MiB

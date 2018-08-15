@@ -68,7 +68,7 @@ Nikolai Dante 09 - Amerika (2010) (Digital) (DR & Quinch-Empire).cbr | 151.32MiB
 Nikolai Dante 10 - Hero of the Revolution (2011) (Digital) (DR & Quinch-Empire).cbr | 144.56MiB
 Nikolai Dante 11 - Sympathy for the Devil (2012) (Digital) (DR & Quinch-Empire).cbr | 177.37MiB
 Predator Versus Judge Dredd Versus Aliens TPB (2015) (digital) (Minutemen-Bluntman).cbr | 349.69MiB
-Predator vs. Judge Dredd vs. Aliens - Incubus and Other Stories (2014) (digital) (Son of Ultron-Empire).cbr | 400.16MiB
+[Predator vs. Judge Dredd vs. Aliens - Incubus and Other Stories (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Predator-vs-Judge-Dredd-vs-Aliens-Incubus-Other-Stories-2014-digital-Son-of-Ultron-Empire-cbr.md) | 400.16MiB
 Robo-Hunter Book 001 (1982.Titan).cbr | 29.13MiB
 Robo-Hunter Book 002 (1982.Titan).cbr | 25.14MiB
 Robo-Hunter Book 003 (1984.Titan) (grim reaper).cbr | 32.54MiB

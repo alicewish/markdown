@@ -544,7 +544,7 @@ Simpsons Comics 211 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.23MiB
 Simpsons Comics 212 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.96MiB
 Simpsons Comics 213 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.53MiB
 Simpsons Comics 214 (2014) (Harkonnen-DCP).cbz | 39.76MiB
-Simpsons Comics 215 (2014) (Harkonnen-DCP).cbz | 37.15MiB
+[Simpsons Comics 215 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-215-2014-Harkonnen-DCP-cbz.md) | 37.15MiB
 [Simpsons Comics 216 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-216-2014-Harkonnen-DCP-cbz.md) | 37.17MiB
 [Simpsons Comics 217 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-217-2015-Harkonnen-DCP-cbz.md) | 36.15MiB
 [Simpsons Comics 218 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-218-2015-Harkonnen-DCP-cbz.md) | 34.31MiB
@@ -574,7 +574,7 @@ Simpsons Illustrated 009 (2014) (Harkonnen-DCP).cbz | 58.65MiB
 Simpsons Illustrated 010 (2014) (Harkonnen-DCP).cbz | 58.71MiB
 Simpsons Illustrated 011 (2014) (Harkonnen-DCP).cbz | 59.16MiB
 Simpsons Illustrated 012 (2014) (Harkonnen-DCP).cbz | 54.54MiB
-Simpsons Illustrated 013 (2014) (Harkonnen-DCP).cbz | 58.98MiB
+[Simpsons Illustrated 013 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Illustrated-013-2014-Harkonnen-DCP-cbz.md) | 58.98MiB
 [Simpsons Illustrated 014 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Illustrated-014-2014-Harkonnen-DCP-cbz.md) | 54.25MiB
 [Simpsons Illustrated 015 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Illustrated-015-2015-Harkonnen-DCP-cbz.md) | 57.90MiB
 Simpsons Illustrated 020 (2015) (c2c) (GreenManGroup-DCP).cbr | 49.90MiB

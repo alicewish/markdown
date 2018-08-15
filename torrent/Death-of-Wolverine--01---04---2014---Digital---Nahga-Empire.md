@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Death of Wolverine 01 (of 04) (2014) (Digital) (Nahga-Empire).cbr | 76.48MiB
-Death of Wolverine 02 (of 04) (2014) (Digital) (Nahga-Empire).cbr | 44.85MiB
-Death of Wolverine 03 (of 04) (2014) (Digital) (Nahga-Empire).cbr | 46.92MiB
-Death of Wolverine 04 (of 04) (2014) (Digital) (Nahga-Empire).cbr | 54.45MiB
+[Death of Wolverine 01 (of 04) (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-01-of-04-2014-Digital-Nahga-Empire-cbr.md) | 76.48MiB
+[Death of Wolverine 02 (of 04) (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-02-of-04-2014-Digital-Nahga-Empire-cbr.md) | 44.85MiB
+[Death of Wolverine 03 (of 04) (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-03-of-04-2014-Digital-Nahga-Empire-cbr.md) | 46.92MiB
+[Death of Wolverine 04 (of 04) (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Death-of-Wolverine-04-of-04-2014-Digital-Nahga-Empire-cbr.md) | 54.45MiB

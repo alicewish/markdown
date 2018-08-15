@@ -2250,7 +2250,7 @@ O.M.A.C. 008 (2012) (Digital) (Zone-Empire).cbr | 41.42MiB
 [Batman - Joker's Daughter 01 (2014) (digital) (Grumpy-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jokers-Daughter-01-2014-digital-Grumpy-Empire-cbr.md) | 98.18MiB
 [Batman Year Zero Director's Cut 01 (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Year-Zero-Directors-Cut-01-2013-Digital-Zone-Empire-cbr.md) | 65.99MiB
 [Constantine Special Edition 01 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Constantine-Special-Edition-01-2014-Digital-ThatGuy-Empire-cbz.md) | 99.50MiB
-DC Comics - Zero Year (2014) (Digital) (Zone-Empire).cbr | 609.98MiB
+[DC Comics - Zero Year (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/DC-Comics-Zero-Year-2014-Digital-Zone-Empire-cbr.md) | 609.98MiB
 [DC Comics Essentials - Batman 01 (2014) (Digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/DC-Comics-Essentials-Batman-01-2014-Digital-cbr.md) | 70.63MiB
 [DC Comics Essentials - Justice League 01 (2014) (Digital) (Ookla-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/DC-Comics-Essentials-Justice-League-01-2014-Digital-Ookla-Empire-cbr.md) | 99.05MiB
 [DC Comics Essentials - Wonder Woman 01 (2013) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz](https://github.com/alicewish/markdown/blob/master/comic/DC-Comics-Essentials-Wonder-Woman-01-2013-digital-OkC-O-M-P-U-T-O-Novus-HD-cbz.md) | 87.02MiB

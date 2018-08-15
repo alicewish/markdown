@@ -14,6 +14,8 @@ Dark Horse
 
 [King Conan - Wolves beyond the Border (001-004) (2015-2016) (digital) (Son of Ultron-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/King-Conan---Wolves-beyond-the-Border--001-004---2015-2016---digital---Son-of-Ultron-Empire.md)
 
+[King Conan - Wolves beyond the Border (01-04) (of 04) (c2c) (2015-2016) (Empire-Tiger)](https://github.com/alicewish/markdown/blob/master/torrent/King-Conan---Wolves-beyond-the-Border--01-04---of-04---c2c---2015-2016---Empire-Tiger.md)
+
 Online | Download
 --- | ---
 King Conan - Wolves beyond the Border 01(of 04) (c2c) (2015) (Empire-Tiger).cbr | 224.21MiB

@@ -41,3 +41,4 @@ Farewell, My Dear Cramer 014 (2017) (Digital) (danke-Empire).cbz | 61.99MiB
 Farewell, My Dear Cramer 023 (2018) (Digital) (danke-Empire).cbz | 65.95MiB
 [Farewell, My Dear Cramer 024 (2018) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Farewell-My-Dear-Cramer-024-2018-Digital-danke-Empire-cbz.md) | [68.86MiB](https://pan.baidu.com/s/1h9jMC2Lio6fsZcY1C5iw9Q#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.25%2F%E3%82%B5%E3%82%B3%E3%82%BF%E3%82%BB%E3%82%B5%E3%82%AD%E3%82%BF%E3%82%B3%E3%82%B7%E3%82%BB%E3%82%A2%E3%82%AD%E3%82%AF%E3%82%B1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%B3%E3%82%AD%E3%82%B7%E3%82%B7%E3%82%A8%E3%82%A8%E3%82%BF%E3%82%AF%E3%82%A2%E3%82%BB%E3%82%BB%E3%82%BD%E3%82%A8%E3%82%BD%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
 Farewell, My Dear Cramer 025 (2018) (Digital) (danke-Empire).cbz | 67.02MiB
+Farewell, My Dear Cramer 026 (2018) (Digital) (danke-Empire).cbz | 55.55MiB

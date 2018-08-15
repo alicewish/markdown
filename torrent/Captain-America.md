@@ -822,7 +822,7 @@ Captain America 020 (2014) (digital) (Minutemen-InnerDemons).cbr | 41.62MiB
 [Captain America 021 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-021-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.50MiB
 Captain America 022 (2014) (digital) (Minutemen-InnerDemons).cbr | 39.47MiB
 Captain America 023 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.09MiB
-Captain America 024 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.06MiB
+[Captain America 024 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-024-2014-digital-Minutemen-InnerDemons-cbr.md) | 47.06MiB
 [Captain America 025 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-025-2014-digital-Minutemen-InnerDemons-cbr.md) | 60.91MiB
 &emsp;【Captain America/Captain America (v1 - v7 + Extras) (1941-Ongoing)/10a. V1 Captain America and the Mighty Avengers (001-009)(2015)(Digital)(Zone-Empire)】 | 
 [Captain America and the Mighty Avengers 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-America-Mighty-Avengers-001-2015-Digital-Zone-Empire-cbr.md) | 39.27MiB

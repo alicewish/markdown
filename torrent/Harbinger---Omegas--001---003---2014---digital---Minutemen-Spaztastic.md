@@ -12,4 +12,4 @@ Online | Download
 --- | ---
 [Harbinger - Omegas 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Omegas-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 42.13MiB
 Harbinger - Omegas 01 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 61.24MiB
-Harbinger - Omegas 02 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 47.04MiB
+[Harbinger - Omegas 02 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Omegas-02-of-03-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.04MiB

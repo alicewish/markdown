@@ -226,7 +226,7 @@ Deadpool vs. Carnage 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 4
 Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 49.41MiB
 Deadpool vs. X-Force 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 47.23MiB
 Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
-Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
+[Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 &emsp;【Deadpool Collection/Deadpool v1 (000 - 069 + extras) (1997 - 2002)】 | 
 Deadpool 000 (1998) (Digital (AnHeroGold - Empire).cbr | 49.00MiB
 Deadpool 001 (1997) (Digital) (Empire-G85).cbr | 22.65MiB
@@ -409,8 +409,8 @@ Deadpool 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.29MiB
 Deadpool 031 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.50MiB
 Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.12MiB
 Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.71MiB
-Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr | 61.52MiB
-Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 36.95MiB
+[Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-034-2014-digital-Minutemen-InnerDemons-cbr.md) | 61.52MiB
+[Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-035-2014-digital-Minutemen-InnerDemons-cbr.md) | 36.95MiB
 [Deadpool 036 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-036-2014-digital-Minutemen-InnerDemons-cbr.md) | 39.08MiB
 [Deadpool 037 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-037-2015-digital-Minutemen-InnerDemons-cbr.md) | 42.12MiB
 [Deadpool 038 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-038-2015-digital-Minutemen-InnerDemons-cbr.md) | 43.16MiB
@@ -423,7 +423,7 @@ Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 36.95MiB
 [Deadpool 045 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-045-2015-5-covers-digital-Minutemen-InnerDemons-cbr.md) | 174.69MiB
 Deadpool Annual 01 (2014) (digital) (Minutemen-PhD).cbr | 45.22MiB
 Deadpool Annual 02 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.69MiB
-Deadpool Bi-Annual 01 (2014) (digital) (Minutemen-InnerDemons).cbr | 55.71MiB
+[Deadpool Bi-Annual 01 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Bi-Annual-01-2014-digital-Minutemen-InnerDemons-cbr.md) | 55.71MiB
 &emsp;【Deadpool Collection/Deadpool's Art of War (01 - 04) (2014 - 2015) (digital) (Minutemen-InnerDemons)】 | 
 [Deadpool's Art of War 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-01-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 72.94MiB
 [Deadpool's Art of War 02 (of 04) (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpools-Art-of-War-02-of-04-2015-digital-Minutemen-InnerDemons-cbr.md) | 72.43MiB

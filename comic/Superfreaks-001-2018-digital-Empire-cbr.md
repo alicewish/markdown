@@ -1,5 +1,9 @@
 ## Superfreaks 001 (2018) (digital-Empire).cbr
 
+
+[回到 Superfreaks 目录](https://github.com/alicewish/markdown/blob/master/series/Superfreaks.md)
+
+
 ![Superfreaks 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs77wanqzfj21ji2cwe81.jpg)
 
 ![Superfreaks 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs77wgore8j21ji2cw4o1.jpg)
@@ -79,3 +83,6 @@
 ![Superfreaks 001-038.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs782tyf65j21ji2cwe81.jpg)
 
 ![Superfreaks 001-039.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs782xlpwcj21ji2cwqe6.jpg)
+
+[回到 Superfreaks 目录](https://github.com/alicewish/markdown/blob/master/series/Superfreaks.md)
+

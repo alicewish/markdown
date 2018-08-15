@@ -26,6 +26,8 @@ Determined to rebuild the JSA, founding members Green Lantern, Flash and Wildcat
 
 [Justice Society of America (1991-2011)(Scans+Digital)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-Society-of-America--1991-2011--Scans-Digital.md)
 
+[Justice Society of America (001 - 054 + Annual) (2007-2011) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-Society-of-America--001---054---Annual---2007-2011---digital-Empire.md)
+
 [Justice Society of America (v01-v04) (2007-2009) (digital) (Minutemen-FlynnLives)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-Society-of-America--v01-v04---2007-2009---digital---Minutemen-FlynnLives.md)
 
 [Justice Society of America (v01-v07) (2007-2010) (digital) (Minutemen-FlynnLives)](https://github.com/alicewish/markdown/blob/master/torrent/Justice-Society-of-America--v01-v07---2007-2010---digital---Minutemen-FlynnLives.md)

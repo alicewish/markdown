@@ -257,9 +257,9 @@ Crossed - Badlands 057 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 45.60
 Crossed - Badlands 058 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 46.75MiB
 Crossed - Badlands 059 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 42.07MiB
 Crossed - Badlands 060 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 39.57MiB
-Crossed - Badlands 061 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.58MiB
-Crossed - Badlands 062 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 41.34MiB
-Crossed - Badlands 063 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 43.44MiB
+[Crossed - Badlands 061 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-061-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 42.58MiB
+[Crossed - Badlands 062 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-062-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 41.34MiB
+[Crossed - Badlands 063 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-063-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 43.44MiB
 [Crossed - Badlands 064 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-064-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 46.43MiB
 [Crossed - Badlands 065 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-065-2014-Digital-Darkness-Empire-cbr.md) | 42.99MiB
 [Crossed - Badlands 066 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-066-2014-Digital-Darkness-Empire-cbr.md) | 42.80MiB

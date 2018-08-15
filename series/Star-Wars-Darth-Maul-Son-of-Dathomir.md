@@ -30,4 +30,5 @@ Star Wars - Darth Maul - Son of Dathomir 001 (Marvel Edition) (2015) (Digital) (
 Star Wars - Darth Maul - Son of Dathomir 002 (Marvel Edition) (2015) (Digital) (Kileko-Empire).cbr | 36.28MiB
 Star Wars - Darth Maul - Son of Dathomir 003 (Marvel Edition) (2015) (Digital) (Kileko-Empire).cbr | 34.48MiB
 Star Wars - Darth Maul - Son of Dathomir 004 (Marvel Edition) (2015) (Digital) (Kileko-Empire).cbr | 33.21MiB
+Star Wars - Darth Maul - Son of Dathomir (Marvel Edition) (2018) (Digital) (F) (Kileko-Empire).cbr | 171.54MiB
 Star Wars - Darth Maul - Son of Dathomir (Marvel Edition) (2018) (Digital) (Kileko-Empire).cbr | 207.65MiB

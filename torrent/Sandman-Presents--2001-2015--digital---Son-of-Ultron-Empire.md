@@ -29,7 +29,7 @@ Dead Boy Detectives 005 (2014) (digital) (Son of Ultron-Empire).cbr | 37.14MiB
 Dead Boy Detectives 006 (2014) (digital) (Son of Ultron-Empire).cbr | 37.02MiB
 Dead Boy Detectives 007 (2014) (digital) (Son of Ultron-Empire).cbr | 51.10MiB
 Dead Boy Detectives 008 (2014) (digital) (Son of Ultron-Empire).cbr | 52.96MiB
-Dead Boy Detectives 009 (2014) (digital) (Son of Ultron-Empire).cbr | 49.07MiB
+[Dead Boy Detectives 009 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Boy-Detectives-009-2014-digital-Son-of-Ultron-Empire-cbr.md) | 49.07MiB
 [Dead Boy Detectives 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Boy-Detectives-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 51.92MiB
 [Dead Boy Detectives 011 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Boy-Detectives-011-2015-digital-Son-of-Ultron-Empire-cbr.md) | 49.19MiB
 [Dead Boy Detectives 012 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Boy-Detectives-012-2015-digital-Son-of-Ultron-Empire-cbr.md) | 28.18MiB

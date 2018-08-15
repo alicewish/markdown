@@ -50,6 +50,8 @@ A new day has dawned for the Green Lantern Corps: Hal Jordan is no longer a memb
 
 [Green Lantern TPBs (v01-v08) (2006-2010)(digital)(Minutemen-FlynnLives)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern-TPBs--v01-v08---2006-2010--digital--Minutemen-FlynnLives.md)
 
+[Green Lantern v3 (001-181+Extras) (1990-2004) (Scans+Digital) (Novus+DCP)](https://github.com/alicewish/markdown/blob/master/torrent/Green-Lantern-v3--001-181-Extras---1990-2004---Scans-Digital---Novus-DCP.md)
+
 Online | Download
 --- | ---
 Green Lantern 033 [DC1948]-L246.cbz | 35.20MiB

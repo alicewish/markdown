@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Grimm Fairy Tales Presents Robyn Hood 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 20.51MiB
-Grimm Fairy Tales Presents Robyn Hood 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 41.63MiB
+[Grimm Fairy Tales Presents Robyn Hood 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 41.63MiB
 [Grimm Fairy Tales Presents Robyn Hood 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 30.59MiB
 [Grimm Fairy Tales Presents Robyn Hood 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.92MiB
 [Grimm Fairy Tales Presents Robyn Hood 005(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Robyn-Hood-005-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 40.45MiB

@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Purgatori Collection/Purgatori (001-005)(2014-2015)(Dynamite)】 | 
-Purgatori 001 (2014) (5 covers) (Digital) (DR & Quinch-Empire).cbr | 76.44MiB
+[Purgatori 001 (2014) (5 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Purgatori-001-2014-5-covers-Digital-DR-Quinch-Empire-cbr.md) | 76.44MiB
 [Purgatori 002 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Purgatori-002-2014-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 70.45MiB
 [Purgatori 003 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Purgatori-003-2014-2-covers-Digital-DR-Quinch-Empire-cbr.md) | 60.02MiB
 Purgatori 004 (2014) (2 covers) (Digital) (DR & Quinch-Empire).cbr | 69.46MiB

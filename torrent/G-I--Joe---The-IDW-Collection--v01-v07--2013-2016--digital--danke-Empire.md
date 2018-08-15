@@ -15,5 +15,5 @@ G.I. Joe - The IDW Collection v02 (2013) (Digital) (danke-Empire).cbz | 825.15Mi
 G.I. Joe - The IDW Collection v03 (2013) (Digital) (danke-Empire).cbz | 503.06MiB
 G.I. Joe - The IDW Collection v04 (2014) (Digital) (danke-Empire).cbz | 416.63MiB
 G.I. Joe - The IDW Collection v05 (2015) (Digital) (danke-Empire).cbz | 444.44MiB
-G.I. Joe - The IDW Collection v06 (2016) (Digital) (danke-Empire).cbz | 413.77MiB
+[G.I. Joe - The IDW Collection v06 (2016) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-IDW-Collection-v06-2016-Digital-danke-Empire-cbz.md) | 413.77MiB
 [G.I. Joe - The IDW Collection v07 (2016) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-IDW-Collection-v07-2016-Digital-danke-Empire-cbz.md) | 338.15MiB

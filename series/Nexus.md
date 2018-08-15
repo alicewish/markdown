@@ -26,6 +26,7 @@ Online | Download
 --- | ---
 Nexus 099 - Space Opera 01 (of 04) (2007) (digital) (Son of Ultron-Empire).cbr | 47.26MiB
 Nexus 100 - Space Opera 02 (of 04) (2008) (digital) (Son of Ultron-Empire).cbr | 83.58MiB
+Nexus Omnibus v01 (2012) (digital) (Son of Ultron II-Empire).cbr | 627.42MiB
 Nexus Omnibus Vol. 01 (2012) (digital) (Minutemen-Slayer).cbr | 253.49MiB
 Nexus Omnibus v02 (2013) (digital) (Son of Ultron II-Empire).cbr | 671.87MiB
 Nexus Omnibus v03 (2013) (digital) (Son of Ultron II-Empire).cbr | 537.98MiB

@@ -27,3 +27,4 @@ Rugrats 004 (2018) (digital) (Salem-Empire).cbr | 71.67MiB
 Rugrats 005 (2018) (digital) (Salem-Empire).cbr | 33.54MiB
 Rugrats 006 (2018) (digital) (Salem-Empire).cbr | 33.11MiB
 Rugrats 007 (2018) (digital) (Salem-Empire).cbr | 31.79MiB
+Rugrats 008 (2018) (digital) (Salem-Empire).cbr | 36.35MiB

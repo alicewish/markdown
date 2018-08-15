@@ -25,7 +25,7 @@ Sex 012 (2014) (Digital) (Darkness-Empire).cbr | 51.08MiB
 Sex 013 (2014) (Digital) (Darkness-Empire).cbr | 47.32MiB
 Sex 014 (2014) (Digital) (Darkness-Empire).cbr | 42.21MiB
 Sex 015 (2014) (Digital) (Darkness-Empire).cbr | 41.38MiB
-Sex 016 (2014) (Digital) (Darkness-Empire).cbr | 44.89MiB
+[Sex 016 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-016-2014-Digital-Darkness-Empire-cbr.md) | 44.89MiB
 [Sex 017 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-017-2014-Digital-Darkness-Empire-cbr.md) | 40.52MiB
 [Sex 018 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-018-2014-Digital-Darkness-Empire-cbr.md) | 38.79MiB
 [Sex 019 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-019-2015-Digital-Darkness-Empire-cbr.md) | 42.26MiB

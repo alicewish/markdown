@@ -17,8 +17,8 @@ Captain Marvel 003 (2014) (digital) (Minutemen-PhD).cbr | 38.92MiB
 Captain Marvel 004 (2014) (digital) (Minutemen-PhD).cbr | 36.23MiB
 Captain Marvel 005 (2014) (digital) (Minutemen-PhD).cbr | 36.77MiB
 Captain Marvel 006 (2014) (digital) (Minutemen-PhD).cbr | 39.36MiB
-Captain Marvel 007 (2014) (digital) (Minutemen-PhD).cbr | 29.56MiB
-Captain Marvel 008 (2014) (digital) (Minutemen-PhD).cbr | 33.22MiB
+[Captain Marvel 007 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-007-2014-digital-Minutemen-PhD-cbr.md) | 29.56MiB
+[Captain Marvel 008 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-008-2014-digital-Minutemen-PhD-cbr.md) | 33.22MiB
 [Captain Marvel 009 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-009-2015-digital-Minutemen-PhD-cbr.md) | 38.07MiB
 [Captain Marvel 010 (2015) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-010-2015-digital-Minutemen-PhD-cbr.md) | 47.12MiB
 [Captain Marvel 011 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-011-2015-digital-Minutemen-InnerDemons-cbr.md) | 40.14MiB

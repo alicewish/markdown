@@ -15,5 +15,5 @@ Caliban 002 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.47MiB
 Caliban 003 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.12MiB
 Caliban 004 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 46.41MiB
 Caliban 005 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 44.99MiB
-Caliban 006 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 40.51MiB
-Caliban 007 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 43.81MiB
+[Caliban 006 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Caliban-006-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 40.51MiB
+[Caliban 007 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Caliban-007-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 43.81MiB

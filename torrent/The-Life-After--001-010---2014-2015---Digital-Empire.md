@@ -12,8 +12,8 @@ Online | Download
 --- | ---
 The Life After 001 (2014) (Digital) (Nahga-Empire).cbr | 37.45MiB
 The Life After 002 (2014) (Digital) (Nahga-Empire).cbr | 35.52MiB
-The Life After 003 (2014) (Digital) (Nahga-Empire).cbr | 38.41MiB
-The Life After 004 (2014) (Digital) (Nahga-Empire).cbr | 46.92MiB
+[The Life After 003 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-003-2014-Digital-Nahga-Empire-cbr.md) | 38.41MiB
+[The Life After 004 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-004-2014-Digital-Nahga-Empire-cbr.md) | 46.92MiB
 [The Life After 005 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-005-2014-Digital-Nahga-Empire-cbr.md) | 40.88MiB
 [The Life After 006 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-006-2015-Digital-Empire-cbr.md) | 38.81MiB
 [The Life After 007 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Life-After-007-2015-Digital-Empire-cbr.md) | 49.88MiB

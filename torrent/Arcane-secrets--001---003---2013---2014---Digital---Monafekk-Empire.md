@@ -11,5 +11,5 @@
 Online | Download
 --- | ---
 Arcane Secrets 001 (2013) (Digital) (Monafekk-Empire).cbr | 39.20MiB
-Arcane Secrets 03 (of 03) (2014) (Digital) (Monafekk-Empire).cbr | 41.04MiB
+[Arcane Secrets 03 (of 03) (2014) (Digital) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Arcane-Secrets-03-of-03-2014-Digital-Monafekk-Empire-cbr.md) | 41.04MiB
 Arcane\_Secrets\_02\_(of\_03)\_(2013)\_(Digital)\_(Monafekk-Empire).cbr | 40.43MiB

@@ -87,5 +87,10 @@ To Your Eternity 066 (2018) (Digital) (danke-Empire).cbz | 31.98MiB
 [To Your Eternity 067 (2018) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/To-Your-Eternity-067-2018-Digital-danke-Empire-cbz.md) | [33.63MiB](https://pan.baidu.com/s/1AQJv0qNhojpdVkvmNRhAJA#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.16%2F%E3%82%B1%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%AA%E3%82%A8%E3%82%B3%E3%82%B7%E3%82%AA%E3%82%AF%E3%82%AB%E3%82%AB%E3%82%A4%E3%82%A8%E3%82%AB%E3%82%B9%E3%82%A6%E3%82%B5%E3%82%B7%E3%82%BF%E3%82%BD%E3%82%BB%E3%82%B1%E3%82%B1%E3%82%BD%E3%82%B3%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%BB%E3%82%A6%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
 To Your Eternity 068 (2018) (Digital) (danke-Empire).cbz | 34.40MiB
 To Your Eternity 069 (2018) (Digital) (danke-Empire).cbz | 29.43MiB
+To Your Eternity 070 (2018) (Digital) (danke-Empire).cbz | 32.79MiB
+To Your Eternity 071 (2018) (Digital) (danke-Empire).cbz | 31.73MiB
+To Your Eternity 072 (2018) (Digital) (danke-Empire).cbz | 36.09MiB
+To Your Eternity 073 (2018) (Digital) (danke-Empire).cbz | 27.74MiB
+To Your Eternity 074 (2018) (Digital) (danke-Empire).cbz | 36.14MiB
 To Your Eternity v03 (2018) (Digital) (danke-Empire).cbz | 328.56MiB
 To Your Eternity v04 (2018) (Digital) (danke-Empire).cbz | 291.53MiB

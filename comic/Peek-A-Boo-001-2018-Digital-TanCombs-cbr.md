@@ -1,5 +1,9 @@
 ## Peek A Boo 001 (2018) (Digital) (TanCombs).cbr
 
+
+[回到 Peek A Boo 目录](https://github.com/alicewish/markdown/blob/master/series/Peek-A-Boo.md)
+
+
 ![Peek A Boo 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpmtw9sp9pj21j82cw1ky.jpg)
 
 ![Peek A Boo 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpmtwr4s2wj21j82cwqv5.jpg)
@@ -51,3 +55,6 @@
 ![Peek A Boo 001-024.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpmu6ysi6wj21j82cwqv6.jpg)
 
 ![Peek A Boo 001-025.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpmu774q3pj21j82cwb29.jpg)
+
+[回到 Peek A Boo 目录](https://github.com/alicewish/markdown/blob/master/series/Peek-A-Boo.md)
+

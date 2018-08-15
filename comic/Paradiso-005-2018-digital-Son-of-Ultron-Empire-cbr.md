@@ -1,5 +1,9 @@
 ## Paradiso 005 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Paradiso 目录](https://github.com/alicewish/markdown/blob/master/series/Paradiso.md)
+
+
 ![Paradiso 005-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyvojobfqj21j82cw1ky.jpg)
 
 ![Paradiso 005-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyvomv8h6j21j82cwe5w.jpg)
@@ -65,3 +69,6 @@
 ![Paradiso 005-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyvtaoxszj21j82cwx5n.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyqdd52rmj20zk1io4qp.jpg)
+
+[回到 Paradiso 目录](https://github.com/alicewish/markdown/blob/master/series/Paradiso.md)
+

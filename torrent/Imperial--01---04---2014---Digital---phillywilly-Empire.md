@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Imperial 001 (2014) (Digital) (phillywilly-Empire).cbr | 38.46MiB
-Imperial 002 (2014) (Digital) (phillywilly-Empire).cbr | 38.81MiB
-Imperial 003 (2014) (Digital) (phillywilly-Empire).cbr | 38.36MiB
+[Imperial 002 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperial-002-2014-Digital-phillywilly-Empire-cbr.md) | 38.81MiB
+[Imperial 003 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperial-003-2014-Digital-phillywilly-Empire-cbr.md) | 38.36MiB
 [Imperial 004 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Imperial-004-2014-Digital-phillywilly-Empire-cbr.md) | 38.07MiB

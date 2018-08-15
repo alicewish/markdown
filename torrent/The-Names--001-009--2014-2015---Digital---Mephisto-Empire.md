@@ -10,8 +10,8 @@
 
 Online | Download
 --- | ---
-The Names 001 (2014) (Digital) (Mephisto-Empire).cbr | 22.85MiB
-The Names 002 (2014) (Digital) (Mephisto-Empire).cbr | 22.63MiB
+[The Names 001 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Names-001-2014-Digital-Mephisto-Empire-cbr.md) | 22.85MiB
+[The Names 002 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Names-002-2014-Digital-Mephisto-Empire-cbr.md) | 22.63MiB
 [The Names 003 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Names-003-2015-Digital-Mephisto-Empire-cbr.md) | 24.38MiB
 [The Names 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Names-004-2015-Digital-Mephisto-Empire-cbr.md) | 25.45MiB
 [The Names 005 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Names-005-2015-Digital-Mephisto-Empire-cbr.md) | 23.55MiB

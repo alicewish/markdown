@@ -1,5 +1,9 @@
 ## Spidey - School's Out 005 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Spidey - School's Out 目录](https://github.com/alicewish/markdown/blob/master/series/Spidey-Schools-Out.md)
+
+
 ![Spidey - School's Out 005-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftvw8763khj21j82cwqv5.jpg)
 
 ![Spidey - School's Out 005-002.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftvw8bbcmvj21j82cwhdt.jpg)
@@ -47,3 +51,6 @@
 ![Spidey - School's Out 005-023.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftvwb9c61vj21j82cwe81.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyn3psryuj21kw1c84il.jpg)
+
+[回到 Spidey - School's Out 目录](https://github.com/alicewish/markdown/blob/master/series/Spidey-Schools-Out.md)
+

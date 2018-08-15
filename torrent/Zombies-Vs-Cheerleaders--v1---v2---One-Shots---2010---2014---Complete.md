@@ -14,7 +14,7 @@ Online | Download
 Hack-Slash Meets Zombies Vs Cheerleaders 001 (2011) (c2c) (4 Covers) (Oroboros-CPS).cbr | 17.86MiB
 Rotten & Zombies vs Cheerleaders Flips Out 01 (2011) (c2c) (Oroboros-Danger-CPS).cbr | 25.07MiB
 Zombies Vs Cheerleaders Geektacular 01 (2010) (c2c) (4 Covers) (Legion-CPS).cbr | 17.87MiB
-Zombies Vs Cheerleaders Halloween Special (2014)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 48.84MiB
+[Zombies Vs Cheerleaders Halloween Special (2014)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zombies-Vs-Cheerleaders-Halloween-Special-2014-3-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 48.84MiB
 &emsp;【Zombies Vs Cheerleaders (v1 + v2 & One-Shots) (2010 - 2014) (Complete)/Zombies Vs Cheerleaders v1 (001 - 007) (2010 - 2012) (CPS+DCP)】 | 
 Zombies Vs Cheerleaders 01 (2010) (c2c) (4 Covers) (Legion-CPS).cbr | 15.46MiB
 Zombies Vs Cheerleaders 02 (2010) (c2c) (4 Covers) (Legion-CPS).cbr | 16.63MiB

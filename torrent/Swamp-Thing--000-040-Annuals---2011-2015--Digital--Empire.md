@@ -57,4 +57,4 @@ Swamp Thing 015 (2013) (Megan-Empire).cbr | 42.61MiB
 [Swamp Thing Annual 001 (2012) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swamp-Thing-Annual-001-2012-Digital-Zone-Empire-cbr.md) | 25.98MiB
 [Swamp Thing Annual 002 (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swamp-Thing-Annual-002-2013-Digital-Zone-Empire-cbr.md) | 58.13MiB
 [Swamp Thing Annual 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Swamp-Thing-Annual-003-2014-Digital-Empire-cbr.md) | 67.73MiB
-Vertigo Essentials - Swamp Thing 001 (2014) (Digital) (UberSoldier-DCP).cbr | 78.72MiB
+[Vertigo Essentials - Swamp Thing 001 (2014) (Digital) (UberSoldier-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vertigo-Essentials-Swamp-Thing-001-2014-Digital-UberSoldier-DCP-cbr.md) | 78.72MiB

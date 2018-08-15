@@ -42,8 +42,8 @@ Doctor Who - The Eighth Doctor 004 (2016) (3 covers) (digital) (Minutemen-Bookwo
 Doctor Who - The Eighth Doctor 005 (2016) (3 covers) (digital) (Minutemen-Bookworm).cbr | 48.83MiB
 &emsp;【(Titan)/Doctor Who - The Eleventh Doctor (001-015)(2014-2015)(digital)(TLK-EMPIRE-HD)】 | 
 Doctor Who The Eleventh Doctor 001(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 26.70MiB
-Doctor Who The Eleventh Doctor 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 41.84MiB
-Doctor Who The Eleventh Doctor 003(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 37.66MiB
+[Doctor Who The Eleventh Doctor 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 41.84MiB
+[Doctor Who The Eleventh Doctor 003(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-003-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 37.66MiB
 [Doctor Who The Eleventh Doctor 004(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-004-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 39.73MiB
 [Doctor Who The Eleventh Doctor 005(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-005-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 45.62MiB
 [Doctor Who The Eleventh Doctor 006 (2014) (2 covers) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-006-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 37.74MiB
@@ -129,7 +129,7 @@ Doctor Who - The Ninth Doctor Ongoing 007 (2016) (2 covers) (digital) (Minutemen
 &emsp;【(Titan)/Doctor Who - The Tenth Doctor (001-015)(2014-2015)(digital)(TLK-EMPIRE-HD)】 | 
 Doctor Who The Tenth Doctor 001(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 26.56MiB
 Doctor Who The Tenth Doctor 002(2014)(5 covers)(Digital)(TLK-EMPIRE-HD).cbr | 52.43MiB
-Doctor Who The Tenth Doctor 003(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 52.97MiB
+[Doctor Who The Tenth Doctor 003(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-003-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 52.97MiB
 [Doctor Who The Tenth Doctor 004(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-004-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 41.31MiB
 [Doctor Who The Tenth Doctor 005(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-005-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 41.04MiB
 [Doctor Who The Tenth Doctor 006(2015)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-006-2015-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 45.37MiB
@@ -210,7 +210,7 @@ Doctor Who - The Third Doctor 003 (2016) (3 covers) (digital) (Minutemen-Bookwor
 Doctor Who - The Third Doctor 004 (2017) (3 covers) (digital) (Minutemen-Bookworm).cbr | 47.79MiB
 Doctor Who - The Third Doctor 005 (2017) (5 covers) (digital) (Minutemen-Bookworm).cbr | 56.18MiB
 &emsp;【(Titan)/Doctor Who - The Twelfth Doctor (001-016)(2014-2016)(digital)(TLK-EMPIRE-HD)】 | 
-Doctor Who The Twelfth Doctor 001(2014)(6 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 53.39MiB
+[Doctor Who The Twelfth Doctor 001(2014)(6 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Twelfth-Doctor-001-2014-6-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 53.39MiB
 [Doctor Who The Twelfth Doctor 002(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Twelfth-Doctor-002-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 48.67MiB
 [Doctor Who The Twelfth Doctor 003(2014)(4 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Twelfth-Doctor-003-2014-4-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 41.30MiB
 [Doctor Who The Twelfth Doctor 004(2015)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Twelfth-Doctor-004-2015-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 38.71MiB

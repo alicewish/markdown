@@ -20,4 +20,4 @@ Gearhearts Steampunk Glamor Revue 007 (2013)(c2c) (TLK-EMPIRE-HD).cbr | 44.54MiB
 Gearhearts Steampunk Glamor Revue 008 (2013)(c2c)(TLK-EMPIRE-HD).cbr | 45.26MiB
 Gearhearts Steampunk Glamor Revue 009 (2013)(c2c)(TLK-EMPIRE-HD).cbr | 40.83MiB
 Gearhearts Steampunk Glamor Revue 010 (2014)(c2c)(TLK-EMPIRE-HD).cbr | 47.95MiB
-Gearhearts Steampunk Glamor Revue 011 (2014)(c2c)(TLK-EMPIRE-HD).cbr | 70.39MiB
+[Gearhearts Steampunk Glamor Revue 011 (2014)(c2c)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gearhearts-Steampunk-Glamor-Revue-011-2014-c2c-TLK-EMPIRE-HD-cbr.md) | 70.39MiB

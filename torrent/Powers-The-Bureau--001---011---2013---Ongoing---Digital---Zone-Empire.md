@@ -22,4 +22,4 @@ Powers The Bureau 007 (2013) (Digital) (Zone-Empire).cbr | 23.77MiB
 Powers The Bureau 008 (2014) (Digital) (Zone-Empire).cbr | 31.74MiB
 Powers The Bureau 009 (2014) (Digital) (Zone-Empire).cbr | 40.22MiB
 Powers The Bureau 010 (2014) (Digital) (Zone-Empire).cbr | 31.27MiB
-Powers The Bureau 011 (2014) (Digital) (Zone-Empire).cbr | 39.61MiB
+[Powers The Bureau 011 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Powers-Bureau-011-2014-Digital-Zone-Empire-cbr.md) | 39.61MiB

@@ -69,6 +69,6 @@ Superior Spider-Man 026 (2014) (digital-Empire).cbr | 38.00MiB
 [Superior Spider-Man 030 (2014) (includes Preview) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-030-2014-includes-Preview-digital-Empire-cbr.md) | 53.85MiB
 [Superior Spider-Man 031 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-031-2014-digital-Empire-cbr.md) | 87.11MiB
 [Superior Spider-Man 032 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-032-2014-Digital-Darkness-Empire-cbr.md) | 52.73MiB
-Superior Spider-Man 033 (2014) (Eisenhart-DCP).cbr | 54.21MiB
+[Superior Spider-Man 033 (2014) (Eisenhart-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-033-2014-Eisenhart-DCP-cbr.md) | 54.21MiB
 Superior Spider-Man Annual 001 (2014) (digital-Empire).cbr | 50.22MiB
 [Superior Spider-Man Annual 002 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-Annual-002-2014-digital-Empire-cbr.md) | 54.71MiB

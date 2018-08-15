@@ -1,5 +1,9 @@
 ## Generation Gone 002 (2017) (Digital) (Mephisto-Empire).cbr
 
+
+[回到 Generation Gone 目录](https://github.com/alicewish/markdown/blob/master/series/Generation-Gone.md)
+
+
 ![Generation-Gone-002-(2017)-(Digital)-(Mephisto-Empire)-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flqfxz27pcj21j82cw1kx.jpg)
 
 ![Generation-Gone-002-(2017)-(Digital)-(Mephisto-Empire)-002.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flqfy22gfuj21j82cwtbk.jpg)
@@ -63,3 +67,6 @@
 ![Generation-Gone-002-(2017)-(Digital)-(Mephisto-Empire)-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flqg24orcoj21j82cw1kx.jpg)
 
 ![zzz-mephisto.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flofhzev9bj21j8123haq.jpg)
+
+[回到 Generation Gone 目录](https://github.com/alicewish/markdown/blob/master/series/Generation-Gone.md)
+

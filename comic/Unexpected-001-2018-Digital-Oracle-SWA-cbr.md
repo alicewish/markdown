@@ -1,5 +1,9 @@
 ## The Unexpected 001 (2018) (Digital) (Oracle-SWA).cbr
 
+
+[回到 The Unexpected 目录](https://github.com/alicewish/markdown/blob/master/series/Unexpected.md)
+
+
 ![The Unexpected (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsennt5fo3j21j72cwe81.jpg)
 
 ![The Unexpected (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsennx797hj21j72cw1kx.jpg)
@@ -57,3 +61,6 @@
 ![The Unexpected (2018-) 001-027.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsenrupe6rj21j72cwe81.jpg)
 
 ![The Unexpected (2018-) 001-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsens0e6ohj21j82cw4qp.jpg)
+
+[回到 The Unexpected 目录](https://github.com/alicewish/markdown/blob/master/series/Unexpected.md)
+

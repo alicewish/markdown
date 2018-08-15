@@ -28,7 +28,7 @@ Dawn of the Planet of the Apes 04 (of 06) (2015) (digital) (Minutemen-Slayer).cb
 Dawn of the Planet of the Apes 05 (of 06) (2015) (digital) (Minutemen-Slayer).cbr | 42.79MiB
 Dawn of the Planet of the Apes 06 (of 06) (2015) (digital) (Minutemen-Slayer).cbr | 43.08MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2017)/Boom! (2011-2017)/Dawn of the Planet of the Apes (001-006+)(2014-2015)(digital)/Extras】 | 
-Dawn of the Planet of the Apes - Contagion (2014) (SDCC) (Pirate-Empire & GreenGiant-DCP).cbr | 34.84MiB
+[Dawn of the Planet of the Apes - Contagion (2014) (SDCC) (Pirate-Empire & GreenGiant-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dawn-of-Planet-of-Apes-Contagion-2014-SDCC-Pirate-Empire-GreenGiant-DCP-cbr.md) | 34.84MiB
 Dawn of the Planet of the Apes 01 (2014) (2 Variants Only) \[extracted\] (Jojo).cbr | 1.54MiB
 Dawn of the Planet of the Apes (2015) (digital) (Minutemen-Slayer).cbr | 239.46MiB
 &emsp;【Planet of the Apes - All Publishers (1970-2017)/Boom! (2011-2017)/Exile on the Planet of the Apes (001-004)(2012)(digital)】 | 

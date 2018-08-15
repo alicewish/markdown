@@ -1358,7 +1358,7 @@ Justice League 042 (2015) (3 covers) (Digital) (HD) (Thornn-Empire).cbr | 39.80M
 [Justice League 032 (2014) (Jim Fletcher Bombshell Variant Cover) (TaruTariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-032-2014-Jim-Fletcher-Bombshell-Variant-Cover-TaruTariat-Novus-HD-cbr.md) | 2.98MiB
 [Justice League 041 (2015) (digital) (Blank Cover variant) (Minutemen-Mastodon).cbz](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-041-2015-digital-Blank-Cover-variant-Minutemen-Mastodon-cbz.md) | 99.41KiB
 &emsp;【Justice League of America/Series/11-Justice League Dark (000-040+)(2011-2015)】 | 
-Justice League Dark - Futures End 01 (2014) (digital) (Minutemen-PhD).cbr | 37.54MiB
+[Justice League Dark - Futures End 01 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-Futures-End-01-2014-digital-Minutemen-PhD-cbr.md) | 37.54MiB
 [Justice League Dark 000 (2012) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-000-2012-digital-Son-of-Ultron-Empire-cbr.md) | 44.34MiB
 [Justice League Dark 001 (2011) (2 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-001-2011-2-covers-digital-Son-of-Ultron-Empire-cbr.md) | 55.56MiB
 [Justice League Dark 002 (2011) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-002-2011-digital-Son-of-Ultron-Empire-cbr.md) | 44.14MiB

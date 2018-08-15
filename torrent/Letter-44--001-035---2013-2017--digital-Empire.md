@@ -26,7 +26,7 @@ Letter 44 006 (2014) (Digital) (Vee-Empire).cbr | 39.56MiB
 Letter 44 007 (2014) (Digital) (Vee-Empire).cbr | 38.87MiB
 Letter 44 008 (2014) (Digital) (Vee-Empire).cbr | 41.05MiB
 Letter 44 009 (2014) (Digital) (Vee-Empire).cbr | 38.76MiB
-Letter 44 010 (2014) (Digital) (Vee-Empire).cbr | 43.70MiB
+[Letter 44 010 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Letter-44-010-2014-Digital-Vee-Empire-cbr.md) | 43.70MiB
 [Letter 44 011 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Letter-44-011-2014-Digital-Vee-Empire-cbr.md) | 43.14MiB
 [Letter 44 012 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Letter-44-012-2014-Digital-Vee-Empire-cbr.md) | 40.86MiB
 [Letter 44 013 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Letter-44-013-2014-Digital-Vee-Empire-cbr.md) | 40.31MiB

@@ -37,6 +37,7 @@ R.E.B.E.L.S., 1995-07-00 (#11) (digital) (Glorith-HD).cbz | 23.86MiB
 R.E.B.E.L.S., 1995-08-00 (#12) (digital) (Glorith-HD).cbz | 34.12MiB
 R.E.B.E.L.S., 1995-11-00 (#15) (digital) (Glorith-HD).cbz | 28.18MiB
 R.E.B.E.L.S., 1995-12-00 (#16) (digital) (Glorith-HD).cbz | 28.36MiB
+R.E.B.E.L.S., 1996-01-00 (#17) (digital) (Glorith-HD).cbz | 21.05MiB
 R.E.B.E.L.S. 01 (2009-02) (two covers) (digital) (Glorith-Novus).cbz | [14.16MiB](https://pan.baidu.com/s/1gfPGAZp#list/path=%2FNovus%20-%20Week%20of%202016%20Q1%2FNovus%20-%20Week%20of%202016-02-10%2F%E3%82%A6%E3%82%B5%E3%82%B7%E3%82%A6%E3%82%BB%E3%82%B7%E3%82%AF%E3%82%AA%E3%82%BD%E3%82%B9%E3%82%B9%E3%82%BB%E3%82%A4%E3%82%AA%E3%82%A6%E3%82%AA%E3%82%A6%E3%82%B1%E3%82%B5%E3%82%AB%E3%82%A6%E3%82%BD%E3%82%A4%E3%82%A2%E3%82%B3%E3%82%A6%E3%82%B7%E3%82%A4%E3%82%A2%E3%82%A8%E3%82%A8%E3%82%AF&parentPath=%2FNovus%20-%20Week%20of%202016%20Q1)
 R.E.B.E.L.S. Annual, 2009-10-07 (#01 Starro The Conqueror) (Glorith-Novus).cbz | 31.82MiB
 R.E.B.E.L.S., 2009-02-00 (#01) (two covers) (digital) (Glorith-Novus).cbz | 14.16MiB

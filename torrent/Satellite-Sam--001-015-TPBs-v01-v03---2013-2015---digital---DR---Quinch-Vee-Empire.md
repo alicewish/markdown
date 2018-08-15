@@ -19,7 +19,7 @@ Satellite Sam 006 (2014) (Digital) (Vee-Empire).cbr | 59.97MiB
 Satellite Sam 007 (2014) (Digital) (Vee-Empire).cbr | 61.28MiB
 Satellite Sam 008 (2014) (digital) (DR & Quinch-Empire).cbr | 77.77MiB
 Satellite Sam 009 (2014) (digital) (DR & Quinch-Empire).cbr | 54.15MiB
-Satellite Sam 010 (2014) (Digital) (Vee-Empire).cbr | 70.04MiB
+[Satellite Sam 010 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-010-2014-Digital-Vee-Empire-cbr.md) | 70.04MiB
 [Satellite Sam 011 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-011-2015-Digital-Vee-Empire-cbr.md) | 57.13MiB
 [Satellite Sam 012 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-012-2015-Digital-Vee-Empire-cbr.md) | 51.96MiB
 [Satellite Sam 013 (2015) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Satellite-Sam-013-2015-Digital-Vee-Empire-cbr.md) | 62.99MiB

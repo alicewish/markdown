@@ -16,7 +16,7 @@ WEIRD Love Vol. 1 You Know You Want It (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr |
 WEIRD Love Vol. 2 That's The Way I Like It (TPB)(2015)(Digital)(TLK-EMPIRE-HD).cbr | 488.21MiB
 WEIRD Love 001 (2014) (digital) (Minutemen-InnerDemons).cbr | 151.11MiB
 WEIRD Love 002 (2014) (Digital) (phillywilly-Empire).cbr | 147.40MiB
-WEIRD Love 003 (2014) (Digital) (phillywilly-Empire).cbr | 141.58MiB
+[WEIRD Love 003 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-003-2014-Digital-phillywilly-Empire-cbr.md) | 141.58MiB
 [WEIRD Love 004 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-004-2014-Digital-phillywilly-Empire-cbr.md) | 149.43MiB
 [WEIRD Love 005 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-005-2015-Digital-phillywilly-Empire-cbr.md) | 132.24MiB
 [WEIRD Love 006 (2015) (Digital)(phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-006-2015-Digital-phillywilly-Empire-cbr.md) | 140.47MiB

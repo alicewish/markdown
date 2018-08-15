@@ -33,6 +33,7 @@ Career Girl Romances 58 charlton 1970 titansfan.cbz | 25.86MiB
 Career Girl Romances 059 (Charlton 1970) (c2c) (Soothsayr-Krac-Novus).cbz | [29.52MiB](https://pan.baidu.com/s/1qYHUkFE#list/path=%2FNovus%20-%20Week%20of%202017%20Q1%2FNovus%20-%20Week%20of%202017-03-29%2F%E3%82%A2%E3%82%AA%E3%82%BD%E3%82%A2%E3%82%AB%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%B3%E3%82%B1%E3%82%B3%E3%82%A6%E3%82%BF%E3%82%A6%E3%82%AB%E3%82%AD%E3%82%A8%E3%82%AF%E3%82%AD%E3%82%AF%E3%82%B1%E3%82%AD%E3%82%B3%E3%82%B7%E3%82%A4%E3%82%A2%E3%82%BF%E3%82%A2%E3%82%AB%E3%82%AF%E3%82%B3%E3%82%A6&parentPath=%2FNovus%20-%20Week%20of%202017%20Q1)
 Career Girl Romances 059 (Charlton 1970) (c2c) (Soothsayr-Kracalactaca-Novus).cbz | 29.52MiB
 Career Girl Romances 60 Charlton Oct 1969 Titansfan.cbz | 25.63MiB
+Career Girl Romances 61 c2c Charlton Feb 1971 Kracalactaka.cbz | 49.05MiB
 Career Girl Romances 62 Charlton 1971 Titansfan.cbz | 24.38MiB
 Career Girl Romances 65 Charlton Oct 1971 Titansfan.cbz | 22.71MiB
 Career Girl Romances 67 Charlton Feb 1972 Kracalactaka-a nonny moose.cbz | 48.14MiB

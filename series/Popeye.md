@@ -25,6 +25,7 @@ Popeye 97 Charlton Aug 1969 Titansfan.cbz | 26.15MiB
 Popeye 98 Charlton Titansfan.cbz | 24.31MiB
 Popeye 99 Charlton Dec 1969 Titansfan.cbz | 25.81MiB
 Popeye 100 c2c Charlton 1970 Soothsayr-Kracalactaka-titansfan.cbz | 41.04MiB
+Popeye 104 c2c Charlton Oct 1970 eem+a nonny moose.cbz | 41.39MiB
 Popeye 109 Charlton Aug 1971 Titansfan.cbz | 25.41MiB
 Popeye 110 (Charlton 1971-10) (c2c) (GreenGiant-DCP).cbr | 66.10MiB
 Popeye 112 c2c Charlton 1972 Soothsayr-Kracalactaka-titansfan.cbz | 41.49MiB

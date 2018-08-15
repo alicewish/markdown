@@ -19,7 +19,9 @@ Romantic Secrets 28 c2c Fawcett Mar 1952 Kracalactaka.cbz | [40.15MiB](https://p
 Romantic Secrets 28 Fawcett Mar 1952 c2c kracalactaka+Yoc.cbz | 37.86MiB
 Romantic Secrets 28 (fixed) Fawcett Mar 1952 c2c kracalactaka+Yoc.cbz | 37.49MiB
 Romantic Secrets 30 Charlton Dec 1960 Kracalactaka-DMiles.cbz | 48.38MiB
+Romantic Secrets 32 c2c Charlton Apr 1961 ComicWanderer.cbz | 72.06MiB
 Romantic Secrets 35 c2c Fawcett Oct 1952 Kracalactaka-ComicWanderer.cbz | 41.55MiB
+Romantic Secrets 43 c2c Charlton Mar 1963 ComicWanderer.cbz | 64.39MiB
 Romantic Secrets 046 Charlton Sep 1963 c2c IRA-Rangerhouse-a nonny moose.cbz | 31.93MiB
 Romantic Secrets 48 c2c Charlton Jan 1964 titansfan.cbz | 24.08MiB
 Romantic Secrets 87 (c2c upgrade) Charlton Mar 1967 Kracalactaka.cbz | 30.86MiB

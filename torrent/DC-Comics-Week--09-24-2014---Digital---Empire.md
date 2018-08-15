@@ -11,12 +11,12 @@
 Online | Download
 --- | ---
 [Aquaman and The Others - Futures End 01 (2014) (Digital) (BlackManta-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aquaman-Others-Futures-End-01-2014-Digital-BlackManta-Empire-cbr.md) | 40.71MiB
-Batman '66 Meets The Green Hornet 010 (2014) (digital) (Son of Ultron-Empire).cbr | 77.74MiB
-Batman Eternal 025 (2014) (Digital) (Nahga-Empire).cbr | 35.70MiB
+[Batman '66 Meets The Green Hornet 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 77.74MiB
+[Batman Eternal 025 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-025-2014-Digital-Nahga-Empire-cbr.md) | 35.70MiB
 [Booster Gold - Futures End 001 (2014) (Digital) (Booster-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Booster-Gold-Futures-End-001-2014-Digital-Booster-Empire-cbz.md) | 39.19MiB
 [Catwoman - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Catwoman-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 35.64MiB
 [Harley Quinn - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harley-Quinn-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 50.37MiB
-He-Man and the Masters of the Universe 017 (2014) (digital) (CompetentRipper-Empire).cbr | 32.50MiB
+[He-Man and the Masters of the Universe 017 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/He-Man-Masters-of-Universe-017-2014-digital-CompetentRipper-Empire-cbr.md) | 32.50MiB
 [Justice League Dark - Futures End 001 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-Futures-End-001-2014-Digital-Cypher-Empire-cbr.md) | 40.86MiB
 [Red Lanterns - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-Lanterns-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 45.68MiB
 [Sinestro - Futures End 001 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sinestro-Futures-End-001-2014-Digital-Nahga-Empire-cbr.md) | 51.43MiB

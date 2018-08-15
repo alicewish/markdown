@@ -38,7 +38,7 @@ Cable and X-Force 017 (2014) (digital) (Minutemen-PhD).cbr | 37.39MiB
 Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 49.41MiB
 Deadpool vs. X-Force 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 47.23MiB
 Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
-Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
+[Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 &emsp;【X-Force (v1-v4+Extras)(1991-2015)(scans+digital)/Extras/Fear Itself - Uncanny X-Force (001-003) (2011) (digital) (Minutemen-Faessla)】 | 
 Fear Itself - Uncanny X-Force 01 (of 03) (2011) (digital) (Minutemen-Faessla).cbz | 32.07MiB
 Fear Itself - Uncanny X-Force 02 (of 03) (2011) (digital) (Minutemen-Faessla).cbz | 32.39MiB
@@ -482,8 +482,8 @@ X-Force 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 35.80MiB
 X-Force 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 53.89MiB
 [X-Force 007 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-007-2014-digital-Minutemen-Spaztastic-cbr.md) | 44.24MiB
 X-Force 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 36.90MiB
-X-Force 009 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.07MiB
-X-Force 010 (2014) (digital) (Minutemen-Spaztastic).cbr | 40.14MiB
+[X-Force 009 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-009-2014-digital-Minutemen-Spaztastic-cbr.md) | 44.07MiB
+[X-Force 010 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-010-2014-digital-Minutemen-Spaztastic-cbr.md) | 40.14MiB
 [X-Force 011 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-011-2014-digital-Minutemen-Spaztastic-cbr.md) | 48.85MiB
 [X-Force 012 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-012-2015-digital-Minutemen-Spaztastic-cbr.md) | 47.82MiB
 [X-Force 013 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-013-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.24MiB

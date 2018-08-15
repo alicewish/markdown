@@ -13,7 +13,7 @@ Online | Download
 [Convergence - Green Arrow 001 (2015) (2 covers) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Green-Arrow-001-2015-2-covers-digital-Minutemen-Mollylvr-cbr.md) | 33.01MiB
 [Convergence - Green Arrow 002 (2015) (digital) (Minutemen-Mollylvr).cbr](https://github.com/alicewish/markdown/blob/master/comic/Convergence-Green-Arrow-002-2015-digital-Minutemen-Mollylvr-cbr.md) | 24.56MiB
 Green Arrow - Futures End 01 (2014) (digital) (Minutemen-PhD).cbr | 25.51MiB
-Green Arrow - Year One - Special Edition 001 (2014) (Digital) (ThatGuy-Empire).cbz | 28.44MiB
+[Green Arrow - Year One - Special Edition 001 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-Year-One-Special-Edition-001-2014-Digital-ThatGuy-Empire-cbz.md) | 28.44MiB
 [Green Arrow 000 (2012) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-000-2012-Digital-Nahga-Empire-cbr.md) | 22.66MiB
 [Green Arrow 001 (2011) (2 covers) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-001-2011-2-covers-Digital-Nahga-Empire-cbr.md) | 37.38MiB
 [Green Arrow 002 (2011) (Digital HD) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Green-Arrow-002-2011-Digital-HD-ThatGuy-Empire-cbz.md) | 24.20MiB

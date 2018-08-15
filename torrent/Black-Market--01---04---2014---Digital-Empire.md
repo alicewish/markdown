@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 Black Market 001 (2014) (Digital-Empire).cbr | 34.18MiB
 Black Market 002 (2014) (Digital-Empire).cbr | 32.08MiB
-Black Market 003 (2014) (Digital-Empire).cbr | 42.38MiB
-Black Market 004 (2014) (Digital-Empire).cbr | 42.31MiB
+[Black Market 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Market-003-2014-Digital-Empire-cbr.md) | 42.38MiB
+[Black Market 004 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Market-004-2014-Digital-Empire-cbr.md) | 42.31MiB

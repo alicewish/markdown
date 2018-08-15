@@ -46,6 +46,7 @@ Creepy Archives v01 (2008) (Digital) (Zone-Empire).cbr | 530.54MiB
 Creepy Archives v02 (2008) (Digital) (Zone-Empire).cbr | 485.58MiB
 Creepy Archives v03 (2009) (Digital) (Zone-Empire).cbr | 471.60MiB
 Creepy Archives v04 (2009) (Digital) (Zone-Empire).cbr | 370.85MiB
+Creepy Archives v05 (2010) (Digital-Empire).cbr | 452.31MiB
 Creepy Archives - Volume 18 (2014) (Digital-Empire).cbr | 283.94MiB
 Creepy Archives v22 (2015) (Digital) (Bean-Empire).cbz | 408.50MiB
 Creepy Archives - Volume 21 (2015) (Digital-Empire).cbr | 319.97MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Punks - The Comic 001 (2014) (Digital) (Mephisto-Empire).cbr | 60.42MiB
+[Punks - The Comic 001 (2014) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Punks-Comic-001-2014-Digital-Mephisto-Empire-cbr.md) | 60.42MiB
 [Punks - The Comic 002 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Punks-Comic-002-2015-Digital-Mephisto-Empire-cbr.md) | 55.85MiB
 [Punks - The Comic 003 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Punks-Comic-003-2015-Digital-Mephisto-Empire-cbr.md) | 55.86MiB
 Punks - The Comic 004 (2015) (Digital-HD) (Mephisto-Empire).cbr | 115.18MiB

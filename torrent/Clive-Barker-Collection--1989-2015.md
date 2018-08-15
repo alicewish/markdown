@@ -43,8 +43,8 @@ Clive Barker's Great and Secret Show 12.cbr | 21.67MiB
 Clive Barker's Great and Secret Show Vol. 01 (2006) (digital) (Minutemen-InnerPhDemons).cbr | 413.05MiB
 &emsp;【Clive Barker Collection (1989-2015)/Clive Barker's Hellraiser - Bestiary (001-006)(2014-2015)(digital-Empire)】 | 
 Clive Barker's Hellraiser - Bestiary 01 (of 06) (2014) (Digital-Empire).cbr | 52.36MiB
-Clive Barker's Hellraiser - Bestiary 02 (of 06) (2014) (Digital-Empire).cbr | 66.78MiB
-Clive Barker's Hellraiser - Bestiary 03 (of 06) (2014) (Digital-Empire).cbr | 60.67MiB
+[Clive Barker's Hellraiser - Bestiary 02 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-02-of-06-2014-Digital-Empire-cbr.md) | 66.78MiB
+[Clive Barker's Hellraiser - Bestiary 03 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-03-of-06-2014-Digital-Empire-cbr.md) | 60.67MiB
 [Clive Barker's Hellraiser - Bestiary 04 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-04-of-06-2014-Digital-Empire-cbr.md) | 56.34MiB
 [Clive Barker's Hellraiser - Bestiary 05 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-05-of-06-2014-Digital-Empire-cbr.md) | 47.50MiB
 [Clive Barker's Hellraiser - Bestiary 06 (of 06) (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-06-of-06-2015-Digital-Empire-cbr.md) | 56.16MiB
@@ -184,8 +184,8 @@ Clive Barker - Nightbreed 25.cbr | 7.29MiB
 Clive Barker's Nightbreed 001 (2014) (Digital) (Fawkes-Empire).cbr | 50.28MiB
 Clive Barker's Nightbreed 002 (2014) (Digital) (Fawkes-Empire).cbr | 49.03MiB
 Clive Barker's Nightbreed 003 (2014) (Digital-Empire).cbr | 45.82MiB
-Clive Barker's Nightbreed 004 (2014) (Digital-Empire).cbr | 45.74MiB
-Clive Barker's Nightbreed 005 (2014) (Digital-Empire).cbr | 55.05MiB
+[Clive Barker's Nightbreed 004 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-004-2014-Digital-Empire-cbr.md) | 45.74MiB
+[Clive Barker's Nightbreed 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-005-2014-Digital-Empire-cbr.md) | 55.05MiB
 [Clive Barker's Nightbreed 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-006-2014-Digital-Empire-cbr.md) | 57.49MiB
 [Clive Barker's Nightbreed 007 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-007-2014-Digital-Empire-cbr.md) | 48.12MiB
 [Clive Barker's Nightbreed 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-008-2014-Digital-Empire-cbr.md) | 48.43MiB

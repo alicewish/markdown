@@ -27,4 +27,7 @@ First Kiss 19 Charlton Mar 1961 Kracalactaka.cbz | 48.28MiB
 First Kiss 21 Charlton Jul 1961 Titansfan.cbz | 25.04MiB
 First Kiss 23 Charlton Nov 1961 Titansfan.cbz | 25.39MiB
 First Kiss 26 c2c Charlton June 1962 titansfan.cbz | 22.87MiB
+First Kiss 28 Charlton Oct 1962 Titansfan.cbz | 65.73MiB
+First Kiss 33 c2c Charlton Aug 1963 titansfan.cbz | 64.08MiB
+First Kiss 35 c2c Charlton Dec 1963 titansfan.cbz | 65.11MiB
 First Kiss 36 Charlton Feb 1964 titansfan.cbz | 26.16MiB

@@ -13,4 +13,4 @@ Online | Download
 Dream Thief - Escape 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 43.34MiB
 Dream Thief - Escape 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 39.47MiB
 Dream Thief - Escape 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 42.39MiB
-Dream Thief - Escape 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 40.93MiB
+[Dream Thief - Escape 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Thief-Escape-04-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.93MiB

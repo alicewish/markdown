@@ -1141,7 +1141,7 @@ Detective Comics 031 (2014) (2 covers) (digital-Empire).cbr | 37.49MiB
 Detective Comics 032 (2014) (2 covers) (digital-Empire).cbr | 41.29MiB
 Detective Comics 033 (2014) (2 covers) (digital-Empire).cbr | 43.40MiB
 Detective Comics 034 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr | 35.41MiB
-Detective Comics 035 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr | 32.50MiB
+[Detective Comics 035 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-035-2014-2-covers-digital-CompetentRipper-Empire-cbr.md) | 32.50MiB
 [Detective Comics 036 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-036-2015-2-covers-digital-empire-cbr.md) | 27.58MiB
 [Detective Comics 037 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-037-2015-2-covers-digital-empire-cbr.md) | 38.14MiB
 [Detective Comics 038 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-038-2015-2-covers-digital-empire-cbr.md) | 35.29MiB

@@ -17,7 +17,7 @@ Dark Horse Book of the Dead HC (2005) (rougher-OCD).cbr | 53.63MiB
 Dark Horse Extra 008 (1999) (AnEvilScan&Drone-Empire).cbz | 20.88MiB
 Dark Horse Horror Sampler (2012) (digital-Empire).cbr | 107.47MiB
 Dark Horse Horror Sampler (2013) (digital) (Son of Ultron-Empire).cbr | 154.32MiB
-Dark Horse Horror Sampler (2014) (digital) (Son of Ultron-Empire).cbr | 193.50MiB
+[Dark Horse Horror Sampler (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Horror-Sampler-2014-digital-Son-of-Ultron-Empire-cbr.md) | 193.50MiB
 &emsp;【Dark Horse Presents (v1-v3+)(1986-)(digital+scans)/Dark Horse Presents v1 (001-157)(1986-2000)】 | 
 &emsp;【Dark Horse Presents (v1-v3+)(1986-)(digital+scans)/Dark Horse Presents v1 (001-157)(1986-2000)/Annuals】 | 
 Dark Horse Presents Annual 1997 (Obi).cbr | 16.29MiB
@@ -225,8 +225,8 @@ Dark Horse Presents 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 75.05MiB
 Dark Horse Presents 036 (2014) (digital) (Minutemen-InnerDemons).cbr | 63.97MiB
 &emsp;【Dark Horse Presents (v1-v3+)(1986-)(digital+scans)/Dark Horse Presents v3 (001-031)(2014-)(digital)】 | 
 Dark Horse Presents 001 (2014) (digital) (Son of Ultron-Empire).cbr | 110.22MiB
-Dark Horse Presents 002 (2014) (digital) (Son of Ultron-Empire).cbr | 73.31MiB
-Dark Horse Presents 003 (2014) (digital) (Son of Ultron-Empire).cbr | 88.48MiB
+[Dark Horse Presents 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 73.31MiB
+[Dark Horse Presents 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 88.48MiB
 [Dark Horse Presents 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 84.79MiB
 [Dark Horse Presents 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 75.77MiB
 [Dark Horse Presents 006 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-006-2015-digital-Son-of-Ultron-Empire-cbr.md) | 84.95MiB

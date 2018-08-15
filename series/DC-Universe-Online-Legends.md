@@ -16,6 +16,10 @@ The DC event of the year begins, coinciding with the release of the wildly antic
 
 相关种子⬇Related Torrents
 
+[DC Universe Online Legends (00 - 26)](https://github.com/alicewish/markdown/blob/master/torrent/DC-Universe-Online-Legends--00---26.md)
+
+[DC Universe Online Legends (000 - 026) (2011 - 2012) (webrip) (Ol' Joe-DCP)](https://github.com/alicewish/markdown/blob/master/torrent/DC-Universe-Online-Legends--000---026---2011---2012---webrip---Ol-Joe-DCP.md)
+
 [DC Universe Online Legends (000-026)(2011-2012)(webrip)(Ol' Joe-DCP)](https://github.com/alicewish/markdown/blob/master/torrent/DC-Universe-Online-Legends--000-026--2011-2012--webrip--Ol-Joe-DCP.md)
 
 Online | Download

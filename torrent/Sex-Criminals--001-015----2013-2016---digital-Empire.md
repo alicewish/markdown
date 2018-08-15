@@ -17,7 +17,7 @@ Sex Criminals 004 (2014) (Digital) (Darkness-Empire).cbr | 31.24MiB
 Sex Criminals 005 (2014) (Digital) (Darkness-Empire).cbr | 30.70MiB
 Sex Criminals 006 (2014) (Digital) (Darkness-Empire).cbr | 29.54MiB
 Sex Criminals 007 (2014) (Digital) (Darkness-Empire).cbr | 30.11MiB
-Sex Criminals 008 (2014) (Digital) (Darkness-Empire).cbr | 32.32MiB
+[Sex Criminals 008 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-008-2014-Digital-Darkness-Empire-cbr.md) | 32.32MiB
 [Sex Criminals 009 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-009-2014-Digital-Darkness-Empire-cbr.md) | 31.09MiB
 [Sex Criminals 010 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sex-Criminals-010-2015-Digital-Darkness-Empire-cbr.md) | 27.37MiB
 Sex Criminals 011 (2015) (Digital) (Zone-Empire).cbr | 28.65MiB

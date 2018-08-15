@@ -10,6 +10,10 @@
 
 
 
+相关种子⬇Related Torrents
+
+[Blood of the Demon (001 - 017 + Extras) (2005 - 2006) (TLK-EMPIRE+Bchry-DCP)](https://github.com/alicewish/markdown/blob/master/torrent/Blood-of-the-Demon--001---017---Extras---2005---2006---TLK-EMPIRE-Bchry-DCP.md)
+
 Online | Download
 --- | ---
 Blood Of The Demon 001(2005)(c2c)(TLK-EMPIRE-HD).cbr | 51.87MiB

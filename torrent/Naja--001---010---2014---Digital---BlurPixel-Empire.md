@@ -19,4 +19,4 @@ Naja 06 (of 10) (2014) (Digital) (BlurPixel-Empire).cbr | 25.06MiB
 Naja 07 (of 10) (2014) (Digital) (BlurPixel-Empire).cbr | 20.80MiB
 Naja 08 (of 10) (2014) (Digital) (BlurPixel-Empire).cbr | 24.18MiB
 Naja 09 (of 10) (2014) (Digital) (BlurPixel-Empire).cbr | 27.57MiB
-Naja 10 (of 10) (2014) (Digital) (BlurPixel-Empire).cbr | 32.85MiB
+[Naja 10 (of 10) (2014) (Digital) (BlurPixel-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Naja-10-of-10-2014-Digital-BlurPixel-Empire-cbr.md) | 32.85MiB

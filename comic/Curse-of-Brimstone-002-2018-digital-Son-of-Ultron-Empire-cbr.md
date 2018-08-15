@@ -1,5 +1,9 @@
 ## The Curse of Brimstone 002 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 The Curse of Brimstone 目录](https://github.com/alicewish/markdown/blob/master/series/Curse-of-Brimstone.md)
+
+
 ![The Curse of Brimstone (2018-) 002-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxsb58dhij21j82cwe6c.jpg)
 
 ![The Curse of Brimstone (2018-) 002-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxrwni07jj21kw17ru0x.jpg)
@@ -59,3 +63,6 @@
 ![The Curse of Brimstone (2018-) 002-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxsg29qwtj21j72cwb29.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fqxrebhd7yj20zk1io4qp.jpg)
+
+[回到 The Curse of Brimstone 目录](https://github.com/alicewish/markdown/blob/master/series/Curse-of-Brimstone.md)
+

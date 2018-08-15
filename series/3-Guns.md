@@ -14,6 +14,10 @@ Trench was a deep-cover DEA agent. Steadman was an undercover Naval Intelligence
 
 
 
+相关种子⬇Related Torrents
+
+[3 Guns (01 - 06)](https://github.com/alicewish/markdown/blob/master/torrent/3-Guns--01---06.md)
+
 Online | Download
 --- | ---
 3 Guns 01 (of 06) (2013) (digital) (Minutemen-Slayer).cbr | 32.07MiB

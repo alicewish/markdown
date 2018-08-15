@@ -34,5 +34,5 @@ Uncanny X-Men 021 (2014) (Digital) (Zone-Empire).cbr | 32.70MiB
 Uncanny X-Men 022 (2014) (Digital) (Zone-Empire).cbr | 35.44MiB
 Uncanny X-Men 023 (2014) (Digital) (Zone-Empire).cbr | 28.83MiB
 Uncanny X-Men 024 (2014) (Digital) (Zone-Empire).cbr | 26.52MiB
-Uncanny X-Men 025 (2014) (Digtal) (Zone-Empire).cbr | 48.66MiB
+[Uncanny X-Men 025 (2014) (Digtal) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-X-Men-025-2014-Digtal-Zone-Empire-cbr.md) | 48.66MiB
 Uncanny X-Men Special 001 (2014) (Digital) (Zone-Empire).cbr | 41.97MiB

@@ -262,8 +262,8 @@ Deadpool 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.29MiB
 Deadpool 031 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.50MiB
 Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.12MiB
 Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.71MiB
-Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr | 61.52MiB
-Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 36.95MiB
+[Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-034-2014-digital-Minutemen-InnerDemons-cbr.md) | 61.52MiB
+[Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-035-2014-digital-Minutemen-InnerDemons-cbr.md) | 36.95MiB
 [Deadpool 036 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-036-2014-digital-Minutemen-InnerDemons-cbr.md) | 39.08MiB
 [Deadpool 037 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-037-2015-digital-Minutemen-InnerDemons-cbr.md) | 42.12MiB
 [Deadpool 038 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-038-2015-digital-Minutemen-InnerDemons-cbr.md) | 43.16MiB
@@ -276,7 +276,7 @@ Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 36.95MiB
 [Deadpool 045 (2015) (5 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-045-2015-5-covers-digital-Minutemen-InnerDemons-cbr.md) | 174.69MiB
 Deadpool Annual 01 (2014) (digital) (Minutemen-PhD).cbr | 45.22MiB
 Deadpool Annual 02 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.69MiB
-Deadpool Bi-Annual 01 (2014) (digital) (Minutemen-InnerDemons).cbr | 55.71MiB
+[Deadpool Bi-Annual 01 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-Bi-Annual-01-2014-digital-Minutemen-InnerDemons-cbr.md) | 55.71MiB
 &emsp;【Deadpool/Deadpool v3 TPBs (v01-v08)(2013-2015)(digital)(Minutemen-Slayer)】 | 
 Deadpool Vol. 02 - Soul Hunter (2013) (digital) (Minutemen-Slayer).cbr | 256.76MiB
 Deadpool Vol. 03 - The Good, The Bad, and The Ugly (2014) (digital) (Minutemen-Slayer).cbr | 288.63MiB
@@ -561,7 +561,7 @@ Deadpool vs. Carnage 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 4
 Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 49.41MiB
 Deadpool vs. X-Force 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 47.23MiB
 Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
-Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
+[Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 &emsp;【Deadpool/Limited Series/Deadpool the Duck (001-005)(2017)(digital)(Minutemen-Faessla)】 | 
 Deadpool the Duck 01 (of 05) (2017) (5 covers) (digital) (Minutemen-Faessla).cbz | 53.76MiB
 Deadpool the Duck 02 (of 05) (2017) (digital) (Minutemen-Faessla).cbz | 46.34MiB

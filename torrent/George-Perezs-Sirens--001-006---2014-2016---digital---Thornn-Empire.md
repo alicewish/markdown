@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-George Perez's Sirens 001 (2014) (HD) (Digital) (Thornn-Empire).cbr | 53.34MiB
+[George Perez's Sirens 001 (2014) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Perezs-Sirens-001-2014-HD-Digital-Thornn-Empire-cbr.md) | 53.34MiB
 [George Perez's Sirens 002 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Perezs-Sirens-002-2015-HD-Digital-Thornn-Empire-cbr.md) | 55.37MiB
 [George Perez's Sirens 003 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Perezs-Sirens-003-2015-HD-Digital-Thornn-Empire-cbr.md) | 51.10MiB
 [George Perez's Sirens 004 (2015) (HD) (Digital) (Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/George-Perezs-Sirens-004-2015-HD-Digital-Thornn-Empire-cbr.md) | 49.37MiB

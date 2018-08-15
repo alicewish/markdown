@@ -101,8 +101,8 @@ Terminator Salvation - The Final Battle 05 (of 12) (2014) (digital) (Son of Ultr
 Terminator Salvation - The Final Battle 06 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 38.80MiB
 Terminator Salvation - The Final Battle 07 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 39.88MiB
 Terminator Salvation - The Final Battle 08 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 39.62MiB
-Terminator Salvation - The Final Battle 09 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 35.73MiB
-Terminator Salvation - The Final Battle 10 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 38.79MiB
+[Terminator Salvation - The Final Battle 09 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-09-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 35.73MiB
+[Terminator Salvation - The Final Battle 10 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-10-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 38.79MiB
 [Terminator Salvation - The Final Battle 11 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-11-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.88MiB
 [Terminator Salvation - The Final Battle 12 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-12-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 36.11MiB
 The Terminator (1991) (Oneshot).cbr | 16.73MiB
@@ -133,7 +133,7 @@ The Terminator - Enemy of My Enemy 001 (2014) (digital) (Son of Ultron-Empire).c
 The Terminator - Enemy of My Enemy 002 (2014) (digital) (Son of Ultron-Empire).cbr | 53.75MiB
 The Terminator - Enemy of My Enemy 003 (2014) (digital) (Son of Ultron-Empire).cbr | 41.60MiB
 The Terminator - Enemy of My Enemy 004 (2014) (digital) (Son of Ultron-Empire).cbr | 43.70MiB
-The Terminator - Enemy of My Enemy 005 (2014) (digital) (Son of Ultron-Empire).cbr | 37.53MiB
+[The Terminator - Enemy of My Enemy 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Enemy-of-My-Enemy-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.53MiB
 [The Terminator - Enemy of My Enemy 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Enemy-of-My-Enemy-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.83MiB
 &emsp;【Terminator/The Terminator (Dark Horse)(1990-2014)/The Terminator - Hunters and Killers (001-003)(1992)(Obi)】 | 
 The Terminator - Hunters and Killers 01 (1992)(Obi).cbr | 8.20MiB

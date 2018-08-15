@@ -2061,7 +2061,7 @@ Thor God of Thunder 003 (2013) (Digital) (Zone-Empire).CBR | 23.42MiB
 [Thunderbolts 032 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thunderbolts-032-2014-Digital-Zone-Empire-cbr.md) | 43.29MiB
 [Thunderbolts Annual 001 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thunderbolts-Annual-001-2014-Digital-Zone-Empire-cbr.md) | 57.64MiB
 &emsp;【Marvel NOW (2012-2015)(digital)(Empire+Minutemen)/Trades】 | 
-Age of Ultron - The Complete Event (2013) (Digital) (Zone-Empire).cbr | 950.28MiB
+[Age of Ultron - The Complete Event (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Age-of-Ultron-Complete-Event-2013-Digital-Zone-Empire-cbr.md) | 950.28MiB
 All-New X-Men v1 - Yesterday's X-Men (2013) (Digital) (Meganubis-Empire).cbz | 223.79MiB
 [All-New X-Men v2 - Here To Stay (2013) (Digital HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-v2-Here-To-Stay-2013-Digital-HC-Zone-Empire-cbr.md) | 215.97MiB
 [All-New X-Men v3 - Out Of Their Depth (2013) (Digital HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-v3-Out-Of-Their-Depth-2013-Digital-HC-Zone-Empire-cbr.md) | 189.08MiB
@@ -2087,7 +2087,7 @@ All-New X-Men v1 - Yesterday's X-Men (2013) (Digital) (Meganubis-Empire).cbz | 2
 [Deathlok The Souls Of Cyber-Folk (TPB)(2015)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deathlok-Souls-Of-Cyber-Folk-TPB-2015-TLK-EMPIRE-HD-cbr.md) | 886.47MiB
 [Fantastic Four v01 - New Departure, New Arrivals (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fantastic-Four-v01-New-Departure-New-Arrivals-2013-Digital-Zone-Empire-cbr.md) | 271.68MiB
 [Guardians Of The Galaxy - All-New X-Men - The Trial Of Jean Grey (2014) (Digital HC) (DarkZone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-Of-Galaxy-All-New-X-Men-Trial-Of-Jean-Grey-2014-Digital-HC-DarkZone-Empire-cbr.md) | 200.08MiB
-Guardians of the Galaxy v01 - Cosmic Avengers (2013) (Digital HC) (Zone-Empire).cbr | 408.10MiB
+[Guardians of the Galaxy v01 - Cosmic Avengers (2013) (Digital HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-v01-Cosmic-Avengers-2013-Digital-HC-Zone-Empire-cbr.md) | 408.10MiB
 [Guardians of the Galaxy v02 - Angela (2014) (Digital HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-v02-Angela-2014-Digital-HC-Zone-Empire-cbr.md) | 234.82MiB
 [Guardians of the Galaxy v03 - Guardians Disassembled (2014) (Digital HC) (BroadCast-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-v03-Guardians-Disassembled-2014-Digital-HC-BroadCast-Empire-cbz.md) | 318.44MiB
 [Guardians of the Galaxy v04 - Original Sin (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-v04-Original-Sin-2015-Digital-Zone-Empire-cbr.md) | 309.17MiB
@@ -2115,7 +2115,7 @@ Iron Man - Fatal Frontier (2014) (Digital HC) (BroadCast-Empire).cbz | 708.38MiB
 [Superior Spider-Man v03 - No Escape (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-v03-No-Escape-2013-Digital-Zone-Empire-cbr.md) | 217.42MiB
 [Superior Spider-Man v04 - Necessary Evil (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-v04-Necessary-Evil-2014-Digital-Zone-Empire-cbr.md) | 198.17MiB
 [Superior Spider-Man v05 - Superior Venom (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Spider-Man-v05-Superior-Venom-2014-Digital-Zone-Empire-cbr.md) | 258.14MiB
-Thanos - A God Up There Listening (2014) (Digital HC) (BroadCast-Empire).cbz | 311.03MiB
+[Thanos - A God Up There Listening (2014) (Digital HC) (BroadCast-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Thanos-A-God-Up-There-Listening-2014-Digital-HC-BroadCast-Empire-cbz.md) | 311.03MiB
 [The Punisher v01 - Black and White (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Punisher-v01-Black-White-2014-Digital-Zone-Empire-cbr.md) | 214.73MiB
 [Thor God of Thunder Vol. 1 - The God Butcher (2013) (Digital-HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-Vol-1-God-Butcher-2013-Digital-HC-Zone-Empire-cbr.md) | 210.11MiB
 [Thor God of Thunder Vol. 2 - Godbomb (2013) (Digital-HC) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thor-God-of-Thunder-Vol-2-Godbomb-2013-Digital-HC-Zone-Empire-cbr.md) | 194.33MiB

@@ -17,8 +17,8 @@ Manifest Destiny 004 (2014) (Digital) (Minutemen-Acan).cbr | 61.39MiB
 Manifest Destiny 005 (2014) (Digital) (Minutemen-Acan).cbr | 62.29MiB
 Manifest Destiny 006 (2014) (Digital) (Minutemen-Acan).cbr | 63.75MiB
 Manifest Destiny 007 (2014) (Digital) (Minutemen-Acan).cbr | 58.70MiB
-Manifest Destiny 010 (2014) (Digital) (Minutemen-Acan).cbr | 64.50MiB
-Manifest Destiny 011 (2014) (Digital) (Minutemen-Acan).cbr | 61.71MiB
+[Manifest Destiny 010 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-010-2014-Digital-Minutemen-Acan-cbr.md) | 64.50MiB
+[Manifest Destiny 011 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-011-2014-Digital-Minutemen-Acan-cbr.md) | 61.71MiB
 [Manifest Destiny 012 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-012-2014-Digital-Minutemen-Acan-cbr.md) | 68.69MiB
 [Manifest Destiny 013 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-013-2015-Digital-Minutemen-Acan-cbr.md) | 64.10MiB
 [Manifest Destiny 014 (2015) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manifest-Destiny-014-2015-Digital-Minutemen-Acan-cbr.md) | 65.39MiB

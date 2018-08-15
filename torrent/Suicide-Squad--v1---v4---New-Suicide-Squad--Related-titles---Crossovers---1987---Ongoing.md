@@ -14,7 +14,7 @@ Online | Download
 [New Suicide Squad - Futures End 001 (2014)(Digital)(ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-Futures-End-001-2014-Digital-ThatGuy-Empire-cbz.md) | 40.56MiB
 [New Suicide Squad 001 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-001-2014-digital-Minutemen-Midas-cbr.md) | 42.16MiB
 [New Suicide Squad 002 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-002-2014-digital-Minutemen-Midas-cbr.md) | 39.43MiB
-New Suicide Squad 003 (2014) (Digital) (ThatGuy-Empire).cbz | 43.47MiB
+[New Suicide Squad 003 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-003-2014-Digital-ThatGuy-Empire-cbz.md) | 43.47MiB
 [New Suicide Squad 004 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-004-2014-Digital-ThatGuy-Empire-cbz.md) | 38.28MiB
 [New Suicide Squad 005 (2014) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-005-2014-Digital-ThatGuy-Empire-cbz.md) | 34.58MiB
 [New Suicide Squad 006 (2015) (Digital) (ThatGuy-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/New-Suicide-Squad-006-2015-Digital-ThatGuy-Empire-cbz.md) | 36.87MiB

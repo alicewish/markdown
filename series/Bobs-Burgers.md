@@ -36,7 +36,7 @@ Online | Download
 --- | ---
 Bob's Burgers 01 (of 05) (2014) (digital) (Minutemen-Faessla).cbz | 43.62MiB
 Bob's Burgers 02 (of 05) (2014) (digital) (Minutemen-Faessla).cbz | 49.20MiB
-Bob's Burgers 002 (2014) (digital-Empire).cbr | [48.83MiB](https://pan.baidu.com/s/1dEJy9Eh#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.24%2F%E3%82%A2%E3%82%BF%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%BD%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%B5%E3%82%A8%E3%82%AA%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%A6%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%B9%E3%82%AA%E3%82%B1%E3%82%BB%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+[Bob's Burgers 002 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bobs-Burgers-002-2014-digital-Empire-cbr.md) | [48.83MiB](https://pan.baidu.com/s/1dEJy9Eh#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.24%2F%E3%82%A2%E3%82%BF%E3%82%BB%E3%82%B5%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%BD%E3%82%AD%E3%82%AD%E3%82%AF%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%AA%E3%82%B5%E3%82%A8%E3%82%AA%E3%82%B7%E3%82%BB%E3%82%BD%E3%82%B7%E3%82%B5%E3%82%A6%E3%82%AD%E3%82%BB%E3%82%A2%E3%82%B9%E3%82%AA%E3%82%B1%E3%82%BB%E3%82%A8&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Bob's Burgers 03 (of 05) (2014) (digital) (Minutemen-Faessla).cbz | 53.79MiB
 Bob's Burgers 04 (of 05) (2014) (digital) (Minutemen-Faessla).cbz | 41.11MiB
 Bob's Burgers 05 (of 05) (2014) (digital) (Minutemen-Faessla).cbz | 48.74MiB

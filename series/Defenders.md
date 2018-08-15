@@ -66,6 +66,18 @@ The Defenders 002 (1972) (digital) (Minutemen-Slayer).cbr | 39.97MiB
 Defenders 003 (1972) (Digital) (AnHeroGold-Empire).cbz | 42.53MiB
 Defenders 003 (1972) (Digital) (AnPymGold-Empire).cbz | 27.91MiB
 The Defenders 003 (1972) (digital) (Minutemen-Slayer).cbr | 42.44MiB
+The Defenders 042 (1972) (Digital).cbz | 15.62MiB
+The Defenders 043 (1972) (Digital).cbz | 14.87MiB
+The Defenders 044 (1972) (Digital).cbz | 14.77MiB
+The Defenders 045 (1972) (Digital).cbz | 14.84MiB
+The Defenders 046 (1972) (Digital).cbz | 13.89MiB
+The Defenders 051 (1972) (Digital).cbz | 14.17MiB
+The Defenders 052 (1972) (Digital).cbz | 14.04MiB
+The Defenders 053 (1972) (Digital).cbz | 15.14MiB
+The Defenders 054 (1972) (Digital).cbz | 14.63MiB
+The Defenders 055 (1972) (Digital).cbz | 15.80MiB
+The Defenders 056 (1972) (Digital).cbz | 15.65MiB
+The Defenders 057 (1972) (Digital).cbz | 14.81MiB
 Defenders Annual 001 (1972) (Digital) (Shadowcat-Empire).cbz | 73.56MiB
 Defenders 004 (1973) (Digital) (AnHeroGold-Empire).cbz | 42.04MiB
 Defenders 004 (1973) (Digital) (AnPymGold-Empire).cbz | 26.74MiB

@@ -21,7 +21,7 @@ Kill Shakespeare Vol. 04 - The Mask of Night (2014) (digital) (Minutemen-Slayer)
 Kill Shakespeare - The Mask of Night 001 (2014) (digital) (Eos-Empire).cbr | 41.52MiB
 Kill Shakespeare - The Mask of Night 002 (2014) (digital) (Eos-Empire).cbr | 37.10MiB
 Kill Shakespeare - The Mask of Night 003 (2014) (digital) (Eos-Empire).cbr | 37.21MiB
-Kill Shakespeare - The Mask of Night 004 (2014) (digital) (Eos-Empire).cbr | 36.44MiB
+[Kill Shakespeare - The Mask of Night 004 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kill-Shakespeare-Mask-of-Night-004-2014-digital-Eos-Empire-cbr.md) | 36.44MiB
 &emsp;【Kill Shakespeare/Kill Shakespeare - The Tide of Blood (001-005)(2013)(digital-Empire)】 | 
 Kill Shakespeare - The Tide of Blood 01 (of 05) (2013) (2 covers) (digital) (Son of Ultron-Empire).cbr | 79.96MiB
 Kill Shakespeare - The Tide of Blood 02 (of 05) (2013) (digital) (Son of Ultron-Empire).cbr | 68.94MiB

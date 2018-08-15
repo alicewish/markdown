@@ -187,7 +187,7 @@ Scooby-Doo 159 (2010) (noads) (HFB-CPS).cbr | 15.41MiB
 Scooby-Doo - Mystery Card Game Caper.cbr | 9.82MiB
 &emsp;【Scooby-Doo/Scooby Doo (DC)/Scooby-Doo Team-Up (001-022)(2013-2015)】 | 
 FCBD 2015 - Teen Titans Go!-Scooby-Doo Team-Up - Special Edition 001 (2015) (Digital) (Dr. Greenthumb).cbr | 31.32MiB
-Scooby-Doo Team Up, Halloween Special Edition 001 (2014) (digital) (Son of Ultron-Empire).cbr | 49.79MiB
+[Scooby-Doo Team Up, Halloween Special Edition 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-Halloween-Special-Edition-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 49.79MiB
 Scooby-Doo Team-Up 001 (2013) (digital) (Son of Ultron-Empire).cbr | 22.75MiB
 Scooby-Doo Team-Up 002 (2013) (digital) (Son of Ultron-Empire).cbr | 22.30MiB
 Scooby-Doo Team-Up 003 (2013) (digital) (Son of Ultron-Empire).cbr | 20.86MiB
@@ -198,8 +198,8 @@ Scooby-Doo Team-Up 007 (2014) (digital) (Son of Ultron-Empire).cbr | 24.22MiB
 Scooby-Doo Team-Up 008 (2014) (digital) (Son of Ultron-Empire).cbr | 23.29MiB
 Scooby-Doo Team-Up 009 (2014) (digital) (Son of Ultron-Empire).cbr | 26.69MiB
 Scooby-Doo Team-Up 010 (2014) (digital) (Son of Ultron-Empire).cbr | 27.73MiB
-Scooby-Doo Team-Up 011 (2014) (digital) (Son of Ultron-Empire).cbr | 25.00MiB
-Scooby-Doo Team-Up 012 (2014) (digital) (Son of Ultron-Empire).cbr | 26.36MiB
+[Scooby-Doo Team-Up 011 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-011-2014-digital-Son-of-Ultron-Empire-cbr.md) | 25.00MiB
+[Scooby-Doo Team-Up 012 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-012-2014-digital-Son-of-Ultron-Empire-cbr.md) | 26.36MiB
 Scooby-Doo Team-Up 013 (2014) (digital) (Son of Ultron-Empire).cbr | 26.10MiB
 [Scooby-Doo Team-Up 014 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-014-2014-digital-Son-of-Ultron-Empire-cbr.md) | 23.69MiB
 [Scooby-Doo Team-Up 015 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-015-2015-digital-Son-of-Ultron-Empire-cbr.md) | 15.18MiB
@@ -260,8 +260,8 @@ Scooby-Doo - Where Are You 045 (2014) (digital) (Son of Ultron-Empire).cbr | 44.
 Scooby-Doo - Where Are You 046 (2014) (digital) (Son of Ultron-Empire).cbr | 52.96MiB
 Scooby-Doo - Where Are You 047 (2014) (digital) (Son of Ultron-Empire).cbr | 50.54MiB
 Scooby-Doo - Where Are You 048 (2014) (digital) (Son of Ultron-Empire).cbr | 51.36MiB
-Scooby-Doo - Where Are You 049 (2014) (digital) (Son of Ultron-Empire).cbr | 43.11MiB
-Scooby-Doo, Where Are You 050 (2014) (digital) (Son of Ultron-Empire).cbr | 41.49MiB
+[Scooby-Doo - Where Are You 049 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-049-2014-digital-Son-of-Ultron-Empire-cbr.md) | 43.11MiB
+[Scooby-Doo, Where Are You 050 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-050-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.49MiB
 [Scooby-Doo, Where Are You 051 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-051-2015-digital-Son-of-Ultron-Empire-cbr.md) | 50.00MiB
 [Scooby-Doo, Where Are You 052 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-052-2015-digital-Son-of-Ultron-Empire-cbr.md) | 46.93MiB
 [Scooby-Doo, Where Are You 053 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-053-2015-digital-Son-of-Ultron-Empire-cbr.md) | 37.79MiB

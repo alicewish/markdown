@@ -15,7 +15,7 @@ Conan the Avenger 002 (2014) (digital) (Son of Ultron-Empire).cbr | 47.00MiB
 Conan the Avenger 003 (2014) (digital) (Son of Ultron-Empire).cbr | 44.15MiB
 Conan the Avenger 004 (2014) (digital) (Son of Ultron-Empire).cbr | 47.89MiB
 Conan the Avenger 005 (2014) (digital) (Son of Ultron-Empire).cbr | 47.11MiB
-Conan the Avenger 006 (2014) (digital) (Son of Ultron-Empire).cbr | 54.06MiB
+[Conan the Avenger 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Conan-Avenger-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 54.06MiB
 [Conan the Avenger 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Conan-Avenger-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 45.10MiB
 [Conan the Avenger 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Conan-Avenger-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 44.94MiB
 [Conan the Avenger 009 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Conan-Avenger-009-2014-digital-Son-of-Ultron-Empire-cbr.md) | 46.35MiB

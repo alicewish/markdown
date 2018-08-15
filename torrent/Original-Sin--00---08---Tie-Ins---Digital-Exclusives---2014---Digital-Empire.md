@@ -75,4 +75,4 @@ Online | Download
 055 - Guardians of the Galaxy 018 (2014) (Zone-Empire).cbr | 36.06MiB
 056 - Guardians of the Galaxy 019 (2014) (Digital) (Zone-Empire).cbr | 44.25MiB
 057 - Guardians of the Galaxy 020 (2014) (Digital) (Zone-EMpire).cbr | 37.53MiB
-Original Sin Annual 001 (2014) (Digital) (Zone-Empire).cbr | 53.66MiB
+[Original Sin Annual 001 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Original-Sin-Annual-001-2014-Digital-Zone-Empire-cbr.md) | 53.66MiB

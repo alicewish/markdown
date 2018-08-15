@@ -47,7 +47,7 @@ Artifacts 025 (2013) (Digital) (Nahga-Empire).cbr | 37.15MiB
 Artifacts 026 (2013) (Digital) (Nahga-Empire).cbr | 67.97MiB
 Artifacts 030 (2013) (Digital) (Darkness-Empire).cbr | 52.25MiB
 Artifacts 038 (2014) (Digital) (Darkness-Empire).cbr | 43.96MiB
-Artifacts 039 (2014) (Digital) (Darkness-Empire).cbr | 35.76MiB
+[Artifacts 039 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artifacts-039-2014-Digital-Darkness-Empire-cbr.md) | 35.76MiB
 Artifacts Origins - First Born Vol 1 TPB (2012) (Digital) (K6-Empire).cbr | 153.36MiB
 Artifacts Vol. 1 (2011) (Digital TPB + Extras) (Zone-Empire).cbr | 247.24MiB
 Artifacts Vol. 2 (2011) (Digital TPB + Extras) (Zone-Empire).cbr | 268.09MiB
@@ -480,7 +480,7 @@ Witchblade 174 (2014) (Digital) (Darkness-Empire).cbr | 44.39MiB
 Witchblade 175 (2014) (Digital) (Darkness-Empire).cbr | 71.55MiB
 Witchblade 176 (2014) (Digital) (Darkness-Empire).cbr | 50.12MiB
 Witchblade 177 (2014) (Digital) (Darkness-Empire).cbr | 46.72MiB
-Witchblade 178 (2014) (Digital) (Darkness-Empire).cbr | 46.64MiB
+[Witchblade 178 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-178-2014-Digital-Darkness-Empire-cbr.md) | 46.64MiB
 [Witchblade 179 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-179-2014-Digital-Darkness-Empire-cbr.md) | 51.42MiB
 [Witchblade 180 (2015) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-180-2015-digital-Empire-cbr.md) | 138.70MiB
 [Witchblade 181 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Witchblade-181-2015-Digital-Zone-Empire-cbr.md) | 55.59MiB
