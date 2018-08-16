@@ -1,5 +1,9 @@
 ## Rocket Salvage 01 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Rocket Salvage 目录](https://github.com/alicewish/markdown/blob/master/series/Rocket-Salvage.md)
+
+
 ![Rocket Salvage 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftoqy9l8nzj21j82cw4qq.jpg)
 
 ![Rocket Salvage 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftoqyecf9hj21j82cwb29.jpg)
@@ -51,3 +55,6 @@
 ![Rocket Salvage 001-024.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftor1xo36vj21j82cwb2a.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpngiswwh1j20zk1io4qp.jpg)
+
+[回到 Rocket Salvage 目录](https://github.com/alicewish/markdown/blob/master/series/Rocket-Salvage.md)
+

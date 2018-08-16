@@ -22,4 +22,4 @@ The Eighth Seal 004 (2013) (+ bonus pages) (digital) (Son of Ultron-Empire).cbr 
 The Eighth Seal 005 (2013) (+ bonus pages) (digital) (Son of Ultron-Empire).cbr | 34.11MiB
 The Eighth Seal 006 (2014) (+ bonus pages) (digital) (Son of Ultron-Empire).cbr | 32.18MiB
 The Eighth Seal 007 (2014) (Tynion, Rock - digital).cbz | 25.76MiB
-The Eighth Seal 008 (2014) (Tynion, Rock - digital).cbz | 18.44MiB
+[The Eighth Seal 008 (2014) (Tynion, Rock - digital).cbz](https://github.com/alicewish/markdown/blob/master/comic/Eighth-Seal-008-2014-Tynion-Rock-digital-cbz.md) | 18.44MiB

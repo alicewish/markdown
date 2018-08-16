@@ -48,7 +48,7 @@ Judge Dredd 018 (2014) (Digital) (Fawkes-Empire).cbr | 38.49MiB
 Judge Dredd 019 (2014) (Digital) (Fawkes-Empire).cbr | 46.69MiB
 Judge Dredd 020 (2014) (Digital-Empire).cbr | 46.52MiB
 Judge Dredd 021 (2014) (Digital-Empire).cbr | 32.84MiB
-Judge Dredd 022 (2014) (Digital-Empire).cbr | 39.08MiB
+[Judge Dredd 022 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-022-2014-Digital-Empire-cbr.md) | 39.08MiB
 [Judge Dredd 023 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-023-2014-Digital-Empire-cbr.md) | 35.77MiB
 [Judge Dredd 024 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-024-2014-Digital-Empire-cbr.md) | 39.76MiB
 [Judge Dredd 025 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Judge-Dredd-025-2014-Digital-Empire-cbr.md) | 33.68MiB

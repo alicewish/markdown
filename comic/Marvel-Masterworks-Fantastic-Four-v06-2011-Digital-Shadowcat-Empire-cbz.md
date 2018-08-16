@@ -1,5 +1,9 @@
 ## Marvel Masterworks - Fantastic Four v06 (2011) (Digital) (Shadowcat-Empire).cbz
 
+
+[回到 Marvel Masterworks - Fantastic Four 目录](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Fantastic-Four.md)
+
+
 ![Fantastic Four Masterworks Vol. 06-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp57kd4xlgj21j82cw1fv.jpg)
 
 ![Fantastic Four Masterworks Vol. 06-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftgl15d7wgj21j82cw0xi.jpg)
@@ -481,3 +485,6 @@
 ![Fantastic Four Masterworks Vol. 06-239.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftglzpn5gej21kw2ebkjm.jpg)
 
 ![zzzzShadowcat001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fnxeulg7o3j20u016pds5.jpg)
+
+[回到 Marvel Masterworks - Fantastic Four 目录](https://github.com/alicewish/markdown/blob/master/series/Marvel-Masterworks-Fantastic-Four.md)
+

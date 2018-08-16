@@ -13,5 +13,5 @@ Online | Download
 Genius 001 (2014) (Digital) (Zone-Empire).cbr | 40.59MiB
 Genius 002 (2014) (Digital) (Zone-Empire).cbr | 35.69MiB
 Genius 003 (2014) (Digital) (Zone-Empire).cbr | 41.13MiB
-Genius 004 (2014) (Digital) (Zone-Empire).cbr | 41.19MiB
-Genius 005 (2014) (Digital) (Zone-Empire).cbr | 45.79MiB
+[Genius 004 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Genius-004-2014-Digital-Zone-Empire-cbr.md) | 41.19MiB
+[Genius 005 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Genius-005-2014-Digital-Zone-Empire-cbr.md) | 45.79MiB

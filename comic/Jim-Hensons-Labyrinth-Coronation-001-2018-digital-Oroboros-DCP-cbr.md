@@ -1,5 +1,9 @@
 ## Jim Henson's Labyrinth - Coronation 001 (2018) (digital) (Oroboros-DCP).cbr
 
+
+[回到 Jim Henson's Labyrinth - Coronation 目录](https://github.com/alicewish/markdown/blob/master/series/Jim-Hensons-Labyrinth-Coronation.md)
+
+
 ![Jim Henson's Labyrinth - Coronation 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp7pyb4oqnj21j82cw1kx.jpg)
 
 ![Jim Henson's Labyrinth - Coronation 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp7pyzxm12j21j82cw4qr.jpg)
@@ -49,3 +53,6 @@
 ![Jim Henson's Labyrinth - Coronation 001-023.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp7qfs5ex7j21j82cwqv5.jpg)
 
 ![zzoroboros.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flsksjlkg5j20fd0lcdgp.jpg)
+
+[回到 Jim Henson's Labyrinth - Coronation 目录](https://github.com/alicewish/markdown/blob/master/series/Jim-Hensons-Labyrinth-Coronation.md)
+

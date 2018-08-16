@@ -1,5 +1,9 @@
 ## Eternity Girl 001 (2018) (2 covers) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Eternity Girl 目录](https://github.com/alicewish/markdown/blob/master/series/Eternity-Girl.md)
+
+
 ![Eternity Girl (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpdf6n26goj21j82cw4l2.jpg)
 
 ![Eternity Girl (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpde9ts3hcj21j72cwqoj.jpg)
@@ -59,3 +63,6 @@
 ![Eternity Girl (2018-) 001-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpdfakeincj21j72cw4qp.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp5mlrwfphj20zk1io4qp.jpg)
+
+[回到 Eternity Girl 目录](https://github.com/alicewish/markdown/blob/master/series/Eternity-Girl.md)
+

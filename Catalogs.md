@@ -421,6 +421,8 @@
 
 [Amerikarate](https://github.com/alicewish/markdown/blob/master/series/Amerikarate.md)
 
+[Analog](https://github.com/alicewish/markdown/blob/master/series/Analog.md)
+
 [Anarky](https://github.com/alicewish/markdown/blob/master/series/Anarky.md)
 
 [Angel & Faith](https://github.com/alicewish/markdown/blob/master/series/Angel-Faith.md)
@@ -2117,6 +2119,8 @@
 
 [Deadpool & The Mercs For Money](https://github.com/alicewish/markdown/blob/master/series/Deadpool-Mercs-For-Money.md)
 
+[Deadpool - Assassin](https://github.com/alicewish/markdown/blob/master/series/Deadpool-Assassin.md)
+
 [Deadpool - Back in Black](https://github.com/alicewish/markdown/blob/master/series/Deadpool-Back-in-Black.md)
 
 [Deadpool - Merc With A Mouth](https://github.com/alicewish/markdown/blob/master/series/Deadpool-Merc-With-A-Mouth.md)
@@ -3173,6 +3177,8 @@
 
 [Giant-Size X-Men](https://github.com/alicewish/markdown/blob/master/series/Giant-Size-X-Men.md)
 
+[Gideon Falls](https://github.com/alicewish/markdown/blob/master/series/Gideon-Falls.md)
+
 [Giggle Comics](https://github.com/alicewish/markdown/blob/master/series/Giggle-Comics.md)
 
 [Giles](https://github.com/alicewish/markdown/blob/master/series/Giles.md)
@@ -3866,6 +3872,8 @@
 [I, Zombie](https://github.com/alicewish/markdown/blob/master/series/I-Zombie.md)
 
 [I.R.$.](https://github.com/alicewish/markdown/blob/master/series/I-R.md)
+
+[Ice Cream Man](https://github.com/alicewish/markdown/blob/master/series/Ice-Cream-Man.md)
 
 [Iceman](https://github.com/alicewish/markdown/blob/master/series/Iceman.md)
 
@@ -10233,6 +10241,8 @@
 
 [DC Week+ (08-08-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-08-08-2018.md)
 
+[DC Week+ (08-15-2018)](https://github.com/alicewish/markdown/blob/master/week/DC-Week-08-15-2018.md)
+
 ### Hitlist Week
 
 [Hitlist Week of 2015.04.29](https://github.com/alicewish/markdown/blob/master/week/Hitlist-Week-of-2015-04-29.md)
@@ -10837,6 +10847,8 @@
 
 [Image Week (08-08-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-08-08-2018.md)
 
+[Image Week (08-15-2018)](https://github.com/alicewish/markdown/blob/master/week/Image-Week-08-15-2018.md)
+
 ### Marvel Week
 
 [Marvel Week+ (01-06-2016)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-01-06-2016.md)
@@ -11110,6 +11122,8 @@
 [Marvel Week+ (08-01-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-08-01-2018.md)
 
 [Marvel Week+ (08-08-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-08-08-2018.md)
+
+[Marvel Week+ (08-15-2018)](https://github.com/alicewish/markdown/blob/master/week/Marvel-Week-08-15-2018.md)
 
 ### Novus - Week
 

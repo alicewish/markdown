@@ -1,5 +1,9 @@
 ## Punks Not Dead 001 (2018) (digital) (Son of Ultron-Empire).cbr
 
+
+[回到 Punks Not Dead 目录](https://github.com/alicewish/markdown/blob/master/series/Punks-Not-Dead.md)
+
+
 ![Punks Not Dead 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp6lvzo0q0j21j82cwhdt.jpg)
 
 ![Punks Not Dead 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp6lwdlql9j21j82cwx6p.jpg)
@@ -57,3 +61,6 @@
 ![Punks Not Dead 001-027.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fp6m3ra2tjj21j82cwe6i.jpg)
 
 ![zSoU-Nerd.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fo8t9sis5zj20zk1io4qp.jpg)
+
+[回到 Punks Not Dead 目录](https://github.com/alicewish/markdown/blob/master/series/Punks-Not-Dead.md)
+

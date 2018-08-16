@@ -1,5 +1,9 @@
 ## Jim Henson's Labyrinth - Coronation 002 (2018) (Digital) (Mephisto-Empire).cbr
 
+
+[回到 Jim Henson's Labyrinth - Coronation 目录](https://github.com/alicewish/markdown/blob/master/series/Jim-Hensons-Labyrinth-Coronation.md)
+
+
 ![Jim-Henson's-Labyrinth---Coronation-002-(2018)-(Digital)-(Mephisto-Empire)-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq2bdv210uj21j82cwqrm.jpg)
 
 ![Jim-Henson's-Labyrinth---Coronation-002-(2018)-(Digital)-(Mephisto-Empire)-002.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq2bed9gi4j21j82cw4qr.jpg)
@@ -51,3 +55,6 @@
 ![Jim-Henson's-Labyrinth---Coronation-002-(2018)-(Digital)-(Mephisto-Empire)-025.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fpeska91vxj21kw17qkjn.jpg)
 
 ![zzz-mephisto.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flofhzev9bj21j8123haq.jpg)
+
+[回到 Jim Henson's Labyrinth - Coronation 目录](https://github.com/alicewish/markdown/blob/master/series/Jim-Hensons-Labyrinth-Coronation.md)
+

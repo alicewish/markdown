@@ -42,7 +42,7 @@ Plants vs. Zombies - Lawnmageddon (2013) (digital) (Son of Ultron-Empire).cbr | 
 Plants vs. Zombies - Timepocalypse 01 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 27.76MiB
 Plants vs. Zombies - Timepocalypse 02 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 27.39MiB
 Plants vs. Zombies - Timepocalypse 03 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 26.00MiB
-Plants vs. Zombies - Timepocalypse 04 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 26.04MiB
+[Plants vs. Zombies - Timepocalypse 04 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Timepocalypse-04-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 26.04MiB
 [Plants vs. Zombies - Timepocalypse 05 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Timepocalypse-05-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 26.13MiB
 [Plants vs. Zombies - Timepocalypse 06 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Plants-vs-Zombies-Timepocalypse-06-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 29.18MiB
 Plants vs. Zombies - Timepocalypse (2015) (digital) (The Magicians-Empire).cbr | 144.58MiB

@@ -41,7 +41,7 @@ All-New X-Men 024 (2014) (Digital) (Zone-Empire).cbr | 35.13MiB
 [All-New X-Men 028 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-028-2014-Digital-Zone-Empire-cbr.md) | 35.04MiB
 All-New X-Men 029 (2014) (Digital) (Zone-Empire).cbr | 39.79MiB
 [All-New X-Men 030 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-030-2014-Digital-Zone-Empire-cbr.md) | 27.11MiB
-All-New X-Men 031 (2014) (Digital) (Zone-Empire).cbr | 32.82MiB
+[All-New X-Men 031 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-031-2014-Digital-Zone-Empire-cbr.md) | 32.82MiB
 [All-New X-Men 032 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-032-2014-Digital-Zone-Empire-cbr.md) | 32.73MiB
 [All-New X-Men 033 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-033-2014-Digital-Zone-Empire-cbr.md) | 29.67MiB
 [All-New X-Men 034 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-X-Men-034-2015-Digital-Zone-Empire-cbr.md) | 30.19MiB

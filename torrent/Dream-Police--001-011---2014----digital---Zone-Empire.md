@@ -13,7 +13,7 @@ Online | Download
 Dream Police 001 (2014) (Digital) (Zone-Empire).cbr | 50.82MiB
 Dream Police 002 (2014) (Digital) (Zone-Empire).cbr | 51.66MiB
 Dream Police 003 (2014) (Digital) (Zone-Empire).cbr | 50.78MiB
-Dream Police 004 (2014) (Digital) (Zone-Empire).cbr | 45.15MiB
+[Dream Police 004 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-004-2014-Digital-Zone-Empire-cbr.md) | 45.15MiB
 [Dream Police 005 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-005-2014-Digital-Zone-Empire-cbr.md) | 46.95MiB
 [Dream Police 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-006-2015-Digital-Zone-Empire-cbr.md) | 48.40MiB
 [Dream Police 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dream-Police-007-2015-Digital-Zone-Empire-cbr.md) | 47.60MiB

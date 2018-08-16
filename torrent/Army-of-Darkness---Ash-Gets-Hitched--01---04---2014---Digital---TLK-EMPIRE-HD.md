@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Army of Darkness Ash Gets Hitched 001(2014)(5 covers)(Digital Exclusive Edition)(Frankensteins Ugly Cousin Kriti Edaline Deanne Oda Vyvyan Evadine Reine-EMPIRE-HD).cbr | 30.15MiB
-Army of Darkness Ash Gets Hitched 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.16MiB
+[Army of Darkness Ash Gets Hitched 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-002-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 49.16MiB
 [Army of Darkness Ash Gets Hitched 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-003-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 52.19MiB
 [Army of Darkness Ash Gets Hitched 004(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-004-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 49.70MiB

@@ -543,7 +543,7 @@ Simpsons Comics 210 (2014) (digital) (Minutemen-InnerDemons).cbr | 26.91MiB
 Simpsons Comics 211 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.23MiB
 Simpsons Comics 212 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.96MiB
 Simpsons Comics 213 (2014) (digital) (Minutemen-InnerDemons).cbr | 30.53MiB
-Simpsons Comics 214 (2014) (Harkonnen-DCP).cbz | 39.76MiB
+[Simpsons Comics 214 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-214-2014-Harkonnen-DCP-cbz.md) | 39.76MiB
 [Simpsons Comics 215 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-215-2014-Harkonnen-DCP-cbz.md) | 37.15MiB
 [Simpsons Comics 216 (2014) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-216-2014-Harkonnen-DCP-cbz.md) | 37.17MiB
 [Simpsons Comics 217 (2015) (Harkonnen-DCP).cbz](https://github.com/alicewish/markdown/blob/master/comic/Simpsons-Comics-217-2015-Harkonnen-DCP-cbz.md) | 36.15MiB

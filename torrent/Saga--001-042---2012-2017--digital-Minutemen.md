@@ -42,7 +42,7 @@ Saga 018 (2014) (digital) (Minutemen-Spaztastic).cbr | 31.33MiB
 Saga 019 (2014) (digital) (Minutemen-Spaztastic).cbr | 35.23MiB
 Saga 020 (2014) (digital) (Minutemen-Spaztastic).cbr | 31.89MiB
 Saga 021 (2014) (digital) (Minutemen-Spaztastic).cbr | 31.04MiB
-Saga 022 (2014) (digital) (Minutemen-Spaztastic).cbr | 32.27MiB
+[Saga 022 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-022-2014-digital-Minutemen-Spaztastic-cbr.md) | 32.27MiB
 [Saga 023 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-023-2014-digital-Minutemen-Spaztastic-cbr.md) | 34.03MiB
 [Saga 024 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-024-2014-digital-Minutemen-Spaztastic-cbr.md) | 30.80MiB
 [Saga 025 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-025-2015-digital-Minutemen-Spaztastic-cbr.md) | 30.01MiB

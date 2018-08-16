@@ -13,4 +13,4 @@ Online | Download
 Evil Empire 001 (2014) (Digital) (Vee-Empire).cbr | 46.48MiB
 Evil Empire 002 (2014) (Digital) (Vee-Empire).cbr | 41.78MiB
 Evil Empire 003 (2014) (Digital) (Vee-Empire).cbr | 43.27MiB
-Evil Empire 004 (2014) (Digital) (Vee-Empire).cbr | 37.70MiB
+[Evil Empire 004 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-004-2014-Digital-Vee-Empire-cbr.md) | 37.70MiB

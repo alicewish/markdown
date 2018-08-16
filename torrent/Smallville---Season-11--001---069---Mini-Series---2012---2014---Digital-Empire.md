@@ -36,7 +36,7 @@ Smallville - Chaos 008 (2014) (Digital-Empire).cbr | 14.39MiB
 Smallville - Chaos 009 (2014) (Digital-Empire).cbr | 13.85MiB
 Smallville - Chaos 010 (2014) (Digital-Empire).cbr | 12.83MiB
 Smallville - Chaos 011 (2014) (Digital-Empire).cbr | 14.67MiB
-Smallville - Chaos 012 (2014) (Digital-Empire).cbr | 13.38MiB
+[Smallville - Chaos 012 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Chaos-012-2014-Digital-Empire-cbr.md) | 13.38MiB
 &emsp;【Smallville - Season 11 (001 - 069 + Mini-Series) (2012 - 2014) (Digital-Empire)/Smallville - Continuity (001 - 012) (2014) (Digital-Empire)】 | 
 [Smallville - Continuity 001 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-001-2014-Digital-Empire-cbr.md) | 15.65MiB
 [Smallville - Continuity 002 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Continuity-002-2014-Digital-Empire-cbr.md) | 14.20MiB

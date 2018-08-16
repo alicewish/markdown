@@ -39,7 +39,7 @@ The Goon - Nothin' but Misery 05 (of 5) (2011) (digital) (Minutemen-InnerDemons)
 The Goon v01 - Nothin' But Misery (2011, 2nd edition) (Digital) (Zone-Empire).cbr | 190.52MiB
 &emsp;【The Goon (v1-v3+Extras) (1999-2015) (scans+digital)/Occasion of Revenge (001-004)(2014)(digital)】 | 
 The Goon - Occasion of Revenge 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 21.34MiB
-The Goon - Occasion of Revenge 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 21.87MiB
+[The Goon - Occasion of Revenge 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Goon-Occasion-of-Revenge-02-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 21.87MiB
 [The Goon - Occasion of Revenge 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Goon-Occasion-of-Revenge-03-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.81MiB
 [The Goon - Occasion of Revenge 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Goon-Occasion-of-Revenge-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.34MiB
 &emsp;【The Goon (v1-v3+Extras) (1999-2015) (scans+digital)/Once Upon a Hard Time (001-004)(2015)(digital)】 | 

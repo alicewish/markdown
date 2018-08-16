@@ -14,4 +14,4 @@ Star Wars - Darth Maul - Son of Dathomir 001 (2014) (Digital) (Fawkes-Empire).cb
 Star Wars - Darth Maul - Son of Dathomir 001 (May the 4th Preview 2014) (digital) (Son of Ultron-Empire).cbr | 15.07MiB
 Star Wars - Darth Maul - Son of Dathomir 002 (2014) (Digital) (Fawkes-Empire).cbr | 28.01MiB
 Star Wars - Darth Maul - Son of Dathomir 003 (2014) (digital-Empire).cbr | 29.83MiB
-Star Wars - Darth Maul - Son of Dathomir 004 (2014) (digital-Empire).cbr | 29.40MiB
+[Star Wars - Darth Maul - Son of Dathomir 004 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-Darth-Maul-Son-of-Dathomir-004-2014-digital-Empire-cbr.md) | 29.40MiB

@@ -88,7 +88,7 @@ Mighty Avengers 009 (2014) (digital) (Minutemen-PhD).cbr | 34.89MiB
 Mighty Avengers 010 (2014) (digital) (Minutemen-PhD).cbr | 36.76MiB
 Mighty Avengers 011 (2014) (digital) (Minutemen-PhD).cbr | 41.21MiB
 Mighty Avengers 012 (2014) (digital) (Minutemen-PhD).cbr | 39.46MiB
-Mighty Avengers 013 (2014) (digital) (Minutemen-PhD).cbr | 32.35MiB
+[Mighty Avengers 013 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mighty-Avengers-013-2014-digital-Minutemen-PhD-cbr.md) | 32.35MiB
 [Mighty Avengers 014 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mighty-Avengers-014-2014-digital-Minutemen-PhD-cbr.md) | 34.39MiB
 &emsp;【Mighty Avengers (v1-v2+)(2007-2015)/Mighty Avengers v2 (001-014+)(2013-2014)(digital)(Minutemen-PhD+)/Variant Covers】 | 
 [Mighty Avengers 001 (2013) (Blank Variant) (Cover ONLY) (NN+ArtNet).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mighty-Avengers-001-2013-Blank-Variant-Cover-ONLY-NN-ArtNet-cbr.md) | 158.42KiB

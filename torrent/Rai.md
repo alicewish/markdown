@@ -58,7 +58,7 @@ Rai 001 (2014) (Clayton Crain 'Plus Edition' Variant Cover) (RedResin-Minutemen-
 Rai 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.72MiB
 Rai 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.27MiB
 Rai 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 40.77MiB
-Rai 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 37.70MiB
+[Rai 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 37.70MiB
 [Rai 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 42.32MiB
 [Rai 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.66MiB
 [Rai 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 38.16MiB

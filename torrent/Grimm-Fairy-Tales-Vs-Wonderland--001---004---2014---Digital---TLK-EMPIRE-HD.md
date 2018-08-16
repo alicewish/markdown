@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Grimm Fairy Tales Vs. Wonderland 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.06MiB
-Grimm Fairy Tales Vs. Wonderland 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 21.66MiB
+[Grimm Fairy Tales Vs. Wonderland 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 21.66MiB
 [Grimm Fairy Tales Vs. Wonderland 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 39.32MiB
 [Grimm Fairy Tales Vs. Wonderland 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 37.82MiB

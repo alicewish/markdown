@@ -14,7 +14,7 @@ Rush Zone - Skyward (2013) (FCBD) (Action Lab) (Digital) (Minutemen-Syl3ntBob).c
 Skyward - Into the Grim (2014) (digital-Empire).cbr | 35.36MiB
 Skyward 007 (2014) (3 covers) (Digital) (DR & Quinch-Empire).cbr | 50.28MiB
 Skyward 008 (2014) (Digital) (Dogmatix-Empire).cbr | 39.35MiB
-Skyward 009 (2014) (Digital) (Vee-Empire).cbr | 45.30MiB
+[Skyward 009 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Skyward-009-2014-Digital-Vee-Empire-cbr.md) | 45.30MiB
 Skyward 01 (of 06) (2013) (Digital) (Vee-Empire).cbr | 46.02MiB
 Skyward 02 (of 06) (2013) (Digital) (Vee-Empire).cbr | 63.11MiB
 Skyward 03 (of 06) (2013) (Digital) (Vee-Empire).cbr | 51.41MiB

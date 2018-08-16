@@ -261,7 +261,7 @@ Deadpool 029 (2014) (digital) (Minutemen-InnerDemons).cbr | 33.56MiB
 Deadpool 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.29MiB
 Deadpool 031 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.50MiB
 Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.12MiB
-Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.71MiB
+[Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-033-2014-digital-Minutemen-InnerDemons-cbr.md) | 35.71MiB
 [Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-034-2014-digital-Minutemen-InnerDemons-cbr.md) | 61.52MiB
 [Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-035-2014-digital-Minutemen-InnerDemons-cbr.md) | 36.95MiB
 [Deadpool 036 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-036-2014-digital-Minutemen-InnerDemons-cbr.md) | 39.08MiB
@@ -560,7 +560,7 @@ Deadpool vs. Carnage 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 4
 &emsp;【Deadpool/Limited Series/Deadpool Vs X-Force (001-004)(2014)(digital)(Minutemen-InnerDemons)】 | 
 Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 49.41MiB
 Deadpool vs. X-Force 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 47.23MiB
-Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 50.75MiB
+[Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-03-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 [Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 &emsp;【Deadpool/Limited Series/Deadpool the Duck (001-005)(2017)(digital)(Minutemen-Faessla)】 | 
 Deadpool the Duck 01 (of 05) (2017) (5 covers) (digital) (Minutemen-Faessla).cbz | 53.76MiB

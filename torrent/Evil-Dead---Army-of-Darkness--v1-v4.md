@@ -21,7 +21,7 @@ Online | Download
 [Army Of Darkness Furious Road 006(2016)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-Of-Darkness-Furious-Road-006-2016-Digital-TLK-EMPIRE-HD-cbr.md) | 44.68MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Army of Darkness - Ash Gets Hitched (001-004)(2014)(digital)】 | 
 Army of Darkness Ash Gets Hitched 001(2014)(5 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 30.15MiB
-Army of Darkness Ash Gets Hitched 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 49.16MiB
+[Army of Darkness Ash Gets Hitched 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-002-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 49.16MiB
 [Army of Darkness Ash Gets Hitched 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-003-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 52.19MiB
 [Army of Darkness Ash Gets Hitched 004(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Army-of-Darkness-Ash-Gets-Hitched-004-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 49.70MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Army of Darkness - Ash Saves Obama (001-004)(2009)(digital)】 | 

@@ -1,0 +1,24 @@
+# Analog
+
+打包下载📦仍在工事中
+
+[回到总目录](/Catalogs.md)
+
+Image
+
+Analog
+
+Five years from now: the security of the internet has been totally destroyed. Secrets are no longer sent over the web, they're entrusted to armed couriers called "Ledger Men," like human punching-bag Jack McGinnis. He's got a gun in one hand and a briefcase handcuffed to the other. Danger lurks around every corner, and Jack has to watch his back—because he had a part in the cyber attack that changed the world. Get in on the ground floor of this new ongoing series and thrill as we slam Jack's fist into the faces of spies, mercs, fascists, and eventually less punchable adversaries like a very grumpy artificial intelligence. From your new favorite artist, DAVID O'SULLIVAN, and GERRY DUGGAN, The New York Times bestselling author of such indie titles as Deadpool, Star Wars: Chewbacca, Guardians of the Galaxy, and Uncanny Avengers! 
+
+
+
+
+
+Online | Download
+--- | ---
+[Analog 001 (2018) (Digital) (TanCombs).cbr](https://github.com/alicewish/markdown/blob/master/comic/Analog-001-2018-Digital-TanCombs-cbr.md) | [45.90MiB](https://pan.baidu.com/s/1jmf9sDuDLQ0j9xeEIG3Lvw#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.04%2F%E3%82%B5%E3%82%AA%E3%82%B9%E3%82%B3%E3%82%B7%E3%82%B1%E3%82%B7%E3%82%BB%E3%82%A4%E3%82%BF%E3%82%B1%E3%82%B3%E3%82%B5%E3%82%A8%E3%82%B3%E3%82%AF%E3%82%AF%E3%82%B9%E3%82%AD%E3%82%B3%E3%82%B5%E3%82%BB%E3%82%A2%E3%82%BF%E3%82%BB%E3%82%BD%E3%82%AB%E3%82%AA%E3%82%BD%E3%82%AD%E3%82%AA%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Analog 001 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Analog-001-2018-Digital-Zone-Empire-cbr.md) | [46.05MiB](https://pan.baidu.com/s/1jmf9sDuDLQ0j9xeEIG3Lvw#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.04.04%2F%E3%82%AD%E3%82%A6%E3%82%A2%E3%82%A8%E3%82%BF%E3%82%AB%E3%82%B9%E3%82%B3%E3%82%A4%E3%82%A2%E3%82%B9%E3%82%B5%E3%82%B9%E3%82%BD%E3%82%AF%E3%82%A8%E3%82%A8%E3%82%AF%E3%82%A6%E3%82%AB%E3%82%BD%E3%82%B3%E3%82%A8%E3%82%A2%E3%82%AB%E3%82%AA%E3%82%BF%E3%82%AA%E3%82%BB%E3%82%AA%E3%82%B7%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Analog 002 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Analog-002-2018-Digital-Zone-Empire-cbr.md) | [43.71MiB](https://pan.baidu.com/s/143sZvWMYE0fkNyEAp6hdMQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.05.09%2F%E3%82%A4%E3%82%AF%E3%82%AA%E3%82%B5%E3%82%AF%E3%82%B3%E3%82%AD%E3%82%A4%E3%82%BD%E3%82%AB%E3%82%B1%E3%82%AF%E3%82%B1%E3%82%B7%E3%82%B5%E3%82%B1%E3%82%A8%E3%82%A2%E3%82%AF%E3%82%A4%E3%82%AD%E3%82%AB%E3%82%A6%E3%82%B1%E3%82%A2%E3%82%A8%E3%82%AD%E3%82%B9%E3%82%A6%E3%82%B7%E3%82%BF%E3%82%AB&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Analog 003 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Analog-003-2018-Digital-Zone-Empire-cbr.md) | [49.43MiB](https://pan.baidu.com/s/1sOrtXhLqrcFH_yfomlVypQ#list/path=%2F0-Day%20Week%20of%202018%20Q2%2F0-Day%20Week%20of%202018.06.13%2F%E3%82%AA%E3%82%B5%E3%82%BD%E3%82%BB%E3%82%A2%E3%82%AA%E3%82%A8%E3%82%A6%E3%82%AB%E3%82%A6%E3%82%A6%E3%82%B3%E3%82%B9%E3%82%B1%E3%82%B5%E3%82%B5%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%A6%E3%82%AB%E3%82%B3%E3%82%A6%E3%82%BF%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%B1%E3%82%A6%E3%82%A2%E3%82%AB%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202018%20Q2)
+[Analog 004 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Analog-004-2018-Digital-Zone-Empire-cbr.md) | 66.61MiB
+[Analog 005 (2018) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Analog-005-2018-Digital-Zone-Empire-cbr.md) | [50.77MiB](https://pan.baidu.com/s/1oo5CPOYhTvRFdJyVjCLdbg#list/path=%2FImage%20Week%202018%20Q3%2FImage%20Week%20%2808-15-2018%29%2F%E3%82%A6%E3%82%B5%E3%82%A2%E3%82%BF%E3%82%AB%E3%82%AB%E3%82%B7%E3%82%B9%E3%82%A8%E3%82%A2%E3%82%A2%E3%82%B1%E3%82%AD%E3%82%B7%E3%82%AA%E3%82%B3%E3%82%A8%E3%82%A2%E3%82%B5%E3%82%AA%E3%82%BD%E3%82%A6%E3%82%B3%E3%82%BB%E3%82%BD%E3%82%B9%E3%82%AB%E3%82%A2%E3%82%B3%E3%82%BD%E3%82%A4%E3%82%AB&parentPath=%2FImage%20Week%202018%20Q3)

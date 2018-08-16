@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Sensation Comics Featuring Wonder Woman 001 (2014) (digital) (Son of Ultron-Empire).cbr | 36.01MiB
 Sensation Comics Featuring Wonder Woman 002 (2014) (digital) (Son of Ultron-Empire).cbr | 32.23MiB
-Sensation Comics Featuring Wonder Woman 003 (2014) (digital) (Son of Ultron-Empire).cbr | 25.28MiB
+[Sensation Comics Featuring Wonder Woman 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 25.28MiB
 [Sensation Comics Featuring Wonder Woman 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 24.69MiB
 [Sensation Comics Featuring Wonder Woman 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.41MiB
 [Sensation Comics Featuring Wonder Woman 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.51MiB

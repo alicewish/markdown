@@ -18,7 +18,7 @@ Black Science 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 67.70MiB
 Black Science 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 56.86MiB
 Black Science 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 52.35MiB
 Black Science 007 (2014) (digital) (Minutemen-Spaztastic).cbr | 72.06MiB
-Black Science 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 56.60MiB
+[Black Science 008 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-008-2014-digital-Minutemen-Spaztastic-cbr.md) | 56.60MiB
 [Black Science 009 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-009-2014-digital-Minutemen-Spaztastic-cbr.md) | 62.97MiB
 [Black Science 010 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-010-2014-digital-Minutemen-Spaztastic-cbr.md) | 52.61MiB
 [Black Science 011 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-011-2014-digital-Minutemen-Spaztastic-cbr.md) | 73.72MiB

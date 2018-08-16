@@ -268,7 +268,7 @@ Transformers vs. G.I. Joe 008 (2015) (Sub Variant Only) \[extracted\] (Empire-Ad
 Transformers vs. G.I. Joe 009 (2015) (Sub Variant Only) \[extracted\] (Empire-Adventurers).cbr | 3.58MiB
 Transformers vs. G.I. Joe 000 (FCBD 2014) (digital) (Minutemen-Phantasm).cbz | 63.22MiB
 Transformers vs. G.I. Joe 001 (2014) (digital) (Minutemen-Midas).cbr | 63.11MiB
-Transformers vs. G.I. Joe 002 (2014) (digital) (Minutemen-Midas).cbr | 52.75MiB
+[Transformers vs. G.I. Joe 002 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-002-2014-digital-Minutemen-Midas-cbr.md) | 52.75MiB
 Transformers vs. G.I. Joe 003 (2014) (digital) (F) (Minutemen-Midas).cbr | 57.21MiB
 [Transformers vs. G.I. Joe 004 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-004-2014-digital-Minutemen-Midas-cbr.md) | 55.06MiB
 [Transformers vs. G.I. Joe 005 (2015) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-005-2015-digital-Minutemen-Midas-cbr.md) | 57.09MiB

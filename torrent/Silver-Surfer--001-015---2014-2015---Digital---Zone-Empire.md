@@ -14,7 +14,7 @@ Silver Surfer 001 (2014) (Digital) (Son of Ultron-Empire).cbr | 56.26MiB
 Silver Surfer 002 (2014) (Digital) (Son of Ultron-Empire).cbr | 54.99MiB
 Silver Surfer 003 (2014) (Digital) (Son of Ultron-Empire).cbr | 58.20MiB
 Silver Surfer 004 (2014) (Digital) (Son of Ultron-Empire).cbr | 52.33MiB
-Silver Surfer 005 (2014) (Digital) (Zone-Empire).cbr | 38.56MiB
+[Silver Surfer 005 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-005-2014-Digital-Zone-Empire-cbr.md) | 38.56MiB
 [Silver Surfer 006 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-006-2014-Digital-Zone-Empire-cbr.md) | 37.59MiB
 [Silver Surfer 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-007-2015-Digital-Zone-Empire-cbr.md) | 33.58MiB
 [Silver Surfer 008 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Silver-Surfer-008-2015-Digital-Zone-Empire-cbr.md) | 37.42MiB
