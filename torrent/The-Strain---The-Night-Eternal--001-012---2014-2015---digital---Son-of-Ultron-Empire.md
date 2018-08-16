@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Strain - The Night Eternal 001 (2014) (digital) (Son of Ultron-Empire).cbr | 41.19MiB
+[The Strain - The Night Eternal 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.19MiB
 [The Strain - The Night Eternal 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 32.08MiB
 [The Strain - The Night Eternal 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 32.70MiB
 [The Strain - The Night Eternal 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strain-Night-Eternal-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 33.37MiB

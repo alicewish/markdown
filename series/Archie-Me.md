@@ -54,4 +54,4 @@ Archie and Me 101 (1978) (c2c) (titansfan).cbz | 23.85MiB
 Archie and Me 129 (1981) (c2c) (titansfan).cbz | 24.62MiB
 Archie & Me 156 (1986) (c2c).cbr | 23.01MiB
 Archie and Me 161 (1987) (c2c) (titansfan).cbz | 26.41MiB
-Archie and Me Digest 009 (2018) (Forsythe-DCP).cbr | 179.62MiB
+Archie and Me Digest 009 (2018) (Forsythe-DCP).cbr | [179.62MiB](https://pan.baidu.com/s/1l2MQRkNYeHY7D7eiJuFCWQ#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.25%2F%E3%82%B1%E3%82%BF%E3%82%BF%E3%82%B5%E3%82%AD%E3%82%B9%E3%82%A6%E3%82%AD%E3%82%AF%E3%82%B7%E3%82%B7%E3%82%A4%E3%82%B9%E3%82%AA%E3%82%BD%E3%82%B5%E3%82%AD%E3%82%BB%E3%82%BF%E3%82%A6%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%AA%E3%82%AD%E3%82%B3%E3%82%AB%E3%82%B7%E3%82%BD%E3%82%AD%E3%82%AF%E3%82%B3&parentPath=%2F0-Day%20Week%20of%202018%20Q3)

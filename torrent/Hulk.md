@@ -771,7 +771,7 @@ Hulk 001 (2014) (digital) (Minutemen-InnerDemons).cbr | 36.09MiB
 Hulk 002 (2014) (digital) (Minutemen-InnerDemons).cbr | 43.08MiB
 Hulk 003 (2014) (digital) (Minutemen-InnerDemons).cbr | 46.11MiB
 Hulk 004 (2014) (digital) (Minutemen-InnerDemons).cbr | 41.34MiB
-Hulk 005 (2014) (digital) (Minutemen-InnerDemons).cbr | 40.61MiB
+[Hulk 005 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hulk-005-2014-digital-Minutemen-InnerDemons-cbr.md) | 40.61MiB
 [Hulk 006 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hulk-006-2014-digital-Minutemen-InnerDemons-cbr.md) | 44.17MiB
 [Hulk 007 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hulk-007-2014-digital-Minutemen-InnerDemons-cbr.md) | 43.71MiB
 [Hulk 008 (2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hulk-008-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 41.67MiB

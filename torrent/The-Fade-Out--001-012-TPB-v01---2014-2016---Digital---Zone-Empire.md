@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Fade Out 001 (2014) (Digital) (Archangel+Zone-Empire).cbr | 50.40MiB
+[The Fade Out 001 (2014) (Digital) (Archangel+Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-001-2014-Digital-Archangel-Zone-Empire-cbr.md) | 50.40MiB
 [The Fade Out 002 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-002-2014-Digital-Zone-Empire-cbr.md) | 48.18MiB
 [The Fade Out 003 (2014) (Digital) (Archangel+Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-003-2014-Digital-Archangel-Zone-Empire-cbr.md) | 51.03MiB
 [The Fade Out 004 (2015) (Digital) (Archangel+Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-004-2015-Digital-Archangel-Zone-Empire-cbr.md) | 46.87MiB

@@ -13,5 +13,5 @@ Online | Download
 Littlest Pet Shop 001 (2014) (digital-Empire).cbr | 29.76MiB
 Littlest Pet Shop 002 (2014) (digital-Empire).cbr | 29.33MiB
 Littlest Pet Shop 003 (2014) (digital-Empire).cbr | 26.34MiB
-Littlest Pet Shop 004 (2014) (digital) (CompetentRipper-Empire).cbr | 26.06MiB
+[Littlest Pet Shop 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Littlest-Pet-Shop-004-2014-digital-CompetentRipper-Empire-cbr.md) | 26.06MiB
 [Littlest Pet Shop 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Littlest-Pet-Shop-005-2014-digital-CompetentRipper-Empire-cbr.md) | 29.65MiB

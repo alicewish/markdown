@@ -17,7 +17,7 @@ Umbral 004 (2014) (Digital) (Fawkes-Empire).cbr | 53.86MiB
 Umbral 005 (2014) (Digital) (Fawkes-Empire).cbr | 48.60MiB
 Umbral 006 (2014) (Digital) (Fawkes-Empire).cbr | 49.19MiB
 Umbral 007 (2014) (Digital-Empire).cbr | 46.72MiB
-Umbral 008 (2014) (Digital-Empire).cbr | 45.90MiB
+[Umbral 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Umbral-008-2014-Digital-Empire-cbr.md) | 45.90MiB
 [Umbral 009 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Umbral-009-2014-Digital-Empire-cbr.md) | 45.92MiB
 [Umbral 010 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Umbral-010-2014-Digital-Empire-cbr.md) | 45.39MiB
 [Umbral 011 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Umbral-011-2014-Digital-Empire-cbr.md) | 43.68MiB

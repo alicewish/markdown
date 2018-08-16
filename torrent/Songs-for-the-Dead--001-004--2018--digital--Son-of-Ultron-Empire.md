@@ -13,4 +13,4 @@ Online | Download
 Songs for the Dead 001 (2018) (digital) (F) (Son of Ultron-Empire).cbr | 51.90MiB
 [Songs for the Dead 002 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Songs-for-Dead-002-2018-digital-Son-of-Ultron-Empire-cbr.md) | 51.44MiB
 [Songs for the Dead 003 (2018) (2 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Songs-for-Dead-003-2018-2-covers-digital-Son-of-Ultron-Empire-cbr.md) | 55.92MiB
-Songs for the Dead 004 (2018) (digital) (Son of Ultron-Empire).cbr | 53.84MiB
+[Songs for the Dead 004 (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Songs-for-Dead-004-2018-digital-Son-of-Ultron-Empire-cbr.md) | 53.84MiB

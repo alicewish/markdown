@@ -13,4 +13,4 @@ Online | Download
 Blackout 01 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 43.52MiB
 Blackout 02 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 39.99MiB
 Blackout 03 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 41.71MiB
-Blackout 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr | 37.40MiB
+[Blackout 04 (of 04) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Blackout-04-of-04-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.40MiB

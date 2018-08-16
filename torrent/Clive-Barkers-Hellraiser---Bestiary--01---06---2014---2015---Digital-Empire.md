@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Clive Barker's Hellraiser - Bestiary 01 (of 06) (2014) (Digital-Empire).cbr | 52.36MiB
+[Clive Barker's Hellraiser - Bestiary 01 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-01-of-06-2014-Digital-Empire-cbr.md) | 52.36MiB
 [Clive Barker's Hellraiser - Bestiary 02 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-02-of-06-2014-Digital-Empire-cbr.md) | 66.78MiB
 [Clive Barker's Hellraiser - Bestiary 03 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-03-of-06-2014-Digital-Empire-cbr.md) | 60.67MiB
 [Clive Barker's Hellraiser - Bestiary 04 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-04-of-06-2014-Digital-Empire-cbr.md) | 56.34MiB

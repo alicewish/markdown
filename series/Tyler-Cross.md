@@ -21,4 +21,4 @@ Tyler Cross 001 - Black Rock (2015) (Europe Comics) (digital) (Lynx-Empire).cbr 
 Tyler Cross 03 - Miami 1 of 4 (2018) (Europe Comics) (Digital-Empire).cbr | 14.69MiB
 Tyler Cross 03 - Miami 2 of 4 (2018) (Europe Comics) (Digital-Empire).cbr | 16.66MiB
 Tyler Cross 03 - Miami 3 of 4 (2018) (Europe Comics) (Digital-Empire).cbr | 14.36MiB
-Tyler Cross 03 - Miami 4 of 4 (2018) (Europe Comics) (Digital-Empire).cbr | 20.07MiB
+Tyler Cross 03 - Miami 4 of 4 (2018) (Europe Comics) (Digital-Empire).cbr | [20.07MiB](https://pan.baidu.com/s/1AMOZrDbCno_W9btAXGjPIw#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.18%2F%E3%82%B3%E3%82%BD%E3%82%B3%E3%82%A4%E3%82%A2%E3%82%AD%E3%82%B1%E3%82%A8%E3%82%BF%E3%82%B5%E3%82%B7%E3%82%AB%E3%82%AB%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%B1%E3%82%BD%E3%82%AD%E3%82%B5%E3%82%AD%E3%82%B1%E3%82%AF%E3%82%AF%E3%82%B3%E3%82%BD%E3%82%B7%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%A2%E3%82%A2&parentPath=%2F0-Day%20Week%20of%202018%20Q3)

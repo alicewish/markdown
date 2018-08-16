@@ -68,4 +68,4 @@ The Damnation of Charlie Wormwood v02 012 (2014) (Blanch, Carr, Chee - digital).
 The Damnation of Charlie Wormwood v02 013 (2014) (Blanch, Carr, Chee - digital).cbz | 9.39MiB
 The Damnation of Charlie Wormwood v02 014 (2014) (Blanch, Carr, Chee - digital).cbz | 9.61MiB
 The Damnation of Charlie Wormwood v02 015 (2014) (Blanch, Carr, Chee - digital).cbz | 8.98MiB
-The Damnation of Charlie Wormwood v02 016 (2014) (Blanch, Carr, Chee - digital).cbr | 9.34MiB
+[The Damnation of Charlie Wormwood v02 016 (2014) (Blanch, Carr, Chee - digital).cbr](https://github.com/alicewish/markdown/blob/master/comic/Damnation-of-Charlie-Wormwood-v02-016-2014-Blanch-Carr-Chee-digital-cbr.md) | 9.34MiB

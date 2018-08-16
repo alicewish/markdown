@@ -36,7 +36,7 @@ Grimm Fairy Tales Presents Wonderland V2 022(2014)(Digital)(TLK-EMPIRE-HD).cbr |
 Grimm Fairy Tales Presents Wonderland V2 023(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.73MiB
 Grimm Fairy Tales Presents Wonderland V2 024(2014)(Digital)(TLK-EMPIRE-HD).cbr | 20.76MiB
 Grimm Fairy Tales Presents Wonderland V2 025(2014)(Digital)(TLK-EMPIRE-HD).cbr | 33.53MiB
-Grimm Fairy Tales Presents Wonderland V2 026(2014)(Digital)(TLK-EMPIRE-HD).cbr | 30.09MiB
+[Grimm Fairy Tales Presents Wonderland V2 026(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-026-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 30.09MiB
 [Grimm Fairy Tales Presents Wonderland V2 027(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-027-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 56.17MiB
 [Grimm Fairy Tales Presents Wonderland V2 028(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-028-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 56.51MiB
 [Grimm Fairy Tales Presents Wonderland V2 029(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-029-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 55.53MiB

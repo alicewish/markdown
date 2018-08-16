@@ -98,4 +98,4 @@ The Seven Deadly Sins 272 (2018) (Digital) (danke-Empire).cbz | 23.35MiB
 The Seven Deadly Sins 273 (2018) (Digital) (danke-Empire).cbz | 19.60MiB
 The Seven Deadly Sins 274 (2018) (Digital) (danke-Empire).cbz | 12.82MiB
 The Seven Deadly Sins 275 (2018) (Digital) (danke-Empire).cbz | 20.68MiB
-[The Seven Deadly Sins 276 (2018) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Seven-Deadly-Sins-276-2018-Digital-danke-Empire-cbz.md) | 19.64MiB
+[The Seven Deadly Sins 276 (2018) (Digital) (danke-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Seven-Deadly-Sins-276-2018-Digital-danke-Empire-cbz.md) | [19.64MiB](https://pan.baidu.com/s/1l2MQRkNYeHY7D7eiJuFCWQ#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.25%2F%E3%82%AF%E3%82%B9%E3%82%BD%E3%82%BB%E3%82%AD%E3%82%A6%E3%82%B9%E3%82%B3%E3%82%AA%E3%82%B5%E3%82%BF%E3%82%AA%E3%82%A8%E3%82%A8%E3%82%AA%E3%82%AA%E3%82%BF%E3%82%B7%E3%82%BB%E3%82%BB%E3%82%B7%E3%82%BD%E3%82%AD%E3%82%AA%E3%82%A4%E3%82%A2%E3%82%BB%E3%82%A4%E3%82%B7%E3%82%BB%E3%82%B5%E3%82%A6&parentPath=%2F0-Day%20Week%20of%202018%20Q3)

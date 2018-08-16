@@ -1,5 +1,9 @@
 ## Deadpool - Assassin 001 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Deadpool - Assassin 目录](https://github.com/alicewish/markdown/blob/master/series/Deadpool-Assassin.md)
+
+
 ![Deadpool - Assassin (2018-) 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsal4abs8uj21j82cwe81.jpg)
 
 ![Deadpool - Assassin (2018-) 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsal4eu0oij21j82cwb29.jpg)
@@ -65,3 +69,6 @@
 ![Deadpool - Assassin (2018-) 001-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsal8z1m4vj21j82cwkjl.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fs5gmgdz0fj21kw1c84il.jpg)
+
+[回到 Deadpool - Assassin 目录](https://github.com/alicewish/markdown/blob/master/series/Deadpool-Assassin.md)
+

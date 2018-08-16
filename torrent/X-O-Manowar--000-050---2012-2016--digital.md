@@ -65,7 +65,7 @@ X-O Manowar 024 (2014) (digital) (Minutemen-Spaztastic).cbr | 62.49MiB
 X-O Manowar 025 (2014) (digital) (Minutemen-Spaztastic).cbr | 97.41MiB
 X-O Manowar 026 (2014) (digital) (Minutemen-Spaztastic).cbr | 53.36MiB
 X-O Manowar 027 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.74MiB
-X-O Manowar 028 (2014) (digital) (Minutemen-Spaztastic).cbr | 57.67MiB
+[X-O Manowar 028 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-028-2014-digital-Minutemen-Spaztastic-cbr.md) | 57.67MiB
 [X-O Manowar 029 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-029-2014-digital-Minutemen-Spaztastic-cbr.md) | 48.29MiB
 [X-O Manowar 030 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-030-2014-digital-Minutemen-Spaztastic-cbr.md) | 66.01MiB
 [X-O Manowar 031 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-O-Manowar-031-2014-digital-Minutemen-Spaztastic-cbr.md) | 59.32MiB

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Transformers - Primacy 01 (2014) (digital) (Minutemen-Phantasm).cbz | 31.09MiB
+[The Transformers - Primacy 01 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Primacy-01-2014-digital-Minutemen-Phantasm-cbz.md) | 31.09MiB
 [The Transformers - Primacy 02 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Primacy-02-2014-digital-Minutemen-Phantasm-cbz.md) | 34.41MiB
 [The Transformers - Primacy 03 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Primacy-03-2014-digital-Minutemen-Phantasm-cbz.md) | 35.22MiB
 [The Transformers - Primacy 04 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-Primacy-04-2014-digital-Minutemen-Phantasm-cbz.md) | 33.28MiB

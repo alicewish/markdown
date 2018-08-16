@@ -42,7 +42,7 @@ Clive Barker's Great and Secret Show 11.cbr | 24.79MiB
 Clive Barker's Great and Secret Show 12.cbr | 21.67MiB
 Clive Barker's Great and Secret Show Vol. 01 (2006) (digital) (Minutemen-InnerPhDemons).cbr | 413.05MiB
 &emsp;【Clive Barker Collection (1989-2015)/Clive Barker's Hellraiser - Bestiary (001-006)(2014-2015)(digital-Empire)】 | 
-Clive Barker's Hellraiser - Bestiary 01 (of 06) (2014) (Digital-Empire).cbr | 52.36MiB
+[Clive Barker's Hellraiser - Bestiary 01 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-01-of-06-2014-Digital-Empire-cbr.md) | 52.36MiB
 [Clive Barker's Hellraiser - Bestiary 02 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-02-of-06-2014-Digital-Empire-cbr.md) | 66.78MiB
 [Clive Barker's Hellraiser - Bestiary 03 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-03-of-06-2014-Digital-Empire-cbr.md) | 60.67MiB
 [Clive Barker's Hellraiser - Bestiary 04 (of 06) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Hellraiser-Bestiary-04-of-06-2014-Digital-Empire-cbr.md) | 56.34MiB

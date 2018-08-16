@@ -17,7 +17,7 @@ The Wicked + The Divine v02 - Fandemonium (2015) (Digital) (Zone-Empire).cbr | 2
 The Wicked + The Divine v03 - Commercial Suicide (2016) (Digital) (Zone-Empire).cbr | 233.14MiB
 The Wicked + The Divine 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.09MiB
 The Wicked + The Divine 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.13MiB
-The Wicked + The Divine 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.01MiB
+[The Wicked + The Divine 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 45.01MiB
 [The Wicked + The Divine 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 41.32MiB
 [The Wicked + The Divine 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 40.73MiB
 [The Wicked + The Divine 006 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-006-2014-digital-Minutemen-Spaztastic-cbr.md) | 34.65MiB

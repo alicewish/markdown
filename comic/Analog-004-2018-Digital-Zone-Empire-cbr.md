@@ -1,5 +1,9 @@
 ## Analog 004 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Analog 目录](https://github.com/alicewish/markdown/blob/master/series/Analog.md)
+
+
 ![Analog 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjjci6uoqj21j82cwe82.jpg)
 
 ![Analog 004-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjjcloxtbj21j82cw1kx.jpg)
@@ -63,3 +67,6 @@
 ![Analog 004-030.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1ftjjfypibpj21j82cw77a.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fsyn3psryuj21kw1c84il.jpg)
+
+[回到 Analog 目录](https://github.com/alicewish/markdown/blob/master/series/Analog.md)
+

@@ -1048,8 +1048,8 @@ Batman - The Return of Bruce Wayne 06 (of 06) (2011) (two covers) (Minutemen-DTs
 Superman - For the Man Who Has Everything.cbz | 16.17MiB
 The Brave and the Bold 33 (2010) (Minutemen-Sha-Hic!).cbz | 21.02MiB
 &emsp;【Wonder Woman/Sensation Comics Featuring Wonder Woman (001-051)(2014-2015)(digital)(Son of Ultron-Empire)】 | 
-Sensation Comics Featuring Wonder Woman 001 (2014) (digital) (Son of Ultron-Empire).cbr | 36.01MiB
-Sensation Comics Featuring Wonder Woman 002 (2014) (digital) (Son of Ultron-Empire).cbr | 32.23MiB
+[Sensation Comics Featuring Wonder Woman 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 36.01MiB
+[Sensation Comics Featuring Wonder Woman 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 32.23MiB
 [Sensation Comics Featuring Wonder Woman 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 25.28MiB
 [Sensation Comics Featuring Wonder Woman 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 24.69MiB
 [Sensation Comics Featuring Wonder Woman 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sensation-Comics-Featuring-Wonder-Woman-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.41MiB

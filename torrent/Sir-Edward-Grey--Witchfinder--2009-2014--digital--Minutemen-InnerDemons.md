@@ -32,7 +32,7 @@ Sir Edward Grey, Witchfinder - Lost and Gone Forever 05 (of 05) (2011) (digital)
 &emsp;【Sir Edward Grey, Witchfinder (2009-2014)(digital)(Minutemen-InnerDemons)/3- The Mysteries of Unland  (001-005)(2014)(digital)(Minutemen-InnerDemons)】 | 
 Sir Edward Grey, Witchfinder - The Mysteries of Unland 01 (of 05) (2014) (digital) (Minutemen-InnerDemons).cbr | 20.57MiB
 Sir Edward Grey, Witchfinder - The Mysteries of Unland 02 (of 05) (2014) (digital) (Minutemen-InnerDemons).cbr | 19.16MiB
-Sir Edward Grey, Witchfinder - The Mysteries of Unland 03 (of 05) (2014) (digital) (Minutemen-InnerDemons).cbr | 18.67MiB
+[Sir Edward Grey, Witchfinder - The Mysteries of Unland 03 (of 05) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sir-Edward-Grey-Witchfinder-Mysteries-of-Unland-03-of-05-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.67MiB
 [Sir Edward Grey, Witchfinder - The Mysteries of Unland 04 (of 05) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sir-Edward-Grey-Witchfinder-Mysteries-of-Unland-04-of-05-2014-digital-Minutemen-InnerDemons-cbr.md) | 17.18MiB
 [Sir Edward Grey, Witchfinder - The Mysteries of Unland 05 (of 05) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sir-Edward-Grey-Witchfinder-Mysteries-of-Unland-05-of-05-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.48MiB
 Sir Edward Grey, Witchfinder (00) - Murderous Intent (2008) (from MySpace DHP 16) (digital).cbr | 900.95KiB

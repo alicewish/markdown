@@ -1,5 +1,9 @@
 ## Gideon Falls 002 (2018) (Digital) (Mephisto-Empire).cbr
 
+
+[回到 Gideon Falls 目录](https://github.com/alicewish/markdown/blob/master/series/Gideon-Falls.md)
+
+
 ![Gideon-Falls-002-(2018)-(Digital)-(Mephisto-Empire)-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq9fnlf36uj21j82cw1ky.jpg)
 
 ![Gideon-Falls-002-(2018)-(Digital)-(Mephisto-Empire)-002.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq9fnqjvt9j21j82cwdsy.jpg)
@@ -63,3 +67,6 @@
 ![Gideon-Falls-002-(2018)-(Digital)-(Mephisto-Empire)-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fq9g034in6j21j82cwe82.jpg)
 
 ![zzz-mephisto.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1flofhzev9bj21j8123haq.jpg)
+
+[回到 Gideon Falls 目录](https://github.com/alicewish/markdown/blob/master/series/Gideon-Falls.md)
+

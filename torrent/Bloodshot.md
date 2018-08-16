@@ -14,7 +14,7 @@ Online | Download
 &emsp;【Bloodshot/Armor Hunters Bloodshot (001-003+TPB) (2014) (digital) (Minutemen-Spaztastic)】 | 
 Armor Hunters - Bloodshot (2014) (Digital) (Zone-Empire).cbr | 165.73MiB
 Armor Hunters - Bloodshot 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.82MiB
-Armor Hunters - Bloodshot 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 52.21MiB
+[Armor Hunters - Bloodshot 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Bloodshot-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 52.21MiB
 [Armor Hunters - Bloodshot 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Bloodshot-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.59MiB
 Bloodshot - Deluxe Edition - Book 01 (2014) (Digital) (Zone-Empire).cbr | 535.93MiB
 Bloodshot - Last Stand (1996) (digital) (d'argh-Empire).cbr | 77.92MiB

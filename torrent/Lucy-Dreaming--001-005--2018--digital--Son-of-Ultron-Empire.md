@@ -14,4 +14,4 @@ Online | Download
 [Lucy Dreaming 02 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lucy-Dreaming-02-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 50.98MiB
 [Lucy Dreaming 03 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lucy-Dreaming-03-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 39.72MiB
 [Lucy Dreaming 04 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lucy-Dreaming-04-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 46.17MiB
-Lucy Dreaming 05 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr | 54.12MiB
+[Lucy Dreaming 05 (of 05) (2018) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lucy-Dreaming-05-of-05-2018-digital-Son-of-Ultron-Empire-cbr.md) | 54.12MiB

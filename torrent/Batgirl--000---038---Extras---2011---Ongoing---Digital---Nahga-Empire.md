@@ -45,7 +45,7 @@ Batgirl 030 (2014) (Digital) (Nahga-Empire).cbr | 38.67MiB
 Batgirl 031 (2014) (Digital) (Nahga-Empire).cbr | 52.52MiB
 Batgirl 032 (2014) (Digital) (Nahga-Empire).cbr | 40.98MiB
 Batgirl 033 (2014) (Digital) (Nahga-Empire).cbr | 48.91MiB
-Batgirl 034 (2014) (Digital) (Nahga-Empire).cbr | 45.08MiB
+[Batgirl 034 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-034-2014-Digital-Nahga-Empire-cbr.md) | 45.08MiB
 [Batgirl 035 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-035-2014-Digital-Nahga-Empire-cbr.md) | 43.39MiB
 [Batgirl 036 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-036-2014-Digital-Nahga-Empire-cbr.md) | 40.18MiB
 [Batgirl 037 (2015) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batgirl-037-2015-Digital-Empire-cbr.md) | 29.84MiB

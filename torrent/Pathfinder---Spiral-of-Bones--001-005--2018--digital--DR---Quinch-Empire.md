@@ -14,4 +14,4 @@ Online | Download
 [Pathfinder - Spiral of Bones 002 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Spiral-of-Bones-002-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 46.18MiB
 [Pathfinder - Spiral of Bones 003 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Spiral-of-Bones-003-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 49.23MiB
 [Pathfinder - Spiral of Bones 004 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Spiral-of-Bones-004-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 48.82MiB
-Pathfinder - Spiral of Bones 005 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr | 48.66MiB
+[Pathfinder - Spiral of Bones 005 (2018) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-Spiral-of-Bones-005-2018-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 48.66MiB

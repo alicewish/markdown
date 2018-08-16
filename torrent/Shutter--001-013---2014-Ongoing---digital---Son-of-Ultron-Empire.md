@@ -14,7 +14,7 @@ Shutter 001 (2014) (digital) (Son of Ultron-Empire).cbr | 71.47MiB
 Shutter 002 (2014) (digital) (Son of Ultron-Empire).cbr | 76.12MiB
 Shutter 003 (2014) (digital) (Son of Ultron-Empire).cbr | 77.84MiB
 Shutter 004 (2014) (digital) (Son of Ultron-Empire).cbr | 75.43MiB
-Shutter 005 (2014) (digital) (Son of Ultron-Empire).cbr | 70.61MiB
+[Shutter 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shutter-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 70.61MiB
 [Shutter 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shutter-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 84.64MiB
 [Shutter 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shutter-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 67.01MiB
 [Shutter 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shutter-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 73.69MiB

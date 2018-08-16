@@ -13,7 +13,7 @@ Online | Download
 &emsp;【Harbinger】 | 
 &emsp;【Harbinger/Armor Hunters - Harbinger (001-003)(2014)(digital)(Minutemen-Spaztastic)】 | 
 Armor Hunters - Harbinger 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 63.08MiB
-Armor Hunters - Harbinger 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 58.79MiB
+[Armor Hunters - Harbinger 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Harbinger-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 58.79MiB
 [Armor Hunters - Harbinger 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Harbinger-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 52.39MiB
 Armor Hunters - Harbinger (2014) (digital) (Son of Ultron-Empire).cbr | 185.88MiB
 &emsp;【Harbinger/Book Of Death - Fall Of Harbinger 001 (2015) (digital) (Minutemen-Spaztastic).cbr】 | 

@@ -53,5 +53,5 @@ Artifacts 034 (2014) (Digital) (Darkness-Empire).cbr | 50.62MiB
 Artifacts 035 (2014) (Digital) (Darkness-Empire).cbr | 42.54MiB
 Artifacts 036 (2014) (Digital) (Darkness-Empire).cbr | 36.14MiB
 Artifacts 037 (2014) (Digital) (Darkness-Empire).cbr | 51.43MiB
-Artifacts 038 (2014) (Digital) (Darkness-Empire).cbr | 43.96MiB
+[Artifacts 038 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artifacts-038-2014-Digital-Darkness-Empire-cbr.md) | 43.96MiB
 [Artifacts 039 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artifacts-039-2014-Digital-Darkness-Empire-cbr.md) | 35.76MiB

@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Grimm Fairy Tales Presents Inferno Rings Of Hell 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.50MiB
+[Grimm Fairy Tales Presents Inferno Rings Of Hell 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.50MiB
 [Grimm Fairy Tales Presents Inferno Rings Of Hell 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 53.05MiB
 [Grimm Fairy Tales Presents Inferno Rings Of Hell 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.43MiB

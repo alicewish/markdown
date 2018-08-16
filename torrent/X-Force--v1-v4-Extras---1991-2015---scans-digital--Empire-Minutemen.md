@@ -357,7 +357,7 @@ X-Force 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 40.37MiB
 X-Force 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 35.80MiB
 X-Force 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 53.89MiB
 [X-Force 007 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-007-2014-digital-Minutemen-Spaztastic-cbr.md) | 44.24MiB
-X-Force 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 36.90MiB
+[X-Force 008 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-008-2014-digital-Minutemen-Spaztastic-cbr.md) | 36.90MiB
 [X-Force 009 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-009-2014-digital-Minutemen-Spaztastic-cbr.md) | 44.07MiB
 [X-Force 010 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-010-2014-digital-Minutemen-Spaztastic-cbr.md) | 40.14MiB
 [X-Force 011 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Force-011-2014-digital-Minutemen-Spaztastic-cbr.md) | 48.85MiB

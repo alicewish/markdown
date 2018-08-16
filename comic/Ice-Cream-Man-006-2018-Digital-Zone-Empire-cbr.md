@@ -1,5 +1,9 @@
 ## Ice Cream Man 006 (2018) (Digital) (Zone-Empire).cbr
 
+
+[回到 Ice Cream Man 目录](https://github.com/alicewish/markdown/blob/master/series/Ice-Cream-Man.md)
+
+
 ![Ice Cream Man 006-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fub6jl06g9j21j82cwe5g.jpg)
 
 ![Ice Cream Man 006-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fub6jnetcaj21j82cwdto.jpg)
@@ -65,3 +69,6 @@
 ![Ice Cream Man 006-031.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fub6mv3sspj21j82cwmzd.jpg)
 
 ![zWater.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fu9zr6xwvgj21kw1c84il.jpg)
+
+[回到 Ice Cream Man 目录](https://github.com/alicewish/markdown/blob/master/series/Ice-Cream-Man.md)
+

@@ -224,7 +224,7 @@ Dark Horse Presents 034 (2014) (digital) (Son of Ultron-Empire).cbr | 167.60MiB
 Dark Horse Presents 035 (2014) (digital) (Minutemen-InnerDemons).cbr | 75.05MiB
 Dark Horse Presents 036 (2014) (digital) (Minutemen-InnerDemons).cbr | 63.97MiB
 &emsp;【Dark Horse Presents (v1-v3+)(1986-)(digital+scans)/Dark Horse Presents v3 (001-031)(2014-)(digital)】 | 
-Dark Horse Presents 001 (2014) (digital) (Son of Ultron-Empire).cbr | 110.22MiB
+[Dark Horse Presents 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 110.22MiB
 [Dark Horse Presents 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 73.31MiB
 [Dark Horse Presents 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 88.48MiB
 [Dark Horse Presents 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dark-Horse-Presents-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 84.79MiB

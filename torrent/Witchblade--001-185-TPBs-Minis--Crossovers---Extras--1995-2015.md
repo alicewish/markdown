@@ -46,7 +46,7 @@ Artifacts 024 (2013) (Digital) (Nahga-Empire).cbr | 82.35MiB
 Artifacts 025 (2013) (Digital) (Nahga-Empire).cbr | 37.15MiB
 Artifacts 026 (2013) (Digital) (Nahga-Empire).cbr | 67.97MiB
 Artifacts 030 (2013) (Digital) (Darkness-Empire).cbr | 52.25MiB
-Artifacts 038 (2014) (Digital) (Darkness-Empire).cbr | 43.96MiB
+[Artifacts 038 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artifacts-038-2014-Digital-Darkness-Empire-cbr.md) | 43.96MiB
 [Artifacts 039 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artifacts-039-2014-Digital-Darkness-Empire-cbr.md) | 35.76MiB
 Artifacts Origins - First Born Vol 1 TPB (2012) (Digital) (K6-Empire).cbr | 153.36MiB
 Artifacts Vol. 1 (2011) (Digital TPB + Extras) (Zone-Empire).cbr | 247.24MiB

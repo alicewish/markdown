@@ -40,7 +40,7 @@ Adventure Time 027 (2014) (4 covers) (digital) (Minutemen-InnerDemons).cbr | 33.
 Adventure Time 028 (2014) (digital) (Minutemen-InnerDemons).cbr | 28.55MiB
 Adventure Time 029 (2014) (F) (digital) (Minutemen-InnerDemons).cbr | 31.97MiB
 Adventure Time 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 46.03MiB
-Adventure Time 031 (2014) (digital) (Minutemen-InnerDemons).cbr | 38.06MiB
+[Adventure Time 031 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-031-2014-digital-Minutemen-InnerDemons-cbr.md) | 38.06MiB
 [Adventure Time 032 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-032-2014-digital-Minutemen-InnerDemons-cbr.md) | 40.56MiB
 [Adventure Time 033 (2014) (3 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-033-2014-3-covers-digital-Minutemen-InnerDemons-cbr.md) | 44.27MiB
 [Adventure Time 034 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Adventure-Time-034-2014-digital-Minutemen-InnerDemons-cbr.md) | 35.97MiB

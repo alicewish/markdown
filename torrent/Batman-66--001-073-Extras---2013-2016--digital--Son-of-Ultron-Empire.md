@@ -99,8 +99,8 @@ Batman '66 Meets The Green Hornet 003 (2014) (digital) (Son of Ultron-Empire).cb
 Batman '66 Meets The Green Hornet 004 (2014) (digital) (Son of Ultron-Empire).cbr | 64.66MiB
 Batman '66 Meets The Green Hornet 005 (2014) (digital) (Son of Ultron-Empire).cbr | 55.91MiB
 Batman '66 Meets The Green Hornet 006 (2014) (digital) (Son of Ultron-Empire).cbr | 55.78MiB
-Batman '66 Meets The Green Hornet 007 (2014) (digital) (Son of Ultron-Empire).cbr | 45.74MiB
-Batman '66 Meets The Green Hornet 008 (2014) (digital) (Son of Ultron-Empire).cbr | 67.49MiB
+[Batman '66 Meets The Green Hornet 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 45.74MiB
+[Batman '66 Meets The Green Hornet 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 67.49MiB
 [Batman '66 Meets The Green Hornet 009 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-009-2014-digital-Son-of-Ultron-Empire-cbr.md) | 56.49MiB
 [Batman '66 Meets The Green Hornet 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 77.74MiB
 [Batman '66 Meets The Green Hornet 011 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-66-Meets-Green-Hornet-011-2014-digital-Son-of-Ultron-Empire-cbr.md) | 52.46MiB

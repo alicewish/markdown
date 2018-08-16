@@ -23,7 +23,7 @@ Abe Sapien 010 - To the Last Man 02 (of 03) (2014) (digital) (Minutemen-PhD).cbr
 Abe Sapien 011 - To the Last Man 03 (of 03) (2014) (digital) (Minutemen-PhD).cbr | 23.13MiB
 Abe Sapien 012 - The Garden (2014) (digital) (Minutemen-PhD).cbr | 20.29MiB
 Abe Sapien 013 - The Healer (2014) (digital) (Minutemen-PhD).cbr | 29.63MiB
-Abe Sapien 015 - Lost Lives (2014) (digital) (Minutemen-PhD).cbr | 25.59MiB
+[Abe Sapien 015 - Lost Lives (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-015-Lost-Lives-2014-digital-Minutemen-PhD-cbr.md) | 25.59MiB
 [Abe Sapien 016 - Sacred Places (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-016-Sacred-Places-2014-digital-Minutemen-PhD-cbr.md) | 23.89MiB
 [Abe Sapien 017 - Sacred Places (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-017-Sacred-Places-2014-digital-Minutemen-PhD-cbr.md) | 21.63MiB
 [Abe Sapien 018 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Abe-Sapien-018-2014-digital-Minutemen-PhD-cbr.md) | 21.07MiB

@@ -272,7 +272,7 @@ Grimm Fairy Tales Presents Dark Queen (2014)(Digital)(TLK-EMPIRE-HD).cbr | 42.63
 Grimm Fairy Tales Presents Godstorm Age Of Darkness (2014)(Digital)(TLK-EMPIRE-HD).cbr | 35.86MiB
 Grimm Fairy Tales Presents Inferno Age Of Darkness(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.64MiB
 &emsp;【Zenescope/Grimm Fairy Tales - Age Of Darkness - collected (2013-2015)(digital)/Grimm Fairy Tales Presents Inferno Rings Of Hell (001-003)(2014)(Digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Inferno Rings Of Hell 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.50MiB
+[Grimm Fairy Tales Presents Inferno Rings Of Hell 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.50MiB
 [Grimm Fairy Tales Presents Inferno Rings Of Hell 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 53.05MiB
 [Grimm Fairy Tales Presents Inferno Rings Of Hell 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.43MiB
 &emsp;【Zenescope/Grimm Fairy Tales - Age Of Darkness - collected (2013-2015)(digital)/Grimm Fairy Tales Presents Neverland Age Of Darkness (001-004)(2014)(Digital)(TLK-EMPIRE-HD)】 | 
@@ -569,7 +569,7 @@ Grimm Fairy Tales Presents Hunters The Shadowlands 004(2013)(Digital)(TLK-EMPIRE
 Grimm Fairy Tales Presents Hunters The Shadowlands 005(2013)(Digital)(TLK-EMPIRE-HD).cbr | 25.41MiB
 Grimm Fairy Tales Presents Inferno Age Of Darkness(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.64MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Inferno Rings Of Hell (001-003)(2014)(digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Inferno Rings Of Hell 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.50MiB
+[Grimm Fairy Tales Presents Inferno Rings Of Hell 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.50MiB
 [Grimm Fairy Tales Presents Inferno Rings Of Hell 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 53.05MiB
 [Grimm Fairy Tales Presents Inferno Rings Of Hell 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Inferno-Rings-Of-Hell-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.43MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Madness of Wonderland (001-004)(2013)(digital)】 | 
@@ -833,7 +833,7 @@ Grimm Fairy Tales Presents Wonderland V2 022(2014)(Digital)(TLK-EMPIRE-HD).cbr |
 Grimm Fairy Tales Presents Wonderland V2 023(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.73MiB
 Grimm Fairy Tales Presents Wonderland V2 024(2014)(Digital)(TLK-EMPIRE-HD).cbr | 20.76MiB
 Grimm Fairy Tales Presents Wonderland V2 025(2014)(Digital)(TLK-EMPIRE-HD).cbr | 33.53MiB
-Grimm Fairy Tales Presents Wonderland V2 026(2014)(Digital)(TLK-EMPIRE-HD).cbr | 30.09MiB
+[Grimm Fairy Tales Presents Wonderland V2 026(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-026-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 30.09MiB
 [Grimm Fairy Tales Presents Wonderland V2 027(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-027-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 56.17MiB
 [Grimm Fairy Tales Presents Wonderland V2 028(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-028-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 56.51MiB
 [Grimm Fairy Tales Presents Wonderland V2 029(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Wonderland-V2-029-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 55.53MiB

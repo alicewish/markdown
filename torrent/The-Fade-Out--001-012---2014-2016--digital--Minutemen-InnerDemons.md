@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Fade Out 001 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.66MiB
+[The Fade Out 001 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-001-2014-digital-Minutemen-InnerDemons-cbr.md) | 47.66MiB
 [The Fade Out 002 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-002-2014-digital-Minutemen-InnerDemons-cbr.md) | 48.14MiB
 [The Fade Out 003 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-003-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.50MiB
 [The Fade Out 004 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fade-Out-004-2015-digital-Minutemen-InnerDemons-cbr.md) | 46.34MiB

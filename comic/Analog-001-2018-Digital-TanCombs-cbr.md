@@ -1,5 +1,9 @@
 ## Analog 001 (2018) (Digital) (TanCombs).cbr
 
+
+[回到 Analog 目录](https://github.com/alicewish/markdown/blob/master/series/Analog.md)
+
+
 ![Analog 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqkzs7phuuj21j82cw7wi.jpg)
 
 ![Analog 001-001.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqkzsi6x0kj21j82cw1kx.jpg)
@@ -57,3 +61,6 @@
 ![Analog 001-027.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqkzyzilw2j21j82cwgzl.jpg)
 
 ![Analog 001-028.jpg](https://wx1.sinaimg.cn/large/6a9fdecagy1fqkzz28t5dj21j82cw0vg.jpg)
+
+[回到 Analog 目录](https://github.com/alicewish/markdown/blob/master/series/Analog.md)
+

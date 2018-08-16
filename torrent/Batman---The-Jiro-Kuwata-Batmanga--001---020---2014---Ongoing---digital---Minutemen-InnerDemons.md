@@ -15,7 +15,7 @@ Batman - The Jiro Kuwata Batmanga 002 (2014) (digital) (Minutemen-InnerDemons).c
 Batman - The Jiro Kuwata Batmanga 003 (2014) (digital) (Minutemen-InnerDemons).cbr | 16.62MiB
 Batman - The Jiro Kuwata Batmanga 004 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.01MiB
 Batman - The Jiro Kuwata Batmanga 005 (2014) (digital) (Minutemen-InnerDemons).cbr | 21.94MiB
-Batman - The Jiro Kuwata Batmanga 006 (2014) (digital) (Minutemen-InnerDemons).cbr | 13.57MiB
+[Batman - The Jiro Kuwata Batmanga 006 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-006-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.57MiB
 [Batman - The Jiro Kuwata Batmanga 007 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-007-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.19MiB
 [Batman - The Jiro Kuwata Batmanga 008 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-008-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.69MiB
 [Batman - The Jiro Kuwata Batmanga 009 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-009-2014-digital-Minutemen-InnerDemons-cbr.md) | 16.35MiB

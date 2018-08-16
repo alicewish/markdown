@@ -44,5 +44,5 @@ Chronicles Of The Dragon Knights v13 - Salmyra (2017) (Soleil) (Digital-Empire).
 Chronicles Of The Dragon Knights v14 - The First (2017) (Soleil) (Digital-Empire).cbr | 175.48MiB
 Chronicles Of The Dragon Knights v15 - The Enemy (2017) (Soleil) (Digital-Empire).cbr | 144.30MiB
 Chronicles of the Dragon Knights 17 - Amarella - The Sardish Wars - Part I (2018) (Soleil) (Digital-Empire).cbr | 137.22MiB
-Chronicles of the Dragon Knights 18 - Arsalam - The Sardish Wars - Part II (2018) (Soleil) (Digital-Empire).cbr | 123.00MiB
+[Chronicles of the Dragon Knights 18 - Arsalam - The Sardish Wars - Part II (2018) (Soleil) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chronicles-of-Dragon-Knights-18-Arsalam-Sardish-Wars-Part-II-2018-Soleil-Digital-Empire-cbr.md) | [123.00MiB](https://pan.baidu.com/s/1l2MQRkNYeHY7D7eiJuFCWQ#list/path=%2F0-Day%20Week%20of%202018%20Q3%2F0-Day%20Week%20of%202018.07.25%2F%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%A2%E3%82%B5%E3%82%B9%E3%82%A4%E3%82%B5%E3%82%BB%E3%82%A4%E3%82%A2%E3%82%B7%E3%82%BB%E3%82%A8%E3%82%B5%E3%82%B7%E3%82%B9%E3%82%AA%E3%82%AA%E3%82%BD%E3%82%B7%E3%82%AA%E3%82%AA%E3%82%AB%E3%82%A8%E3%82%A2%E3%82%AF%E3%82%B3%E3%82%A2%E3%82%B5%E3%82%B3%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202018%20Q3)
 Chronicles Of The Dragon Knights v16 - The Goddess (2018) (Soleil) (Digital-Empire).cbr | 87.34MiB

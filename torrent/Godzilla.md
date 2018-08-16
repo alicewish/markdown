@@ -64,7 +64,7 @@ Godzilla 024 (1979) (Teach-Woody).cbr | 16.99MiB
 Godzilla - 100 Cover Charity Spectacular (c2c) (IDW) (2011) (Empire-Tiger).cbr | 137.20MiB
 Godzilla - Awakening (2014)(Digital)(TLK-EMPIRE-HD).cbr | 73.96MiB
 &emsp;【Godzilla/Godzilla - Cataclysm (001-005)(2014)(digital)(TLK-EMPIRE-HD)】 | 
-Godzilla Cataclysm 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 26.66MiB
+[Godzilla Cataclysm 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Cataclysm-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 26.66MiB
 [Godzilla Cataclysm 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Cataclysm-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 45.04MiB
 [Godzilla Cataclysm 003 (2014) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Cataclysm-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.59MiB
 [Godzilla Cataclysm 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Godzilla-Cataclysm-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 48.69MiB
