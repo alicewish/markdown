@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Europe Comics
 
+Expedition
+
+When former Roman soldier Marcus Livius is arrested in Egypt, starving and half mad, he is swiftly accused of desertion and murder. He denies the charges and embarks on an incredible tale... His story begins with the discovery of a body surrounded by documents written in an unknown language, as well as spectacular jewels and other items all suggesting the existence of a rich and powerful civilization previously unknown to Rome. Under the orders of Centurion Caius Bracca, Marcus decides to desert, and along with nine other men begins a secret expedition to find this unknown land. What will they discover... and how many will survive?
 
 
 

@@ -6,7 +6,7 @@
 
 Dynamite
 
-James Bond: The Body
+James Bond: The Body (2018)
 
 As Bond undergoes a post-mission medical examination, he relays the story of his previous mission to the examiner. Each cut, bruise, and broken bone connected to a specific event of the mission. A connection is made between two people with different purposes: one to save lives, the other to take them.
 

@@ -12,6 +12,16 @@ Scarlet is the story of a woman pushed to the edge by all the wrong with the wor
 
 
 
+Scarlet (2018-)
+
+From the creative team that brought you Daredevil and Infamous Iron Man comes the latest explosive chapter in their creator-owned epic, which IGN called one of the best comics on the stands. SCARLET tells the story of a woman whose life has been ripped apart by police corruption. When she pushes back, she starts a chain reaction of events that will bring about the next American Revolution.
+
+
+
+ In this brand-new, new reader-friendly chapter, fully painted by Eisner Award-winning artist Alex Maleev, SCARLET tells the story of what happens when one young woman is pushed too far—and what one country will do to stop her. 
+
+
+
 
 
 相关种子⬇Related Torrents

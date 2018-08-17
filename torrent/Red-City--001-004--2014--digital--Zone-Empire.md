@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 Red City 001 (2014) (Digital) (Zone-Empire).cbr | 42.95MiB
 Red City 002 (2014) (Digital) (Zone-Empire).cbr | 39.55MiB
-Red City 003 (2014) (Digital) (Zone-Empire).cbr | 48.38MiB
+[Red City 003 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Red-City-003-2014-Digital-Zone-Empire-cbr.md) | 48.38MiB
 Red City 004 (2014) (Digital) (Zone-Empire).cbr | 51.34MiB

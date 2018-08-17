@@ -6,6 +6,12 @@
 
 Marvel
 
+The Tomb of Dracula (1979-1980)
+
+The Lord of Vampires enters the modern age after being summoned forth by a woman obsessed with the supernatural! Meanwhile, recently divorced Sandy Sommers tries to overcome her grief through therapy and the slog of dating...but will a new job offer in Transylvania be the escape she truly needs?
+
+
+
 Tomb of Dracula (1972-1979)
 
 Frank Drake, the descendant of Count Dracula, has inherited the Count's castle. With a plan to turn the castle into a tourist hot-spot, Frank sets out for Transylvania. But something dark lurks in the bowels of Castle Dracula!

@@ -12,12 +12,6 @@ The rebirth of Cyberforce continues, as Ron Marz and Pat Lee work their magic on
 
 
 
-Cyberforce (2012)
-
-TOP COW'S TOP-SELLING SERIES RETURNS IN A GROUND-BREAKING WAY! Top Cow celebrates its 20th anniversary with the return of the series that started it all: CYBER FORCE! Top Cow founder MARC SILVESTRI (THE DARKNESS, Incredible Hulk) returns to his first Image series as co-writer, art director and cover artist! Co-writer MATT HAWKINS (THINK TANK, LADY PENDRAGON) and artist KHOI PHAM (Mighty Avengers, Daredevil) join SILVESTRI to bring you a contemporary re-imagining rooted in cutting edge, real world technology. Carin Taylor, codenamed Velocity, has escaped from the CDI controlled Millennium City and is desperately trying to find the one man she believes can help her prevent the end of the world. When she runs a group of other CDI escapees, will they help her... or turn their backs?
-
-
-
 
 
 相关种子⬇Related Torrents

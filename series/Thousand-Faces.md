@@ -12,6 +12,18 @@ A sweeping historical epic where science and the supernatural blend in a fusion 
 
 
 
+Thousand Faces
+
+A sweeping historical epic where science and the supernatural blend in a fusion of horror and redemption. PUBLICATION IN 5 VOLUMES - COMPLETED WORK. "Take nothing with you, but two mules, a rifle, and ten bullets." Those words echo in ex-surgeon Frank Quinn's head as he flees across mid-19th century America to escape the demon known as Thousand Faces, an evil entity that uses blood to enslave others and will stop at nothing to conquer the world. Philippe Thirault, writer of the acclaimed Miss: Better Living Through Crime and Balkans Arena, collaborates with artists Marc Malès (Different Ugliness Different Madness) and Mario Janni to chronicle a sweeping historical epic where science and the supernatural blend in a fusion of horror and redemption.
+
+
+
+Thousand Faces
+
+A sweeping historical epic where science and the supernatural blend in a fusion of horror and redemption. PUBLICATION IN 5 VOLUMES - COMPLETED WORK. "Take nothing with you, but two mules, a rifle, and ten bullets." Those words echo in ex-surgeon Frank Quinn's head as he flees across mid-19th century America to escape the demon known as Thousand Faces, an evil entity that uses blood to enslave others and will stop at nothing to conquer the world. Philippe Thirault, writer of the acclaimed Miss: Better Living Through Crime and Balkans Arena, collaborates with artists Marc Malès (Different Ugliness Different Madness) and Mario Janni to chronicle a sweeping historical epic where science and the supernatural blend in a fusion of horror and redemption.
+
+
+
 
 
 相关种子⬇Related Torrents

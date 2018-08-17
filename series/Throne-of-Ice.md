@@ -12,6 +12,18 @@ A heroic fantasy epic and rite of passage tale set in a mythical pre-glacial Ant
 
 
 
+Throne of Ice
+
+A heroic fantasy epic and rite of passage tale set in a mythical pre-glacial Antarctica.. PUBLICATION IN 4 VOLUMES - COMPLETED WORK. Antarctica 12,000 years ago — long before it becomes a frozen wasteland — is a thriving territory, divided into the kingdoms of Antarcia, Leng, and Valusia. When Antarcia's first lady vows to kill Jaemon, the bastard son of King Abarugon, the mysterious Sozer foils the plot and carries the infant to safety. Bearing the mysterious mark of the Atlanteans, Jaemon must unleash his true potential and fulfill both his and the continent’s destinies..
+
+
+
+Throne of Ice
+
+A heroic fantasy epic and rite of passage tale set in a mythical pre-glacial Antarctica.. PUBLICATION IN 4 VOLUMES - COMPLETED WORK. Antarctica 12,000 years ago — long before it becomes a frozen wasteland — is a thriving territory, divided into the kingdoms of Antarcia, Leng, and Valusia. When Antarcia's first lady vows to kill Jaemon, the bastard son of King Abarugon, the mysterious Sozer foils the plot and carries the infant to safety. Bearing the mysterious mark of the Atlanteans, Jaemon must unleash his true potential and fulfill both his and the continent’s destinies..
+
+
+
 
 
 相关种子⬇Related Torrents

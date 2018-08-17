@@ -58,7 +58,7 @@ Scooby-Doo - Where Are You 044 (2014) (digital) (Son of Ultron-Empire).cbr | 52.
 Scooby-Doo - Where Are You 045 (2014) (digital) (Son of Ultron-Empire).cbr | 44.68MiB
 Scooby-Doo - Where Are You 046 (2014) (digital) (Son of Ultron-Empire).cbr | 52.96MiB
 Scooby-Doo - Where Are You 047 (2014) (digital) (Son of Ultron-Empire).cbr | 50.54MiB
-Scooby-Doo - Where Are You 048 (2014) (digital) (Son of Ultron-Empire).cbr | 51.36MiB
+[Scooby-Doo - Where Are You 048 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-048-2014-digital-Son-of-Ultron-Empire-cbr.md) | 51.36MiB
 [Scooby-Doo - Where Are You 049 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-049-2014-digital-Son-of-Ultron-Empire-cbr.md) | 43.11MiB
 [Scooby-Doo, Where Are You 050 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-050-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.49MiB
 [Scooby-Doo, Where Are You 051 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Where-Are-You-051-2015-digital-Son-of-Ultron-Empire-cbr.md) | 50.00MiB

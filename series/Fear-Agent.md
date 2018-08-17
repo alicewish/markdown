@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Image
 
+Fear Agent
+
+The critically acclaimed hit series FEAR AGENT returns to Image Comics! The homecoming begins with a new series of master edition trades, each collecting 10 issues of RICK REMENDER, TONY MOORE, and JEROME OPEÑA’s seminal pulp sci-fi classic! Veteran fans and new recruits alike can experience the whiskey-soaked, laser-scorched life of Heath Huston, the galaxy’s last Fear Agent. Loaded with never-before-seen scripts, variant covers, designs, and concept art.   When down-and-out alien exterminator Heath Huston stumbles upon an extraterrestrial plot to commit genocide against the human species, he must put down the bottle and resume his role as a peacekeeper...the last Fear Agent!
 
 
 

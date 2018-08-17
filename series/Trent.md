@@ -4,11 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
-Europe Comics
+Cinebook
 
 Trent
 
-Sergeant Philip Trent is a 'Mountie', a member of the Canadian Northwest Mounted Police. At the end of the 19th century, it's up to him and his fellow officers to crisscross the vast open spaces of Canada to maintain law and order. Sent after a small-time killer, he finds himself saving the beautiful Agnes from a pack of hungry wolves. The young woman has come from the city to find her missing half-brother. Against his better judgment, Trent agrees to help her...
+Sergeant Philip Trent is a ‘Mountie’, a member of the Canadian Northwest Mounted Police. At the end of the 19th century, it’s up to him and his fellow officers to criss-cross the vast open spaces of Canada to maintain law and order. Sent after a small-time killer, he finds himself saving the beautiful Agnes from a pack of hungry wolves. The young woman has come from the city to find her missing half-brother. Against his better judgement, Trent agrees to help her…
 
 
 

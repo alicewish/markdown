@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+DC
 
+Secrets of the Legion of Super-Heroes (1981)
+
+The secrets of the Legion are revealed at last! The Legion's mentor and financial backer R.J. Brande, is on his deathbed due to a rare infection known as Yorrigan fever. Realizing the secret to Brande's cure could be within the Legion's computer files, Brande's old friend, Marla Latham begins to research the origins of nearly every Legionnaire!
 
 
 

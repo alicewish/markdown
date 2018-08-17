@@ -6,7 +6,7 @@
 
 DC
 
-Nightwing: The New Order (2017-)
+Nightwing: The New Order (2017-2018)
 
 NIGHTWING: THE NEW ORDER is the story of a future world without “weapons”—where superpowers have been eliminated and outlawed. The man responsible? None other than Dick Grayson, a.k.a. Nightwing, now leader of a government task force called the Crusaders who are charged with hunting the remaining Supers. But when events transpire which turn the Crusaders’ aim toward Grayson’s own family, the former Boy Wonder must turn against the very system he helped create, with help from the very people he’s been hunting for years—the last metahumans of the DC Universe. Don’t miss this bold new vision from the team behind the New York Times bestseller BATMAN: GATES OF GOTHAM!
 

@@ -6,7 +6,7 @@
 
 Dynamite
 
-James Bond: Kill Chain
+James Bond: Kill Chain (2017)
 
 When a counterespionage operation in Rotterdam goes catastrophically wrong, James Bond finds himself in the crosshairs of a plot to smash NATO. Someone is assassinating allied agents, and 007 is the next target in the kill chain. Having kept the peace for decades, the old alliance is collapsing, pitting MI6 against its former ally - the CIA! Dynamite Entertainment proudly presents the return of writer Andy Diggle (James Bond: Hammerhead, The Losers, Green Arrow: Year One) and artist Luca Casalanguida (James Bond: Hammerhead) as they plot the return of James Bond's oldest and deadliest foe: SMERSH!
 

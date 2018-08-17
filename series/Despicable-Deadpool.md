@@ -6,7 +6,7 @@
 
 Marvel
 
-Despicable Deadpool (2017-)
+Despicable Deadpool (2017-2018)
 
 Get caught up on all things Deadpool with these Marvel Primer Pages and then check out the start of the Merc With A Mouth in Marvel Legacy in Descpicable Deadpool #287.
 

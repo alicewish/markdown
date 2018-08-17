@@ -12,7 +12,7 @@ A new era starts in the Witchblade saga with the creative team of Ron Marz (The 
 
 
 
-Witchblade (2017)
+Witchblade (2017-)
 
 "LIFE AFTER," Part One
 

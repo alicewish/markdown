@@ -12,6 +12,18 @@ Captain Mar-Vell of the Kree Imperial Militia is sent to observe the planet Eart
 
 
 
+Captain Marvel (1989)
+
+The Avenging Monica Rambeau goes supersonic in her own, high-flying adventure! Relive her past with Earth's Mightiest and see her take down Powderkeg, Leviathan and Moonstone!
+
+
+
+Captain Marvel (1994)
+
+While at Empire State University, Captain Marvel must combat racism and violence brought on by the Sons of the Serpent.   
+
+
+
 Captain Marvel (2000-2002)
 
 He is the son of Mar-Vell, once the greatest warrior the galaxy had ever known. Spawned in a test tube and prematurely aged to maturity, Genis now struggles to fill the boots of his late father- the boots of Captain Marvel. Therein lies the problem. For Genis has inherited his father's greatest gift, the ability of Cosmic Awareness, a oneness with the universe that allows him to know what will happen, what may happen, and what should happen to every living thing in the universe. You might think such knowledge would drive a person mad...
@@ -48,7 +60,7 @@ It’s a bold new frontier for Carol Danvers as she soars to new heights in her 
 
 
 
-Captain Marvel (2017-)
+Captain Marvel (2017-2018)
 
 Collects Captain Marvel (2017) #125-129.
 
@@ -244,7 +256,7 @@ Captain Marvel 004 (2014) (digital) (Minutemen-PhD).cbr | [36.23MiB](https://pan
 [Captain Marvel 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-005-2014-Digital-Empire-cbr.md) | [35.58MiB](https://pan.baidu.com/s/1o80zEEQ#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.09%2F%E3%82%AA%E3%82%A2%E3%82%B9%E3%82%B9%E3%82%A2%E3%82%A6%E3%82%AD%E3%82%B5%E3%82%BB%E3%82%BD%E3%82%A8%E3%82%AF%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%A2%E3%82%AD%E3%82%B3%E3%82%BB%E3%82%B7%E3%82%B1%E3%82%B1%E3%82%B1%E3%82%AA%E3%82%BF%E3%82%BD%E3%82%B9%E3%82%B5%E3%82%BF%E3%82%AF%E3%82%A6%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 Captain Marvel 005 (2014) (digital) (Minutemen-PhD).cbr | [36.77MiB](https://pan.baidu.com/s/1o80zEEQ#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.09%2F%E3%82%B9%E3%82%A6%E3%82%BD%E3%82%BD%E3%82%A6%E3%82%B7%E3%82%AD%E3%82%AD%E3%82%AB%E3%82%AD%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%AA%E3%82%BD%E3%82%A2%E3%82%BB%E3%82%BF%E3%82%BF%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%B7%E3%82%AF%E3%82%A4%E3%82%B5%E3%82%A6%E3%82%B1%E3%82%BD%E3%82%B3%E3%82%BB%E3%82%BB&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 [Captain Marvel 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-006-2014-Digital-Empire-cbr.md) | [39.36MiB](https://pan.baidu.com/s/1kUDMGGv#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.08.13%2F%E3%82%A8%E3%82%B1%E3%82%BD%E3%82%B5%E3%82%A2%E3%82%B1%E3%82%AD%E3%82%B1%E3%82%BB%E3%82%B1%E3%82%A6%E3%82%B1%E3%82%B5%E3%82%AA%E3%82%B1%E3%82%A4%E3%82%A6%E3%82%B7%E3%82%BB%E3%82%AB%E3%82%B5%E3%82%A4%E3%82%BF%E3%82%BF%E3%82%BF%E3%82%A4%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%BF%E3%82%AA%E3%82%B5&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
-Captain Marvel 006 (2014) (digital) (Minutemen-PhD).cbr | [39.36MiB](https://pan.baidu.com/s/1kUDMGGv#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.08.13%2F%E3%82%AD%E3%82%B3%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%BD%E3%82%B1%E3%82%BF%E3%82%AB%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BD%E3%82%BD%E3%82%A6%E3%82%AD%E3%82%A4%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B3%E3%82%B1%E3%82%BF%E3%82%AB%E3%82%B3%E3%82%B5%E3%82%B1%E3%82%B5%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+[Captain Marvel 006 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-006-2014-digital-Minutemen-PhD-cbr.md) | [39.36MiB](https://pan.baidu.com/s/1kUDMGGv#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.08.13%2F%E3%82%AD%E3%82%B3%E3%82%B3%E3%82%A2%E3%82%AB%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%BD%E3%82%B1%E3%82%BF%E3%82%AB%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BD%E3%82%BD%E3%82%A6%E3%82%AD%E3%82%A4%E3%82%BF%E3%82%AF%E3%82%B7%E3%82%B3%E3%82%B1%E3%82%BF%E3%82%AB%E3%82%B3%E3%82%B5%E3%82%B1%E3%82%B5%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 [Captain Marvel 007 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-007-2014-Digital-Empire-cbr.md) | [28.82MiB](https://pan.baidu.com/s/1boMQ1Bp#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.10%2F%E3%82%B7%E3%82%B9%E3%82%AA%E3%82%AF%E3%82%AF%E3%82%A2%E3%82%A4%E3%82%AB%E3%82%B1%E3%82%B9%E3%82%BB%E3%82%B1%E3%82%B5%E3%82%B7%E3%82%A4%E3%82%BB%E3%82%B9%E3%82%B9%E3%82%AA%E3%82%B7%E3%82%AD%E3%82%AF%E3%82%AF%E3%82%B3%E3%82%AA%E3%82%A6%E3%82%BD%E3%82%AF%E3%82%AA%E3%82%B5%E3%82%BF%E3%82%B7&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 [Captain Marvel 007 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-007-2014-digital-Minutemen-PhD-cbr.md) | [29.56MiB](https://pan.baidu.com/s/1boMQ1Bp#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.09.10%2F%E3%82%BB%E3%82%B1%E3%82%B9%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%BD%E3%82%B9%E3%82%B1%E3%82%B9%E3%82%B5%E3%82%B5%E3%82%A6%E3%82%AA%E3%82%BD%E3%82%B9%E3%82%A4%E3%82%A2%E3%82%A8%E3%82%AD%E3%82%A6%E3%82%B1%E3%82%A2%E3%82%BD%E3%82%AA%E3%82%A4%E3%82%AF%E3%82%AF%E3%82%B1%E3%82%A8%E3%82%BF%E3%82%B9&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 [Captain Marvel 008 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Marvel-008-2014-digital-Minutemen-PhD-cbr.md) | [33.22MiB](https://pan.baidu.com/s/1c1IKHYo#list/path=%2F0-Day%20Week%20of%202014%20Q4%2F0-Day%20Week%20of%202014.10.08%2F%E3%82%B3%E3%82%B3%E3%82%A4%E3%82%A6%E3%82%BF%E3%82%AF%E3%82%B1%E3%82%AA%E3%82%A8%E3%82%A6%E3%82%BF%E3%82%BD%E3%82%A8%E3%82%A2%E3%82%BF%E3%82%A8%E3%82%B7%E3%82%AD%E3%82%B1%E3%82%B9%E3%82%AB%E3%82%AA%E3%82%A6%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%A2%E3%82%AD%E3%82%B5%E3%82%AA%E3%82%BD%E3%82%BF&parentPath=%2F0-Day%20Week%20of%202014%20Q4)

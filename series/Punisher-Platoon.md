@@ -4,15 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
-MAX
+MAX Deutschland
 
-Punisher: The Platoon (2017-2018)
+Punisher: Platoon
 
-Collects Punisher: The Platoon #1-6.
-
-
-
-Before the Punisher was born in Vietnam, Frank Castle had already become a dark legend of the battlefield. Stories about him were told in whispers, if at all. Now the legendary creative team of Garth Ennis and Goran Parlov brings the first of those stories to light: the tale of Frank Castle’s first command, and his first kill. During the Tet Offensive, death surrounded Lt. Castle’s platoon on all sides. How far would Frank go to protect his men? Especially when the danger came from the indifference of his commanders? And while Castle was engaged in the grind of war, a kindred spirit on the enemy’s side watched…and waited. It’s a seemingly hopeless mission. It’s Lt. Castle’s first platoon. It’s the answer to the question: What made the Punisher?
+In dieser brandneuen Miniserie kehrt PUNISHER-Legende Garth Ennis an den Anfang von Frank Castles Weg in die Finsternis zurück. Im Vietnamkrieg verdient Castle sich als unerfahrener Offizier den Respekt der Soldaten unter seinem Kommando. Doch Castles blutigen Triumphen als Anführer stehen die Qualen einer rachehungrigen Vietcong-Scharfschützin gegenüber ...
 
 
 

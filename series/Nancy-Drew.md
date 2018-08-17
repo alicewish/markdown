@@ -4,11 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
-Papercutz
+Dynamite
 
 Nancy Drew
 
-Nancy Drew is no ordinary teen; she's the best detective in River Heights! Nancy uses her incredible intelligence and seemingly endless knowledge to solve the mysteries that trouble her town, and her smarts are only matched by her bravery. Nancy stops at nothing to right wrongs and protect the innocent, even when she's put in harm's way herself. Good thing she has her loyal friends Bess, George, and Ned to help her out of some serious scrapes!
+Nancy Drew is seventeen and good at everything...ESPECIALLY solving crimes. But her totally-in-control-and-obviously-running-perfectly-smooth-(but-not-really) life hits a snag when a mysterious message drags her back to the hometown she left behind. There she'll have to find out which of her friends are still her friends, which are enemies, and who exactly is trying to kill her...and (hopefully) stop them before they succeed. KELLY THOMPSON (Hawkeye, Star Wars, Rogue & Gambit) and JENN ST-ONGE (Giant Days, The Misfits) team up to present an all-new modern spin on a classic mystery icon!
 
 
 

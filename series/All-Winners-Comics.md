@@ -6,6 +6,12 @@
 
 Marvel
 
+All Winners Comics (1948)
+
+A hypnotist targets the Human Torch, the Black Marvel has a new foe, and more!
+
+
+
 All-Winners Comics (1941-1946)
 
 Collects All-Winners Comics (1941) #1-4.

@@ -4,15 +4,15 @@
 
 [回到总目录](/Catalogs.md)
 
-Marvel - comiXology Originals
+Marvel
 
-Avengers: Back To Basics (2018)
+Avengers: Back To Basics (2018) (comiXology Originals)
 
-Legendary writer Peter David spins a terrifying tale of Ragnarok! A solar eclipse is about to hit North America – but this is no scientific phenomenon. Darkness is coming, and with it, a terrible and ancient danger. Can Earth's Mightiest Heroes avert Ragnarok, or will the servants of death prove triumphant?
+Collects Avengers: Back To Basics #1-6.
 
 
 
-Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited.
+Legendary writer Peter David takes Earth's Mightiest Heroes back to basics - beginning with a terrifying tale of Ragnarok! It could be the end for Thor, Iron Man, the Hulk and the rest of the team, courtesy of the sun-swallowing Fenris Wolf! Only the Avengers can stand in the way of a Norse prophecy of doom! Then, there's double trouble when a Captain Marvel impostor rewrites reality - and our heroes fi nd themselves stuck in an alternate universe! Everything is turned upside down again when Kamala "Ms. Marvel" Khan is thrown into the past and becomes...an original Avenger! But the stakes turn personal when someone close to Kamala gets hurt. With the future (present?) in the balance, Ms. Marvel must face down one of the Avengers' deadliest foes!
 
 
 

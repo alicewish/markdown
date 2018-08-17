@@ -6,7 +6,7 @@
 
 Avatar
 
-Crossed + 100
+Crossed +100
 
 Alan Moore returns to monthly comics in epic fashion with Crossed +100!  Set 100 years in the future, Moore has created a whole new world and history with a stunning attention to detail.  Examining how civilizations rebuild and how generations grow, Moore weaves a rich tapestry of humanity evolving under extreme hardship, all of which is lushly rendered by Gabriel (Ferals) Andrade.  Archivist Future Taylor leads a salvage team working to rebuild the historical record of the original Crossed outbreak.  She's seen them in videos, but never any live ones, the Crossed are part of the distant past.  Until suddenly, a handful appear, and the blood begins to flow.  All is not as it seems as a horrific mystery unfolds and once again Alan Moore redefines the medium.
 

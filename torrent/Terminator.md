@@ -100,7 +100,7 @@ Terminator Salvation - The Final Battle 04 (of 12) (2014) (digital) (Son of Ultr
 Terminator Salvation - The Final Battle 05 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 41.01MiB
 Terminator Salvation - The Final Battle 06 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 38.80MiB
 Terminator Salvation - The Final Battle 07 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 39.88MiB
-Terminator Salvation - The Final Battle 08 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr | 39.62MiB
+[Terminator Salvation - The Final Battle 08 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-08-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 39.62MiB
 [Terminator Salvation - The Final Battle 09 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-09-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 35.73MiB
 [Terminator Salvation - The Final Battle 10 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-10-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 38.79MiB
 [Terminator Salvation - The Final Battle 11 (of 12) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Terminator-Salvation-Final-Battle-11-of-12-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.88MiB

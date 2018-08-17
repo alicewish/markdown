@@ -86,7 +86,7 @@ Usagi Yojimbo - Senso 01 (of 06) (2014) (c2c - 2048px) (F) (theProletariat-Novus
 [Usagi Yojimbo - Senso 04 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-04-of-06-2014-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 50.27MiB
 [Usagi Yojimbo - Senso 05 (of 06) (2014) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-05-of-06-2014-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 41.43MiB
 [Usagi Yojimbo - Senso 06 (of 06) (2015) (c2c - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-06-of-06-2015-c2c-2048px-theProletariat-Novus-HD-cbr.md) | 49.97MiB
-Usagi Yojimbo - Senso 01 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 24.11MiB
+[Usagi Yojimbo - Senso 01 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-01-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 24.11MiB
 [Usagi Yojimbo - Senso 02 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-02-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 26.89MiB
 [Usagi Yojimbo - Senso 03 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-03-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 31.19MiB
 [Usagi Yojimbo - Senso 04 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Senso-04-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 29.50MiB

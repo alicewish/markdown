@@ -20,7 +20,7 @@ Scooby-Doo Team-Up 006 (2014) (digital) (Son of Ultron-Empire).cbr | 24.27MiB
 Scooby-Doo Team-Up 007 (2014) (digital) (Son of Ultron-Empire).cbr | 24.22MiB
 Scooby-Doo Team-Up 008 (2014) (digital) (Son of Ultron-Empire).cbr | 23.29MiB
 Scooby-Doo Team-Up 009 (2014) (digital) (Son of Ultron-Empire).cbr | 26.69MiB
-Scooby-Doo Team-Up 010 (2014) (digital) (Son of Ultron-Empire).cbr | 27.73MiB
+[Scooby-Doo Team-Up 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 27.73MiB
 [Scooby-Doo Team-Up 011 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-011-2014-digital-Son-of-Ultron-Empire-cbr.md) | 25.00MiB
 [Scooby-Doo Team-Up 012 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-012-2014-digital-Son-of-Ultron-Empire-cbr.md) | 26.36MiB
 [Scooby-Doo Team-Up 013 (2013) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Scooby-Doo-Team-Up-013-2013-digital-Son-of-Ultron-Empire-cbr.md) | 26.10MiB

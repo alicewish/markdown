@@ -6,9 +6,21 @@
 
 Dynamite
 
-Miss Fury
+Miss Fury (2013)
 
 THE PULP HEROINE RETURNS!  When Miss Fury foils a wartime plot by Nazi secret agents, she is catapulted through time... or so it seems.  Is she really careening from past to future and back, or has she lost her mind?  And if her sanity remains intact, can one lone heroine possibly hope to end World War II by herself, a conflict still waged into the year 2013?  As witness to generations of bloodshed and violence, Miss Fury has lots of righteous rage... and anger is her fearsome power!
+
+
+
+Miss Fury (2016)
+
+The Golden Age heroine returns! New York during the second World War is a place of mystery and intrigue, but with all our boys fighting in Europe, who will stand up to the forces of darkness at home? Miss Fury is ready to step into the breach, but even she doesn't understand the shadow she carries within herself. Is it a force of good or of evil? And can she learn to control it in time to stop the deadly attack that threatens to destroy the Big Apple?
+
+
+
+Miss Fury (2018-)
+
+The debut issue marking the return of one of the most influential characters in Comics History comes this October with "Miss Fury – Joy Division." Multi-Eisner nominee Billy Tucci (Shi, Sgt. Rock) and rising star Emma Kubert recapture the legend of the original "Cat Woman" Marla Drake and her army of "Black Furies" that take readers from the warring skies above NYC and into the heart of Hitler's Third Reich in spirit of an all-female "Inglourious Basterds."
 
 
 

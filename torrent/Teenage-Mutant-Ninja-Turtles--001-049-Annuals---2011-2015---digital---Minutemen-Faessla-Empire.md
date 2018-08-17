@@ -48,7 +48,7 @@ Teenage Mutant Ninja Turtles 035 (2014) (4 covers) (digital) (Minutemen-Faessla)
 Teenage Mutant Ninja Turtles 036 (2014) (2 covers) (digital-Empire).cbr | 37.23MiB
 Teenage Mutant Ninja Turtles 036 (2014) (3 covers) (digital) (Minutemen-Faessla).cbz | 37.71MiB
 Teenage Mutant Ninja Turtles 037 (2014) (3 covers) (digital) (Minutemen-Faessla).cbz | 52.63MiB
-Teenage Mutant Ninja Turtles 037 (2014) (digital) (CompetentRipper-Empire).cbr | 51.44MiB
+[Teenage Mutant Ninja Turtles 037 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Teenage-Mutant-Ninja-Turtles-037-2014-digital-CompetentRipper-Empire-cbr.md) | 51.44MiB
 Teenage Mutant Ninja Turtles 038 (2014) (4 covers) (digital) (Minutemen-Faessla).cbz | 45.32MiB
 Teenage Mutant Ninja Turtles 039 (2014) (digital) (Minutemen-Faessla).cbz | 41.40MiB
 Teenage Mutant Ninja Turtles 040 (2014) (2 covers) (digital) (Minutemen-Faessla).cbz | 49.27MiB

@@ -1656,7 +1656,7 @@ Batman - The Jiro Kuwata Batmanga 001 (2014) (digital) (Minutemen-InnerDemons).c
 Batman - The Jiro Kuwata Batmanga 002 (2014) (digital) (Minutemen-InnerDemons).cbr | 13.67MiB
 Batman - The Jiro Kuwata Batmanga 003 (2014) (digital) (Minutemen-InnerDemons).cbr | 16.62MiB
 Batman - The Jiro Kuwata Batmanga 004 (2014) (digital) (Minutemen-InnerDemons).cbr | 14.01MiB
-Batman - The Jiro Kuwata Batmanga 005 (2014) (digital) (Minutemen-InnerDemons).cbr | 21.94MiB
+[Batman - The Jiro Kuwata Batmanga 005 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-005-2014-digital-Minutemen-InnerDemons-cbr.md) | 21.94MiB
 [Batman - The Jiro Kuwata Batmanga 006 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-006-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.57MiB
 [Batman - The Jiro Kuwata Batmanga 007 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-007-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.19MiB
 [Batman - The Jiro Kuwata Batmanga 008 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Jiro-Kuwata-Batmanga-008-2014-digital-Minutemen-InnerDemons-cbr.md) | 13.69MiB
@@ -3606,7 +3606,7 @@ Detective Comics 030 (2014) (2 covers) (digital-Empire).cbr | 38.86MiB
 Detective Comics 031 (2014) (2 covers) (digital-Empire).cbr | 37.49MiB
 Detective Comics 032 (2014) (2 covers) (digital-Empire).cbr | 41.29MiB
 Detective Comics 033 (2014) (2 covers) (digital-Empire).cbr | 43.40MiB
-Detective Comics 034 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr | 35.41MiB
+[Detective Comics 034 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-034-2014-2-covers-digital-CompetentRipper-Empire-cbr.md) | 35.41MiB
 [Detective Comics 035 (2014) (2 covers) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-035-2014-2-covers-digital-CompetentRipper-Empire-cbr.md) | 32.50MiB
 [Detective Comics 036 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-036-2015-2-covers-digital-empire-cbr.md) | 27.58MiB
 [Detective Comics 037 (2015) (2 covers) (digital-empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-037-2015-2-covers-digital-empire-cbr.md) | 38.14MiB
@@ -5311,7 +5311,7 @@ Batman Beyond 2.0 024 (2014) (digital) (Son of Ultron-Empire).cbr | 24.81MiB
 Batman Beyond 2.0 025 (2014) (digital) (Son of Ultron-Empire).cbr | 19.97MiB
 Batman Beyond 2.0 026 (2014) (digital) (Son of Ultron-Empire).cbr | 19.58MiB
 Batman Beyond 2.0 027 (2014) (digital) (Son of Ultron-Empire).cbr | 18.98MiB
-Batman Beyond 2.0 028 (2014) (digital) (Son of Ultron-Empire).cbr | 16.68MiB
+[Batman Beyond 2.0 028 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-028-2014-digital-Son-of-Ultron-Empire-cbr.md) | 16.68MiB
 [Batman Beyond 2.0 029 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-029-2014-digital-Son-of-Ultron-Empire-cbr.md) | 19.10MiB
 [Batman Beyond 2.0 030 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-030-2014-digital-Son-of-Ultron-Empire-cbr.md) | 22.35MiB
 [Batman Beyond 2.0 031 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-031-2014-digital-Son-of-Ultron-Empire-cbr.md) | 18.83MiB

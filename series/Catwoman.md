@@ -34,6 +34,12 @@ This series is rated Teen+.
 
 
 
+Catwoman (2018-)
+
+The wedding night's barely over, but Catwoman's back on the streets, this time to expose a copycat who's pulling heists around Gotham City. As Selina cracks the whip on her former criminal cohorts, she's attracting unwanted attention from one of Gotham's most dangerous groups. The mob? Nope. Try the GCPD.
+
+
+
 
 
 相关种子⬇Related Torrents

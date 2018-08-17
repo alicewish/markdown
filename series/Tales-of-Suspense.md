@@ -18,7 +18,7 @@ Captain America and Iron Man star in this thrilling reboot of the 1959 series! S
 
 
 
-Tales of Suspense (2017-)
+Tales of Suspense (2017-2018)
 
 Collects Tales Of Suspense (2017) #100-104.
 

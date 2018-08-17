@@ -30,6 +30,12 @@ A retelling of Plastic Man's origin as well as a great new tale that pits Plas a
 
 
 
+Plastic Man (2018-)
+
+Meet Eel O’Brian: a petty thug, thief and con artist who runs a strip club. Hey, he’s also dead, at least according to the gang that tossed him out like last week’s garbage. Literally. Don’t worry, though—he bounced back from all that, and now he’s trying to make a new life for himself, but the effort is stretching him pretty thin.
+
+
+
 
 
 相关种子⬇Related Torrents

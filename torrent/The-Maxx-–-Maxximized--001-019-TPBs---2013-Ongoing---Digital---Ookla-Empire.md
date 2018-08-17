@@ -20,7 +20,7 @@ The Maxx - Maxximized 006 (2014) (Digital) (Ookla-Empire).cbr | 40.19MiB
 The Maxx - Maxximized 007 (2014) (Digital) (Ookla-Empire).cbr | 37.70MiB
 The Maxx - Maxximized 008 (2014) (Digital) (Ookla-Empire).cbz | 34.27MiB
 The Maxx - Maxximized 009 (2014) (Digital) (Ookla-Empire).cbz | 38.50MiB
-The Maxx - Maxximized 010 (2014) (Digital) (Ookla-Empire).cbz | 41.08MiB
+[The Maxx - Maxximized 010 (2014) (Digital) (Ookla-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Maxx-Maxximized-010-2014-Digital-Ookla-Empire-cbz.md) | 41.08MiB
 [The Maxx - Maxximized 011 (2014) (Digital) (Ookla-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Maxx-Maxximized-011-2014-Digital-Ookla-Empire-cbr.md) | 32.27MiB
 [The Maxx - Maxximized 012 (2014) (Digital) (Ookla-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Maxx-Maxximized-012-2014-Digital-Ookla-Empire-cbr.md) | 38.60MiB
 [The Maxx - Maxximized 013 (2014) (Digital) (Ookla-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Maxx-Maxximized-013-2014-Digital-Ookla-Empire-cbr.md) | 46.15MiB

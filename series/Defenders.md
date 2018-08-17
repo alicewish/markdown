@@ -24,7 +24,7 @@ Springing out of Fear Itself! Everyone's favorite Marvel characters band togethe
 
 
 
-Defenders (2017-)
+Defenders (2017-2018)
 
 Collects Defenders (2017) #1-5 and material from Free Comic Book Day 2017 (Guardians of the Galaxy) #1.
 

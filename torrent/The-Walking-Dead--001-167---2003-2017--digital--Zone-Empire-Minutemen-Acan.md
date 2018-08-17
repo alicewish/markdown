@@ -155,7 +155,7 @@ The Walking Dead 126 (2014) (Digital) (Zone-Empire).cbr | 35.11MiB
 The Walking Dead 127 (2014) (Digital) (Zone-Empire).cbr | 75.38MiB
 The Walking Dead 128 (2014) (Digital) (Zone-Empire).cbr | 39.16MiB
 The Walking Dead 129 (2014) (Digital) (Zone-Empire).cbr | 41.79MiB
-The Walking Dead 130 (2014) (Digital) (Zone-Empire).cbr | 48.27MiB
+[The Walking Dead 130 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-130-2014-Digital-Zone-Empire-cbr.md) | 48.27MiB
 [The Walking Dead 131 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-131-2014-Digital-Zone-Empire-cbr.md) | 42.41MiB
 [The Walking Dead 132 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Walking-Dead-132-2014-Digital-Zone-Empire-cbr.md) | 41.78MiB
 The Walking Dead 133 (2014) (Digital) (Zone-Empire).cbr | 45.47MiB

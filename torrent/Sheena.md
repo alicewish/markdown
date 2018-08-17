@@ -230,7 +230,7 @@ Sheena Queen of the Jungle - Dark Rising 03 (2009) (GreenGiant-DCP).cbr | 12.67M
 &emsp;【Sheena/08-Sheena, Queen of the Jungle (001-003)(2014)(Moonstone)】 | 
 Sheena, Queen of the Jungle 001 (2014) (c2c)(TLK-EMPIRE-HD).cbr | 35.63MiB
 Sheena, Queen of the Jungle 002 (2014) (c2c)(TLK-EMPIRE-HD).cbr | 35.91MiB
-Sheena, Queen of the Jungle 003 (2014) (c2c)(TLK-EMPIRE-HD).cbr | 65.20MiB
+[Sheena, Queen of the Jungle 003 (2014) (c2c)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheena-Queen-of-Jungle-003-2014-c2c-TLK-EMPIRE-HD-cbr.md) | 65.20MiB
 &emsp;【Sheena/09-Sheena - Queen of the Jungle (2017-ongoing)(Dynamite)】 | 
 [Sheena - Queen of the Jungle 000 (2017) (4 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheena-Queen-of-Jungle-000-2017-4-covers-Digital-DR-Quinch-Empire-cbr.md) | 39.66MiB
 [Sheena - Queen of the Jungle 001 (2017) (5 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sheena-Queen-of-Jungle-001-2017-5-covers-Digital-DR-Quinch-Empire-cbr.md) | 49.85MiB

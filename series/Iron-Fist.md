@@ -30,7 +30,7 @@ Danny Rand visits the mystic city of K'un-Lun and becomes their chamption, the i
 
 
 
-Iron Fist (2017-)
+Iron Fist (2017-2018)
 
 THE GAUNTLET STARTS HERE! K'un Lun is in ruins. The chi fueling Danny's fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him…
 

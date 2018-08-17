@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Delcourt
 
+Joe Golem
+
+Série indépendante de l'univers de Hellboy, Joe Golemest une création conjointe de Mike Mignola et du romancier Christopher Golden (Lord Baltimore). Joe Golemest une série inscrite dans le genre fantastique, matinée d'ambiances des pulps des années 1930. Quarante années ont passé depuis le Grand Désastre qui a submergé tout le bas de Manhattan, laissant cette partie du coeur de New York engloutie sous une dizaine de mètres d'eau. Des événements étranges ont commencé à survenir, et Joe Golem enquête lorsqu'une mystérieuse et terrifiante créature enlève des enfants pour les emmener dans les profondeurs de la cité engloutie, tandis que les noyés resurgissent de ces eaux sombres... vivants.
 
 
 

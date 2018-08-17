@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Roar
 
+Rocket Salvage
+
+Primo Rocket is a down-on-his-luck rocket racer, with two "kids" (one turns out to be his clone, another turns out to be . . . well that would give too much away) who finds himself mixed up in an intergalactic search for a rumored "ultimate weapon." Backwater gangsters, mad scientists, and two antagonistic governments end up in an epic showdown, and it turns out it's Primo's job to save the world.
 
 
 

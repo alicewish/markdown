@@ -21,7 +21,7 @@ Ghosted 008 (2014) (digital) (Minutemen-InnerDemons).cbr | 44.15MiB
 Ghosted 009 (2014) (digital) (Minutemen-InnerDemons).cbr | 43.47MiB
 Ghosted 010 (2014) (digital) (Minutemen-InnerDemons).cbr | 48.62MiB
 Ghosted 011 (2014) (digital) (Minutemen-InnerDemons).cbr | 44.53MiB
-Ghosted 012 (2014) (digital) (Minutemen-InnerDemons).cbr | 46.81MiB
+[Ghosted 012 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghosted-012-2014-digital-Minutemen-InnerDemons-cbr.md) | 46.81MiB
 [Ghosted 013 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghosted-013-2014-digital-Minutemen-InnerDemons-cbr.md) | 47.39MiB
 [Ghosted 014 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghosted-014-2014-digital-Minutemen-InnerDemons-cbr.md) | 55.97MiB
 [Ghosted 015 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghosted-015-2014-digital-Minutemen-InnerDemons-cbr.md) | 55.89MiB

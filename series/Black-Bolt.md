@@ -6,7 +6,7 @@
 
 Marvel
 
-Black Bolt (2017-)
+Black Bolt (2017-2018)
 
 Collects Black Bolt #1-6.
 

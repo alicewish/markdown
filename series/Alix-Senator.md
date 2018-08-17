@@ -4,7 +4,19 @@
 
 [回到总目录](/Catalogs.md)
 
+Casterman
 
+Alix Senator
+
+– 12 avant Jésus-Christ. Marcus Aemilius Lepidus, grand pontife de Rome, et Agrippa, successeur désigné du puissant empereur Auguste, sont mystérieusement assassinés par des aigles qui leur déchirent les entrailles. ...
+
+
+
+Alarmé par ces événements, Auguste charge son vieil ami le sénateur Alix Gracchus d’enquêter discrètement. Une enquête qui conduira Alix, assisté de ses fils Titus et Khephren (le propre rejeton d’Enak, qu’Alix a adopté après la disparition de celui-ci) sur la piste de l’énigmatique maître des oiseaux. Pourtant, le danger persiste à se rapprocher encore de l’empereur en personne, de plus en plus près. Et Alix va finalement découvrir que le plus dangereux des rapaces se niche au cœur même de Rome, là où nul ne pouvait le soupçonner…
+
+
+
+Un nouvel arc narratif s’ouvre pour le célébrissime personnage créé par Jacques Martin : devenu sénateur de Rome alors qu’il aborde l’âge mûr, Alix vit de nouvelles et trépidantes aventures imaginées par Valérie Mangin, et somptueusement mises en images par Thierry Démarez. Un événément !
 
 
 

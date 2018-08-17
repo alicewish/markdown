@@ -4,19 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
-BOOM! Studios
+Black Mask Studios
 
-Eternal
+ETERNAL
 
-WHY BOOM! LOVES IT: We love giving readers smart and thrilling science fiction books, such as THE HYPERNATURALS, SIX-GUN GORILLA, and our adaptation of Philip K. Dick's DO ANDROIDS DREAM OF ELECTRIC SHEEP?. We continue that tradition with ETERNAL, a story where humans can continually make clones of themselves, so death is a thing of the past. We need to know: What does a world like that look like? 
-
-
-
-WHY YOU'LL LOVE IT: William Harms (IMPALER, INFAMOUS) is crafting a gripping, sophisticated story about what happens if science completely changes the rules of life itself. This is a story where characters' ethics and loyalties are tested, for society has changed but human failings remain the same. The next step in humanity is brought to glorious life by Giovanni Valetta (DARK HORSE PRESENTS). 
-
-
-
-WHAT IT'S ABOUT: In a world of clones, the Human Liberation Army wants to free people from New Life's grasp. Their leader Gail will take the most drastic, personal measures yet to do so. Rathmann, a former homicide detective turned New Life enforcer, is on the case, and is asking tough questions. Violet, a young girl and one of the few non-cloned humans (Pures, they're called) left, is longing to enter the real world. But she has no idea the danger she is stepping into.
+A group of isolated shieldmaidens protect their village against a tide of men who think they can seize land from them. Vif takes her band of women off viking to quell the advances of a loitering mystical scumbag, Bjarte. But some battles rage on inside us long after the field is empty, and some opponents won't ever stay down. Eternal is a haunting story of how vulnerable you make yourself when trying to protect everything around you. With hyperdetailed art and gorgeous fluid motion from artist Eric Zawadzki [hot off THE DREGS], this story will be one of the most beautiful and heartbreaking things you will read this year.
 
 
 

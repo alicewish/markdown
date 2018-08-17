@@ -12,6 +12,12 @@ In Hawkman's first solo series, Hawkman and Hawkgirl face menaces including the 
 
 
 
+Hawkman (1986-1987)
+
+Hawkman and Hawkwoman battle the forces of evil on their new adopted home of planet Earth!
+
+
+
 Hawkman (1993-1996)
 
 Hawkman is back in the DC Universe with a new costume, new weapons and new powers! Hawkman's become a true bird of prey-- a hard-edged urban hero whose extreme measures won't long escape the notice of the Justice League or the villains of the world!
@@ -21,6 +27,12 @@ Hawkman is back in the DC Universe with a new costume, new weapons and new power
 Hawkman (2002-2006)
 
 In Ancient Egypt, he was known as Prince Khufu. Today he is called Carter Hall. Archaeologist. Winged Warrior. Hawkman. He's lived thousands of lives--his soul reincarnated again and again, destined forever to be reunited with his true love. That is, until now...
+
+
+
+Hawkman (2018-)
+
+Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. 
 
 
 

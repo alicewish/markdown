@@ -49,7 +49,7 @@ Online | Download
 [Batman 031 (2014) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-031-2014-2-covers-digital-Minutemen-PhD-cbr.md) | 35.29MiB
 [Batman 032 (2014) (2 covers) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-032-2014-2-covers-digital-Minutemen-PhD-cbr.md) | 39.74MiB
 [Batman 033 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-033-2014-digital-Minutemen-PhD-cbr.md) | 47.25MiB
-Batman 034 (2014) (Digital) (Zone-Empire).cbr | 40.12MiB
+[Batman 034 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-034-2014-Digital-Zone-Empire-cbr.md) | 40.12MiB
 [Batman 035 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-035-2014-Digital-Zone-Empire-cbr.md) | 55.44MiB
 [Batman 036 (2015) (2 covers) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-036-2015-2-covers-Digital-Zone-Empire-cbr.md) | 40.51MiB
 [Batman 037 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-037-2015-Digital-Zone-Empire-cbr.md) | 44.77MiB

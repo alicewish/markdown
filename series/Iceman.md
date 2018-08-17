@@ -22,6 +22,12 @@ Bobby Drake has been in the super-hero game longer than most — but what is he 
 
 
 
+Iceman (2018-)
+
+HE'S BACK! Iceman is back! Which is good, because someone is hunting the Morlocks for sport. Now it’s up to Bobby Drake to prevent another potential Mutant Massacre. But who’s behind this horrific hunt? You won’t believe it if we tell you! Guest-starring Bishop!
+
+
+
 
 
 相关种子⬇Related Torrents

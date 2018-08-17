@@ -6,6 +6,12 @@
 
 Marvel
 
+Cloak And Dagger (2018)
+
+For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER -- waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced -- one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share!
+
+
+
 Cloak and Dagger (1983)
 
 Cloak and Dagger, who wield the powers of darkness and light, set out to fight crime in New York City. But when a stray bullet from a street battle gone wrong harms a civilian, the superhuman duo may be forced to question their vigilante methodology...

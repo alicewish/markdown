@@ -40,7 +40,7 @@ Nova 019 (2014) (Digital) (Zone-Empire).cbr | 41.19MiB
 [Nova 027 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-027-2015-Digital-Zone-Empire-cbr.md) | 35.56MiB
 [Nova 028 (2015) (2 covers) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-028-2015-2-covers-digital-Minutemen-InnerDemons-cbr.md) | 39.96MiB
 [Nova Annual 01 (2015) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-Annual-01-2015-digital-Minutemen-InnerDemons-cbr.md) | 58.22MiB
-Nova Special 001 (2014) (Digital) (Zone-Empire).cbr | 43.32MiB
+[Nova Special 001 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nova-Special-001-2014-Digital-Zone-Empire-cbr.md) | 43.32MiB
 &emsp;【Nova v5 (001-028+Extra) (2013-Ongoing) (Digital) (Zone-Empire+Minutemen-PhD)/Variant Covers】 | 
 [Nova 001 (2013) (2013 ComicsPRO Variant) (Cover ONLY) (ScanDog & Tarutaru-Novus).cbz](https://github.com/alicewish/markdown/blob/master/comic/Nova-001-2013-2013-ComicsPRO-Variant-Cover-ONLY-ScanDog-Tarutaru-Novus-cbz.md) | 1.08MiB
 [Nova 001 (2013) (2nd Printing Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/Nova-001-2013-2nd-Printing-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 849.50KiB

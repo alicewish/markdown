@@ -28,7 +28,7 @@ God is Dead 001 (2013) (Variant Covers Pack) (Digital) (Darkness-Empire).cbr | 3
 God is Dead 002 (2013) (4 Covers) (Darkness-Empire).cbr | 65.56MiB
 God is Dead 015 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.86MiB
 God is Dead 017 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 54.15MiB
-God is Dead 018 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.36MiB
+[God is Dead 018 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-018-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 47.36MiB
 [God is Dead 019 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-019-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 45.99MiB
 [God is Dead 020 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-020-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 47.45MiB
 [God is Dead 021 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-021-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 45.55MiB
@@ -50,4 +50,4 @@ God is Dead 018 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.36MiB
 [God is Dead 037 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-037-2015-Digital-Mephisto-Empire-cbr.md) | 45.39MiB
 [God is Dead 038 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-038-2015-Digital-Mephisto-Empire-cbr.md) | 41.65MiB
 God is Dead Book of Acts - Alpha (2014) (8 Covers) (Digital) (Darkness-Empire).cbr | 73.38MiB
-God is Dead Book of Acts - Omega (2014) (7 Covers) (Digital) (Darkness-Empire).cbr | 67.65MiB
+[God is Dead Book of Acts - Omega (2014) (7 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-Book-of-Acts-Omega-2014-7-Covers-Digital-Darkness-Empire-cbr.md) | 67.65MiB

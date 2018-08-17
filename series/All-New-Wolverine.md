@@ -6,7 +6,7 @@
 
 Marvel
 
-All-New Wolverine (2015-)
+All-New Wolverine (2015-2018)
 
 X-23 was created to be a weapon and for a time, that’s all she was. But with the help of her mentor, Logan- the original Wolverine- she escaped that dark past. Tragically, Logan has fallen, but Laura will continue in his footsteps as a hero. 
 

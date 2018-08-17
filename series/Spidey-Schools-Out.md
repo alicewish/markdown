@@ -6,13 +6,13 @@
 
 Marvel - comiXology Originals
 
-Spidey: School's Out (2018)
+Spidey: School's Out (2018) (comiXology Originals)
 
-Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp!  A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?
+Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. 
 
 
 
-Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title will be available as part of comiXology Unlimited at release.
+This title will be available as part of comiXology Unlimited at release. 
 
 
 

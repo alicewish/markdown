@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+DC
 
+Shadowpact (2006-2008), Vol. 1
+
+Join Nightmaster, Ragman, Nightshade, Blue Devil, Enchantress and Detective Chimp — the mismatched magical heroes from DC's DAY OF VENGEANCE— as they take on new strange and magical threats. They might just save the world…if they manage to get along that is.
 
 
 

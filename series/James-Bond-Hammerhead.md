@@ -6,7 +6,7 @@
 
 Dynamite
 
-James Bond: Hammerhead
+James Bond: Hammerhead (2016-2017)
 
 Bond is assigned to hunt down and eliminate Kraken, a radical anti-capitalist who has targeted Britain's newly-upgraded nuclear arsenal. But all is not as it seems. Hidden forces are plotting to rebuild the faded glory of the once-mighty British Empire, and retake by force what was consigned to history. 007 is a cog in their deadly machine - but is he an agent of change, or an agent of the status quo? Loyalties will be broken, allegiances challenged. But in an ever-changing world, there's one man you can rely on: Bond. James Bond.
 

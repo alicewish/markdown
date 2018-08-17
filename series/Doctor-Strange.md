@@ -28,7 +28,7 @@ The latest in the Marvel Knights series takes a bold new look at Marvel's Sorcer
 
 
 
-Doctor Strange (2015-)
+Doctor Strange (2015-2018)
 
 Who do you call when things are coming out of your dreams and trying to kill you? Or when your daughter is cursing in Latin and walking like a spider? Or when your dog keeps screaming at you to strangle your neighbors? Doctor Strange, of course. He's the only person standing between us and the forces of darkness, but has he been paying his tab?
 

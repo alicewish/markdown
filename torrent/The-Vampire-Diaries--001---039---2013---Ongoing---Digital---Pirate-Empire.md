@@ -46,6 +46,6 @@ The Vampire Diaries 033 (2014) (Digital) (Pirate-Empire).cbr | 11.81MiB
 The Vampire Diaries 034 (2014) (Digital) (Pirate-Empire).cbr | 14.27MiB
 The Vampire Diaries 035 (2014) (Digital) (Pirate-Empire).cbr | 15.60MiB
 The Vampire Diaries 036 (2014) (Digital) (Pirate-Empire).cbr | 14.11MiB
-The Vampire Diaries 037 (2014) (Digital) (Pirate-Empire).cbr | 18.79MiB
+[The Vampire Diaries 037 (2014) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampire-Diaries-037-2014-Digital-Pirate-Empire-cbr.md) | 18.79MiB
 [The Vampire Diaries 038 (2014) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampire-Diaries-038-2014-Digital-Pirate-Empire-cbr.md) | 14.08MiB
 [The Vampire Diaries 039 (2014) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampire-Diaries-039-2014-Digital-Pirate-Empire-cbr.md) | 17.06MiB

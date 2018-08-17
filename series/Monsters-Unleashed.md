@@ -12,7 +12,7 @@ THE EPIC BATTLE MARVEL FANS HAVE BEEN WAITING FOR, DRAWN BY TODAY'S GREATEST ART
 
 
 
-Monsters Unleashed (2017-)
+Monsters Unleashed (2017-2018)
 
 THE FIRST FANTASTIC ISSUE OF MARVEL'S NEWEST HEROES! From acclaimed writer CULLEN BUNN, known for his work on DEADPOOL, UNCANNY X-MEN and more, comes a high-action sci-fi series centered on a team of monstrous and monstrously massive do-gooders including KID KAIJU, AEGIS, SLIZZIK, SCRAGG, HI-VO AND MEKARA.. Now teaming up with vampire-hunter ELSA BLOODSTONE, the series unfolds as the team takes on gargantuan creatures and protects the planet from ruin and disaster. However, can they be accepted by the rest of the Marvel Universe and allowed to help, or will they be deemed dangerous as well?
 

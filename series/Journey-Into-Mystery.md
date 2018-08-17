@@ -6,7 +6,7 @@
 
 Marvel
 
-Journey Into Mystery
+Journey Into Mystery (1952-1966)
 
 The debut of Thor! A new age begins as the Odinson starts his divine campaign against the forces of evil!
 

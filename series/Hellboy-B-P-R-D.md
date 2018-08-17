@@ -4,11 +4,7 @@
 
 [回到总目录](/Catalogs.md)
 
-Dark Horse
 
-Hellboy and the B.P.R.D.
-
-"A bizarre series of murders and rumors of something worse lead Professor Bruttenholm to send a young Hellboy to a Brazilian village on his first mission. Hellboy and a small group of agents uncover something terrible in the shadows of a sixteenth-century Portuguese fortress . . . * Twenty years of _Hellboy_! * Mike Mignola named one of 12 Vital Creators to Watch by _LA Times_! ""Alex and Hellboy are a match made in heaven. Alex is one of the truly great comic book artists of this generation and the Mignola universe is going to show a whole different side to his genius. Brian Michael Bendis"
 
 
 

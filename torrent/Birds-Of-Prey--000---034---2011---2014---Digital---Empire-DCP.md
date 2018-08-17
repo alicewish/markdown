@@ -46,4 +46,4 @@ Online | Download
 [Birds of Prey 031 (2014)(Digital)(HD)(Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Birds-of-Prey-031-2014-Digital-HD-Thornn-Empire-cbr.md) | 48.57MiB
 [Birds of Prey 032 (2014)(Digital)(HD)(Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Birds-of-Prey-032-2014-Digital-HD-Thornn-Empire-cbr.md) | 42.93MiB
 [Birds of Prey 033 (2014)(Digital)(HD)(Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Birds-of-Prey-033-2014-Digital-HD-Thornn-Empire-cbr.md) | 47.77MiB
-Birds of Prey 034 (2014) (Webrip-DCP).cbr | 48.74MiB
+[Birds of Prey 034 (2014) (Webrip-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Birds-of-Prey-034-2014-Webrip-DCP-cbr.md) | 48.74MiB

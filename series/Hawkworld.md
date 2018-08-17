@@ -16,6 +16,12 @@ Collects HAWKWORLD #1-3.
 
 
 
+Hawkworld (1989-1993)
+
+Featuring aristocrat Katar Hol as he questions the direction of Thanagarian society, joins his local police force, is betrayed and disgraced, and will finally finds his true purpose as the winged wonder Hawkman!
+
+
+
 
 
 相关种子⬇Related Torrents

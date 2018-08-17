@@ -4,7 +4,15 @@
 
 [回到总目录](/Catalogs.md)
 
+Marvel
 
+Mephisto Vs. (1987)
+
+Collects Mephisto Vs. The Fantastic Four #1, Mephisto Vs. The X-Factor #2, Mephisto Vs. The X-Men #3 And Mephisto Vs. The Avengers #4.
+
+
+
+The Fantastic Four! X-Factor! The X-Men! The Avengers! What threat could menace all four major Marvel teams of the 1980s? Can you say...the Devil? Mephisto wants super-hero souls, and he's out to collect them all! With their worst nightmares AND their wildest dreams at his command, he's not getting cast out of THIS fight! How can he lose...when it's HIS series?
 
 
 

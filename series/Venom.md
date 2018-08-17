@@ -18,7 +18,7 @@ SPIDER-ISLAND TIE-IN Flash Thompson is dropped into Ground Zero of the Spider-Is
 
 
 
-Venom (2016-)
+Venom (2016-2018)
 
 VENOM IS BACK AND BADDER THAN EVER! The symbiote you know and love has returned to New York City. No more "Agent of the Cosmos." No more "Lethal Protector." It's time for a new Venom, and it's great to be bad.
 

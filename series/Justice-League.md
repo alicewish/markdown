@@ -18,6 +18,16 @@ Spinning out of the events of DC UNIVERSE: REBIRTH #1, a new day dawns for Earth
 
 
 
+Justice League (2018-)
+
+Spinning out of the cataclysmic events of Dark Knights: Metal and the universe-defining No Justice, the core members of the Justice League--Superman, Batman, Wonder Woman, Aquaman, The Flash and more--are finally reunited! 
+
+
+
+The cosmos suddenly opens up to new threats that the Justice League could not imagine! As Lex Luthor and Batman race to solve a mystery going back to the beginning of the DCU, the rest of the League dive deep into new corners of their own mythologies!
+
+
+
 
 
 相关种子⬇Related Torrents

@@ -4,7 +4,25 @@
 
 [回到总目录](/Catalogs.md)
 
+Drawn and Quarterly
 
+Sabrina
+
+"First graphic novel nominated for the Man Booker Prize! 
+
+Conspiracy theories, breakdown, murder. Everything's gonna be all right. Until it isn't.
+
+
+
+How many hours of sleep did you get last night? Rate your overall mood from 1 to 5, 1 being poor. Rate your stress level from 1 to 5, 5 being severe. Are you experiencing depression or thoughts of suicide? Is there anything in your personal life that is affecting your duty?
+
+
+
+When Sabrina disappears, an airman in the U.S. Air Force is drawn into a web of suppositions, wild theories, and outright lies. He reports to work every night in a bare, sterile fortress that serves as no protection from a situation that threatens the sanity of Teddy, his childhood friend and boyfriend of the missing woman. Sabrina's grieving sister Sandra struggles to fill her days waiting in purgatory. After a videotape surfaces, we see devastation through a cinematic lens, as true tragedy is distorted when fringe thinkers and conspiracy theorists begin to interpret events to fit their own narratives.
+
+
+
+The follow-up to Nick Drnaso's LA Times Book Prize winning Beverly, Sabrina depicts a modern world devoid of personal interaction and responsibility, where relationships are stripped of intimacy through glowing computer screens. An indictment of our modern state, Drnaso contemplates the dangers of a fake news climate. Timely and articulate, Sabrina leaves you gutted, searching for meaning in the aftermath of disaster."
 
 
 

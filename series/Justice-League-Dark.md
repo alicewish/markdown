@@ -16,6 +16,12 @@ This series may include materials of a shocking nature.
 
 
 
+Justice League Dark (2018-)
+
+Earth's magic once belonged to them. Now they want the magic back. But who exactly are they? It's up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League.
+
+
+
 
 
 相关种子⬇Related Torrents

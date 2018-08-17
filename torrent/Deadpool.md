@@ -260,7 +260,7 @@ Deadpool 028 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.89MiB
 Deadpool 029 (2014) (digital) (Minutemen-InnerDemons).cbr | 33.56MiB
 Deadpool 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.29MiB
 Deadpool 031 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.50MiB
-Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.12MiB
+[Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-032-2014-digital-Minutemen-InnerDemons-cbr.md) | 37.12MiB
 [Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-033-2014-digital-Minutemen-InnerDemons-cbr.md) | 35.71MiB
 [Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-034-2014-digital-Minutemen-InnerDemons-cbr.md) | 61.52MiB
 [Deadpool 035 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-035-2014-digital-Minutemen-InnerDemons-cbr.md) | 36.95MiB

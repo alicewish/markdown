@@ -107,7 +107,7 @@ Crossed - Wish You Were Here v4 c20 (2014) (Digital-Empire).cbr | 2.53MiB
 Crossed - Wish You Were Here v4 c21 (2014) (Digital-Empire).cbr | 2.73MiB
 Crossed - Wish You Were Here v4 c22 (2014) (Digital-Empire).cbr | 2.97MiB
 Crossed - Wish You Were Here v4 c23 (2014) (Digital-Empire).cbr | 2.79MiB
-Crossed - Wish You Were Here v4 c24 - THE END!  (2014) (Digital-Empire).cbr | 2.68MiB
+[Crossed - Wish You Were Here v4 c24 - THE END!  (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c24-END-2014-Digital-Empire-cbr.md) | 2.68MiB
 &emsp;【Crossed (v1 - v4 & Wish You Were Here + Specials) (2008 - Ongoing) (Digital) (Empire)/Crossed - Wish You Were Here (v1 - v4 + Interludes) (Digital) (Complete) (Empire)/Interludes】 | 
 Crossed - Wish You Were Here v1 Interlude 01 (2012) (Digital).cbr | 755.33KiB
 Crossed - Wish You Were Here v1 Interlude 03 (2012) (digital).cbr | 1.43MiB
@@ -221,7 +221,7 @@ Crossed - Badlands 055 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.32
 Crossed - Badlands 056 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 33.62MiB
 Crossed - Badlands 057 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 45.60MiB
 Crossed - Badlands 058 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 46.75MiB
-Crossed - Badlands 059 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 42.07MiB
+[Crossed - Badlands 059 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-059-2014-4-Covers-Digital-Darkness-Empire-cbr.md) | 42.07MiB
 Crossed - Badlands 060 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 39.57MiB
 [Crossed - Badlands 061 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-061-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 42.58MiB
 [Crossed - Badlands 062 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-062-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 41.34MiB

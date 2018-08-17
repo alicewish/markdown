@@ -6,7 +6,7 @@
 
 DC
 
-The Ruff & Reddy Show (2017-)
+The Ruff & Reddy Show (2017-2018)
 
 In the Golden Age of television, Ruff and Reddy were on top of the entertainment world… until the world turned, and they were forgotten. Now, Ruff is a washed-up television actor. Reddy is a clerk in an upscale grocery store. 
 

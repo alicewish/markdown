@@ -12,7 +12,7 @@ It's a shining, golden, new age for the Thunder God and Matt Fraction and Olivie
 
 
 
-The Mighty Thor (2015-)
+The Mighty Thor (2015-2018)
 
 When Dr. Jane Foster lifts the mystic hammer Mjolnir, she is transformed into the Goddess of Thunder, The Mighty Thor! Her enemies are many, as Asgard descends further into chaos and war threatens to spread throughout the Ten Realms. Yet her greatest battle will be against a far more personal foe: the cancer that is killing her mortal form.
 

@@ -6,7 +6,7 @@
 
 DC
 
-The Hellblazer (2016-)
+The Hellblazer (2016-2018)
 
 John Constantine's lost weekend in New York City was fun, but London's where his heart is—only a pissed-off demon and a curse on his soul stand in his way. Even Constantine's questionable ethics are pushed to the limit when he puts eight million souls on the line to get what he wants...
 

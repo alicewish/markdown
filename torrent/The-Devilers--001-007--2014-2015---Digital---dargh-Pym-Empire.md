@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 The Devilers 01 (of 07) (2 covers) (2014) (Digital) (Pym-Empire).cbz | 42.80MiB
-The Devilers 02 (of 07) (2014) (Digital) (Pym-Empire).cbz | 54.57MiB
+[The Devilers 02 (of 07) (2014) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Devilers-02-of-07-2014-Digital-Pym-Empire-cbz.md) | 54.57MiB
 [The Devilers 03 (of 07) (2014) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Devilers-03-of-07-2014-Digital-Pym-Empire-cbz.md) | 57.81MiB
 [The Devilers 04 (of 07) (2014) (Digital) (Pym-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Devilers-04-of-07-2014-Digital-Pym-Empire-cbz.md) | 67.50MiB
 The Devilers 05 (of 07) (2014) (Digital) (Pym-Empire).cbz | 54.33MiB

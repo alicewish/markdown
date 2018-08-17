@@ -12,6 +12,12 @@ Girl. Genius. Hero. Unstoppable. Nadia spent the entire first half of her life a
 
 
 
+The Unstoppable Wasp (2018-)
+
+BACK BY POPULAR DEMAND! Nadia Van Dyne, A.K.A. the UNSTOPPABLE WASP, and her team of girl scientists are back! With the backing of the original Wasp, Janet Van Dyne, there’s no problem the Agents of G.I.R.L. can’t solve! But they’re not the only acronym-toting science organization out there, and when A.I.M. strikes, Nadia and the ladies of Genius In action Research Labs answer the call. But who is A.I.M.’s new super-powered lieutenant, and how do they know Nadia? And what does A.I.M.’s plan have to do with Nadia’s father, Hank Pym?
+
+
+
 
 
 相关种子⬇Related Torrents

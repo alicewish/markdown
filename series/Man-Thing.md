@@ -12,6 +12,12 @@ While guarding the Nexus of All Realties, Marvel’s resident muck-man encounter
 
 
 
+Man-Thing (1979-1981)
+
+Man-Thing's mysterious transformation from Ted Sallis into Marvel's swamp monster is recounted here!
+
+
+
 Man-Thing (2017)
 
 Beloved writer R.L. STINE (Goosebumps, Fear Street) brings his special brand of horror to MAN-THING! After working for years, MAN-THING has regained his ability to speak and has taken Hollywood by storm…But when an ancient and mysterious danger threatens the swamp, Man-Thing is going to have to choose between his new life and celebrity, and the world he used to call home…PLUS! A bone-chilling new horror story, written by the master himself, R.L. STINE, and illustrated by the incomparable Daniel Warren Johnson!

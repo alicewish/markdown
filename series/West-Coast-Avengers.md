@@ -16,6 +16,12 @@ Earth's Mightiest Heroes head west! The bigger they are, the harder they hit - a
 
 
 
+West Coast Avengers (2018-)
+
+A NEW ERA DAWNS…AVENGERS ASSEMBLE! HAWKEYE (KATE BISHOP). HAWKEYE (CLINT BARTON). A guy named FUSE. Never have they ever been called “the big three” of...anything. And now here they are, reunited for, okay, well, it’s only the second time ever. Thank god they also brought AMERICA CHAVEZ, GWENPOOL and KID OMEGA. Wait. What? That’s right, it’s the new West Coast Avengers, son. And you better hope they can figure out how to save the world because BIG things are headed for the West Coast.
+
+
+
 
 
 相关种子⬇Related Torrents

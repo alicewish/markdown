@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+DC
 
+The Unexpected (2018-)
+
+In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that’s replaced her heart. But Janet’s heart isn’t just a curse-it’s a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!
 
 
 

@@ -4,11 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
-BOOM! Studios
+Marvel
 
-Extermination
+Extermination (2018)
 
-We Lost. They Won. In the wake of an apocalyptic alien invasion, the world's greatest super-heroes and deadliest super-villains must form an alliance to prevent their own extermination. Two arch-enemies, Nox, a driven hero, and Red Reaper, a ruthless villain, form a volatile partnership for the greater good. The enemy of your enemy is your friend - but will they be able to ultimately put aside their bitter past to prevent global genocide? What happens when all the battle lines are redrawn and foes become unlikely allies in a desperate war for the fate of the very planet - and the outcome of a species? Written by Simon Spurrier (X-Club, Fear Itself: The Home Front, Wolverine: Dangerous Games), Extermination is a superhero survival story by an author that boldly explores the dark crevices of an entire genre.
+EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past. Writer Ed Brisson (OLD MAN LOGAN, CABLE) and artist Pepe Larraz (UNCANNY AVENGERS, AVENGERS: NO SURRENDER) answer the biggest question of all: can the fate of the X-Men be changed?
 
 
 

@@ -34,6 +34,12 @@ THE CREATORS: The team supreme that brought fans the adventures of Damian Wayne 
 
 
 
+Superman (2018-)
+
+A bold new chapter for the greatest superhero of all time begins here as the superstar team of writer Brian Michael Bendis and artist Ivan Reis begin their run on the all-new SUPERMAN! The fallout from the Man of Steel miniseries has Clark Kent looking at the world through new eyes...with new ideas about what Superman could and should do for the city of Metropolis and the planet Earth.
+
+
+
 
 
 相关种子⬇Related Torrents

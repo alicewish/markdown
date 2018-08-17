@@ -6,7 +6,7 @@
 
 Dynamite
 
-Vampirella (2011)
+Vampirella (2011-)
 
 Dynamite Entertainment is pleased to reintroduce readers to the scourge of the undead: VAMPIRELLA, and she is all that stands between us and the end of the world!
 
@@ -17,12 +17,6 @@ Vampi's back and hot on the corpse-strewn trail of her nemesis, Vlad Dracula. It
 
 
 AS A BONUS FEATURE-A rare story by Jeph Loeb and Tim Sale! 
-
-
-
-Vampirella (2014)
-
-In FEAST OF SHADOWS, the first in the six-part OUR LADY OF SHADOWS story arc. Vampirella is sent by the Vatican to investigate the kidnapping of a little girl by Ethan Shroud and the Chaos cultists, only to become the centerpiece of a ritual invoking Lady Umbra, the sister-bride of Chaos, that leaves her marked as a living sacrifice to the dark goddess who rules the shadows. VAMPIRELLA is back and returns to her horror roots with Bram Stoker Award-winning author Nancy A. Collins (Swamp Thing, Sunglasses After Dark, Jason vs. Leatherface) and Patrick Berkenkotter (Avengers/Invaders, Red Sonja).
 
 
 

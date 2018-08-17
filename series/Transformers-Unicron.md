@@ -6,6 +6,10 @@
 
 IDW
 
+Transformers: Unicron
+
+Not a whimper, nor a bang--the end comes with a squall of entropy shrieking from the ravenous maw of death itself. The message is clear: Unicron has arrived. The Transformers lock into a desperate bid to save Rom's homeworld from the world-killer--but why has Unicron chosen this world on his path to Cybertron... and Earth? The biggest story in the history of Transformers starts now: for Unicron's arrival can mean nothing less than the end of a universe.
+
 
 
 

@@ -4,7 +4,19 @@
 
 [回到总目录](/Catalogs.md)
 
+Big Head Little Arms
 
+Superfreaks (comiXology Originals)
+
+Get ready to binge read an all-new 5-issue superhero mystery debuting in its entirety with art by rising star Margaux Saltel, making her series debut, and written by Elsa Charretier and Pierrick Colinet (IDW's Infinite Loop).
+
+
+
+All the world's superheroes have disappeared overnight, and it's up to their untrained, largely overlooked teenage sidekicks to find out what happened--while dealing with the biggest crisis Earth has ever known--much to the public's displeasure. Can they save the day?
+
+
+
+Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle.
 
 
 

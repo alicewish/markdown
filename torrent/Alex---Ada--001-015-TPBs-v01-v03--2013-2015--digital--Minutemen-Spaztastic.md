@@ -22,7 +22,7 @@ Alex + Ada 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 25.14MiB
 Alex + Ada 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 22.21MiB
 Alex + Ada 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 25.85MiB
 Alex + Ada 007 (2014) (digital) (Minutemen-Spaztastic).cbr | 28.96MiB
-Alex + Ada 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 26.75MiB
+[Alex + Ada 008 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alex-Ada-008-2014-digital-Minutemen-Spaztastic-cbr.md) | 26.75MiB
 [Alex + Ada 009 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alex-Ada-009-2014-digital-Minutemen-Spaztastic-cbr.md) | 23.58MiB
 [Alex + Ada 010 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alex-Ada-010-2014-digital-Minutemen-Spaztastic-cbr.md) | 23.77MiB
 [Alex + Ada 011 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Alex-Ada-011-2014-digital-Minutemen-Spaztastic-cbr.md) | 21.13MiB

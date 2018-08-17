@@ -6,10 +6,6 @@
 
 Dark Horse
 
-B.P.R.D.: Plague of Frogs
-
-In 2001, Hellboy quit the B.P.R.D., leaving Abe Sapien, Liz Sherman, and a bizarre roster of special agents to defend the world from any occult threats and the growing menace of the frog army. Collects B.P.R.D.: Hollow Earth,Other Stories,B.P.R.D.: The Soul of Venice,Other Stories, and B.P.R.D.: Plague of Frogs.
-
 
 
 

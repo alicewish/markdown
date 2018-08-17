@@ -4,11 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
-Marvel Deutschland
+Marvel France
 
-Inhumans vs. X-Men
+Inhumans vs X-Men
 
-Seit bekannt ist, dass die Terrigenwolken der Inhumans für Mutanten giftig und tödlich sein können, hat sich das Verhältnis beider Völker rapide verschlechtert. Als Beast dann noch herausfindet, dass seiner Spezies nur noch zwei Wochen bleiben, bevor der Planet unbewohnbar wird, ist ein Krieg unausweichlich.
+Depuis que les brumes tératogènes, qui donnent leurs pouvoirs aux Inhumains, se sont répandues dans l'atmosphère terrestre, l'espèce mutante est menacée d'extinction. Face à cette situation, les X-Men déclarent la guerre au peuple de New Attilan. Qui sortira vainqueur de ce conflit ?
 
 
 

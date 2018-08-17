@@ -18,7 +18,7 @@ Exploding out of the pages of Secret Wars, Iron Man is here with a new armor, a 
 
 
 
-Invincible Iron Man (2016-)
+Invincible Iron Man (2016-2018)
 
 From the violent streets of Chicago, a new armored hero rises! Clad in her very own Iron Man armor, Riri Williams is ready to show the Marvel Universe what she can do as the self-made hero of tomorrow. But is she ready for all the problems that come with stepping into Iron Man's jet boots? Where's a genius billionaire playboy philanthropist when you need one?
 

@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Marvel
 
+Marvel: The Lost Generation (2000-2001)
+
+Nocturne infects the Baxter Building with a bio-mechanic organism and Walkabout must pull off a rescue. Reed Richards discovers a Skrull scout ship because of a Skrull spy!
 
 
 

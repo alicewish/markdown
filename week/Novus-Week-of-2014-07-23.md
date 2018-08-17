@@ -54,7 +54,7 @@ Reign In Hell 07 (2009-03) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 48.45MiB
 Reign In Hell 08 (2009-04) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 43.91MiB
 Saga 21 (2014) (2048px - c2c) (theProletariat-Novus-HD).cbr | 36.60MiB
 Saga 21 (2014) (2048px) (theProletariat-Novus-HD).cbr | 33.69MiB
-Saga 21 (2014) (theProletariat-Novus).cbr | 19.42MiB
+[Saga 21 (2014) (theProletariat-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/Saga-21-2014-theProletariat-Novus-cbr.md) | 19.42MiB
 Silverstorm 001 (Aircel - 1990) (Talon-Novus-HD).cbr | 63.69MiB
 Suicide Squad 59 (1991-11) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 35.13MiB
 Super Comics 012F (Dell.1939) (c2c) (dell4c-Pmack-Novus).cbz | 41.84MiB

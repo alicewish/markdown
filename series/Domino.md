@@ -6,6 +6,12 @@
 
 Marvel
 
+Domino (1997)
+
+Domino finds out that an old lover has been kidnapped from a federal complex. She immediately begins planning a daring rescue!
+
+
+
 Domino (2003)
 
 The fan-favorite X-Men character explodes into her own limited series, with art and color by one of comics' biggest talents: Brian Stelfreeze!

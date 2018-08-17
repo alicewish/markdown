@@ -40,6 +40,12 @@ Spider-Man has gone global! Parker Industries is more successful than ever, with
 
 
 
+Amazing Spider-Man (2018-)
+
+An alien invasion hits New York City and the only one who can stop it is…Spider-Man?!  And if even that’s not enough, you’ll see a new roommate, new love interests – and a new villain! Spider-Man goes back to basics courtesy of Nick Spencer (SECRET EMPIRE, SUPERIOR FOES OF SPIDER-MAN) and the Marvel debut of RYAN OTTLEY (Invincible)!
+
+
+
 
 
 相关种子⬇Related Torrents

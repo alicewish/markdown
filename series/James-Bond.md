@@ -6,15 +6,9 @@
 
 Dynamite
 
-James Bond
+James Bond (2015-2016)
 
 Beginning "VARGR", the first story in the ongoing James Bond comic series by best-selling writer Warren Ellis! James Bond returns to London after a mission of vengeance in Helsinki, to take up the workload of a fallen 00 Section agent.  But something evil is moving through the back streets of the city, and sinister plans are being laid for Bond in Berlin...
-
-
-
-James Bond (2017)
-
-Black Box Part One – Whiteout. The next epic adventure for 007 kicks off in the snowbound French Alps, where Bond finds himself in the crosshairs of an assassin who targets other assassins. This is the first puzzle piece in a larger adrenaline-fueled mystery that will send Bond across the globe to investigate a digital breach that threatens global security.
 
 
 

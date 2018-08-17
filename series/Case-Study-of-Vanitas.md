@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Yen Press
 
+The Case Study of Vanitas
+
+Step once more into the imagination of Jun Mochizuki, creator of New York Times-bestselling PandoraHearts! A tale of vampires and curses set in a whimsical and dark steampunk Paris unfolds! On the streets, rumors abound of a clockwork grimoire said to sow curses among the vampires. Now, guided by the Book of Vanitas, the gears begun to turn, and the story of two men, Noe and Vanitas, takes shape...
 
 
 

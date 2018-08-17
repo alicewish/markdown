@@ -4,7 +4,11 @@
 
 [回到总目录](/Catalogs.md)
 
+Kodansha Comics
 
+BECK (comiXology Originals)
+
+Fourteen-year-old Yukio Tanaka is one heck of a boring guy. He has no hobbies, a weak taste in music, and only a small vestige of a personality. His shy and somewhat neurotic personality makes him his own worst enemy. Little does he know that his life will be forever changed when he meets rocker Ryusuke Minami, an unpredictable sixteen-year-old with a cool dog named Beck. Ryusuke has just returned to Japan from America, and when he inspires Yukio to get into music, the two begin a journey through the world of rock 'n' roll dreams! Lace up your Docs and head to the mosh pit—Harold Sakuishi's highly addictive manga series that spawned the hit anime is back at last!
 
 
 

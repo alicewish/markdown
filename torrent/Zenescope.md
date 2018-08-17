@@ -530,7 +530,7 @@ Grimm Fairy Tales - Escape From Wonderland 004 (2010) (Digital-HD) (Monafekk-Emp
 Grimm Fairy Tales - Escape From Wonderland 005 (2010) (Digital-HD) (Monafekk-Empire).cbr | 25.24MiB
 Grimm Fairy Tales - Escape From Wonderland 006 (2010) (Digital-HD) (Monafekk-Empire).cbr | 22.53MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Goddess Inc. (001-005)(2014)(Digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Goddess Inc 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 19.14MiB
+[Grimm Fairy Tales Presents Goddess Inc 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Goddess-Inc-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 19.14MiB
 [Grimm Fairy Tales Presents Goddess Inc 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Goddess-Inc-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 31.76MiB
 [Grimm Fairy Tales Presents Goddess Inc 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Goddess-Inc-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 33.30MiB
 [Grimm Fairy Tales Presents Goddess Inc 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Goddess-Inc-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.44MiB
@@ -578,7 +578,7 @@ Grimm Fairy Tales Presents Madness of Wonderland 01 (of 04) (2013) (Digital) (TL
 Grimm Fairy Tales Presents Madness of Wonderland 02 (of 04) (2013) (Digital) (TLK-EMPIRE-HD).cbr | 30.01MiB
 Grimm Fairy Tales Presents Madness of Wonderland 03 (of 04) (2013) (Digital) (TLK-EMPIRE-HD).cbr | 34.28MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Masumi (001-004)(2014)(digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Masumi 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.82MiB
+[Grimm Fairy Tales Presents Masumi 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Masumi-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.82MiB
 [Grimm Fairy Tales Presents Masumi 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Masumi-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 40.67MiB
 [Grimm Fairy Tales Presents Masumi 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Masumi-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.78MiB
 [Grimm Fairy Tales Presents Masumi 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Masumi-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.76MiB

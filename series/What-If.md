@@ -42,6 +42,12 @@ Would Tony Stark still be Iron Man...if he wasn't Tony Stark? Twenty years ago, 
 
 
 
+What If? (2018)
+
+What if Peter Parker wasn't the one bitten by the radioactive spider?  What if the person who got bit was someone who didn't live by the mantra of "with great power comes great responsibility"? What if that person was an egotistical bully who was only interested in taking care of himself?  What if…FLASH THOMPSON became Spider-Man?
+
+
+
 
 
 相关种子⬇Related Torrents

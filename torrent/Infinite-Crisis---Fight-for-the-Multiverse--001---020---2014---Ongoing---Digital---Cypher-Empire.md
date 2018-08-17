@@ -22,7 +22,7 @@ Infinite Crisis - Fight for the Multiverse 009 (2014) (Digital) (Cypher-Empire).
 Infinite Crisis - Fight for the Multiverse 010 (2014) (Digital) (Cypher-Empire).cbr | 23.34MiB
 Infinite Crisis - Fight for the Multiverse 011 (2014) (Digital) (Cypher-Empire).cbr | 20.70MiB
 Infinite Crisis - Fight for the Multiverse 012 (2014) (Digital) (Cypher-Empire).cbr | 18.66MiB
-Infinite Crisis - Fight for the Multiverse 013 (2014) (Digital) (Cypher-Empire).cbr | 17.51MiB
+[Infinite Crisis - Fight for the Multiverse 013 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Crisis-Fight-for-Multiverse-013-2014-Digital-Cypher-Empire-cbr.md) | 17.51MiB
 [Infinite Crisis - Fight for the Multiverse 014 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Crisis-Fight-for-Multiverse-014-2014-Digital-Cypher-Empire-cbr.md) | 21.21MiB
 [Infinite Crisis - Fight for the Multiverse 015 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Crisis-Fight-for-Multiverse-015-2014-Digital-Cypher-Empire-cbr.md) | 23.03MiB
 [Infinite Crisis - Fight for the Multiverse 016 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinite-Crisis-Fight-for-Multiverse-016-2014-Digital-Cypher-Empire-cbr.md) | 18.79MiB
