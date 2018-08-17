@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Baltimore - The Witch of Harju 01 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 18.02MiB
+[Baltimore - The Witch of Harju 01 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Witch-of-Harju-01-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.02MiB
 [Baltimore - The Witch of Harju 02 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Witch-of-Harju-02-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.59MiB
 [Baltimore - The Witch of Harju 03 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Witch-of-Harju-03-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.33MiB

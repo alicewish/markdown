@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Spread 001 (2014) (Digital) (Darkness-Empire).cbr | 63.63MiB
-Spread 002 (2014) (Digital) (Darkness-Empire).cbr | 64.47MiB
+[Spread 002 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-002-2014-Digital-Darkness-Empire-cbr.md) | 64.47MiB
 [Spread 003 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-003-2014-Digital-Darkness-Empire-cbr.md) | 57.40MiB
 [Spread 004 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-004-2014-Digital-Darkness-Empire-cbr.md) | 64.82MiB
 [Spread 005 (2015) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spread-005-2015-Digital-Darkness-Empire-cbr.md) | 48.75MiB

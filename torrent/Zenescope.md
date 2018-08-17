@@ -769,7 +769,7 @@ Grimm Fairy Tales Presents Van Helsing Vs Dracula 05 (of 05) (2016)(2 covers)(Di
 &emsp;【Zenescope/Grimm Fairy Tales Presents Warlord of Oz (001-006)(2014)(digital)(TLK-EMPIRE-HD)】 | 
 Grimm Fairy Tales Presents Warlord Of OZ 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 22.52MiB
 Grimm Fairy Tales Presents Warlord Of OZ 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 22.93MiB
-Grimm Fairy Tales Presents Warlord Of OZ 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.00MiB
+[Grimm Fairy Tales Presents Warlord Of OZ 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Warlord-Of-OZ-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.00MiB
 [Grimm Fairy Tales Presents Warlord Of OZ 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Warlord-Of-OZ-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 40.49MiB
 [Grimm Fairy Tales Presents Warlord Of OZ 005(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Warlord-Of-OZ-005-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 37.78MiB
 [Grimm Fairy Tales Presents Warlord Of OZ 006(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Warlord-Of-OZ-006-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.13MiB
@@ -1002,7 +1002,7 @@ Wonderland Original Trilogy Omnibus (2012) (Digital) (Lovag-Empire).cbr | 857.32
 Grimm Fairy Tales Unleashed 000(2013)(Digital)(TLK-EMPIRE-HD).cbr | 40.06MiB
 Grimm Fairy Tales Unleashed 001(2013)(Digital)(TLK-EMPIRE-HD).cbr | 68.08MiB
 &emsp;【Zenescope/Grimm Fairy Tales Vs Wonderland (001-004)(2014)(digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Vs. Wonderland 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.06MiB
+[Grimm Fairy Tales Vs. Wonderland 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.06MiB
 [Grimm Fairy Tales Vs. Wonderland 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 21.66MiB
 [Grimm Fairy Tales Vs. Wonderland 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 39.32MiB
 [Grimm Fairy Tales Vs. Wonderland 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Vs-Wonderland-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 37.82MiB
@@ -1168,7 +1168,7 @@ Grimm Tales of Terror 007 (2015) (A Cover Only) \[extracted\] (TLK-EMPIRE-HD).cb
 Grimm Tales of Terror 008 (2015) (C Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.08MiB
 Grimm Tales of Terror 009 (2015) (C Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.46MiB
 Grimm Tales of Terror 010 (2015) (B Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.48MiB
-Grimm Tales Of Terror 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.43MiB
+[Grimm Tales Of Terror 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.43MiB
 [Grimm Tales Of Terror 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.72MiB
 [Grimm Tales Of Terror 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 33.80MiB
 [Grimm Tales Of Terror 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.21MiB

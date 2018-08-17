@@ -13,6 +13,6 @@ Online | Download
 Clockwork Angels 01 (of 06) (2014) (3 covers) (digital) (Son of Ultron-Empire).cbr | 40.73MiB
 Clockwork Angels 02 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 38.60MiB
 Clockwork Angels 03 (of 06) (2014)(F)(digital) (Son of Ultron-Empire).cbr | 38.58MiB
-Clockwork Angels 04 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr | 50.38MiB
+[Clockwork Angels 04 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clockwork-Angels-04-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 50.38MiB
 [Clockwork Angels 05 (of 06) (2014) (2 covers) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clockwork-Angels-05-of-06-2014-2-covers-digital-Son-of-Ultron-Empire-cbr.md) | 63.01MiB
 [Clockwork Angels 06 (of 06) (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clockwork-Angels-06-of-06-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.84MiB

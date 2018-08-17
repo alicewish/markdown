@@ -15,7 +15,7 @@ Raven Nevermore 002 (2014) (Digital) (Darkness-Empire).cbr | 73.29MiB
 Raven Nevermore 003 (2014) (Digital) (Darkness-Empire).cbr | 77.25MiB
 Raven Nevermore 004 (2014) (Digital) (Mephisto).cbr | 68.11MiB
 Raven Nevermore 005 (2014) (Digital) (Mephisto).cbr | 63.09MiB
-Raven Nevermore 006 (2014) (Digital) (Mephisto).cbr | 47.71MiB
+[Raven Nevermore 006 (2014) (Digital) (Mephisto).cbr](https://github.com/alicewish/markdown/blob/master/comic/Raven-Nevermore-006-2014-Digital-Mephisto-cbr.md) | 47.71MiB
 Raven Nevermore 007 (2014) (Digital) (tweek).cbz | 48.51MiB
 Raven Nevermore 008 (2015) (Digital) (tweek).cbz | 53.09MiB
 Raven Nevermore 009 (2015) (Digital) (tweek).cbz | 63.17MiB

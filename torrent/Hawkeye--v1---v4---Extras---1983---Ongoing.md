@@ -42,7 +42,7 @@ Hawkeye 015 (2014) (Digital) (Zone-Empire).cbr | 24.36MiB
 Hawkeye 016 (2014) (Digital) (Zone-Empire).cbr | 29.30MiB
 Hawkeye 017 (2014) (Digital) (Zone-Empire).cbr | 25.84MiB
 Hawkeye 018 (2014) (Digital) (Zone-Empire).cbr | 27.60MiB
-Hawkeye 019 (2014) (Digital) (Zone-Empire).cbr | 20.82MiB
+[Hawkeye 019 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hawkeye-019-2014-Digital-Zone-Empire-cbr.md) | 20.82MiB
 Hawkeye Annual 001 (2013) (Digital) (Zone-Empire).cbr | 25.98MiB
 Hawkeye - Earths Mightiest Marksman 01 (1998).cbr | 19.88MiB
 &emsp;【Hawkeye (v1 - v4 + Extras) (1983 - Ongoing)/Hawkeye v1 (01 - 03) (1983)】 | 

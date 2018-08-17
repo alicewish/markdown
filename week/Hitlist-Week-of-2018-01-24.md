@@ -626,7 +626,7 @@ TV Comic 0732 (1965-12-25).cbr | 43.48MiB
 TV Comic 0827 (1967-10-21).cbr | 11.51MiB
 TV Comic 0928 (1969-09-27) (Monty) (re-edit).cbz | 10.94MiB
 Tales from the Time of the Cobra 02 - Revolution (Digital) (Glenat).cbr | 27.65MiB
-Thanos - The Infinity Revelation (2014) (Digital) (Kileko-Empire).cbr | 206.65MiB
+[Thanos - The Infinity Revelation (2014) (Digital) (Kileko-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thanos-Infinity-Revelation-2014-Digital-Kileko-Empire-cbr.md) | 206.65MiB
 The Bat 01 (Apple-1990) (Rumor-Novus-HD).cbz | 42.16MiB
 The Battles of Bridget Lee - Invasion of Farfall (2016) (digital) (Son of Ultron-Empire).cbr | 88.99MiB
 The Black Moon Chronicles 010 - The Stricken Eagle (Digital) (Europe Comics).cbr | 71.05MiB

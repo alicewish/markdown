@@ -163,7 +163,7 @@ Hack-Slash - My First Maniac 04 (of 4) (2010) (2 covers) (Minutemen-CH3OH).cbz |
 Hack-Slash - Son of Samhain 001 (2014) (Ale Garza Phantom Variant Cover) (TaruTariat-Novus-HD).cbr | 1.40MiB
 Hack-Slash - Son of Samhain 001 (2014) (Cameron Stewart Variant Cover) (Tarutaru-Novus-HD).cbr | 1.28MiB
 Hack-Slash - Son of Samhain 001 (2014) (Digital) (Darkness-Empire).cbr | 53.45MiB
-Hack-Slash - Son of Samhain 002 (2014) (Digital) (Darkness-Empire).cbr | 59.06MiB
+[Hack-Slash - Son of Samhain 002 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-002-2014-Digital-Darkness-Empire-cbr.md) | 59.06MiB
 [Hack-Slash - Son of Samhain 003 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-003-2014-Digital-Darkness-Empire-cbr.md) | 52.42MiB
 [Hack-Slash - Son of Samhain 004 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-004-2014-Digital-Darkness-Empire-cbr.md) | 60.84MiB
 [Hack-Slash - Son of Samhain 005 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hack-Slash-Son-of-Samhain-005-2014-Digital-Darkness-Empire-cbr.md) | 58.19MiB

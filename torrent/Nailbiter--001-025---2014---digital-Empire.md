@@ -21,7 +21,7 @@ Nailbiter - The Murder Edition v01 (2016) (Digital) (Zone-Empire).cbr | 309.41Mi
 Nailbiter 001 (2014) (Digital) (Darkness-Empire).cbr | 43.56MiB
 Nailbiter 002 (2014) (Digital) (Darkness-Empire).cbr | 44.12MiB
 Nailbiter 003 (2014) (Digital) (Darkness-Empire).cbr | 40.27MiB
-Nailbiter 004 (2014) (Digital) (Darkness-Empire).cbr | 43.40MiB
+[Nailbiter 004 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-004-2014-Digital-Darkness-Empire-cbr.md) | 43.40MiB
 [Nailbiter 005 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-005-2014-Digital-Darkness-Empire-cbr.md) | 46.56MiB
 [Nailbiter 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-006-2014-Digital-Darkness-Empire-cbr.md) | 40.42MiB
 [Nailbiter 007 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Nailbiter-007-2014-Digital-Darkness-Empire-cbr.md) | 41.06MiB

@@ -13,7 +13,7 @@ Online | Download
 &emsp;【Thanos - Infinity Revelation, Relativity + Finale (2014-2016) (digital-Empire)】 | 
 [Thanos - The Infinity Finale (2016) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thanos-Infinity-Finale-2016-Digital-Empire-cbr.md) | 186.68MiB
 Thanos - The Infinity Relativity (2015) (Digital HC) (BroadCast-Empire).cbz | 193.29MiB
-Thanos - The Infinity Revelation (2014) (Digital) (Mephisto).cbr | 204.37MiB
+[Thanos - The Infinity Revelation (2014) (Digital) (Mephisto).cbr](https://github.com/alicewish/markdown/blob/master/comic/Thanos-Infinity-Revelation-2014-Digital-Mephisto-cbr.md) | 204.37MiB
 &emsp;【Thanos - Infinity Revelation, Relativity + Finale (2014-2016) (digital-Empire)/The Infinity Entity (001-004) (2016) (digital) (Zone-Empire)】 | 
 [The Infinity Entity 001 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Entity-001-2016-Digital-Zone-Empire-cbr.md) | 41.12MiB
 [The Infinity Entity 002 (2016) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Infinity-Entity-002-2016-Digital-Zone-Empire-cbr.md) | 43.20MiB

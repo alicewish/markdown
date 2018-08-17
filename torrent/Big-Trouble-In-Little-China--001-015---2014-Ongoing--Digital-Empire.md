@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Big Trouble In Little China 001 (2014) (Digital-Empire).cbr | 41.74MiB
 Big Trouble In Little China 002 (2014) (Digital-Empire).cbr | 38.39MiB
-Big Trouble In Little China 003 (2014) (Digital-Empire).cbr | 41.78MiB
+[Big Trouble In Little China 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-In-Little-China-003-2014-Digital-Empire-cbr.md) | 41.78MiB
 [Big Trouble In Little China 004 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-In-Little-China-004-2014-Digital-Empire-cbr.md) | 49.21MiB
 [Big Trouble In Little China 006 (2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-In-Little-China-006-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 46.34MiB
 [Big Trouble In Little China 012(2015)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Big-Trouble-In-Little-China-012-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 54.75MiB

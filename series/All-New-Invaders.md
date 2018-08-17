@@ -14,6 +14,10 @@ The KREE EMPIRE intends to conquer the universe using a weapon that will grant t
 
 
 
+相关种子⬇Related Torrents
+
+[All-New Invaders (001-015) (2014-2015) (Digital) (Minutemen-PhD)](https://github.com/alicewish/markdown/blob/master/torrent/All-New-Invaders--001-015---2014-2015---Digital---Minutemen-PhD.md)
+
 Online | Download
 --- | ---
 All-New Invaders 001 (2014) (Digital) (Cypher-Empire).cbr | [35.82MiB](https://pan.baidu.com/s/1qYkMvso#list/path=%2F0-Day%20Week%20of%202014%20Q1%2F0-Day%20Week%20of%202014.01.22%2F%E3%82%B1%E3%82%AD%E3%82%B9%E3%82%B3%E3%82%B5%E3%82%BB%E3%82%BB%E3%82%A4%E3%82%AB%E3%82%A8%E3%82%B5%E3%82%B5%E3%82%AD%E3%82%A4%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%A8%E3%82%AA%E3%82%AB%E3%82%BB%E3%82%AB%E3%82%A6%E3%82%A6%E3%82%B7%E3%82%A2%E3%82%B7%E3%82%B7%E3%82%BD%E3%82%A6%E3%82%B9%E3%82%A4&parentPath=%2F0-Day%20Week%20of%202014%20Q1)

@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Grimm Tales Of Terror 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.43MiB
+[Grimm Tales Of Terror 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.43MiB
 [Grimm Tales Of Terror 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.72MiB
 [Grimm Tales Of Terror 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 33.80MiB
 [Grimm Tales Of Terror 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.21MiB

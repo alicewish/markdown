@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 The Shadow - Midnight in Moscow 001 (2014) (digital) (Son of Ultron-Empire).cbr | 46.47MiB
 The Shadow - Midnight in Moscow 002 (2014) (digital) (Son of Ultron-Empire).cbr | 51.85MiB
-The Shadow - Midnight in Moscow 003 (2014) (digital) (Son of Ultron-Empire).cbr | 38.59MiB
+[The Shadow - Midnight in Moscow 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shadow-Midnight-in-Moscow-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 38.59MiB
 [The Shadow - Midnight in Moscow 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shadow-Midnight-in-Moscow-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.94MiB
 [The Shadow - Midnight in Moscow 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shadow-Midnight-in-Moscow-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 42.17MiB
 [The Shadow - Midnight in Moscow 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Shadow-Midnight-in-Moscow-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.43MiB

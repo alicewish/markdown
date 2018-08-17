@@ -697,7 +697,7 @@ Star Trek - New Frontier 04 (2008) (noads) (greengiant-DCP).cbr | 12.51MiB
 Star Trek - New Frontier 05 (2008) (noads) (greengiant-DCP).cbr | 11.81MiB
 &emsp;【Star Trek/Star Trek (IDW)/Star Trek - New Visions (001-016+)(2014-2017)(digital)(TLK-EMPIRE-HD)】 | 
 Star Trek New Visions 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.92MiB
-Star Trek New Visions 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.13MiB
+[Star Trek New Visions 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 32.13MiB
 [Star Trek New Visions 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 52.47MiB
 [Star Trek New Visions 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 53.15MiB
 [Star Trek New Visions 005 (2015) (Digital) (TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Trek-New-Visions-005-2015-Digital-TLK-EMPIRE-HD-cbr.md) | 49.71MiB

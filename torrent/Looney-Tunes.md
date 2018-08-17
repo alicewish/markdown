@@ -502,7 +502,7 @@ Looney Tunes 216 (2014) (digital) (Son of Ultron-Empire).cbr | 40.52MiB
 Looney Tunes 217 (2014) (digital) (Son of Ultron-Empire).cbr | 45.78MiB
 Looney Tunes 218 (2014) (digital) (Son of Ultron-Empire).cbr | 41.42MiB
 Looney Tunes 219 (2014) (digital) (Son of Ultron-Empire).cbr | 48.76MiB
-Looney Tunes 220 (2014) (digital) (Son of Ultron-Empire).cbr | 40.26MiB
+[Looney Tunes 220 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Looney-Tunes-220-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.26MiB
 [Looney Tunes 221 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Looney-Tunes-221-2014-digital-Son-of-Ultron-Empire-cbr.md) | 47.09MiB
 [Looney Tunes 222 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Looney-Tunes-222-2015-digital-Son-of-Ultron-Empire-cbr.md) | 49.55MiB
 [Looney Tunes 223 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Looney-Tunes-223-2015-digital-Son-of-Ultron-Empire-cbr.md) | 23.02MiB

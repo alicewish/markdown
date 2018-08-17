@@ -24,6 +24,8 @@ An AMAZING new era for the X-Men!  WOLVERINE, STORM, BEAST, ICEMAN, NORTHSTAR, F
 
 [Amazing X-Men (001 - 004)  (1995) (Digital) (AnPymGold-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Amazing-X-Men--001---004----1995---Digital---AnPymGold-Empire.md)
 
+[Amazing X-Men (001-004) (1995) (digital) (Minutemen-Faessla)](https://github.com/alicewish/markdown/blob/master/torrent/Amazing-X-Men--001-004---1995---digital---Minutemen-Faessla.md)
+
 [Amazing X-Men (001 - 016 +Extras) (2014 - Ongoing) (digital) (Minutemen-Spaztastic)](https://github.com/alicewish/markdown/blob/master/torrent/Amazing-X-Men--001---016--Extras---2014---Ongoing---digital---Minutemen-Spaztastic.md)
 
 [Amazing X-Men (v01-v02) (2014) (digital) (Minutemen-Excelsior)](https://github.com/alicewish/markdown/blob/master/torrent/Amazing-X-Men--v01-v02---2014---digital---Minutemen-Excelsior.md)

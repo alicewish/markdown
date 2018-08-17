@@ -136,7 +136,7 @@ Crossed - Wish You Were Here v4 c19 (2014) (Digital-Empire).cbr | 2.70MiB
 Crossed - Wish You Were Here v4 c20 (2014) (Digital-Empire).cbr | 2.53MiB
 Crossed - Wish You Were Here v4 c21 (2014) (Digital-Empire).cbr | 2.73MiB
 Crossed - Wish You Were Here v4 c22 (2014) (Digital-Empire).cbr | 2.97MiB
-Crossed - Wish You Were Here v4 c23 (2014) (Digital-Empire).cbr | 2.79MiB
+[Crossed - Wish You Were Here v4 c23 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c23-2014-Digital-Empire-cbr.md) | 2.79MiB
 [Crossed - Wish You Were Here v4 c24 - THE END!  (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c24-END-2014-Digital-Empire-cbr.md) | 2.68MiB
 &emsp;【Crossed/Crossed - Wish You Were Here (v1-v4+Interludes)(2012-2014)(digital-Empire)/Interludes】 | 
 Crossed - Wish You Were Here v1 Interlude 01 (2012) (Digital).cbr | 755.33KiB

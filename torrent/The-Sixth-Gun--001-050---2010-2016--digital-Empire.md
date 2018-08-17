@@ -35,7 +35,7 @@ The Sixth Gun v06 - Ghost Dance (2014) (Digital) (Zone-Empire).cbr | 266.08MiB
 The Sixth Gun v07 - Not the Bullet, But the Fall (2014) (Digital) (Zone-Empire).cbr | 241.65MiB
 The Sixth Gun v08 - Hell and High Water (2015) (Digital) (Zone-Empire).cbr | 246.41MiB
 &emsp;【The Sixth Gun (001-050+)(2010-2016)(digital-Empire)/The Days of the Dead (001-005)(2014-2015)(digital-Empire)】 | 
-The Sixth Gun - Days of the Dead 001 (2014) (Digital-Empire).cbr | 42.49MiB
+[The Sixth Gun - Days of the Dead 001 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-001-2014-Digital-Empire-cbr.md) | 42.49MiB
 [The Sixth Gun - Days of the Dead 002 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-002-2014-Digital-Empire-cbr.md) | 36.55MiB
 [The Sixth Gun - Days of the Dead 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-003-2014-Digital-Empire-cbr.md) | 36.81MiB
 [The Sixth Gun - Days of the Dead 004 (2015) (F) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sixth-Gun-Days-of-Dead-004-2015-F-Digital-Empire-cbr.md) | 40.31MiB

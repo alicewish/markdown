@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Tiny Titans - Return to the Treehouse 001 (2014) (digital-Empire).cbr | 28.11MiB
 Tiny Titans - Return to the Treehouse 002 (2014) (digital-Empire).cbr | 28.33MiB
-Tiny Titans - Return to the Treehouse 003 (2014) (digital-Empire).cbr | 33.47MiB
+[Tiny Titans - Return to the Treehouse 003 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tiny-Titans-Return-to-Treehouse-003-2014-digital-Empire-cbr.md) | 33.47MiB
 [Tiny Titans - Return to the Treehouse 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tiny-Titans-Return-to-Treehouse-004-2014-digital-CompetentRipper-Empire-cbr.md) | 23.71MiB
 [Tiny Titans - Return to the Treehouse 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tiny-Titans-Return-to-Treehouse-005-2014-digital-CompetentRipper-Empire-cbr.md) | 30.89MiB
 [Tiny Titans - Return to the Treehouse 006 (2015) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tiny-Titans-Return-to-Treehouse-006-2015-digital-CompetentRipper-Empire-cbr.md) | 25.76MiB

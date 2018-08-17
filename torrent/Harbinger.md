@@ -63,7 +63,7 @@ H.A.R.D. Corps 30 (1995) (digital) (d'argh-Empire).cbr | 48.78MiB
 Harbinger - Bleeding Monk 00 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.07MiB
 [Harbinger - Faith 000 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Faith-000-2014-digital-Minutemen-Spaztastic-cbr.md) | 51.12MiB
 &emsp;【Harbinger/Harbinger - Omegas (001-003)(2014)(digital)(Minutemen-Spaztastic)】 | 
-Harbinger - Omegas 01 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 61.24MiB
+[Harbinger - Omegas 01 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Omegas-01-of-03-2014-digital-Minutemen-Spaztastic-cbr.md) | 61.24MiB
 [Harbinger - Omegas 02 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-Omegas-02-of-03-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.04MiB
 Harbinger - Omegas 03 (of 03) (2014) (digital) (Minutemen-Spaztastic).cbr | 42.13MiB
 &emsp;【Harbinger/Harbinger Files (001-002)(1994-1995)(digital)(Minutemen-Slayer)】 | 

@@ -49,5 +49,5 @@ God is Dead 017 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 54.15MiB
 [God is Dead 036 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-036-2015-Digital-Mephisto-Empire-cbr.md) | 38.73MiB
 [God is Dead 037 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-037-2015-Digital-Mephisto-Empire-cbr.md) | 45.39MiB
 [God is Dead 038 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-038-2015-Digital-Mephisto-Empire-cbr.md) | 41.65MiB
-God is Dead Book of Acts - Alpha (2014) (8 Covers) (Digital) (Darkness-Empire).cbr | 73.38MiB
+[God is Dead Book of Acts - Alpha (2014) (8 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-Book-of-Acts-Alpha-2014-8-Covers-Digital-Darkness-Empire-cbr.md) | 73.38MiB
 [God is Dead Book of Acts - Omega (2014) (7 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-is-Dead-Book-of-Acts-Omega-2014-7-Covers-Digital-Darkness-Empire-cbr.md) | 67.65MiB

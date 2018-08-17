@@ -49,7 +49,7 @@ Baltimore - The Plague Ships 05 (of 05) (2010) (digital) (Minutemen-Azkaban).cbr
 Baltimore - The Play (2012) (digital) (Minutemen-InnerDemons).cbr | 11.73MiB
 Baltimore - The Widow and the Tank (2013) (digital) (Minutemen-InnerDemons).cbr | 10.66MiB
 &emsp;【Baltimore/Baltimore - The Witch of Harju (001-003)(2014)(digital)(Minutemen-InnerDemons)】 | 
-Baltimore - The Witch of Harju 01 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 18.02MiB
+[Baltimore - The Witch of Harju 01 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Witch-of-Harju-01-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 18.02MiB
 [Baltimore - The Witch of Harju 02 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Witch-of-Harju-02-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.59MiB
 [Baltimore - The Witch of Harju 03 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Baltimore-Witch-of-Harju-03-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 19.33MiB
 &emsp;【Baltimore/Baltimore - The Wolf and the Apostle (001-002)(2014)(digital)(Minutemen-InnerDemons)】 | 

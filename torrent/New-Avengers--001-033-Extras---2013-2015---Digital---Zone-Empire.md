@@ -33,7 +33,7 @@ New Avengers 018 (2014) (Digital) (Zone-Empire).cbr | 38.88MiB
 New Avengers 019 (2014) (Digital) (Zone-Empire).cbr | 40.23MiB
 New Avengers 020 (2014) (Digital) (Zone-Empire).cbr | 43.12MiB
 New Avengers 021 (2014) (Digital) (Zone-Empire).cbr | 39.49MiB
-New Avengers 022 (2014) (Digital) (Zone-Empire).cbr | 33.76MiB
+[New Avengers 022 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-022-2014-Digital-Zone-Empire-cbr.md) | 33.76MiB
 [New Avengers 023 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-023-2014-Digital-Zone-Empire-cbr.md) | 35.24MiB
 [New Avengers 024 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-024-2014-Digital-Zone-Empire-cbr.md) | 51.68MiB
 [New Avengers 025 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/New-Avengers-025-2014-Digital-Zone-Empire-cbr.md) | 38.63MiB

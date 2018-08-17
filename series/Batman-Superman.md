@@ -12,6 +12,8 @@ DC
 
 相关种子⬇Related Torrents
 
+[Batman - Superman (v1 - v2) (2014) (Digital-TPB) (Nahga+Zone-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---Superman--v1---v2---2014---Digital-TPB---Nahga-Zone-Empire.md)
+
 [Batman - Superman (001-027+Extras) (2013-2016) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---Superman--001-027-Extras---2013-2016---digital-Empire.md)
 
 [Batman - Superman (001-032+Extras) (2013-2016) (digital-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Batman---Superman--001-032-Extras---2013-2016---digital-Empire.md)

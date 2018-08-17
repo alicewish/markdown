@@ -21,7 +21,7 @@ Grimm Tales of Terror 007 (2015) (A Cover Only) \[extracted\] (TLK-EMPIRE-HD).cb
 Grimm Tales of Terror 008 (2015) (C Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.08MiB
 Grimm Tales of Terror 009 (2015) (C Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.46MiB
 Grimm Tales of Terror 010 (2015) (B Cover Only) \[extracted\] (TLK-EMPIRE-HD).cbr | 2.48MiB
-Grimm Tales Of Terror 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.43MiB
+[Grimm Tales Of Terror 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.43MiB
 [Grimm Tales Of Terror 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.72MiB
 [Grimm Tales Of Terror 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 33.80MiB
 [Grimm Tales Of Terror 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Tales-Of-Terror-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 38.21MiB

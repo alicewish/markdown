@@ -571,6 +571,6 @@ Gold Digger 208(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.05MiB
 Gold Digger 209(2014)(Digital)(TLK-EMPIRE-HD).cbr | 17.78MiB
 Gold Digger 210(2014)(Digital)(TLK-EMPIRE-HD).cbr | 19.38MiB
 Gold Digger 211(2014)(Digital)(TLK-EMPIRE-HD).cbr | 19.47MiB
-Gold Digger 212(2014)(Digital)(TLK-EMPIRE-HD).cbr | 17.10MiB
+[Gold Digger 212(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Gold-Digger-212-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 17.10MiB
 Gold Digger Swimsuit Annual 1(c2c)(2012)(Re-em-DCP-HD).cbr | 21.79MiB
 Gold Digger Swimsuit Annual 2013(2013)(c2c)(TLK-EMPIRE-HD).cbr | 33.63MiB

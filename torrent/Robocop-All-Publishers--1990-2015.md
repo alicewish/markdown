@@ -28,7 +28,7 @@ Robocop - Wild Child 01 (2005) (Obi).cbr | 6.81MiB
 &emsp;【Robocop All Publishers (1990-2015)/Boom】 | 
 &emsp;【Robocop All Publishers (1990-2015)/Boom/Robocop (001-012)(2014-2015)(digital-Empire)】 | 
 Robocop 001 (2014) (digital-Empire).cbr | 64.81MiB
-Robocop 002 (2014) (digital-Empire).cbr | 60.57MiB
+[Robocop 002 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-002-2014-digital-Empire-cbr.md) | 60.57MiB
 [Robocop 003 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-003-2014-digital-CompetentRipper-Empire-cbr.md) | 67.11MiB
 [Robocop 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-004-2014-digital-CompetentRipper-Empire-cbr.md) | 63.66MiB
 [Robocop 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Robocop-005-2014-digital-CompetentRipper-Empire-cbr.md) | 58.44MiB

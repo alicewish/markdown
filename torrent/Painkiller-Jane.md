@@ -48,7 +48,7 @@ Painkiller Jane 05 (1997) - Deep, Dark and Dead.cbr | 14.23MiB
 Painkiller Jane - Punisher (2001).cbz | 12.42MiB
 &emsp;【Painkiller Jane/Painkiller Jane - The 22 Brides (001-002)(2014)(digital)(Darkness-Empire)】 | 
 Painkiller Jane - The 22 Brides 001 (2014) (Digital) (Darkness-Empire).cbr | 85.72MiB
-Painkiller Jane - The 22 Brides 002 (2014) (Digital) (Darkness-Empire).cbr | 47.93MiB
+[Painkiller Jane - The 22 Brides 002 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Painkiller-Jane-22-Brides-002-2014-Digital-Darkness-Empire-cbr.md) | 47.93MiB
 &emsp;【Painkiller Jane/Painkiller Jane - The Dead of Winter (001-003)(2006)(digital-Empire)】 | 
 Painkiller Jane 01 (of 03) (2006) (digital-Empire).cbz | 27.77MiB
 Painkiller Jane 02 (of 03) (2006) (digital-Empire).cbz | 35.93MiB
