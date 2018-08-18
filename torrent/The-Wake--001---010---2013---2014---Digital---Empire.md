@@ -20,4 +20,4 @@ The Wake 006 (2014) (Digital) (Zone-Empire).cbr | 51.73MiB
 The Wake 007 (2014) (Digital) (Zone-Empire).cbr | 48.33MiB
 The Wake 008 (2014) (Digital) (Zone-Empire).cbr | 50.54MiB
 The Wake 009 (2014) (Digital) (Zone-Empire).cbr | 54.63MiB
-The Wake 010 (2014) (Digital) (Zone-Empire).cbr | 47.28MiB
+[The Wake 010 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wake-010-2014-Digital-Zone-Empire-cbr.md) | 47.28MiB

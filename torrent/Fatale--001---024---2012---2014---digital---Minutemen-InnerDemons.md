@@ -37,4 +37,4 @@ Fatale 020 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.82MiB
 Fatale 021 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.06MiB
 Fatale 022 (2014) (digital) (Minutemen-InnerDemons).cbr | 39.39MiB
 Fatale 023 (2014) (digital) (Minutemen-InnerDemons).cbr | 41.82MiB
-Fatale 024 (2014) (digital) (Minutemen-InnerDemons).cbr | 69.19MiB
+[Fatale 024 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fatale-024-2014-digital-Minutemen-InnerDemons-cbr.md) | 69.19MiB

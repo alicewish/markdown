@@ -14,4 +14,4 @@ Sovereign 001 (2014) (Digital) (Darkness-Empire).cbr | 38.67MiB
 Sovereign 002 (2014) (Digital) (phillywilly-Empire).cbr | 39.78MiB
 Sovereign 003 (2014) (Digital) (phillywilly-Empire).cbr | 40.04MiB
 Sovereign 004 (2014) (Digital) (phillywilly-Empire).cbr | 37.48MiB
-Sovereign 005 (2014) (Digital) (phillywilly-Empire).cbr | 47.40MiB
+[Sovereign 005 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sovereign-005-2014-Digital-phillywilly-Empire-cbr.md) | 47.40MiB

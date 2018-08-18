@@ -19,4 +19,4 @@ Five Weapons 006 (2014) (digital) (Son of Ultron-Empire).cbr | 56.52MiB
 Five Weapons 007 (2014) (digital) (Son of Ultron-Empire).cbr | 54.46MiB
 Five Weapons 008 (2014) (digital) (Son of Ultron-Empire).cbr | 50.59MiB
 Five Weapons 009 (2014) (digital) (Son of Ultron-Empire).cbr | 47.82MiB
-Five Weapons 010 (2014) (digital) (Son of Ultron-Empire).cbr | 52.45MiB
+[Five Weapons 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Five-Weapons-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 52.45MiB

@@ -794,7 +794,7 @@ Invincible Iron Man v5 Annual 01 (Genndy Tartakovsky Iron Man by Design Variant)
 [Iron Man 027 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Iron-Man-027-2014-digital-Minutemen-PhD-cbr.md) | 41.06MiB
 [Iron Man 028 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Iron-Man-028-2014-digital-Minutemen-PhD-cbr.md) | 43.21MiB
 [Iron Man Annual 01 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Iron-Man-Annual-01-2014-digital-Minutemen-PhD-cbr.md) | 53.13MiB
-Iron Man Special 01 (2014) (digital) (Minutemen-PhD).cbr | 43.23MiB
+[Iron Man Special 01 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Iron-Man-Special-01-2014-digital-Minutemen-PhD-cbr.md) | 43.23MiB
 &emsp;【Iron Man (1963-)/07-Iron Man v5 (001-028+)(2013-2014)(digital)(Minutemen-PhD)/Variant Covers】 | 
 [Iron Man 001 (2013) (2nd Printing Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/Iron-Man-001-2013-2nd-Printing-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 1.06MiB
 [Iron Man 001 (2013) (Adi Granov Variant) (Cover ONLY) (ScanDog+ArtNet).cbz](https://github.com/alicewish/markdown/blob/master/comic/Iron-Man-001-2013-Adi-Granov-Variant-Cover-ONLY-ScanDog-ArtNet-cbz.md) | 1.15MiB

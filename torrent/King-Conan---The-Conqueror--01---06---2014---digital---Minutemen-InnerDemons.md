@@ -15,4 +15,4 @@ King Conan - The Conqueror 02 (of 06) (2014) (digital) (Minutemen-InnerDemons).c
 King Conan - The Conqueror 03 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 28.62MiB
 King Conan - The Conqueror 04 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 34.21MiB
 King Conan - The Conqueror 05 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 34.23MiB
-King Conan - The Conqueror 06 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr | 33.27MiB
+[King Conan - The Conqueror 06 (of 06) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/King-Conan-Conqueror-06-of-06-2014-digital-Minutemen-InnerDemons-cbr.md) | 33.27MiB

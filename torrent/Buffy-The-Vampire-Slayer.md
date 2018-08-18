@@ -370,7 +370,7 @@ Spike - After the Fall 003 (2008) (4 covers) (digital) (Son of Ultron-Empire).cb
 Spike - After the Fall 004 (2008) (digital) (Son of Ultron-Empire).cbr | 30.94MiB
 Spike - After the Fall (2009) (digital) (Li'l Magician-Empire).cbr | 114.73MiB
 Spike - Asylum (2007) (Digital) (Kileko-Empire).cbr | 235.61MiB
-Spike - Into the Light (2014) (digital) (Son of Ultron-Empire).cbr | 105.46MiB
+[Spike - Into the Light (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spike-Into-Light-2014-digital-Son-of-Ultron-Empire-cbr.md) | 105.46MiB
 Spike - Lost and Found (2006) (digital-Empire).cbr | 31.33MiB
 Spike - Old Wounds (2006) (Both Covers) (Minutemen-XxxX).cbr | 17.07MiB
 Spike - Old Wounds (2006) (Variant Cover Only) \[extracted\] (Minutemen-XxxX).cbr | 410.88KiB

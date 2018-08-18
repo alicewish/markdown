@@ -37,7 +37,7 @@ Spike - Asylum 02 (of 5) (2006) (DarthScanner-DCP).cbr | 15.49MiB
 Spike - Asylum 03 (of 5) (2006) (DarthScanner-DCP).cbr | 14.70MiB
 Spike - Asylum 04 (of 5) (2006) (DarthScanner-DCP).cbr | 14.02MiB
 Spike - Asylum 05 (of 5) (2007) (DarthScanner-DCP).cbr | 15.21MiB
-Spike - Into the Light (2014) (digital) (Son of Ultron-Empire).cbr | 105.46MiB
+[Spike - Into the Light (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spike-Into-Light-2014-digital-Son-of-Ultron-Empire-cbr.md) | 105.46MiB
 Spike - Lost & Found PF (2006) (rougher-OCD).cbr | 21.95MiB
 Spike - Old Wounds (2006) (Both Covers) (Minutemen-XxxX).cbr | 17.07MiB
 &emsp;【Spike - Mini-Series Collection (2006 - 2014)/Spike - Shadow Puppets (01 - 04) (2007) (DarthScanner-DCP)】 | 

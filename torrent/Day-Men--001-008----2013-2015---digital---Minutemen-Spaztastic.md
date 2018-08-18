@@ -13,7 +13,7 @@ Online | Download
 [Day Men 001 (2013) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Day-Men-001-2013-digital-Minutemen-Spaztastic-cbr.md) | 37.09MiB
 Day Men 002 (2013) (digital) (Minutemen-Spaztastic).cbr | 43.21MiB
 Day Men 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.68MiB
-Day Men 004 (2014) (digital) (Minutemen-Spaztastic).cbr | 47.98MiB
+[Day Men 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Day-Men-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.98MiB
 [Day Men 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Day-Men-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 53.19MiB
 [Day Men 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Day-Men-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 53.05MiB
 [Day Men 007 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Day-Men-007-2015-digital-Minutemen-Spaztastic-cbr.md) | 52.39MiB

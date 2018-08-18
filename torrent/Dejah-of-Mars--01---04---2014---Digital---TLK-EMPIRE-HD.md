@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 Dejah Of Mars 001(2014)(2 covers)(Digital Exclusive Edition(TLK-EMPIRE-HD).cbr | 26.93MiB
 Dejah Of Mars 002(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 19.79MiB
-Dejah Of Mars 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 23.88MiB
+[Dejah Of Mars 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dejah-Of-Mars-003-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 23.88MiB
 [Dejah Of Mars 004(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dejah-Of-Mars-004-2014-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 56.31MiB

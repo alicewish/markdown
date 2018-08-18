@@ -19,7 +19,7 @@ Avengers World 006 (2014) (Digital) (Zone-Empire).cbr | 45.70MiB
 Avengers World 007 (2014) (Digital) (Zone-Empire).cbr | 33.32MiB
 Avengers World 008 (2014) (Digital) (Zone-Empire).cbr | 44.15MiB
 Avengers World 009 (2014) (Digital) (Zone-Empire).cbr | 36.23MiB
-Avengers World 010 (2014) (Digital) (Zone-Empire).cbr | 42.63MiB
+[Avengers World 010 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-World-010-2014-Digital-Zone-Empire-cbr.md) | 42.63MiB
 [Avengers World 011 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-World-011-2014-Digital-Zone-Empire-cbr.md) | 36.97MiB
 [Avengers World 012 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-World-012-2014-Digital-Zone-Empire-cbr.md) | 45.47MiB
 [Avengers World 013 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-World-013-2014-Digital-Zone-Empire-cbr.md) | 39.44MiB

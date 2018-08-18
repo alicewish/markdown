@@ -13,7 +13,7 @@ Online | Download
 Dead Letters 001 (2014) (Digital) (Vee-Empire).cbr | 34.94MiB
 Dead Letters 002 (2014) (Digital) (Vee-Empire).cbr | 40.17MiB
 Dead Letters 003 (2014) (Digital) (Nahga-Empire).cbr | 41.98MiB
-Dead Letters 004 (2014) (Digital) (Nahga-Empire).cbr | 55.45MiB
+[Dead Letters 004 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Letters-004-2014-Digital-Nahga-Empire-cbr.md) | 55.45MiB
 [Dead Letters 005 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Letters-005-2014-Digital-Vee-Empire-cbr.md) | 73.94MiB
 [Dead Letters 006 (2014) (Digital) (Vee-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Dead-Letters-006-2014-Digital-Vee-Empire-cbr.md) | 47.96MiB
 Dead Letters v01 - The Existential Op (2014) (Digital) (DR & Quinch-Empire).cbr | 206.44MiB

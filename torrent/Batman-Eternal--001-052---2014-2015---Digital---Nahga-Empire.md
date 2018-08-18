@@ -26,7 +26,7 @@ Batman Eternal 013 (2014) (Digital) (Nahga-Empire).cbr | 47.16MiB
 Batman Eternal 014 (2014) (Digital) (Nahga-Empire).cbr | 43.95MiB
 Batman Eternal 015 (2014) (Digital) (Nahga-Empire).cbr | 31.44MiB
 Batman Eternal 016 (2014) (Digital) (Nahga-Empire).cbr | 33.70MiB
-Batman Eternal 017 (2014) (Digital) (Nahga-Empire).cbr | 31.41MiB
+[Batman Eternal 017 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-017-2014-Digital-Nahga-Empire-cbr.md) | 31.41MiB
 [Batman Eternal 018 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-018-2014-Digital-Nahga-Empire-cbr.md) | 44.42MiB
 [Batman Eternal 019 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-019-2014-Digital-Nahga-Empire-cbr.md) | 53.06MiB
 [Batman Eternal 020 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Eternal-020-2014-Digital-Nahga-Empire-cbr.md) | 42.39MiB

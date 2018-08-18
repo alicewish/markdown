@@ -108,4 +108,4 @@ Tarot Witch of the Black Rose 083 (2013) (2 covers) (c2c) (TLK-EMPIRE-HD).cbr | 
 Tarot Witch of the Black Rose 084 (2014)(2 covers)(c2c)(TLK-EMPIRE-HD).cbr | 48.30MiB
 Tarot Witch of the Black Rose 085 (2014)(c2c)(TLK-EMPIRE-HD).cbr | 43.37MiB
 Tarot Witch of the Black Rose 086 (2014)(2 covers)(c2c)(TLK-EMPIRE-HD).cbr | 40.49MiB
-Tarot Witch of the Black Rose 087 (2014)(c2c)(TLK-EMPIRE-HD).cbr | 77.09MiB
+[Tarot Witch of the Black Rose 087 (2014)(c2c)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tarot-Witch-of-Black-Rose-087-2014-c2c-TLK-EMPIRE-HD-cbr.md) | 77.09MiB

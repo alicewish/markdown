@@ -35,6 +35,6 @@ X-Men v4 013 (2014) (Digital) (Nahga-Empire).cbr | 33.32MiB
 X-Men v4 014 (2014) (Digital) (Nahga-Empire).cbr | 33.83MiB
 X-Men v4 015 (2014) (Digital) (Nahga-Empire).cbr | 30.70MiB
 X-Men v4 016 (2014) (Digital) (Nahga-Empire).cbr | 35.67MiB
-X-Men v4 017 (2014) (Digital) (Nahga-Empire).cbr | 40.81MiB
+[X-Men v4 017 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-v4-017-2014-Digital-Nahga-Empire-cbr.md) | 40.81MiB
 [X-Men v4 018 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-v4-018-2014-Digital-Nahga-Empire-cbr.md) | 44.92MiB
 [X-Men v4 019 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/X-Men-v4-019-2014-Digital-Nahga-Empire-cbr.md) | 41.64MiB

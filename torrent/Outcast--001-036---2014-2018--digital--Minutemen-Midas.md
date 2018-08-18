@@ -18,7 +18,7 @@ Outcast by Kirkman & Azaceta vol. 03 - This Little Light (2016) (digital TPB) (M
 Outcast v04 - Under Devil's Wing (2017) (Digital) (Zone-Empire).cbr | 163.31MiB
 Outcast v05 - The New Path (2017) (Digital) (Zone-Empire).cbr | 320.98MiB
 Outcast 001 (2014) (digital) (Minutemen-Midas).cbr | 57.82MiB
-Outcast 002 (2014) (digital) (Minutemen-Midas).cbr | 35.82MiB
+[Outcast 002 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-002-2014-digital-Minutemen-Midas-cbr.md) | 35.82MiB
 [Outcast 003 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-003-2014-digital-Minutemen-Midas-cbr.md) | 40.87MiB
 [Outcast 004 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-004-2014-digital-Minutemen-Midas-cbr.md) | 40.01MiB
 [Outcast 005 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Outcast-005-2014-digital-Minutemen-Midas-cbr.md) | 40.85MiB

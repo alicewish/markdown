@@ -667,7 +667,7 @@ Avengers 029 (2014) (digital) (Minutemen-PhD).cbr | 39.67MiB
 Avengers 030 (2014) (digital) (Minutemen-PhD).cbr | 37.01MiB
 Avengers 031 (2014) (digital) (Minutemen-PhD).cbr | 33.69MiB
 Avengers 032 (2014) (digital) (Minutemen-PhD).cbr | 36.60MiB
-Avengers 033 (2014) (digital) (Minutemen-PhD).cbr | 31.06MiB
+[Avengers 033 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-033-2014-digital-Minutemen-PhD-cbr.md) | 31.06MiB
 [Avengers 034 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-034-2014-digital-Minutemen-PhD-cbr.md) | 34.31MiB
 [Avengers 034.1 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-034-1-2014-digital-Minutemen-PhD-cbr.md) | 63.24MiB
 Avengers 034.2 (2015) (digital) (Minutemen-InnerDemons).cbr | 44.67MiB
@@ -2779,7 +2779,7 @@ Uncanny Avengers 018.NOW (2014) (digital) (Minutemen-PhD).cbr | 35.67MiB
 Uncanny Avengers 019 (2014) (digital) (Minutemen-PhD).cbr | 32.06MiB
 Uncanny Avengers 020 (2014) (digital) (Minutemen-PhD).cbr | 37.21MiB
 Uncanny Avengers 021 (2014) (digital) (Minutemen-PhD).cbr | 37.33MiB
-Uncanny Avengers 022 (2014) (digital) (Minutemen-PhD).cbr | 41.61MiB
+[Uncanny Avengers 022 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-022-2014-digital-Minutemen-PhD-cbr.md) | 41.61MiB
 [Uncanny Avengers 023 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-023-2014-digital-Minutemen-PhD-cbr.md) | 43.70MiB
 [Uncanny Avengers 024 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-024-2014-digital-Minutemen-PhD-cbr.md) | 41.52MiB
 [Uncanny Avengers 025 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uncanny-Avengers-025-2014-digital-Minutemen-PhD-cbr.md) | 37.10MiB

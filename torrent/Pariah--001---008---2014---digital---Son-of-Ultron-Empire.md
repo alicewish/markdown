@@ -15,6 +15,6 @@ Pariah 002 (2014) (digital) (Son of Ultron-Empire).cbr | 37.47MiB
 Pariah 003 (2014) (digital) (Son of Ultron-Empire).cbr | 35.81MiB
 Pariah 004 (2014) (digital) (Son of Ultron-Empire).cbr | 40.63MiB
 Pariah 005 (2014) (digital) (Son of Ultron-Empire).cbr | 41.80MiB
-Pariah 006 (2014) (digital) (Son of Ultron-Empire).cbr | 35.88MiB
+[Pariah 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pariah-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 35.88MiB
 [Pariah 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pariah-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.62MiB
 [Pariah 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pariah-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 40.03MiB

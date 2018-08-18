@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Cartoon Network - Super Secret Crisis War! 001 (2014) (2 covers) (digital-Empire).cbr | 41.87MiB
-Cartoon Network - Super Secret Crisis War! 002 (2014) (digital) (CompetentRipper-Empire).cbr | 37.79MiB
+[Cartoon Network - Super Secret Crisis War! 002 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-002-2014-digital-CompetentRipper-Empire-cbr.md) | 37.79MiB
 [Cartoon Network - Super Secret Crisis War! 003 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-003-2014-digital-CompetentRipper-Empire-cbr.md) | 35.97MiB
 [Cartoon Network - Super Secret Crisis War! 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-004-2014-digital-CompetentRipper-Empire-cbr.md) | 45.12MiB
 [Cartoon Network - Super Secret Crisis War! 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cartoon-Network-Super-Secret-Crisis-War-005-2014-digital-CompetentRipper-Empire-cbr.md) | 35.72MiB

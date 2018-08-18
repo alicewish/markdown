@@ -51,4 +51,4 @@ Axe Cop v04 - President of the World (2013) (digital) (The Magicians-Empire).cbr
 &emsp;【Axe Cop/Axe Cop The American Choppers (001-003)(2014)(digital)(Minutemen-InnerDemons)】 | 
 Axe Cop - The American Choppers 01 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 26.59MiB
 Axe Cop - The American Choppers 02 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 23.74MiB
-Axe Cop - The American Choppers 03 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr | 24.02MiB
+[Axe Cop - The American Choppers 03 (of 03) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Axe-Cop-American-Choppers-03-of-03-2014-digital-Minutemen-InnerDemons-cbr.md) | 24.02MiB

@@ -16,7 +16,7 @@ Drumhellar 003 (2014) (Digital) (Darkness-Empire).cbr | 42.29MiB
 Drumhellar 004 (2014) (Digital) (Darkness-Empire).cbr | 42.63MiB
 Drumhellar 005 (2014) (Digital) (Darkness-Empire).cbr | 44.15MiB
 Drumhellar 006 (2014) (Digital) (Darkness-Empire).cbr | 37.96MiB
-Drumhellar 007 (2014) (Digital) (Darkness-Empire).cbr | 37.37MiB
+[Drumhellar 007 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drumhellar-007-2014-Digital-Darkness-Empire-cbr.md) | 37.37MiB
 Drumhellar 008 (2014) (Digital-Empire).cbr | 49.84MiB
 [Drumhellar 009 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drumhellar-009-2014-Digital-Empire-cbr.md) | 41.26MiB
 [Drumhellar 010 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Drumhellar-010-2014-Digital-Empire-cbr.md) | 39.95MiB

@@ -13,4 +13,4 @@ Online | Download
 Star Wars - Rebel Heist 01 (of 04) (2014) (Digital) (Fawkes-Empire).cbr | 27.72MiB
 Star Wars - Rebel Heist 02 (of 04) (2014) (Digital) (Fawkes-Empire).cbr | 29.70MiB
 Star Wars - Rebel Heist 03 (of 04) (2014) (Digital) (Fawkes-Empire).cbr | 30.70MiB
-Star Wars - Rebel Heist 04 (of 04) (2014) (Digital-Empire).cbr | 28.25MiB
+[Star Wars - Rebel Heist 04 (of 04) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-Rebel-Heist-04-of-04-2014-Digital-Empire-cbr.md) | 28.25MiB

@@ -20,7 +20,7 @@ Ten Grand 006 (2013) (Digital) (Minutemen-Acan).cbr | 33.11MiB
 Ten Grand 007 (2014) (Digital) (Minutemen-Acan).cbr | 45.06MiB
 Ten Grand 008 (2014) (Digital) (Minutemen-Acan).cbr | 37.25MiB
 Ten Grand 009 (2014) (Digital) (Minutemen-Acan).cbr | 29.69MiB
-Ten Grand 010 (2014) (Digital) (Minutemen-Acan).cbr | 29.48MiB
+[Ten Grand 010 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ten-Grand-010-2014-Digital-Minutemen-Acan-cbr.md) | 29.48MiB
 Ten Grand 011 (2014) (digital) (Minutemen-Acan).cbr | 43.58MiB
 [Ten Grand 012 (2015) (digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ten-Grand-012-2015-digital-Minutemen-Acan-cbr.md) | 46.26MiB
 Ten Grand v01 (2013) (Digital) (Zone-Empire).cbr | 263.95MiB

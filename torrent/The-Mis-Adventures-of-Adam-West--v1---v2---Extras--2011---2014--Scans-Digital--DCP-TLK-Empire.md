@@ -32,5 +32,5 @@ The Mis-Adventures of Adam West v2 004 (2012) (Digital) (TLK-EMPIRE-HD).cbr | 29
 The Mis-Adventures of Adam West v2 005 (2012) (Digital) (TLK-EMPIRE-HD).cbr | 15.94MiB
 The Mis-Adventures of Adam West v2 006 (2012) (Digital) (TLK-EMPIRE-HD).cbr | 15.70MiB
 The Mis-Adventures of Adam West v2 012(2014)(Digital)(TLK-EMPIRE-HD).cbr | 26.12MiB
-The Mis-Adventures of Adam West Gallery(2014)(Digital)(TLK-EMPIRE-HD).cbr | 16.74MiB
+[The Mis-Adventures of Adam West Gallery(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mis-Adventures-of-Adam-West-Gallery-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 16.74MiB
 The Mis-Adventures of Adam West-Walter Koenig's Things to Come... (2011) (c2c) (FCBD) (Minutemen).cbr | 18.00MiB

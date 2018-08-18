@@ -32,7 +32,7 @@ Doctor Who Magazine 500 (2016) (digital) (Minutemen-Bookworm).cbr | 62.67MiB
 [Doctor Who The Eighth Doctor 004(2016)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eighth-Doctor-004-2016-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 53.80MiB
 [Doctor Who The Eighth Doctor 005(2016)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eighth-Doctor-005-2016-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 48.86MiB
 &emsp;【Doctor Who/Doctor Who The Eleventh Doctor (001-015)(2014-2015)(Digital)(TLK-EMPIRE-HD)】 | 
-Doctor Who The Eleventh Doctor 001(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 26.70MiB
+[Doctor Who The Eleventh Doctor 001(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-001-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 26.70MiB
 [Doctor Who The Eleventh Doctor 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 41.84MiB
 [Doctor Who The Eleventh Doctor 003(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-003-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 37.66MiB
 [Doctor Who The Eleventh Doctor 004(2014)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Eleventh-Doctor-004-2014-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 39.73MiB

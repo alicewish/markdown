@@ -34,7 +34,7 @@ Fatale 020 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.82MiB
 Fatale 021 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.06MiB
 Fatale 022 (2014) (digital) (Minutemen-InnerDemons).cbr | 39.39MiB
 Fatale 023 (2014) (digital) (Minutemen-InnerDemons).cbr | 41.82MiB
-Fatale 024 (2014) (digital) (Minutemen-InnerDemons).cbr | 69.19MiB
+[Fatale 024 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fatale-024-2014-digital-Minutemen-InnerDemons-cbr.md) | 69.19MiB
 &emsp;【Fatale (001-024+)(2012-2014)(digital)(Minutemen-InnerDemons)/Trades (v01-v05)(2012-2014)(digital)(Windrider+Zone-Empire)】 | 
 Fatale v01 - Death Chases Me (2012) (Digital-Empire).cbr | 172.14MiB
 Fatale v02 - The Devils Business (2013) (Digital TPB) (Zone-Empire).cbr | 140.55MiB

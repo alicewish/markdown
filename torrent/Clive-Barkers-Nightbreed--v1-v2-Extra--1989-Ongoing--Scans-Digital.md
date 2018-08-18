@@ -13,7 +13,7 @@ Online | Download
 &emsp;【Clive Barker's Nightbreed (v1-v2+Extra)(1989-Ongoing)(Scans+Digital)】 | 
 Clive Barker's Nightbreed 001 (2014) (Digital) (Fawkes-Empire).cbr | 50.28MiB
 Clive Barker's Nightbreed 002 (2014) (Digital) (Fawkes-Empire).cbr | 49.03MiB
-Clive Barker's Nightbreed 003 (2014) (Digital-Empire).cbr | 45.82MiB
+[Clive Barker's Nightbreed 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-003-2014-Digital-Empire-cbr.md) | 45.82MiB
 [Clive Barker's Nightbreed 004 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-004-2014-Digital-Empire-cbr.md) | 45.74MiB
 [Clive Barker's Nightbreed 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-005-2014-Digital-Empire-cbr.md) | 55.05MiB
 [Clive Barker's Nightbreed 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-006-2014-Digital-Empire-cbr.md) | 57.49MiB

@@ -21,4 +21,4 @@ The Wake 06 (of 10) (2014) (digital) (Minutemen-PhD).cbr | 50.68MiB
 The Wake 07 (of 10) (2014) (digital) (Minutemen-InnerDemons).cbr | 47.87MiB
 The Wake 08 (of 10) (2014) (digital) (Minutemen-PhD).cbr | 49.96MiB
 The Wake 09 (of 10) (2014) (digital) (Minutemen-InnerDemons).cbr | 54.39MiB
-The Wake 10 (of 10) (2014) (digital) (Minutemen-InnerDemons).cbr | 47.01MiB
+[The Wake 10 (of 10) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wake-10-of-10-2014-digital-Minutemen-InnerDemons-cbr.md) | 47.01MiB

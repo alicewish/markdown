@@ -10,9 +10,9 @@ Online | Download
 --- | ---
 Action Comics 669 (1991-09) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 28.94MiB
 America's Best Comics 005 (1943 Nedor) (c2c) (Soothsayr-Yoc-Novus).cbz | 60.14MiB
-Batman 033 (2014) (4 covers - 2048px - c2c) (theProletariat-Novus-HD).cbr | 73.08MiB
-Batman 033 (2014) (4 covers - 2048px) (theProletariat-Novus-HD).cbr | 61.32MiB
-Batman 033 (2014) (4 covers) (theProletariat-Novus).cbr | 37.13MiB
+[Batman 033 (2014) (4 covers - 2048px - c2c) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-033-2014-4-covers-2048px-c2c-theProletariat-Novus-HD-cbr.md) | 73.08MiB
+[Batman 033 (2014) (4 covers - 2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-033-2014-4-covers-2048px-theProletariat-Novus-HD-cbr.md) | 61.32MiB
+[Batman 033 (2014) (4 covers) (theProletariat-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-033-2014-4-covers-theProletariat-Novus-cbr.md) | 37.13MiB
 Batman-Superman 12 (2014) (Emanuela Lupacchino Bombshell Variant Cover) (TaruTariat-Novus-HD).cbr | 2.57MiB
 Bloodshot 00 (2013) (Matt Kindt Pullbox Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 3.54MiB
 Bloodshot 01 (2012) (Esad Ribic Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 2.02MiB
@@ -29,7 +29,7 @@ Cavewoman - Karnival 001 (Basement - 2014) (Talon-Novus-HD).cbr | 36.80MiB
 China & Jazz - Special 001 (High Impact - 1998) (Talon-Novus-HD).cbr | 33.79MiB
 Cowboys n Injuns IW 1 (1957-9 Jon-Novus) (repr Tick Tock #31).cbz | 11.64MiB
 Dopey Duck 002 (Timely.1946) (c2c) (Pmack-Novus).cbz | 91.14MiB
-East of West 14 (2014) (2048px - c2c) (RedResin-Minutemen-Novus-HD).cbr | 32.85MiB
+[East of West 14 (2014) (2048px - c2c) (RedResin-Minutemen-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-14-2014-2048px-c2c-RedResin-Minutemen-Novus-HD-cbr.md) | 32.85MiB
 [East of West 14 (2014) (2048px) (RedResin-Minutemen-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-14-2014-2048px-RedResin-Minutemen-Novus-HD-cbr.md) | 29.12MiB
 [East of West 14 (2014) (RedResin-Minutemen-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-14-2014-RedResin-Minutemen-Novus-cbr.md) | 17.43MiB
 Enchanted 002 (Sirius - 1997) (Talon-Novus-HD).cbr | 44.43MiB
@@ -74,8 +74,8 @@ My Girl Pearl 006 (Atlas.1957) (c2c) (Pmack-Novus).cbz | 80.06MiB
 Pee-Wee Pixies IW 8 (1957-9 Jon-Novus) (repr Mighty Atom #1).cbz | 38.41MiB
 Phil Rizzuto, Baseball Hero (1951 Fawcett) (c2c) (Soothsayr-Yoc-Novus).cbz | 30.98MiB
 Prometheus (Villains) 01 (1998-02) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 29.04MiB
-Revival 22 (2014) (2048px - c2c) (theProletariat-Novus-HD).cbr | 49.92MiB
-Revival 22 (2014) (2048px) (theProletariat-Novus-HD).cbr | 41.57MiB
+[Revival 22 (2014) (2048px - c2c) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Revival-22-2014-2048px-c2c-theProletariat-Novus-HD-cbr.md) | 49.92MiB
+[Revival 22 (2014) (2048px) (theProletariat-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Revival-22-2014-2048px-theProletariat-Novus-HD-cbr.md) | 41.57MiB
 [Revival 22 (2014) (theProletariat-Novus).cbr](https://github.com/alicewish/markdown/blob/master/comic/Revival-22-2014-theProletariat-Novus-cbr.md) | 25.29MiB
 Sherry the Showgirl (1st series) 003 (Atlas.1956) (c2c) (sooth-Pmack-Novus).cbz | 59.09MiB
 Showgirls (2nd series) 001 (Atlas.1957) (c2c) (sooth-Pmack-Novus).cbz | 67.22MiB

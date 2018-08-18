@@ -16,7 +16,7 @@ Online | Download
 Low v02 - Before the Dawn Burns Us (2015) (Digital) (Zone-Empire).cbr | 162.16MiB
 Low v03 - Shore of the Dying Light (2016) (Digital) (Zone-Empire).cbr | 200.11MiB
 Low v04 - Outer Aspects of Inner Attitudes (2017) (Digital) (Zone-Empire).cbr | 337.04MiB
-Low 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 56.65MiB
+[Low 001 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-001-2014-digital-Minutemen-Spaztastic-cbr.md) | 56.65MiB
 [Low 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 42.17MiB
 [Low 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 45.56MiB
 [Low 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.46MiB

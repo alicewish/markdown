@@ -15,4 +15,4 @@ The Fuse 002 (2014) (Digital) (Fawkes-Empire).cbr | 34.02MiB
 The Fuse 003 (2014) (Digital) (Fawkes-Empire).cbr | 31.29MiB
 The Fuse 004 (2014) (Digital) (Fawkes-Empire).cbr | 37.55MiB
 The Fuse 005 (2014) (Digital) (Fawkes-Empire).cbr | 40.28MiB
-The Fuse 006 (2014) (Digital-Empire).cbr | 36.41MiB
+[The Fuse 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fuse-006-2014-Digital-Empire-cbr.md) | 36.41MiB

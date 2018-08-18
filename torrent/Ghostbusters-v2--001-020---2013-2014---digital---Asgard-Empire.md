@@ -27,6 +27,6 @@ Ghostbusters 014 (2014) (digital-Empire).cbr | 26.74MiB
 Ghostbusters 015 (2014) (digital-Empire).cbr | 27.15MiB
 Ghostbusters 016 (2014) (digital-Empire).cbr | 29.84MiB
 Ghostbusters 017 (2014) (digital-Empire).cbr | 32.29MiB
-Ghostbusters 018 (2014) (digital) (CompetentRipper-Empire).cbr | 30.78MiB
+[Ghostbusters 018 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-018-2014-digital-CompetentRipper-Empire-cbr.md) | 30.78MiB
 [Ghostbusters 019 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-019-2014-digital-CompetentRipper-Empire-cbr.md) | 31.46MiB
 [Ghostbusters 020 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ghostbusters-020-2014-digital-CompetentRipper-Empire-cbr.md) | 35.90MiB

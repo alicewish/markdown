@@ -31,5 +31,5 @@ The Manhattan Projects 018 (2014) (Digital) (Archangel+Zone-Empire).cbr | 31.09M
 The Manhattan Projects 019 (2014) (Digital) (Archangel+Zone-Empire).cbr | 49.34MiB
 The Manhattan Projects 020 (2014) (Digital) (Archangel+Zone-Empire).cbr | 27.11MiB
 The Manhattan Projects 021 (2014) (Digital) (Archangel+Zone-Empire).cbr | 49.75MiB
-The Manhattan Projects 022 (2014) (Digital) (Archangel+Zone-Empire).cbr | 34.26MiB
+[The Manhattan Projects 022 (2014) (Digital) (Archangel+Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manhattan-Projects-022-2014-Digital-Archangel-Zone-Empire-cbr.md) | 34.26MiB
 [The Manhattan Projects 023 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Manhattan-Projects-023-2014-Digital-Zone-Empire-cbr.md) | 34.92MiB

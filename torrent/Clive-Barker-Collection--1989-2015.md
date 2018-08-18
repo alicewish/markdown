@@ -183,7 +183,7 @@ Clive Barker - Nightbreed 25.cbr | 7.29MiB
 &emsp;【Clive Barker Collection (1989-2015)/Clive Barker's Nightbreed v2 (001-012)(2014-2015)(digital-Empire)】 | 
 Clive Barker's Nightbreed 001 (2014) (Digital) (Fawkes-Empire).cbr | 50.28MiB
 Clive Barker's Nightbreed 002 (2014) (Digital) (Fawkes-Empire).cbr | 49.03MiB
-Clive Barker's Nightbreed 003 (2014) (Digital-Empire).cbr | 45.82MiB
+[Clive Barker's Nightbreed 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-003-2014-Digital-Empire-cbr.md) | 45.82MiB
 [Clive Barker's Nightbreed 004 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-004-2014-Digital-Empire-cbr.md) | 45.74MiB
 [Clive Barker's Nightbreed 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-005-2014-Digital-Empire-cbr.md) | 55.05MiB
 [Clive Barker's Nightbreed 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Nightbreed-006-2014-Digital-Empire-cbr.md) | 57.49MiB

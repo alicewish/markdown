@@ -289,7 +289,7 @@ Grimm Fairy Tales Presents Quest 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 29.60Mi
 Grimm Fairy Tales Presents Quest 005(2014)(Digital)(TLK-EMPIRE-HD).cbr | 29.19MiB
 Grimm Fairy Tales Presents Realm Knights(2014)(Digital)(TLK-EMPIRE-HD).cbr | 31.33MiB
 &emsp;【Zenescope/Grimm Fairy Tales - Age Of Darkness - collected (2013-2015)(digital)/Grimm Fairy Tales Presents Realm War (001-012)(2014-2015)(Digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Realm War 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.08MiB
+[Grimm Fairy Tales Presents Realm War 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.08MiB
 [Grimm Fairy Tales Presents Realm War 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 42.83MiB
 [Grimm Fairy Tales Presents Realm War 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.82MiB
 [Grimm Fairy Tales Presents Realm War 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 40.75MiB
@@ -640,7 +640,7 @@ Grimm Fairy Tales Presents Realm Knights 004(2013)(Digital)(TLK-EMPIRE-HD).cbr |
 Grimm Fairy Tales Presents Realm Knights(2013)(Digital)(TLK-EMPIRE-HD).cbr | 29.22MiB
 Grimm Fairy Tales Presents Realm Knights(2014)(Digital)(TLK-EMPIRE-HD).cbr | 31.33MiB
 &emsp;【Zenescope/Grimm Fairy Tales Presents Realm War (001-012)(2014-2015)(digital)(TLK-EMPIRE-HD)】 | 
-Grimm Fairy Tales Presents Realm War 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.08MiB
+[Grimm Fairy Tales Presents Realm War 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 23.08MiB
 [Grimm Fairy Tales Presents Realm War 002(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-002-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 42.83MiB
 [Grimm Fairy Tales Presents Realm War 003(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-003-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 44.82MiB
 [Grimm Fairy Tales Presents Realm War 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Realm-War-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 40.75MiB

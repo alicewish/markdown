@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Low 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 56.65MiB
+[Low 001 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-001-2014-digital-Minutemen-Spaztastic-cbr.md) | 56.65MiB
 [Low 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 42.17MiB
 [Low 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 45.56MiB
 [Low 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Low-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 47.46MiB

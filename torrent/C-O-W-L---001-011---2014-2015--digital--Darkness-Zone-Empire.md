@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 C.O.W.L. 001 (2014) (Digital) (Darkness-Empire).cbr | 33.22MiB
 C.O.W.L. 002 (2014) (Digital) (Darkness-Empire).cbr | 38.21MiB
-C.O.W.L. 003 (2014) (Digital) (Darkness-Empire).cbr | 36.04MiB
+[C.O.W.L. 003 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-003-2014-Digital-Darkness-Empire-cbr.md) | 36.04MiB
 C.O.W.L. 004 (2014) (Digital) (Darkness-Empire).cbr | 37.67MiB
 [C.O.W.L. 005 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-005-2014-Digital-Darkness-Empire-cbr.md) | 37.02MiB
 [C.O.W.L. 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/C-O-W-L-006-2014-Digital-Darkness-Empire-cbr.md) | 120.86MiB

@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Evil Empire 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 47.12MiB
 Evil Empire 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 42.09MiB
-Evil Empire 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 43.60MiB
+[Evil Empire 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 43.60MiB
 [Evil Empire 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 37.22MiB
 [Evil Empire 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 42.01MiB
 [Evil Empire 006 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Evil-Empire-006-2014-digital-Minutemen-Spaztastic-cbr.md) | 51.97MiB
