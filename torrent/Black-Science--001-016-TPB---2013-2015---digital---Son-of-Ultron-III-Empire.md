@@ -17,7 +17,7 @@ Black Science 003 (2014) (digital) (Son of Ultron III-Empire).cbr | 79.18MiB
 Black Science 004 (2014) (digital) (Son of Ultron III-Empire).cbr | 100.37MiB
 Black Science 005 (2014) (digital) (Son of Ultron-Empire).cbr | 73.98MiB
 Black Science 006 (2014) (digital) (Son of Ultron-Empire).cbr | 73.53MiB
-Black Science 007 (2014) (digital) (Son of Ultron-Empire).cbr | 93.11MiB
+[Black Science 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 93.11MiB
 [Black Science 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 74.59MiB
 [Black Science 009 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-009-2014-digital-Son-of-Ultron-Empire-cbr.md) | 82.98MiB
 [Black Science 010 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Science-010-2014-digital-Son-of-Ultron-Empire-cbr.md) | 70.46MiB

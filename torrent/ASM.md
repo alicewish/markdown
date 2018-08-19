@@ -1855,7 +1855,7 @@ Spider-Woman - Agent of S.W.O.R.D. Episode 3.avi | 124.48MiB
 Spider-Woman - Agent of S.W.O.R.D. Episode 4.avi | 132.41MiB
 Spider-Woman - Agent of S.W.O.R.D. Episode 5.avi | 140.67MiB
 &emsp;【ASM/One-Shots+】 | 
-100th Anniversary Special - Spider-Man 01 (2014) (digital) (Minutemen-InnerDemons).cbr | 27.67MiB
+[100th Anniversary Special - Spider-Man 01 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/100th-Anniversary-Special-Spider-Man-01-2014-digital-Minutemen-InnerDemons-cbr.md) | 27.67MiB
 101 Ways to End the Clone Saga 01 (1997) (Digital) (AnHeroGold-Empire).cbz | 54.50MiB
 &emsp;【ASM/One-Shots+/Amalgam】 | 
 Spider-Boy 01 (1996) (Minutemen-Syl3ntBob).cbz | 27.83MiB
@@ -1986,7 +1986,7 @@ Spider-Man Poster Book (2007) (c2c) (ArtNet-DCP).cbz | 46.92MiB
 Spider-Man Punisher & Sabretooth - Designer Genes (1993) (RedFox-OCD).cbr | 26.38MiB
 Spider-Man Saga (2010) (c2c) (BlackJack & ArtNet-DCP).cbz | 29.58MiB
 Spider-Man Special - Black and Blue and Read All Over 01 (2006) (Team-DCP).cbr | 23.68MiB
-Spider-Man Spectacular 01 (2014) (digital) (Minutemen-InnerDemons).cbr | 130.43MiB
+[Spider-Man Spectacular 01 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Spectacular-01-2014-digital-Minutemen-InnerDemons-cbr.md) | 130.43MiB
 Spider-Man Swing Shift Director's Cut (2008) (TheCaptain-DCP).cbr | 27.10MiB
 Spider-Man Team-Up - X-Men (1995) (Meganubis).cbz | 83.44MiB
 Spider-Man Team-Up Special 01 (2005).cbr | 14.03MiB
@@ -5997,7 +5997,7 @@ Spider-Man Marvel Team-Up By Claremont & Byrne (2011) (Bchry-DCP).cbr | 212.67Mi
 Spider-Man Noir (2009) (Digital-Empire).cbr | 116.05MiB
 Spider-Man Noir - Eyes without a Face (2010) (digital TPB) (Minutemen-Faessla).cbz | 207.58MiB
 Spider-Man Season One (2012) (Digital GN) (Scorpion-Empire).cbr | 154.85MiB
-Spider-Man Spectacular 01 (2014) (digital) (Minutemen-InnerDemons).cbr | 130.43MiB
+[Spider-Man Spectacular 01 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spider-Man-Spectacular-01-2014-digital-Minutemen-InnerDemons-cbr.md) | 130.43MiB
 Spider-Man Vol. 01 - Miles Morales (2016) (digital) (Minutemen-Slayer).cbr | 161.13MiB
 Spider-Man Vol. 01 - Torment (2009) (digital-SD) (Minutemen-Slayer).cbr | 65.26MiB
 Spider-Man Vol. 02 - Masques (2012) (digital-SD) (Minutemen-Slayer).cbr | 72.65MiB

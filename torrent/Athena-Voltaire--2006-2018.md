@@ -17,7 +17,7 @@ Athena Voltaire 02 (of 04) (2018) (digital) (Minutemen-Oracle).cbr | 54.01MiB
 Athena Voltaire 03 (of 04) (2018) (digital) (Minutemen-Oracle).cbr | 53.34MiB
 [Athena Voltaire 04 (of 04) (2018) (digital) (Minutemen-Oracle).cbr](https://github.com/alicewish/markdown/blob/master/comic/Athena-Voltaire-04-of-04-2018-digital-Minutemen-Oracle-cbr.md) | 74.65MiB
 Athena Voltaire - Collected Webcomics (2006) (online version).cbr | 17.28MiB
-Athena Voltaire - Free Preview (2014) (digital) (Son of Ultron-Empire).cbr | 56.04MiB
+[Athena Voltaire - Free Preview (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Athena-Voltaire-Free-Preview-2014-digital-Son-of-Ultron-Empire-cbr.md) | 56.04MiB
 &emsp;【Athena Voltaire (2006-2018)/Athena Voltaire - The Terror in Tibet (001-004)】 | 
 Athena Voltaire - The Terror in Tibet 01.cbr | 1.20MiB
 Athena Voltaire - The Terror in Tibet 02.cbr | 1.38MiB

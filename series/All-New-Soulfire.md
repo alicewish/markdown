@@ -24,6 +24,6 @@ All New Soulfire (2014)(Digital) (Shadowcat-Empire).cbz | 379.48MiB
 All New Soulfire 003 (2014) (Digital) (Shadowcat-Empire).cbz | 47.34MiB
 All New Soulfire 004 (2014) (Digital) (Shadowcat-Empire).cbz | 47.44MiB
 All New Soulfire 005 (2014) (Digital) (Shadowcat-Empire).cbz | 46.43MiB
-All New Soulfire 006 (2014)(Digital)(Thornn-Empire).cbr | [43.84MiB](https://pan.baidu.com/s/1eRQOe7C#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.16%2F%E3%82%AD%E3%82%A8%E3%82%A6%E3%82%B3%E3%82%B7%E3%82%AB%E3%82%BF%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%BD%E3%82%A2%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%A8%E3%82%AA%E3%82%BB%E3%82%B9%E3%82%B1%E3%82%AD%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%BD%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%BD%E3%82%BF%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
+[All New Soulfire 006 (2014)(Digital)(Thornn-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/All-New-Soulfire-006-2014-Digital-Thornn-Empire-cbr.md) | [43.84MiB](https://pan.baidu.com/s/1eRQOe7C#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.16%2F%E3%82%AD%E3%82%A8%E3%82%A6%E3%82%B3%E3%82%B7%E3%82%AB%E3%82%BF%E3%82%AD%E3%82%B7%E3%82%B1%E3%82%BB%E3%82%BD%E3%82%A2%E3%82%B5%E3%82%A8%E3%82%AB%E3%82%A8%E3%82%AA%E3%82%BB%E3%82%B9%E3%82%B1%E3%82%AD%E3%82%A4%E3%82%AA%E3%82%AA%E3%82%BD%E3%82%AD%E3%82%B5%E3%82%A6%E3%82%BD%E3%82%BF%E3%82%B1&parentPath=%2F0-Day%20Week%20of%202014%20Q3)
 All New Soulfire 007 (2014) (Digital) (Shadowcat-Empire).cbz | 49.80MiB
 All New Soulfire 008 (2014) (Digital) (Shadowcat-Empire).cbz | 46.56MiB

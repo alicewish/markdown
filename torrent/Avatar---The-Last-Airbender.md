@@ -18,7 +18,7 @@ Avatar - The Last Airbender - The Promise Part 2 (2012) (digital) (Son of Ultron
 Avatar - The Last Airbender - The Promise Part 3 (2012) (digital) (Son of Ultron-Empire).cbr | 74.56MiB
 &emsp;【Avatar - The Last Airbender/Avatar - The Last Airbender - The Rift (01 - 03) (2014) (digital) (Son of Ultron-Empire)】 | 
 Avatar - The Last Airbender - The Rift Part 1 (2014) (digital) (Son of Ultron-Empire).cbr | 73.26MiB
-Avatar - The Last Airbender - The Rift Part 2 (2014) (digital) (Son of Ultron-Empire).cbr | 72.24MiB
+[Avatar - The Last Airbender - The Rift Part 2 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avatar-Last-Airbender-Rift-Part-2-2014-digital-Son-of-Ultron-Empire-cbr.md) | 72.24MiB
 [Avatar - The Last Airbender - The Rift Part 3 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avatar-Last-Airbender-Rift-Part-3-2014-digital-Son-of-Ultron-Empire-cbr.md) | 72.56MiB
 &emsp;【Avatar - The Last Airbender/Avatar - The Last Airbender - The Search (01 - 03) (2013) (digital) (Son of Ultron-Empire)】 | 
 Avatar - The Last Airbender - The Search Part 1 (2013) (digital) (Son of Ultron-Empire).cbr | 69.15MiB

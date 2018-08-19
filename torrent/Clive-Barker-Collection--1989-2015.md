@@ -149,7 +149,7 @@ Clive Barker's Next Testament 07 (of 12) (2014) (Digital) (Fawkes-Empire).cbr | 
 Clive Barker's Next Testament 08 (of 12) (2014) (Digital) (Fawkes-Empire).cbr | 30.76MiB
 Clive Barker's Next Testament 09 (of 12) (2014) (Digital) (Fawkes-Empire).cbr | 29.11MiB
 Clive Barker's Next Testament 10 (of 12) (2014) (Digital) (Fawkes-Empire).cbr | 34.00MiB
-Clive Barker's Next Testament 11 (of 12) (2014) (Digital-Empire).cbr | 31.46MiB
+[Clive Barker's Next Testament 11 (of 12) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Next-Testament-11-of-12-2014-Digital-Empire-cbr.md) | 31.46MiB
 [Clive Barker's Next Testament 12 (of 12) (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clive-Barkers-Next-Testament-12-of-12-2014-Digital-Empire-cbr.md) | 46.33MiB
 Clive Barker's Next Testament v01 (2014) (Digital) (DR & Quinch-Empire).cbr | 169.25MiB
 Clive Barker's Next Testament v02 (2015) (Digital) (DR & Quinch-Empire).cbr | 144.86MiB

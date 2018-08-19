@@ -40,7 +40,7 @@ Aphrodite IX v2 009 (2014) (Digital) (Darkness-Empire).cbr | 55.45MiB
 Aphrodite IX v2 010 (2014) (Digital) (Darkness-Empire).cbr | 52.94MiB
 Aphrodite IX v2 011 (2014) (Digital) (Darkness-Empire).cbr | 42.88MiB
 Aphrodite IX v2 001 (FCBD 2013) (digital-Minutemen).cbz | 46.98MiB
-Aphrodite IX-Cyber Force 001 (2014) (Digital) (Darkness-Empire).cbr | 66.87MiB
+[Aphrodite IX-Cyber Force 001 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aphrodite-IX-Cyber-Force-001-2014-Digital-Darkness-Empire-cbr.md) | 66.87MiB
 &emsp;【Aphrodite IX (v1-v2+)(2000-2015)/Extras】 | 
 [Apollo IX OS (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Apollo-IX-OS-2015-Digital-DR-Quinch-Empire-cbr.md) | 138.55MiB
 [Artemis IX OS (2015) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artemis-IX-OS-2015-Digital-DR-Quinch-Empire-cbr.md) | 137.96MiB

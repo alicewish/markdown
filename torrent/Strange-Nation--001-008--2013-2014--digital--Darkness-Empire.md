@@ -15,6 +15,6 @@ Strange Nation 002 (2013) (Digital) (Darkness-Empire).cbr | 23.53MiB
 Strange Nation 003 (2013) (Digital) (Darkness-Empire).cbr | 22.82MiB
 Strange Nation 004 (2014) (Digital) (Darkness-Empire).cbr | 30.58MiB
 Strange Nation 005 (2014) (Digital) (Darkness-Empire).cbr | 22.47MiB
-Strange Nation 006 (2014) (Digital) (Darkness-Empire).cbr | 22.54MiB
+[Strange Nation 006 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strange-Nation-006-2014-Digital-Darkness-Empire-cbr.md) | 22.54MiB
 [Strange Nation 007 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strange-Nation-007-2014-Digital-Darkness-Empire-cbr.md) | 24.80MiB
 [Strange Nation 008 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Strange-Nation-008-2014-Digital-Darkness-Empire-cbr.md) | 26.01MiB

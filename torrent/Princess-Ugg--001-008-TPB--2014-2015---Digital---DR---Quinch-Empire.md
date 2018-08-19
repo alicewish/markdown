@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Princess Ugg 001 (2014) (Digital) (K6-Empire).cbr | 59.48MiB
-Princess Ugg 002 (2014) (Digital) (K6-Empire).cbr | 45.55MiB
+[Princess Ugg 002 (2014) (Digital) (K6-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-002-2014-Digital-K6-Empire-cbr.md) | 45.55MiB
 Princess Ugg 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 46.04MiB
 [Princess Ugg 004 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-004-2014-Digital-DR-Quinch-Empire-cbr.md) | 46.25MiB
 [Princess Ugg 005 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Princess-Ugg-005-2014-Digital-DR-Quinch-Empire-cbr.md) | 44.23MiB

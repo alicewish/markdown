@@ -10,6 +10,6 @@
 
 Online | Download
 --- | ---
-Armor Hunters - Bloodshot 001 (2014) (digital) (Son of Ultron-Empire).cbr | 80.14MiB
+[Armor Hunters - Bloodshot 001 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Bloodshot-001-2014-digital-Son-of-Ultron-Empire-cbr.md) | 80.14MiB
 [Armor Hunters - Bloodshot 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Bloodshot-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 71.56MiB
 [Armor Hunters - Bloodshot 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Armor-Hunters-Bloodshot-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 66.11MiB

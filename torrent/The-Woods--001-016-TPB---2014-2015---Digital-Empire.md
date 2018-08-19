@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 The Woods 001 (2014) (Digital-Empire).cbr | 38.42MiB
 The Woods 002 (2014) (Digital-Empire).cbr | 38.08MiB
-The Woods 003 (2014) (Digital-Empire).cbr | 39.88MiB
+[The Woods 003 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-003-2014-Digital-Empire-cbr.md) | 39.88MiB
 [The Woods 004  (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-004-2014-Digital-Empire-cbr.md) | 37.89MiB
 [The Woods 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-005-2014-Digital-Empire-cbr.md) | 48.51MiB
 [The Woods 006 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Woods-006-2014-Digital-Empire-cbr.md) | 44.63MiB

@@ -14,4 +14,4 @@ The Auteur 001 (2014) (Digital) (phillywilly-Empire).cbr | 44.77MiB
 The Auteur 002 (2014) (Digital) (phillywilly-Empire).cbr | 36.60MiB
 The Auteur 003 (2014) (Digital) (phillywilly-Empire).cbr | 30.42MiB
 The Auteur 004 (2014) (Digital) (phillywilly-Empire).cbr | 37.60MiB
-The Auteur 005 (2014) (Digital) (phillywilly-Empire).cbr | 42.23MiB
+[The Auteur 005 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Auteur-005-2014-Digital-phillywilly-Empire-cbr.md) | 42.23MiB

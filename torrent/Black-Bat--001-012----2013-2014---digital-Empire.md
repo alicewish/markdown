@@ -21,5 +21,5 @@ Black Bat 008 (2014) (Digital) (JK-Empire).cbr | 31.28MiB
 Black Bat 009 (2014) (Digital) (JK-Empire).cbr | 32.95MiB
 Black Bat 010 (2014) (Digital-Empire).cbr | 32.91MiB
 Black Bat 011 (2014) (Digital-Empire).cbr | 31.76MiB
-Black Bat 012 (2014) (Digital-Empire).cbr | 31.34MiB
+[Black Bat 012 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Bat-012-2014-Digital-Empire-cbr.md) | 31.34MiB
 The Black Bat Omnibus v01 - Redemption (2014) (Digital) (DR & Quinch-Empire).cbr | 615.40MiB

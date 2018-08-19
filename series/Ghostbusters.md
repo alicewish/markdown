@@ -28,6 +28,8 @@ The Ghostbusters are gone, spirited away by some dastardly demons from another d
 
 [Ghostbusters (001-020) (2013-2014) (digital) (Minutemen-Slayer)](https://github.com/alicewish/markdown/blob/master/torrent/Ghostbusters--001-020---2013-2014---digital---Minutemen-Slayer.md)
 
+[Ghostbusters v2 (001 - 018) (2013 - Ongoing) (Digital) (Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Ghostbusters-v2--001---018---2013---Ongoing---Digital---Empire.md)
+
 [Ghostbusters v2 (001-020) (2013-2014) (digital) (Asgard-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Ghostbusters-v2--001-020---2013-2014---digital---Asgard-Empire.md)
 
 Online | Download

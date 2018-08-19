@@ -35,7 +35,7 @@ Cable and X-Force 017 (2014) (digital) (Minutemen-PhD).cbr | 37.39MiB
 [Cable and X-Force 018 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cable-X-Force-018-2014-digital-Minutemen-PhD-cbr.md) | 34.40MiB
 [Cable and X-Force 019 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cable-X-Force-019-2014-digital-Minutemen-PhD-cbr.md) | 34.80MiB
 &emsp;【X-Force (v1-v4+Extras)(1991-2015)(scans+digital)/Extras/Deadpool vs X-Force (001-004)(2014)(digital)(Minutemen-InnerDemons)】 | 
-Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 49.41MiB
+[Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-01-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 49.41MiB
 [Deadpool vs. X-Force 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-02-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 47.23MiB
 [Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-03-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 [Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB

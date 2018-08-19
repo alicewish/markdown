@@ -65,7 +65,7 @@ Stray Bullets - Killers 001 (2014) (digital) (Son of Ultron-Empire).cbr | 42.49M
 Stray Bullets - Killers 002 (2014) (digital) (Son of Ultron-Empire).cbr | 38.10MiB
 Stray Bullets - Killers 003 (2014) (digital) (Son of Ultron-Empire).cbr | 38.86MiB
 Stray Bullets - Killers 004 (2014) (digital) (Son of Ultron-Empire).cbr | 40.61MiB
-Stray Bullets - Killers 005 (2014) (digital) (Son of Ultron-Empire).cbr | 43.98MiB
+[Stray Bullets - Killers 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Killers-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 43.98MiB
 [Stray Bullets - Killers 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Killers-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.28MiB
 [Stray Bullets - Killers 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Killers-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 41.19MiB
 [Stray Bullets - Killers 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Stray-Bullets-Killers-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 48.16MiB

@@ -75,7 +75,7 @@ Doctor Who The Ninth Doctor 003(2015)(Digital)(TLK-EMPIRE-HD).cbr | 39.06MiB
 [Doctor Who The Ninth Doctor 004(2015)(2 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Ninth-Doctor-004-2015-2-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 46.83MiB
 [Doctor Who The Ninth Doctor 005(2015)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Ninth-Doctor-005-2015-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 45.77MiB
 &emsp;【Doctor Who/Doctor Who The Tenth Doctor (001-015) (2014-2015)(Digital)(TLK-EMPIRE-HD)】 | 
-Doctor Who The Tenth Doctor 001(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr | 26.56MiB
+[Doctor Who The Tenth Doctor 001(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-001-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 26.56MiB
 [Doctor Who The Tenth Doctor 002(2014)(5 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-002-2014-5-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 52.43MiB
 [Doctor Who The Tenth Doctor 003(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-003-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 52.97MiB
 [Doctor Who The Tenth Doctor 004(2014)(3 covers)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Who-Tenth-Doctor-004-2014-3-covers-Digital-TLK-EMPIRE-HD-cbr.md) | 41.31MiB

@@ -21,7 +21,7 @@ Artful Daggers 008 (2013) (Digital) (Fawkes-Empire).cbr | 22.07MiB
 Artful Daggers 009 (2013) (Digital) (Fawkes-Empire).cbr | 21.75MiB
 Artful Daggers 010 (2014) (Digital) (Fawkes-Empire).cbr | 24.87MiB
 Artful Daggers 011 (2014) (Digital) (Fawkes-Empire).cbr | 19.41MiB
-Artful Daggers 012 (2014) (Digital-Empire).cbr | 20.06MiB
+[Artful Daggers 012 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artful-Daggers-012-2014-Digital-Empire-cbr.md) | 20.06MiB
 [Artful Daggers 013 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artful-Daggers-013-2014-Digital-Empire-cbr.md) | 21.52MiB
 [Artful Daggers 014 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artful-Daggers-014-2014-Digital-Empire-cbr.md) | 21.45MiB
 [Artful Daggers 015 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Artful-Daggers-015-2014-Digital-Empire-cbr.md) | 21.16MiB

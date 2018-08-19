@@ -19,4 +19,4 @@ Wolverine v6 006 (2014) (Digital) (Nahga-Empire).cbr | 34.49MiB
 Wolverine v6 007 (2014) (Digital) (Nahga-Empire).cbr | 36.39MiB
 Wolverine v6 008 (2014) (Digital) (Nahga-Empire).cbr | 28.09MiB
 Wolverine v6 009 (2014) (Digital) (Nahga-Empire).cbr | 27.03MiB
-Wolverine v6 010 (2014) (Digital) (Nahga-Empire).cbr | 35.69MiB
+[Wolverine v6 010 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wolverine-v6-010-2014-Digital-Nahga-Empire-cbr.md) | 35.69MiB

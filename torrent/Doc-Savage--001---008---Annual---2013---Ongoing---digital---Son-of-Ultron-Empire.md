@@ -16,6 +16,6 @@ Doc Savage 003 (2014) (digital) (Son of Ultron-Empire).cbr | 50.31MiB
 Doc Savage 004 (2014) (digital) (Son of Ultron-Empire).cbr | 47.57MiB
 Doc Savage 005 (2014) (digital) (Son of Ultron-Empire).cbr | 47.79MiB
 Doc Savage 006 (2014) (digital) (Son of Ultron-Empire).cbr | 49.73MiB
-Doc Savage 007 (2014) (digital) (Son of Ultron-Empire).cbr | 46.72MiB
+[Doc Savage 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doc-Savage-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 46.72MiB
 [Doc Savage 008 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doc-Savage-008-2014-digital-Son-of-Ultron-Empire-cbr.md) | 47.77MiB
 Doc Savage Annual 2014 (digital) (Son of Ultron-Empire).cbr | 79.15MiB

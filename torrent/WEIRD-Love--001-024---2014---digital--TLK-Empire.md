@@ -19,7 +19,7 @@ WEIRD Love v04 - Jailbird Romance (2016) (Digital) (Bean-Empire).cbz | 611.44MiB
 WEIRD Love v05 - Unlucky in Love (2017) (Digital) (Bean-Empire).cbz | 422.16MiB
 WEIRD Love v06 - So This Is Love (2018) (Digital) (Bean-Empire).cbz | 503.55MiB
 WEIRD Love 001 (2014) (digital) (Minutemen-InnerDemons).cbr | 151.11MiB
-WEIRD Love 002 (2014) (Digital) (phillywilly-Empire).cbr | 147.40MiB
+[WEIRD Love 002 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-002-2014-Digital-phillywilly-Empire-cbr.md) | 147.40MiB
 [WEIRD Love 003 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-003-2014-Digital-phillywilly-Empire-cbr.md) | 141.58MiB
 [WEIRD Love 004 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-004-2014-Digital-phillywilly-Empire-cbr.md) | 149.43MiB
 [WEIRD Love 005 (2015) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/WEIRD-Love-005-2015-Digital-phillywilly-Empire-cbr.md) | 132.24MiB

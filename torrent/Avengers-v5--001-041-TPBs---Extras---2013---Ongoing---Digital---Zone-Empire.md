@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 &emsp;【Avengers v5 (001-041+TPBs & Extras) (2013 - Ongoing) (Digital) (Zone-Empire)】 | 
-100th Anniversary Special - Avengers 01 (2014) (digital) (Minutemen-Faessla).cbz | 67.05MiB
+[100th Anniversary Special - Avengers 01 (2014) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/100th-Anniversary-Special-Avengers-01-2014-digital-Minutemen-Faessla-cbz.md) | 67.05MiB
 [Avengers - No More Bullying 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-No-More-Bullying-001-2015-Digital-Zone-Empire-cbr.md) | 58.56MiB
 Avengers 001 (2013) (Digital) (Zone-Empire).cbr | 30.40MiB
 [Avengers 002 (2013) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-002-2013-Digital-Zone-Empire-cbr.md) | 30.99MiB

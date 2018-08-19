@@ -22,4 +22,4 @@ East of West 009 (2014) (Digital) (Archangel+Zone-Empire).cbr | 30.72MiB
 East of West 010 (2014) (Digital) (Archangel+Zone-Empire).cbr | 35.79MiB
 East of West 011 (2014) (Digital) (Archangel+Zone-Empire).cbr | 23.03MiB
 East of West 012 (2014) (Digital) (Zone-Empire).cbr | 33.32MiB
-East of West 013 (2014) (Digital) (Archangel+Zone-Empire).cbr | 38.43MiB
+[East of West 013 (2014) (Digital) (Archangel+Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/East-of-West-013-2014-Digital-Archangel-Zone-Empire-cbr.md) | 38.43MiB

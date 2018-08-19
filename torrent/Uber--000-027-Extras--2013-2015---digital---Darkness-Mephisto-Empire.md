@@ -27,7 +27,7 @@ Uber 011 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 42.40MiB
 Uber 012 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 41.53MiB
 Uber 013 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 49.49MiB
 Uber 014 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 45.65MiB
-Uber 015 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 37.05MiB
+[Uber 015 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-015-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 37.05MiB
 [Uber 016 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-016-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 42.10MiB
 [Uber 017 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-017-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 41.50MiB
 [Uber 018 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Uber-018-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 38.70MiB

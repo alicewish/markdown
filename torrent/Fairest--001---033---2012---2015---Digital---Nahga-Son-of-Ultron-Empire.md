@@ -38,7 +38,7 @@ Fairest 023 (2014) (digital) (Son of Ultron-Empire).cbr | 48.28MiB
 Fairest 024 (2014) (digital) (Son of Ultron-Empire).cbr | 45.00MiB
 Fairest 025 (2014) (digital) (Son of Ultron-Empire).cbr | 45.43MiB
 Fairest 026 (2014) (digital) (Son of Ultron-Empire).cbr | 47.17MiB
-Fairest 027 (2014) (digital) (Son of Ultron-Empire).cbr | 51.50MiB
+[Fairest 027 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fairest-027-2014-digital-Son-of-Ultron-Empire-cbr.md) | 51.50MiB
 [Fairest 028 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fairest-028-2014-digital-Son-of-Ultron-Empire-cbr.md) | 53.63MiB
 [Fairest 029 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fairest-029-2014-digital-Son-of-Ultron-Empire-cbr.md) | 50.85MiB
 [Fairest 030 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fairest-030-2014-digital-Son-of-Ultron-Empire-cbr.md) | 53.43MiB

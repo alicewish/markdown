@@ -13,7 +13,7 @@ Online | Download
 [Miles Morales - Ultimate Spider-Man 012 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miles-Morales-Ultimate-Spider-Man-012-2015-Digital-Zone-Empire-cbr.md) | 30.05MiB
 Miles Morales Ultimate Spider-Man 001 (2014) (Digital) (Zone-Empire).cbr | 34.64MiB
 Miles Morales Ultimate Spider-Man 002 (2014) (Digital) (Zone-Empire).cbr | 31.86MiB
-Miles Morales Ultimate Spider-Man 003 (2014) (Digital) (Zone-Empire).cbr | 33.83MiB
+[Miles Morales Ultimate Spider-Man 003 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miles-Morales-Ultimate-Spider-Man-003-2014-Digital-Zone-Empire-cbr.md) | 33.83MiB
 [Miles Morales Ultimate Spider-Man 004 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miles-Morales-Ultimate-Spider-Man-004-2014-Digital-Zone-Empire-cbr.md) | 40.07MiB
 [Miles Morales Ultimate Spider-Man 005 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miles-Morales-Ultimate-Spider-Man-005-2014-Digital-Zone-Empire-cbr.md) | 30.10MiB
 [Miles Morales Ultimate Spider-Man 006 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miles-Morales-Ultimate-Spider-Man-006-2014-Digital-Zone-Empire-cbr.md) | 36.24MiB

@@ -267,7 +267,7 @@ The Transformers vs. G.I. Joe Vol. 02 (2015) (digital) (Minutemen-Slayer).cbr | 
 Transformers vs. G.I. Joe 008 (2015) (Sub Variant Only) \[extracted\] (Empire-Adventurers).cbr | 4.18MiB
 Transformers vs. G.I. Joe 009 (2015) (Sub Variant Only) \[extracted\] (Empire-Adventurers).cbr | 3.58MiB
 Transformers vs. G.I. Joe 000 (FCBD 2014) (digital) (Minutemen-Phantasm).cbz | 63.22MiB
-Transformers vs. G.I. Joe 001 (2014) (digital) (Minutemen-Midas).cbr | 63.11MiB
+[Transformers vs. G.I. Joe 001 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-001-2014-digital-Minutemen-Midas-cbr.md) | 63.11MiB
 [Transformers vs. G.I. Joe 002 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-002-2014-digital-Minutemen-Midas-cbr.md) | 52.75MiB
 Transformers vs. G.I. Joe 003 (2014) (digital) (F) (Minutemen-Midas).cbr | 57.21MiB
 [Transformers vs. G.I. Joe 004 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Transformers-vs-G-I-Joe-004-2014-digital-Minutemen-Midas-cbr.md) | 55.06MiB
@@ -612,7 +612,7 @@ G.I. Joe - A Real American Hero 200 (2014) (digital) (Zinc-Empire).cbr | 58.94Mi
 G.I. Joe - A Real American Hero 201 (2014) (digital) (Zinc-Empire).cbr | 26.94MiB
 G.I. Joe - A Real American Hero 202 (2014) (digital) (Zinc-Empire).cbr | 37.48MiB
 G.I. Joe - A Real American Hero 203 (2014) (digital) (Zinc-Empire).cbr | 34.10MiB
-G.I. Joe - A Real American Hero 204 (2014) (digital) (Minutemen-BigLob).cbr | 33.30MiB
+[G.I. Joe - A Real American Hero 204 (2014) (digital) (Minutemen-BigLob).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-204-2014-digital-Minutemen-BigLob-cbr.md) | 33.30MiB
 [G.I. Joe - A Real American Hero 205 (2014) (digital) (Minutemen-BigLob).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-205-2014-digital-Minutemen-BigLob-cbr.md) | 36.32MiB
 [G.I. Joe - A Real American Hero 206 (2014) (digital) (Minutemen-BigLob).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-206-2014-digital-Minutemen-BigLob-cbr.md) | 39.91MiB
 [G.I. Joe - A Real American Hero 207 (2014) (digital) (Minutemen-BigLob).cbr](https://github.com/alicewish/markdown/blob/master/comic/G-I-Joe-A-Real-American-Hero-207-2014-digital-Minutemen-BigLob-cbr.md) | 35.37MiB

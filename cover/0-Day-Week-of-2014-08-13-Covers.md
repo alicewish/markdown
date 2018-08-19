@@ -132,6 +132,7 @@
 ![The Remaining (2014) (Digital) (TheDemiurge-Empire) 001.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuccl11r4tj21iw2cwqv5.jpg)
 ![The Sakai Project - Artists Celebrate Thirty Years of Usagi Yojimbo-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fucckx2w90j21671kwx2z.jpg)
 ![Transformers - Primacy 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuc3abqm2uj21j82cwnpd.jpg)
+![The United States of Murder Inc. 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuefg77sr5j21j82cwtni.jpg)
 ![The United States of Murder Inc. 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuc3djagntj21j82cwe6s.jpg)
 ![The Vampire Diaries 038-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuby9fbeiqj21j816gttr.jpg)
 ![The Walking Dead 130-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuc9gsl0dxj21j82cwx6p.jpg)
@@ -408,6 +409,8 @@
 ![The Sakai Project - Artists Celebrate Thirty Years of Usagi Yojimbo-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fucckx2w90j21671kwx2z.jpg)
 
 ![Transformers - Primacy 001-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuc3abqm2uj21j82cwnpd.jpg)
+
+![The United States of Murder Inc. 003-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuefg77sr5j21j82cwtni.jpg)
 
 ![The United States of Murder Inc. 004-000.jpg](https://wx1.sinaimg.cn/large/6a9fdecaly1fuc3djagntj21j82cwe6s.jpg)
 

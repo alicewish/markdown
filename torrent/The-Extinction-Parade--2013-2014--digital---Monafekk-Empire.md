@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-The Extinction Parade - War 001 (2014) (Digital) (6 Covers) (Monafekk-Empire).cbz | 92.69MiB
+[The Extinction Parade - War 001 (2014) (Digital) (6 Covers) (Monafekk-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Extinction-Parade-War-001-2014-Digital-6-Covers-Monafekk-Empire-cbz.md) | 92.69MiB
 [The Extinction Parade - War 002 (2014) (Digital) (6 Covers) (Monafekk-Empire).cbz](https://github.com/alicewish/markdown/blob/master/comic/Extinction-Parade-War-002-2014-Digital-6-Covers-Monafekk-Empire-cbz.md) | 68.87MiB
 [The Extinction Parade - War 003 (2014) (Digital) (7 Covers) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Extinction-Parade-War-003-2014-Digital-7-Covers-Monafekk-Empire-cbr.md) | 68.31MiB
 [The Extinction Parade - War 004 (2014) (Digital) (6 covers) (Monafekk-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Extinction-Parade-War-004-2014-Digital-6-covers-Monafekk-Empire-cbr.md) | 65.32MiB

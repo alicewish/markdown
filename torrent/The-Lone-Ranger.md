@@ -374,7 +374,7 @@ The Lone Ranger v2 021 (2014) (c2c) (GreenManGroup-DCP).cbr | 33.99MiB
 The Lone Ranger v2 022 (2014) (c2c) (GreenManGroup-DCP).cbr | 35.52MiB
 The Lone Ranger v2 023 (2014) (c2c) (GreenManGroup-DCP).cbr | 35.85MiB
 The Lone Ranger v2 024 (2014) (c2c) (GreenManGroup-DCP).cbr | 33.19MiB
-The Lone Ranger v2 025 (2014) (c2c) (GreenManGroup-DCP).cbr | 35.62MiB
+[The Lone Ranger v2 025 (2014) (c2c) (GreenManGroup-DCP).cbr](https://github.com/alicewish/markdown/blob/master/comic/Lone-Ranger-v2-025-2014-c2c-GreenManGroup-DCP-cbr.md) | 35.62MiB
 &emsp;【The Lone Ranger/The Lone Ranger (Gold Key-Whitman)】 | 
 The Lone Ranger 002 (1965) (Gold Key) (c2c).cbr | 24.82MiB
 The Lone Ranger 004 (1966) (Gold Key) (c2c).cbr | 28.04MiB

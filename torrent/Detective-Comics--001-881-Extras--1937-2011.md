@@ -180,7 +180,7 @@ Detective Comics 218-Batman only (R)(04-1955).cbr | 2.75MiB
 Detective Comics 228-Batman only (R)(02-1956).cbr | 4.02MiB
 Detective Comics 245-Batman only (R)(NC)(07-1957).cbr | 5.29MiB
 Detective Comics (1937) Re-Released (2011) 027 (Digital) (Zinc-Empire).cbr | 4.41MiB
-Detective Comics (1937-2011) - Special Edition (Batman 75 Day Comic) 027 (2014) (digital-Empire).cbr | 63.44MiB
+[Detective Comics (1937-2011) - Special Edition (Batman 75 Day Comic) 027 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Detective-Comics-1937-2011-Special-Edition-Batman-75-Day-Comic-027-2014-digital-Empire-cbr.md) | 63.44MiB
 Detective Comics 001 (1937) (Millennium Edition Reprint 2001) (GCPD-OCD).cbr | 17.88MiB
 Detective Comics 001 68p ctc (fiche(03-1937).cbr | 45.08MiB
 Detective Comics 001 Millennium Edition 057 70p (01-2001).cbr | 20.56MiB

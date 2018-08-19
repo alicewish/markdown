@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Pathfinder - City of Secrets 001 (2014) (Digital) (K6-Empire).cbr | 70.66MiB
 Pathfinder - City of Secrets 002 (2014) (Digital) (K6-Empire).cbr | 66.56MiB
-Pathfinder - City of Secrets 003 (2014) (2 covers) (Digital) (Not worth 4.99-Empire).cbr | 62.42MiB
+[Pathfinder - City of Secrets 003 (2014) (2 covers) (Digital) (Not worth 4.99-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-City-of-Secrets-003-2014-2-covers-Digital-Not-worth-4-99-Empire-cbr.md) | 62.42MiB
 [Pathfinder - City of Secrets 004 (2014) (2 covers) (Digital) (Not worth 4.99-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-City-of-Secrets-004-2014-2-covers-Digital-Not-worth-4-99-Empire-cbr.md) | 71.83MiB
 [Pathfinder - City of Secrets 005 (2014) (2 covers) (Digital) (Not worth 4.99-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-City-of-Secrets-005-2014-2-covers-Digital-Not-worth-4-99-Empire-cbr.md) | 78.49MiB
 [Pathfinder - City of Secrets 006 (2014) (2 covers) (Digital) (Not worth 4.99-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Pathfinder-City-of-Secrets-006-2014-2-covers-Digital-Not-worth-4-99-Empire-cbr.md) | 67.79MiB

@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 Chaos 001 (2014) (3 Covers) (digital) (DR & Quinch-Empire).cbr | 74.71MiB
 Chaos 002 (2014) (3 Covers) (digital) (DR & Quinch-Empire).cbr | 71.91MiB
-Chaos 003 (2014) (3 covers) (digital) (DR & Quinch-Empire).cbr | 68.39MiB
+[Chaos 003 (2014) (3 covers) (digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chaos-003-2014-3-covers-digital-DR-Quinch-Empire-cbr.md) | 68.39MiB
 Chaos 004 (2014) (3 Covers) (digital) (DR & Quinch-Empire).cbr | 74.84MiB
 [Chaos 005 (2014) (3 covers) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Chaos-005-2014-3-covers-Digital-DR-Quinch-Empire-cbr.md) | 74.46MiB
 Chaos 006 (2014) (3 covers) (Digital) (DR & Quinch-Empire).cbr | 68.08MiB

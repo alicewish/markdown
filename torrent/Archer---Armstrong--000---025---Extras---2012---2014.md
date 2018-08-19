@@ -33,7 +33,7 @@ Archer and Armstrong 018 (2014) (digital) (Son of Ultron-Empire).cbr | 63.69MiB
 Archer and Armstrong 019 (2014) (digital) (Son of Ultron-Empire).cbr | 45.60MiB
 Archer and Armstrong 020 (2014) (digital) (Son of Ultron-Empire).cbr | 45.59MiB
 Archer and Armstrong 021 (2014) (digital) (Son of Ultron-Empire).cbr | 48.57MiB
-Archer and Armstrong 022 (2014) (digital) (Son of Ultron-Empire).cbr | 71.83MiB
+[Archer and Armstrong 022 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archer-Armstrong-022-2014-digital-Son-of-Ultron-Empire-cbr.md) | 71.83MiB
 [Archer and Armstrong 023 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archer-Armstrong-023-2014-digital-Son-of-Ultron-Empire-cbr.md) | 67.59MiB
 [Archer and Armstrong 024 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archer-Armstrong-024-2014-digital-Son-of-Ultron-Empire-cbr.md) | 59.30MiB
 [Archer and Armstrong 025 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Archer-Armstrong-025-2014-digital-Son-of-Ultron-Empire-cbr.md) | 104.48MiB

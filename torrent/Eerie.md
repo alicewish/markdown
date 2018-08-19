@@ -16,7 +16,7 @@ Eerie 001 (2012) (Digital) (Nahga-Empire).cbr | 26.83MiB
 Eerie 002 (2013) (Digital) (Nahga-Empire).cbr | 18.93MiB
 Eerie 003 (2013) (Digital) (Nahga-Empire).cbr | 36.10MiB
 Eerie 004 (2013) (digital) (Son of Ultron-Empire).cbr | 54.86MiB
-Eerie 005 (2014) (digital) (Son of Ultron-Empire).cbr | 59.19MiB
+[Eerie 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eerie-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 59.19MiB
 [Eerie 006 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eerie-006-2014-digital-Son-of-Ultron-Empire-cbr.md) | 54.27MiB
 [Eerie 007 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eerie-007-2014-digital-Son-of-Ultron-Empire-cbr.md) | 51.34MiB
 [Eerie 008 (2015) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Eerie-008-2015-digital-Son-of-Ultron-Empire-cbr.md) | 60.43MiB

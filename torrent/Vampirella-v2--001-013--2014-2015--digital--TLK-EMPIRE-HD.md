@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Vampirella V2 001(2014)(5 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 30.04MiB
-Vampirella V2 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 21.42MiB
+[Vampirella V2 002(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampirella-V2-002-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 21.42MiB
 [Vampirella V2 003(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampirella-V2-003-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 28.47MiB
 [Vampirella V2 004(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampirella-V2-004-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 51.41MiB
 [Vampirella V2 005(2014)(2 covers)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Vampirella-V2-005-2014-2-covers-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 52.27MiB

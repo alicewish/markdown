@@ -37,8 +37,8 @@ Batman Beyond 2.0 020 (2014) (digital) (Son of Ultron-Empire).cbr | 22.66MiB
 Batman Beyond 2.0 021 (2014) (digital) (Son of Ultron-Empire).cbr | 25.17MiB
 Batman Beyond 2.0 022 (2014) (digital) (Son of Ultron-Empire).cbr | 23.37MiB
 Batman Beyond 2.0 023 (2014) (digital) (Son of Ultron-Empire).cbr | 24.21MiB
-Batman Beyond 2.0 024 (2014) (digital) (Son of Ultron-Empire).cbr | 24.81MiB
-Batman Beyond 2.0 025 (2014) (digital) (Son of Ultron-Empire).cbr | 19.97MiB
+[Batman Beyond 2.0 024 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-024-2014-digital-Son-of-Ultron-Empire-cbr.md) | 24.81MiB
+[Batman Beyond 2.0 025 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-025-2014-digital-Son-of-Ultron-Empire-cbr.md) | 19.97MiB
 [Batman Beyond 2.0 026 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-026-2014-digital-Son-of-Ultron-Empire-cbr.md) | 19.58MiB
 [Batman Beyond 2.0 027 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-027-2014-digital-Son-of-Ultron-Empire-cbr.md) | 18.98MiB
 [Batman Beyond 2.0 028 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Batman-Beyond-2-0-028-2014-digital-Son-of-Ultron-Empire-cbr.md) | 16.68MiB

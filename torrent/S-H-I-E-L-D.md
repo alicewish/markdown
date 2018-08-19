@@ -59,7 +59,7 @@ Nick Fury, Agent of S.H.I.E.L.D. 008 (1990) (Digital) (Zone-Empire).cbr | 53.96M
 Nick Fury, Agent of S.H.I.E.L.D. 009 (1990) (Digital) (Zone-Empire).cbr | 48.75MiB
 Nick Fury, Agent of S.H.I.E.L.D. 010 (1990) (Digital) (Zone-Empire).cbr | 50.03MiB
 What If V2 007 - Wolverine Was An Agent Of S.H.I.E.L.D.cbz | 9.18MiB
-Marvel's Agents of S.H.I.E.L.D. - The Chase (2014) (digital) (Son of Ultron-Empire).cbr | 50.60MiB
+[Marvel's Agents of S.H.I.E.L.D. - The Chase (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Marvels-Agents-of-S-H-I-E-L-D-Chase-2014-digital-Son-of-Ultron-Empire-cbr.md) | 50.60MiB
 S.H.I.E.L.D. by Steranko - The Complete Collection (2013) (digital) (Minutemen-InnerDemons).cbr | 952.53MiB
 &emsp;【S.H.I.E.L.D/S.H.I.E.L.D. v1 (001-006+Extras)(2010-2011)(scans+digital)(Minutemen-DTs+InnerDemons)】 | 
 S.H.I.E.L.D. 001 (2010) (digital) (Minutemen-InnerDemons).cbr | 48.20MiB

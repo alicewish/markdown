@@ -151,7 +151,7 @@ Fables 138 (2014) (Digital) (Nahga-Empire).cbr | 35.45MiB
 Fables 139 (2014) (Digital) (Nahga-Empire).cbr | 35.84MiB
 Fables 140 (2014) (Digital) (Nahga-Empire).cbr | 32.05MiB
 Fables 141 (2014) (Digital) (Nahga-Empire).cbr | 40.43MiB
-Fables 142 (2014) (Digital) (Nahga-Empire).cbr | 39.64MiB
+[Fables 142 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-142-2014-Digital-Nahga-Empire-cbr.md) | 39.64MiB
 [Fables 143 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-143-2014-Digital-phillywilly-Empire-cbr.md) | 36.16MiB
 [Fables 144 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-144-2014-Digital-phillywilly-Empire-cbr.md) | 34.91MiB
 [Fables 145 (2014) (Digital) (phillywilly-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Fables-145-2014-Digital-phillywilly-Empire-cbr.md) | 35.97MiB

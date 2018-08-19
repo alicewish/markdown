@@ -57,7 +57,7 @@ Rai and the Future Force 023 (1994) (digital) (Minutemen-Slayer).cbr | 38.78MiB
 Rai 001 (2014) (Clayton Crain 'Plus Edition' Variant Cover) (RedResin-Minutemen-Novus-HD).cbr | 1.57MiB
 Rai 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.72MiB
 Rai 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 41.27MiB
-Rai 003 (2014) (digital) (Minutemen-Spaztastic).cbr | 40.77MiB
+[Rai 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 40.77MiB
 [Rai 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 37.70MiB
 [Rai 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 42.32MiB
 [Rai 006 (2015) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Rai-006-2015-digital-Minutemen-Spaztastic-cbr.md) | 42.66MiB

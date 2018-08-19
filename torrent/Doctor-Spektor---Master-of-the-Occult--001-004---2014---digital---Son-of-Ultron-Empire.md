@@ -11,6 +11,6 @@
 Online | Download
 --- | ---
 Doctor Spektor - Master of the Occult 001 (2014) (digital) (Son of Ultron-Empire).cbr | 45.45MiB
-Doctor Spektor - Master of the Occult 002 (2014) (digital) (Son of Ultron-Empire).cbr | 45.32MiB
+[Doctor Spektor - Master of the Occult 002 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Spektor-Master-of-Occult-002-2014-digital-Son-of-Ultron-Empire-cbr.md) | 45.32MiB
 [Doctor Spektor - Master of the Occult 003 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Spektor-Master-of-Occult-003-2014-digital-Son-of-Ultron-Empire-cbr.md) | 43.31MiB
 [Doctor Spektor - Master of the Occult 004 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Doctor-Spektor-Master-of-Occult-004-2014-digital-Son-of-Ultron-Empire-cbr.md) | 45.71MiB

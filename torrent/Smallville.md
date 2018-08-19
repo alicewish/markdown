@@ -29,9 +29,9 @@ Smallville - Chaos 001 (2014) (Digital-Empire).cbr | 16.06MiB
 Smallville - Chaos 002 (2014) (Digital-Empire).cbr | 14.14MiB
 Smallville - Chaos 003 (2014) (Digital-Empire).cbr | 15.59MiB
 Smallville - Chaos 004 (2014) (Digital-Empire).cbr | 15.36MiB
-Smallville - Chaos 005 (2014) (Digital-Empire).cbr | 13.78MiB
+[Smallville - Chaos 005 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Chaos-005-2014-Digital-Empire-cbr.md) | 13.78MiB
 Smallville - Chaos 006 (2014) (Digital-Empire).cbr | 14.40MiB
-Smallville - Chaos 007 (2014) (Digital-Empire).cbr | 14.67MiB
+[Smallville - Chaos 007 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Chaos-007-2014-Digital-Empire-cbr.md) | 14.67MiB
 [Smallville - Chaos 008 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Chaos-008-2014-Digital-Empire-cbr.md) | 14.39MiB
 Smallville - Chaos 009 (2014) (Digital-Empire).cbr | 13.85MiB
 [Smallville - Chaos 010 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Smallville-Chaos-010-2014-Digital-Empire-cbr.md) | 12.83MiB

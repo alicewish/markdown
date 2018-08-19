@@ -23,7 +23,7 @@ God Is Dead 011 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.81MiB
 God Is Dead 012 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 50.16MiB
 God Is Dead 013 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 49.81MiB
 God Is Dead 014 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.08MiB
-God Is Dead 016 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 49.47MiB
+[God Is Dead 016 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/God-Is-Dead-016-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 49.47MiB
 God is Dead 001 (2013) (Variant Covers Pack) (Digital) (Darkness-Empire).cbr | 3.58MiB
 God is Dead 002 (2013) (4 Covers) (Darkness-Empire).cbr | 65.56MiB
 God is Dead 015 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 47.86MiB

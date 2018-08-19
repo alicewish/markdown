@@ -80,7 +80,7 @@ Supergirl 14 (2007-04) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 30.29MiB
 Supergirl 15 (2007-05) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 36.13MiB
 Superman - The Man of Steel 55 (1996-04) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 40.08MiB
 Superman 216 (2005-06) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 34.10MiB
-Superman 33 (2014) (Two Covers) (Digital) (Shining Knight-SCC-Novus-HD).cbr | 40.07MiB
+[Superman 33 (2014) (Two Covers) (Digital) (Shining Knight-SCC-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superman-33-2014-Two-Covers-Digital-Shining-Knight-SCC-Novus-HD-cbr.md) | 40.07MiB
 Superman 650 (2006-05) (two covers) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 28.90MiB
 Superman 651 (2006-06) (two covers) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 26.83MiB
 Superman 652 (2006-07) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 25.27MiB
@@ -154,5 +154,5 @@ The Batman Chronicles 23 (2001-11) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 5
 The New Titans 67 (1990-06) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 63.95MiB
 Torrent downloaded from demonoid.ph.txt | 46.00B
 Who's Who in the Legion of Super-Heroes 06 (1988-10) (TolEressea-Novus-HD).cbz | 71.27MiB
-Wonder Woman 33 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr | 33.93MiB
+[Wonder Woman 33 (2014) (Digital) (Shining Knight-SCC-Novus-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wonder-Woman-33-2014-Digital-Shining-Knight-SCC-Novus-HD-cbr.md) | 33.93MiB
 Wonder Woman 45 (1990-08) (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | 42.22MiB

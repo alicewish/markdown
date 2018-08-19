@@ -13,4 +13,4 @@ Online | Download
 Grimm Fairy Tales Presents Helsing 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 22.71MiB
 Grimm Fairy Tales Presents Helsing 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.23MiB
 Grimm Fairy Tales Presents Helsing 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 22.59MiB
-Grimm Fairy Tales Presents Helsing 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 25.31MiB
+[Grimm Fairy Tales Presents Helsing 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Helsing-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 25.31MiB

@@ -666,7 +666,7 @@ Avengers 028 (2014) (digital) (Minutemen-PhD).cbr | 36.76MiB
 Avengers 029 (2014) (digital) (Minutemen-PhD).cbr | 39.67MiB
 Avengers 030 (2014) (digital) (Minutemen-PhD).cbr | 37.01MiB
 Avengers 031 (2014) (digital) (Minutemen-PhD).cbr | 33.69MiB
-Avengers 032 (2014) (digital) (Minutemen-PhD).cbr | 36.60MiB
+[Avengers 032 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-032-2014-digital-Minutemen-PhD-cbr.md) | 36.60MiB
 [Avengers 033 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-033-2014-digital-Minutemen-PhD-cbr.md) | 31.06MiB
 [Avengers 034 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-034-2014-digital-Minutemen-PhD-cbr.md) | 34.31MiB
 [Avengers 034.1 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Avengers-034-1-2014-digital-Minutemen-PhD-cbr.md) | 63.24MiB
@@ -2539,7 +2539,7 @@ Mighty Avengers 008 (2014) (digital) (Minutemen-PhD).cbr | 36.67MiB
 Mighty Avengers 009 (2014) (digital) (Minutemen-PhD).cbr | 34.89MiB
 Mighty Avengers 010 (2014) (digital) (Minutemen-PhD).cbr | 36.76MiB
 Mighty Avengers 011 (2014) (digital) (Minutemen-PhD).cbr | 41.21MiB
-Mighty Avengers 012 (2014) (digital) (Minutemen-PhD).cbr | 39.46MiB
+[Mighty Avengers 012 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mighty-Avengers-012-2014-digital-Minutemen-PhD-cbr.md) | 39.46MiB
 [Mighty Avengers 013 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mighty-Avengers-013-2014-digital-Minutemen-PhD-cbr.md) | 32.35MiB
 [Mighty Avengers 014 (2014) (digital) (Minutemen-PhD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mighty-Avengers-014-2014-digital-Minutemen-PhD-cbr.md) | 34.39MiB
 &emsp;【Avengers/Spin-Off Series/Mighty Avengers (v1-v2+)(2007-2015)(digital)/Mighty Avengers v2 (001-014+)(2013-2014)(digital)(Minutemen-PhD+)/Variant Covers】 | 

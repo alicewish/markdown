@@ -28,5 +28,5 @@ Star Wars 15 (2014) (Digital) (Cypher-Empire).cbr | 19.94MiB
 Star Wars 16 (2014) (Digital) (Cypher-Empire).cbr | 16.75MiB
 Star Wars 17 (2014) (Digital) (Cypher-Empire).cbr | 18.15MiB
 Star Wars 18 (2014) (Digital) (Cypher-Empire).cbr | 21.17MiB
-Star Wars 19 (2014) (Digital) (Cypher-Empire).cbr | 22.76MiB
+[Star Wars 19 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-19-2014-Digital-Cypher-Empire-cbr.md) | 22.76MiB
 [Star Wars 20 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Star-Wars-20-2014-Digital-Cypher-Empire-cbr.md) | 22.89MiB

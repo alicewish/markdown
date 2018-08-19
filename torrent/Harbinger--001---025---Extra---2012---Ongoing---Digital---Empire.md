@@ -36,4 +36,4 @@ Harbinger 021 (2014) (digital) (Son of Ultron-Empire).cbr | 59.56MiB
 Harbinger 022 (2014) (digital) (Son of Ultron-Empire).cbr | 68.09MiB
 Harbinger 023 (2014) (digital) (Son of Ultron-Empire).cbr | 46.68MiB
 Harbinger 024 (2014) (digital) (Son of Ultron-Empire).cbr | 45.75MiB
-Harbinger 025 (2014) (digital) (Son of Ultron-Empire).cbr | 121.35MiB
+[Harbinger 025 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-025-2014-digital-Son-of-Ultron-Empire-cbr.md) | 121.35MiB

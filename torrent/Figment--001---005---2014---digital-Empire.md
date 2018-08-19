@@ -11,7 +11,7 @@
 Online | Download
 --- | ---
 Figment 001 (2014) (digital-Empire).cbr | 35.36MiB
-Figment 002 (2014) (digital-Empire).cbr | 35.61MiB
+[Figment 002 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Figment-002-2014-digital-Empire-cbr.md) | 35.61MiB
 Figment 003 (2014) (digital-Empire).cbr | 42.62MiB
 [Figment 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Figment-004-2014-digital-CompetentRipper-Empire-cbr.md) | 42.78MiB
 [Figment 005 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Figment-005-2014-digital-CompetentRipper-Empire-cbr.md) | 44.61MiB

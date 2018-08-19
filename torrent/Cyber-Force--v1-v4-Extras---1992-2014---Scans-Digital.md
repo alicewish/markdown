@@ -119,7 +119,7 @@ Cyberforce Hunter-Killer 01 (2009) (SDCC Variant Only) (ArtNet-DCP).cbz | 1.02Mi
 Cyberforce Hunter-Killer 01 (of 5) (2009) (Cover A only) \[extracted\] (neverwhere).cbr | 1.11MiB
 Cyberforce Hunter-Killer 03 (of 5) (2009) (Cover A only) \[extracted\] (NW).cbr | 978.02KiB
 &emsp;【Cyber Force (v1-v4&Extras) (1992-2014) (Scans+Digital)/Extras】 | 
-Aphrodite IX-Cyber Force 001 (2014) (Digital) (Darkness-Empire).cbr | 66.87MiB
+[Aphrodite IX-Cyber Force 001 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Aphrodite-IX-Cyber-Force-001-2014-Digital-Darkness-Empire-cbr.md) | 66.87MiB
 CyberForce Sourcebook 001 (1994).cbz | 22.83MiB
 CyberForce Sourcebook 002 (1995).cbz | 14.82MiB
 Cyberforce & X-Men (2007) (c2c) (Meganubis).cbz | 51.73MiB

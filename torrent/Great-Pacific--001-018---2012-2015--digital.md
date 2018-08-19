@@ -26,7 +26,7 @@ Great Pacific 012 (2013) (digital) (Minutemen-Spaztastic).cbr | 45.59MiB
 Great Pacific 013 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.84MiB
 Great Pacific 014 (2014) (digital) (Minutemen-Spaztastic).cbr | 38.29MiB
 Great Pacific 015 (2014) (digital) (Minutemen-Spaztastic).cbr | 54.40MiB
-Great Pacific 016 (2014) (digital) (Minutemen-Spaztastic).cbr | 46.33MiB
+[Great Pacific 016 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Great-Pacific-016-2014-digital-Minutemen-Spaztastic-cbr.md) | 46.33MiB
 [Great Pacific 017 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Great-Pacific-017-2014-digital-Minutemen-Spaztastic-cbr.md) | 50.93MiB
 [Great Pacific 018 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Great-Pacific-018-2014-digital-Minutemen-Spaztastic-cbr.md) | 57.05MiB
 &emsp;【Great Pacific (001-018+)(2012-2015)(digital)/Great Pacific TPBs (v1-v3) (2013-2015) (digital-Empire)】 | 

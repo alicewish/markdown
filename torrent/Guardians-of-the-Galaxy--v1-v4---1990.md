@@ -13,7 +13,7 @@ Online | Download
 &emsp;【Guardians of the Galaxy (v1-v4+)(1990-)】 | 
 &emsp;【Guardians of the Galaxy (v1-v4+)(1990-)/Extras】 | 
 [Guardians of the Galaxy (FCBD 2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-FCBD-2014-digital-Minutemen-Spaztastic-cbr.md) | 52.41MiB
-Guardians of the Galaxy - Galaxy's Most Wanted 001 (2014) (digital) (Minutemen-Midas).cbr | 76.58MiB
+[Guardians of the Galaxy - Galaxy's Most Wanted 001 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-Galaxys-Most-Wanted-001-2014-digital-Minutemen-Midas-cbr.md) | 76.58MiB
 Guardians of the Galaxy - Tomorrow's Avengers 01 (2013) (2048px) (TaruTariat-Novus-HD).cbr | 62.33MiB
 [What If Infinity - Guardians of the Galaxy 001 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/What-If-Infinity-Guardians-of-Galaxy-001-2015-Digital-Zone-Empire-cbr.md) | 38.48MiB
 What If v2 036 The Cosmic Avengers Battled the Guardians of the Galaxy.cbr | 34.98MiB

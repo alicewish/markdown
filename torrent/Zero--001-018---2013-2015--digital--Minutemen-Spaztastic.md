@@ -26,7 +26,7 @@ Zero 005 (2014) (digital) (Minutemen-Spaztastic).cbr | 30.75MiB
 Zero 006 (2014) (digital) (Minutemen-Spaztastic).cbr | 61.04MiB
 Zero 007 (2014) (digital) (Minutemen-Spaztastic).cbr | 29.26MiB
 Zero 008 (2014) (digital) (Minutemen-Spaztastic).cbr | 43.94MiB
-Zero 009 (2014) (digital) (Minutemen-Spaztastic).cbr | 27.49MiB
+[Zero 009 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-009-2014-digital-Minutemen-Spaztastic-cbr.md) | 27.49MiB
 [Zero 010 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-010-2014-digital-Minutemen-Spaztastic-cbr.md) | 27.21MiB
 [Zero 011 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-011-2014-digital-Minutemen-Spaztastic-cbr.md) | 39.45MiB
 [Zero 012 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Zero-012-2014-digital-Minutemen-Spaztastic-cbr.md) | 41.78MiB

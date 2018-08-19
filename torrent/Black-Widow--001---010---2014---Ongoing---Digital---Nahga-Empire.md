@@ -17,6 +17,6 @@ Black Widow 004 (2014) (Digital) (Nahga-Empire).cbr | 20.40MiB
 Black Widow 005 (2014) (Digital) (Nahga-Empire).cbr | 19.11MiB
 Black Widow 006 (2014) (Digital) (Nahga-Empire).cbr | 18.46MiB
 Black Widow 007 (2014) (Digital) (Nahga-Empire).cbr | 20.03MiB
-Black Widow 008 (2014) (Digital) (Nahga-Empire).cbr | 22.21MiB
+[Black Widow 008 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Widow-008-2014-Digital-Nahga-Empire-cbr.md) | 22.21MiB
 [Black Widow 009 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Widow-009-2014-Digital-Nahga-Empire-cbr.md) | 21.69MiB
 [Black Widow 010 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Widow-010-2014-Digital-Nahga-Empire-cbr.md) | 19.87MiB

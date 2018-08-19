@@ -51,7 +51,7 @@ The Transformers - More Than Meets the Eye 027 (2014) (digital) (Minutemen-Phant
 The Transformers - More Than Meets the Eye 028 (2014) (digital) (Minutemen-Phantasm).cbz | 57.60MiB
 The Transformers - More Than Meets the Eye 029 (2014) (digital) (Minutemen-Phantasm).cbz | 43.37MiB
 The Transformers - More Than Meets the Eye 030 (2014) (digital) (Minutemen-Phantasm).cbz | 46.53MiB
-The Transformers - More Than Meets the Eye 031 (2014) (digital) (Minutemen-Phantasm).cbz | 43.85MiB
+[The Transformers - More Than Meets the Eye 031 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-031-2014-digital-Minutemen-Phantasm-cbz.md) | 43.85MiB
 [The Transformers - More Than Meets the Eye 032 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-032-2014-digital-Minutemen-Phantasm-cbz.md) | 40.49MiB
 [The Transformers - More Than Meets the Eye 033 (2014) (digital) (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-033-2014-digital-Minutemen-Phantasm-cbz.md) | 41.58MiB
 [The Transformers - More Than Meets the Eye 034 (2014) (digital (Minutemen-Phantasm).cbz](https://github.com/alicewish/markdown/blob/master/comic/Transformers-More-Than-Meets-Eye-034-2014-digital-Minutemen-Phantasm-cbz.md) | 40.87MiB

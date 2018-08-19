@@ -234,7 +234,7 @@ Airfighters with Airboy 01 (2010) (HD) (Strunka).cbr | 105.19MiB
 Airfighters with Airboy 02 (2010) (HD) (Strunka).cbr | 114.97MiB
 America's Greatest Comics 008 (1943) (Fawcett) (c2c).cbz | 60.18MiB
 &emsp;【Captain Midnight/Extras/Captain Action Cat】 | 
-Captain Action Cat- The Timestream Catastrophe - Digital Exclusive Edition 003 (2014) (digital-Empire).cbr | 51.45MiB
+[Captain Action Cat- The Timestream Catastrophe - Digital Exclusive Edition 003 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Action-Cat-Timestream-Catastrophe-Digital-Exclusive-Edition-003-2014-digital-Empire-cbr.md) | 51.45MiB
 [Captain Action Cat- The Timestream Catastrophe - Digital Exclusive Edition 004 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Captain-Action-Cat-Timestream-Catastrophe-Digital-Exclusive-Edition-004-2014-digital-CompetentRipper-Empire-cbr.md) | 51.49MiB
 Captain Marvel, Jr. 037 (Fawcett 1946) (c2c) (Don Ensign-rangerhouse-Dave Hayward).cbz | 32.41MiB
 FCBD - Project Black Sky (2014) (digital) (Minutemen-PhD).cbr | 24.54MiB

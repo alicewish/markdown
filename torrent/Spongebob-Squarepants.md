@@ -74,7 +74,7 @@ Spongebob Comics 022 (2013) (c2c) (Jojo).cbr | 27.26MiB
 Spongebob Comics 023 (2013) (c2c) (Jojo).cbr | 25.02MiB
 Spongebob Comics 029 (2014) (c2c) (Jojo).cbr | 29.98MiB
 Spongebob Comics 033 (2014) (c2c) (Jojo).cbr | 34.19MiB
-Spongebob Comics 034 (2014) (c2c) (Jojo).cbr | 28.53MiB
+[Spongebob Comics 034 (2014) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spongebob-Comics-034-2014-c2c-Jojo-cbr.md) | 28.53MiB
 [Spongebob Comics 040 (2014) (c2c) (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spongebob-Comics-040-2014-c2c-Jojo-cbr.md) | 26.23MiB
 [Spongebob Comics 050 (2015) c2c (Jojo).cbr](https://github.com/alicewish/markdown/blob/master/comic/Spongebob-Comics-050-2015-c2c-Jojo-cbr.md) | 29.19MiB
 SpongeBob Freestyle Funnies (2012 FCBD) (c2c) (Minutemen).cbr | 45.28MiB

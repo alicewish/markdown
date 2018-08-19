@@ -145,7 +145,7 @@ Harbinger 021 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.23MiB
 Harbinger 022 (2014) (digital) (Minutemen-Spaztastic).cbr | 50.97MiB
 Harbinger 023 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.52MiB
 Harbinger 024 (2014) (digital) (Minutemen-Spaztastic).cbr | 45.22MiB
-Harbinger 025 (2014) (digital) (Minutemen-Spaztastic).cbr | 91.47MiB
+[Harbinger 025 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Harbinger-025-2014-digital-Minutemen-Spaztastic-cbr.md) | 91.47MiB
 &emsp;【Harbinger/Harbinger v2 Deluxe Books (v01-v02)】 | 
 Harbinger - Deluxe Edition - Book 01 (2013) (Digital) (F) (Zone-Empire).cbr | 579.72MiB
 Harbinger - Deluxe Edition - Book 02 (2015) (Digital) (Zone-Empire).cbr | 644.06MiB

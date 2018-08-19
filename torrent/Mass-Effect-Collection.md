@@ -43,7 +43,7 @@ Mass Effect - Foundation 009 (2014) (Digital) (Pirate-Empire).cbr | 24.19MiB
 Mass Effect - Foundation 010 (2014) (Digital) (Pirate-Empire).cbr | 16.02MiB
 Mass Effect - Foundation 011 (2014) (Digital) (Pirate-Empire).cbr | 22.26MiB
 Mass Effect - Foundation 012 (2014) (Digital) (Pirate-Empire).cbr | 22.08MiB
-Mass Effect - Foundation 013 (2014) (Digital) (Pirate-Empire).cbr | 21.52MiB
+[Mass Effect - Foundation 013 (2014) (Digital) (Pirate-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Mass-Effect-Foundation-013-2014-Digital-Pirate-Empire-cbr.md) | 21.52MiB
 &emsp;【Mass Effect Collection/Mass Effect - Foundation (v01-v03) (2014-2015) (digital) (Pirate-Empire)】 | 
 Mass Effect - Foundation - Volume 1 (2014) (Digital) (Pirate-Empire).cbr | 114.08MiB
 Mass Effect - Foundation - Volume 2 (2014) (Digital) (Pirate-Empire).cbr | 149.19MiB

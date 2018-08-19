@@ -12,6 +12,6 @@ Online | Download
 --- | ---
 Original Sins 001 (2014) (Digital) (Zone-Empire).cbr | 35.20MiB
 Original Sins 002 (2014) (Digital) (Zone-Empire).cbr | 33.92MiB
-Original Sins 003 (2014) (Digital) (Zone-Empire).cbr | 39.43MiB
-Original Sins 004 (2014) (Digital) (Zone-Empire).cbr | 30.89MiB
+[Original Sins 003 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Original-Sins-003-2014-Digital-Zone-Empire-cbr.md) | 39.43MiB
+[Original Sins 004 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Original-Sins-004-2014-Digital-Zone-Empire-cbr.md) | 30.89MiB
 [Original Sins 005 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Original-Sins-005-2014-Digital-Zone-Empire-cbr.md) | 39.07MiB

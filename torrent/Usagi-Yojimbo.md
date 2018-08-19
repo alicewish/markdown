@@ -21,7 +21,7 @@ Usagi Yojimbo Color Special 01 (1989) (Fantagraphics) (Wezz-DCP).cbr | 20.94MiB
 Usagi Yojimbo Color Special 02 (1991) (Fantagraphics) (Pyrate-DCP).cbr | 17.81MiB
 Usagi Yojimbo Color Special 03 (1992) (Fantagraphics).cbr | 17.50MiB
 Usagi Yojimbo Color Special 04 - Green Persimmon (1997) (J. Constantine-DCP).cbr | 11.83MiB
-Usagi Yojimbo Color Special 05 - The Artist (2014) (digital) (F) (Minutemen-InnerDemons).cbr | 39.72MiB
+[Usagi Yojimbo Color Special 05 - The Artist (2014) (digital) (F) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Usagi-Yojimbo-Color-Special-05-Artist-2014-digital-F-Minutemen-InnerDemons-cbr.md) | 39.72MiB
 &emsp;【Usagi Yojimbo/Space Usagi (v1-v3+)(1992-1996)】 | 
 Space Usagi TPB (1998) (buymearing-DCP).cbr | 140.38MiB
 &emsp;【Usagi Yojimbo/Space Usagi (v1-v3+)(1992-1996)/Space Usagi v1 (001-003)(1992)】 | 

@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Guardians of the Galaxy (V1-V4+Extras)(1990-2016)/Extras】 | 
 [Guardians of the Galaxy (2014) (FCBD) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-2014-FCBD-digital-Son-of-Ultron-Empire-cbr.md) | 70.44MiB
-Guardians of the Galaxy - Galaxy's Most Wanted 001 (2014) (digital) (Minutemen-Midas).cbr | 76.58MiB
+[Guardians of the Galaxy - Galaxy's Most Wanted 001 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Guardians-of-Galaxy-Galaxys-Most-Wanted-001-2014-digital-Minutemen-Midas-cbr.md) | 76.58MiB
 Guardians of the Galaxy - Tomorrow's Avengers 01 (2013) (2048px) (TaruTariat-Novus-HD).cbr | 62.33MiB
 Guardians of the Galaxy By Jim Valentino v2 (2014) (Digital) (AnHeroGold-Empire).cbz | 631.00MiB
 Guardians of the Galaxy v1 - Legacy (2009) (Digital TPB) (UberSoldier-DCP).cbr | 209.04MiB

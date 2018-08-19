@@ -18,6 +18,8 @@ Four of the best students from New Genesis arrive on Earth to study and aid in t
 
 [Infinity Man and the Forever People (001 - 007) (2014 - Ongoing) (Digital) (ThatGuy-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Infinity-Man-and-the-Forever-People--001---007---2014---Ongoing---Digital---ThatGuy-Empire.md)
 
+[Infinity Man and the Forever People (001-009)(2014-2015) (Digital) (ThatGuy-Empire)](https://github.com/alicewish/markdown/blob/master/torrent/Infinity-Man-and-the-Forever-People--001-009--2014-2015---Digital---ThatGuy-Empire.md)
+
 Online | Download
 --- | ---
 Infinity Man And The Forever People (2014-09) 02 (digital) (OkC.O.M.P.U.T.O.-Novus-HD).cbz | [45.43MiB](https://pan.baidu.com/s/1o80zEEQ#list/path=%2F0-Day%20Week%20of%202014%20Q3%2F0-Day%20Week%20of%202014.07.09%2F%E3%82%AA%E3%82%B7%E3%82%B9%E3%82%A8%E3%82%B9%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%A2%E3%82%B3%E3%82%B1%E3%82%BD%E3%82%B1%E3%82%B9%E3%82%BD%E3%82%A2%E3%82%AD%E3%82%A4%E3%82%B5%E3%82%BD%E3%82%B3%E3%82%B3%E3%82%AA%E3%82%B1%E3%82%BF%E3%82%B7%E3%82%A2%E3%82%AB%E3%82%A4%E3%82%AD%E3%82%A6%E3%82%BD&parentPath=%2F0-Day%20Week%20of%202014%20Q3)

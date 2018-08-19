@@ -70,4 +70,4 @@ Elephantmen 054 (2014) (digital) (Son of Ultron-Empire).cbr | 83.12MiB
 Elephantmen 055 (2014) (digital) (Son of Ultron-Empire).cbr | 75.62MiB
 Elephantmen 056 (2014) (digital) (Son of Ultron-Empire).cbr | 53.42MiB
 Elephantmen 057 (2014) (digital) (Son of Ultron-Empire).cbr | 59.16MiB
-Elephantmen 058 (2014) (digital) (Son of Ultron-Empire).cbr | 56.90MiB
+[Elephantmen 058 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Elephantmen-058-2014-digital-Son-of-Ultron-Empire-cbr.md) | 56.90MiB

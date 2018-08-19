@@ -19,7 +19,7 @@ Kill Shakespeare Vol. 04 - The Mask of Night (2014) (digital) (Minutemen-Slayer)
 [Kill Shakespeare - Juliet - Past is Prologue 001 (2017) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kill-Shakespeare-Juliet-Past-is-Prologue-001-2017-digital-Son-of-Ultron-Empire-cbr.md) | 36.40MiB
 &emsp;【Kill Shakespeare/Kill Shakespeare - The Mask of Night (001-004)(2014)(digital)(Eos-Empire)】 | 
 Kill Shakespeare - The Mask of Night 001 (2014) (digital) (Eos-Empire).cbr | 41.52MiB
-Kill Shakespeare - The Mask of Night 002 (2014) (digital) (Eos-Empire).cbr | 37.10MiB
+[Kill Shakespeare - The Mask of Night 002 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kill-Shakespeare-Mask-of-Night-002-2014-digital-Eos-Empire-cbr.md) | 37.10MiB
 [Kill Shakespeare - The Mask of Night 003 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kill-Shakespeare-Mask-of-Night-003-2014-digital-Eos-Empire-cbr.md) | 37.21MiB
 [Kill Shakespeare - The Mask of Night 004 (2014) (digital) (Eos-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Kill-Shakespeare-Mask-of-Night-004-2014-digital-Eos-Empire-cbr.md) | 36.44MiB
 &emsp;【Kill Shakespeare/Kill Shakespeare - The Tide of Blood (001-005)(2013)(digital-Empire)】 | 

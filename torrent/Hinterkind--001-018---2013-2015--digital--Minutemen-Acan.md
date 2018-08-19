@@ -18,7 +18,7 @@ Hinterkind 005 (2014) (Digital) (Minutemen-Acan).cbr | 27.57MiB
 Hinterkind 006 (2014) (Digital) (Minutemen-Acan).cbr | 26.16MiB
 Hinterkind 007 (2014) (Digital) (Minutemen-Acan).cbr | 28.36MiB
 Hinterkind 008 (2014) (Digital) (Minutemen-Acan).cbr | 28.57MiB
-Hinterkind 009 (2014) (Digital) (Minutemen-Acan).cbr | 26.36MiB
+[Hinterkind 009 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-009-2014-Digital-Minutemen-Acan-cbr.md) | 26.36MiB
 [Hinterkind 010 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-010-2014-Digital-Minutemen-Acan-cbr.md) | 28.30MiB
 [Hinterkind 011 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-011-2014-Digital-Minutemen-Acan-cbr.md) | 27.02MiB
 [Hinterkind 012 (2014) (Digital) (Minutemen-Acan).cbr](https://github.com/alicewish/markdown/blob/master/comic/Hinterkind-012-2014-Digital-Minutemen-Acan-cbr.md) | 30.39MiB

@@ -20,7 +20,7 @@ Online | Download
 [The Superior Foes of Spider-Man 007 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-007-2014-Digital-Darkness-Empire-cbr.md) | 34.42MiB
 [The Superior Foes of Spider-Man 008 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-008-2014-Digital-Darkness-Empire-cbr.md) | 30.70MiB
 [The Superior Foes of Spider-Man 009 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-009-2014-Digital-Darkness-Empire-cbr.md) | 30.88MiB
-The Superior Foes of Spider-Man 010 (2014) (Digital) (Darkness-Empire).cbr | 31.00MiB
+[The Superior Foes of Spider-Man 010 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-010-2014-Digital-Darkness-Empire-cbr.md) | 31.00MiB
 [The Superior Foes of Spider-Man 011 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-011-2014-Digital-Darkness-Empire-cbr.md) | 32.05MiB
 [The Superior Foes of Spider-Man 012 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-012-2014-Digital-Darkness-Empire-cbr.md) | 36.91MiB
 [The Superior Foes of Spider-Man 013 (2014) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Superior-Foes-of-Spider-Man-013-2014-Digital-Darkness-Empire-cbr.md) | 36.25MiB

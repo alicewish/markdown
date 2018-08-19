@@ -631,7 +631,7 @@ Ultimate Comics The Ultimates 14 (2012) (Digital) (Zone-Empire).cbr | 15.35MiB
 Ultimate Comics The Ultimates 15 (2012) (Digital) (Zone-Empire).cbr | 24.01MiB
 Ultimate Comics The Ultimates 16 (2012) (Megan-Empire).cbr | 19.62MiB
 &emsp;【Black Widow (v1 - v8 + Appearances & Extras) (1964 - Ongoing)/Appearances/Ultimate Universe/v4 (Monica Chang)】 | 
-Miles Morales Ultimate Spider-Man 003 (2014) (Digital) (Zone-Empire).cbr | 33.83MiB
+[Miles Morales Ultimate Spider-Man 003 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Miles-Morales-Ultimate-Spider-Man-003-2014-Digital-Zone-Empire-cbr.md) | 33.83MiB
 &emsp;【Black Widow (v1 - v8 + Appearances & Extras) (1964 - Ongoing)/Black Widow & The Marvel Girls】 | 
 Black Widow & The Marvel Girls 01 (of 04) (2010) (Minutemen-Shepafella).cbr | 22.99MiB
 Black Widow & The Marvel Girls 02 (of 04) (2010) (Minutemen-Shepafella).cbr | 19.78MiB
@@ -690,7 +690,7 @@ Black Widow 004 (2014) (Digital) (Nahga-Empire).cbr | 20.40MiB
 Black Widow 005 (2014) (Digital) (Nahga-Empire).cbr | 19.11MiB
 Black Widow 006 (2014) (Digital) (Nahga-Empire).cbr | 18.46MiB
 Black Widow 007 (2014) (Digital) (Nahga-Empire).cbr | 20.03MiB
-Black Widow 008 (2014) (Digital) (Nahga-Empire).cbr | 22.21MiB
+[Black Widow 008 (2014) (Digital) (Nahga-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Black-Widow-008-2014-Digital-Nahga-Empire-cbr.md) | 22.21MiB
 &emsp;【Black Widow (v1 - v8 + Appearances & Extras) (1964 - Ongoing)/Black Widow 2 - Yelena Belova (R.I.P)】 | 
 &emsp;【Black Widow (v1 - v8 + Appearances & Extras) (1964 - Ongoing)/Black Widow 2 - Yelena Belova (R.I.P)/Black Widow 1 v1 - The Itsy Bitsy Spider】 | 
 Black Widow - The Itsy Bitsy Spider.cbr | 22.68MiB

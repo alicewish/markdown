@@ -65,7 +65,7 @@ Cavewoman - Intervention 002 RE-EDIT (Talon - Basement - 2001).cbr | 34.83MiB
 Cavewoman - Intervention 01 (of 2) (2001).cbr | 15.76MiB
 &emsp;【Cavewoman/Cavewoman (Amryl-Basement)/Journey (001-002)(2014)(c2c)(TLK-EMPIRE-HD)】 | 
 Cavewoman Journey 001(2014)(c2c)(TLK-EMPIRE-HD).cbr | 38.79MiB
-Cavewoman Journey 002(2014)(c2c)(TLK-EMPIRE-HD).cbr | 60.99MiB
+[Cavewoman Journey 002(2014)(c2c)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Cavewoman-Journey-002-2014-c2c-TLK-EMPIRE-HD-cbr.md) | 60.99MiB
 &emsp;【Cavewoman/Cavewoman (Amryl-Basement)/Jungle Jam (001-002)(2006)】 | 
 Cavewoman - Jungle Jam 01 (2006) (Team-DCP).cbr | 17.40MiB
 Cavewoman - Jungle Jam 02 (2006) (Team-DCP).cbr | 27.37MiB

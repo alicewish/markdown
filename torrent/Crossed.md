@@ -134,7 +134,7 @@ Crossed - Wish You Were Here v4 c17 (2014) (Digital-Empire).cbr | 2.62MiB
 Crossed - Wish You Were Here v4 c18 (2014) (Digital-Empire).cbr | 2.77MiB
 Crossed - Wish You Were Here v4 c19 (2014) (Digital-Empire).cbr | 2.70MiB
 Crossed - Wish You Were Here v4 c20 (2014) (Digital-Empire).cbr | 2.53MiB
-Crossed - Wish You Were Here v4 c21 (2014) (Digital-Empire).cbr | 2.73MiB
+[Crossed - Wish You Were Here v4 c21 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c21-2014-Digital-Empire-cbr.md) | 2.73MiB
 [Crossed - Wish You Were Here v4 c22 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c22-2014-Digital-Empire-cbr.md) | 2.97MiB
 [Crossed - Wish You Were Here v4 c23 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c23-2014-Digital-Empire-cbr.md) | 2.79MiB
 [Crossed - Wish You Were Here v4 c24 - THE END!  (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Wish-You-Were-Here-v4-c24-END-2014-Digital-Empire-cbr.md) | 2.68MiB
@@ -253,7 +253,7 @@ Crossed - Badlands 053 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 36.27
 Crossed - Badlands 054 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 38.78MiB
 Crossed - Badlands 055 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 42.32MiB
 Crossed - Badlands 056 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 33.62MiB
-Crossed - Badlands 057 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr | 45.60MiB
+[Crossed - Badlands 057 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-057-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 45.60MiB
 [Crossed - Badlands 058 (2014) (5 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-058-2014-5-Covers-Digital-Darkness-Empire-cbr.md) | 46.75MiB
 [Crossed - Badlands 059 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Crossed-Badlands-059-2014-4-Covers-Digital-Darkness-Empire-cbr.md) | 42.07MiB
 Crossed - Badlands 060 (2014) (4 Covers) (Digital) (Darkness-Empire).cbr | 39.57MiB

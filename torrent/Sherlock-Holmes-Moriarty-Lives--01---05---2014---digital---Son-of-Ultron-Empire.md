@@ -12,6 +12,6 @@ Online | Download
 --- | ---
 Sherlock Holmes - Moriarty Lives 003 (2014) (b0bafett-Empire).cbr | 40.13MiB
 Sherlock Holmes - Moriarty Lives 004 (2014) (digital) (Son of Ultron-Empire).cbr | 34.37MiB
-Sherlock Holmes - Moriarty Lives 005 (2014) (digital) (Son of Ultron-Empire).cbr | 37.47MiB
+[Sherlock Holmes - Moriarty Lives 005 (2014) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sherlock-Holmes-Moriarty-Lives-005-2014-digital-Son-of-Ultron-Empire-cbr.md) | 37.47MiB
 Sherlock Holmes - Moriarty Lives 01 (of 05) (c2c) (2013) (Empire-Adventurers).cbr | 160.81MiB
 Sherlock Holmes - Moriarty Lives 02 (of 05) (2014) (Digital) (Phatman516-DCP).cbz | 17.28MiB

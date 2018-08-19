@@ -12,5 +12,5 @@ Online | Download
 --- | ---
 Tabatha 01 (of 04) (2012) (D1920) (K6DVR-Empire).cbr | 26.94MiB
 Tabatha 02 (of 04) (2013) (Digital) (K6-Empire).cbr | 28.74MiB
-Tabatha 03 (of 04) (2014) (Digital) (K6-Empire).cbr | 31.01MiB
+[Tabatha 03 (of 04) (2014) (Digital) (K6-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tabatha-03-of-04-2014-Digital-K6-Empire-cbr.md) | 31.01MiB
 [Tabatha 04 (of 04) (2014) (Digital) (K6-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Tabatha-04-of-04-2014-Digital-K6-Empire-cbr.md) | 44.40MiB

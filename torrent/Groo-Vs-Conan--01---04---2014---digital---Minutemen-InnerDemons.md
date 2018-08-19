@@ -10,7 +10,7 @@
 
 Online | Download
 --- | ---
-Groo vs. Conan 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 29.54MiB
+[Groo vs. Conan 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Groo-vs-Conan-01-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 29.54MiB
 [Groo vs. Conan 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Groo-vs-Conan-02-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 32.47MiB
 [Groo vs. Conan 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Groo-vs-Conan-03-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 32.03MiB
 [Groo vs. Conan 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Groo-vs-Conan-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 32.03MiB

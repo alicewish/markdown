@@ -62,7 +62,7 @@ Grimm Fairy Tales 2013 Halloween Special(2013)(3 covers)(c2c)(Digi-Hybrid)(TLK-E
 Grimm Fairy Tales 2013 Holiday Edition(2013)(3 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 53.97MiB
 &emsp;【Grimm Fairy Tales Collection Update/2014 Specials】 | 
 Grimm Fairy Tales 2014 Annual(2014)(Digital)(TLK-EMPIRE-HD).cbr | 29.36MiB
-Grimm Fairy Tales 2014 Swimsuit Special(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr | 43.77MiB
+[Grimm Fairy Tales 2014 Swimsuit Special(2014)(2 covers)(c2c)(Digi-Hybrid)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-2014-Swimsuit-Special-2014-2-covers-c2c-Digi-Hybrid-TLK-EMPIRE-HD-cbr.md) | 43.77MiB
 &emsp;【Grimm Fairy Tales Collection Update/Covers】 | 
 Grimm Fairy Tales - Holiday Edition 02 (2010) (Cover A Only) \[extracted\] (YZ1).cbr | 559.01KiB
 Grimm Fairy Tales - Holiday Edition 02 (2010) (Limited Edition Variant Only).cbr | 298.89KiB
@@ -99,7 +99,7 @@ Best of Zenescope Special Edition v1 001 (2013) (TLK-EMPIRE).cbz | 45.63MiB
 Grimm Fairy Tales Presents Helsing 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 22.71MiB
 Grimm Fairy Tales Presents Helsing 002(2014)(Digital)(TLK-EMPIRE-HD).cbr | 23.23MiB
 Grimm Fairy Tales Presents Helsing 003(2014)(Digital)(TLK-EMPIRE-HD).cbr | 22.59MiB
-Grimm Fairy Tales Presents Helsing 004(2014)(Digital)(TLK-EMPIRE-HD).cbr | 25.31MiB
+[Grimm Fairy Tales Presents Helsing 004(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Helsing-004-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 25.31MiB
 &emsp;【Grimm Fairy Tales Collection Update/Salem's Daughter (000 - 005) (2009 - 2010)】 | 
 Salem's Daughter 000 (2009) (oddBot-DCP).cbr | 15.29MiB
 Salem's Daughter 001 (2009) (Minutemen-Darth&Danger).cbr | 24.89MiB

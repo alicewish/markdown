@@ -20,7 +20,7 @@ Sons of Anarchy 007 (2014) (digital) (Minutemen-Midas).cbr | 36.08MiB
 Sons of Anarchy 008 (2014) (Digital) (Minutemen-Midas).cbr | 31.85MiB
 Sons of Anarchy 009 (2014) (Digital) (Minutemen-Midas).cbr | 33.28MiB
 Sons of Anarchy 010 (2014) (Digital) (Minutemen-Midas).cbr | 33.86MiB
-Sons of Anarchy 011 (2014) (digital) (Minutemen-Midas).cbr | 41.02MiB
+[Sons of Anarchy 011 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-011-2014-digital-Minutemen-Midas-cbr.md) | 41.02MiB
 [Sons of Anarchy 012 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-012-2014-digital-Minutemen-Midas-cbr.md) | 39.42MiB
 [Sons of Anarchy 013 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-013-2014-digital-Minutemen-Midas-cbr.md) | 46.67MiB
 [Sons of Anarchy 014 (2014) (digital) (Minutemen-Midas).cbr](https://github.com/alicewish/markdown/blob/master/comic/Sons-of-Anarchy-014-2014-digital-Minutemen-Midas-cbr.md) | 42.22MiB

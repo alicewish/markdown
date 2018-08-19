@@ -12,7 +12,7 @@ Online | Download
 --- | ---
 &emsp;【Udon Comics - Capcom Collection/Darkstalkers (000-006+The Night Warriors 01-03))】 | 
 &emsp;【Udon Comics - Capcom Collection/Darkstalkers (000-006+The Night Warriors 01-03))/Darkstalkers - The Night Warriors (001-003)】 | 
-Darkstalkers - The Night Warriors 001 (2014) (Digital) (DR & Quinch-Empire).cbr | 28.69MiB
+[Darkstalkers - The Night Warriors 001 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darkstalkers-Night-Warriors-001-2014-Digital-DR-Quinch-Empire-cbr.md) | 28.69MiB
 [Darkstalkers - The Night Warriors 002 (2014) (Digital) (DR & Quinch-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Darkstalkers-Night-Warriors-002-2014-Digital-DR-Quinch-Empire-cbr.md) | 28.69MiB
 Darkstalkers - The Night Warriors 003 (2014) (Digital) (DR & Quinch-Empire).cbr | 28.14MiB
 Darkstalkers 000 (2004) (Digital) (K6-Empire).cbr | 16.85MiB

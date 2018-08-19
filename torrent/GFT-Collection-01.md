@@ -110,8 +110,8 @@ Grimm Fairy Tales 095(2014)(Digital)(TLK-EMPIRE-HD).cbr | 30.01MiB
 Grimm Fairy Tales 096(2014)(Digital)(TLK-EMPIRE-HD).cbr | 26.58MiB
 Grimm Fairy Tales 097(2014)(Digital)(TLK-EMPIRE-HD).cbr | 25.51MiB
 Grimm Fairy Tales 098(2014)(Digital)(TLK-EMPIRE-HD).cbr | 19.87MiB
-Grimm Fairy Tales 099(2014)(Digital)(TLK-EMPIRE-HD).cbr | 20.38MiB
-Grimm Fairy Tales 100 (2014) (Digital) (K6-Empire).cbr | 80.54MiB
+[Grimm Fairy Tales 099(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-099-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 20.38MiB
+[Grimm Fairy Tales 100 (2014) (Digital) (K6-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-100-2014-Digital-K6-Empire-cbr.md) | 80.54MiB
 &emsp;【GFT Collection 01/GFT - Dream Eater Saga (00 - 12)】 | 
 Grimm Fairy Tales - Dream Eater Saga 0 - (Prologue)(2 covers).cbr | 13.76MiB
 Grimm Fairy Tales - Dream Eater Saga 1 - (c2c)(3 covers).cbr | 18.76MiB
@@ -425,7 +425,7 @@ Grimm Fairy Tales 2012 Swimsuit Special (2012) (Re-em-DCP).cbr | 24.50MiB
 Grimm Fairy Tales 2013 Halloween Special(2013)(Digital)(TLK-EMPIRE-HD).cbr | 41.09MiB
 Grimm Fairy Tales 2013 Holiday Edition(2013)(Digital)(TLK-EMPIRE-HD).cbr | 43.14MiB
 Grimm Fairy Tales 2014 Annual(2014)(Digital)(TLK-EMPIRE-HD).cbr | 29.36MiB
-Grimm Fairy Tales 2014 Swimsuit Special(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.11MiB
+[Grimm Fairy Tales 2014 Swimsuit Special(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-2014-Swimsuit-Special-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 32.11MiB
 Grimm Fairy Tales Angel One Shot (2012).cbz | 25.15MiB
 Grimm Fairy Tales Animated One Shot (2012)(digital)(Bat-Thing-DCP).cbr | 31.65MiB
 Grimm Fairy Tales Art Book (2012) (Digital) (K7-Empire).cbr | 154.50MiB
@@ -437,7 +437,7 @@ Grimm Fairy Tales Pinocchio Collection (2009) (YZ1).cbr | 26.92MiB
 Grimm Fairy Tales Presents Dark Queen (2014)(Digital)(TLK-EMPIRE-HD).cbr | 42.63MiB
 Grimm Fairy Tales Presents Godstorm Age Of Darkness (2014)(Digital)(TLK-EMPIRE-HD).cbr | 35.86MiB
 Grimm Fairy Tales Presents Inferno Age Of Darkness(2014)(Digital)(TLK-EMPIRE-HD).cbr | 38.64MiB
-Grimm Fairy Tales Presents Oz Age of Darkness 001(2014)(Digital)(TLK-EMPIRE-HD).cbr | 36.14MiB
+[Grimm Fairy Tales Presents Oz Age of Darkness 001(2014)(Digital)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Grimm-Fairy-Tales-Presents-Oz-Age-of-Darkness-001-2014-Digital-TLK-EMPIRE-HD-cbr.md) | 36.14MiB
 Grimm Fairy Tales Presents Realm Knights(2013)(Digital)(TLK-EMPIRE-HD).cbr | 29.22MiB
 Grimm Fairy Tales Presents Realm Knights(2014)(Digital)(TLK-EMPIRE-HD).cbr | 31.33MiB
 Grimm Fairy Tales Presents Robyn Hood Age Of Darkness One-Shot(2014)(Digital)(TLK-EMPIRE-HD).cbr | 33.66MiB

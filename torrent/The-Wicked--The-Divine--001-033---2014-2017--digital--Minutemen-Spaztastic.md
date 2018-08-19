@@ -19,7 +19,7 @@ The Wicked + The Divine v03 - Commercial Suicide (2016) (Digital) (Zone-Empire).
 The Wicked + The Divine v04 - Rising Action (2016) (Digital) (Zone-Empire).cbr | 211.15MiB
 The Wicked + The Divine v05 - Imperial Phase Part 01 (2017) (Digital) (Zone-Empire).cbr | 241.06MiB
 The Wicked + The Divine 001 (2014) (digital) (Minutemen-Spaztastic).cbr | 59.09MiB
-The Wicked + The Divine 002 (2014) (digital) (Minutemen-Spaztastic).cbr | 44.13MiB
+[The Wicked + The Divine 002 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-002-2014-digital-Minutemen-Spaztastic-cbr.md) | 44.13MiB
 [The Wicked + The Divine 003 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-003-2014-digital-Minutemen-Spaztastic-cbr.md) | 45.01MiB
 [The Wicked + The Divine 004 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-004-2014-digital-Minutemen-Spaztastic-cbr.md) | 41.32MiB
 [The Wicked + The Divine 005 (2014) (digital) (Minutemen-Spaztastic).cbr](https://github.com/alicewish/markdown/blob/master/comic/Wicked-Divine-005-2014-digital-Minutemen-Spaztastic-cbr.md) | 40.73MiB

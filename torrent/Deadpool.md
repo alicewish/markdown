@@ -259,7 +259,7 @@ Deadpool 027 (2014) (digital) (Minutemen-InnerDemons).cbr | 182.36MiB
 Deadpool 028 (2014) (digital) (Minutemen-InnerDemons).cbr | 47.89MiB
 Deadpool 029 (2014) (digital) (Minutemen-InnerDemons).cbr | 33.56MiB
 Deadpool 030 (2014) (digital) (Minutemen-InnerDemons).cbr | 37.29MiB
-Deadpool 031 (2014) (digital) (Minutemen-InnerDemons).cbr | 35.50MiB
+[Deadpool 031 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-031-2014-digital-Minutemen-InnerDemons-cbr.md) | 35.50MiB
 [Deadpool 032 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-032-2014-digital-Minutemen-InnerDemons-cbr.md) | 37.12MiB
 [Deadpool 033 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-033-2014-digital-Minutemen-InnerDemons-cbr.md) | 35.71MiB
 [Deadpool 034 (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-034-2014-digital-Minutemen-InnerDemons-cbr.md) | 61.52MiB
@@ -551,14 +551,14 @@ Deadpool V Gambit 01 (of 05) (2016) (2 covers) (digital) (Minutemen-Slayer).cbr 
 Deadpool vs. Carnage 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 39.72MiB
 Deadpool vs. Carnage 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 36.79MiB
 Deadpool vs. Carnage 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 41.88MiB
-Deadpool vs. Carnage 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 43.05MiB
+[Deadpool vs. Carnage 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-Carnage-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 43.05MiB
 &emsp;【Deadpool/Limited Series/Deadpool Vs Thanos (001-004)(2015)(digital)(Minutemen-Faessla)】 | 
 [Deadpool vs. Thanos 004 (2015) (Digital) (Mephisto-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-Thanos-004-2015-Digital-Mephisto-Empire-cbr.md) | 36.81MiB
 [Deadpool vs. Thanos 01 (of 04) (2015) (3 covers)  (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-Thanos-01-of-04-2015-3-covers-digital-Minutemen-Faessla-cbz.md) | 36.51MiB
 [Deadpool vs. Thanos 02 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-Thanos-02-of-04-2015-digital-Minutemen-Faessla-cbz.md) | 38.66MiB
 [Deadpool vs. Thanos 03 (of 04) (2015) (digital) (Minutemen-Faessla).cbz](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-Thanos-03-of-04-2015-digital-Minutemen-Faessla-cbz.md) | 39.21MiB
 &emsp;【Deadpool/Limited Series/Deadpool Vs X-Force (001-004)(2014)(digital)(Minutemen-InnerDemons)】 | 
-Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr | 49.41MiB
+[Deadpool vs. X-Force 01 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-01-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 49.41MiB
 [Deadpool vs. X-Force 02 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-02-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 47.23MiB
 [Deadpool vs. X-Force 03 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-03-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB
 [Deadpool vs. X-Force 04 (of 04) (2014) (digital) (Minutemen-InnerDemons).cbr](https://github.com/alicewish/markdown/blob/master/comic/Deadpool-vs-X-Force-04-of-04-2014-digital-Minutemen-InnerDemons-cbr.md) | 50.75MiB

@@ -148,7 +148,7 @@ Ash And The Army Of Darkness 004(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD)
 Ash And The Army Of Darkness 005(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 22.73MiB
 Ash And The Army Of Darkness 006(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 28.07MiB
 Ash And The Army Of Darkness 007(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 25.64MiB
-Ash And The Army Of Darkness 008(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr | 25.18MiB
+[Ash And The Army Of Darkness 008(2014)(Digital Exclusive Edition)(TLK-EMPIRE-HD).cbr](https://github.com/alicewish/markdown/blob/master/comic/Ash-Army-Of-Darkness-008-2014-Digital-Exclusive-Edition-TLK-EMPIRE-HD-cbr.md) | 25.18MiB
 Ash And The Army Of Darkness Annual 2014(2014)(Digital)(TLK-EMPIRE-HD).cbr | 32.47MiB
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Danger Girl and the Army of Darkness (01 - 06)】 | 
 &emsp;【Evil Dead - Army of Darkness (v1-v4+)/Danger Girl and the Army of Darkness (01 - 06)/Cover】 | 

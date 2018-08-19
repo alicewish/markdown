@@ -45,6 +45,6 @@ Justice League Dark 029 (2014) (Digital) (Cypher-Empire).cbr | 38.26MiB
 Justice League Dark 030 (2014) (Digital) (Cypher-Empire).cbr | 40.67MiB
 Justice League Dark 031 (2014) (Digital) (Cypher-Empire).cbr | 46.06MiB
 Justice League Dark 032 (2014) (Digital) (Cypher-Empire).cbr | 55.50MiB
-Justice League Dark 033 (2014) (Digital) (Cypher-Empire).cbr | 48.10MiB
+[Justice League Dark 033 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-033-2014-Digital-Cypher-Empire-cbr.md) | 48.10MiB
 [Justice League Dark 034 (2014) (Digital) (Cypher-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-034-2014-Digital-Cypher-Empire-cbr.md) | 49.89MiB
 [Justice League Dark Annual 001 (2012) (digital) (Son of Ultron-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Justice-League-Dark-Annual-001-2012-digital-Son-of-Ultron-Empire-cbr.md) | 98.93MiB

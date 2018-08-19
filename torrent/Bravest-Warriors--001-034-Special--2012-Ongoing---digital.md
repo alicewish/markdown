@@ -32,7 +32,7 @@ Bravest Warriors 018 (2014) (4 covers) (digital) (Minutemen-InnerDemons).cbr | 3
 Bravest Warriors 019 (2014) (digital) (Minutemen-InnerDemons).cbr | 34.66MiB
 Bravest Warriors 020 (2014) (digital) (Minutemen-InnerDemons).cbr | 34.66MiB
 Bravest Warriors 021 (2014) (3 covers) (digital) (Minutemen-InnerDemons).cbr | 34.10MiB
-Bravest Warriors 022 (2014) (digital-Empire).cbr | 32.92MiB
+[Bravest Warriors 022 (2014) (digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-022-2014-digital-Empire-cbr.md) | 32.92MiB
 [Bravest Warriors 023 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-023-2014-digital-CompetentRipper-Empire-cbr.md) | 42.10MiB
 [Bravest Warriors 024 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-024-2014-digital-CompetentRipper-Empire-cbr.md) | 42.63MiB
 [Bravest Warriors 025 (2014) (digital) (CompetentRipper-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Bravest-Warriors-025-2014-digital-CompetentRipper-Empire-cbr.md) | 32.65MiB

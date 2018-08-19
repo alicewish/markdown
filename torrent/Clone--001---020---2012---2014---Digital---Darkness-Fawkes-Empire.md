@@ -27,6 +27,6 @@ Clone 014 (2014) (Digital) (Fawkes-Empire).cbr | 60.23MiB
 Clone 015 (2014) (Digital) (Fawkes-Empire).cbr | 53.43MiB
 Clone 016 (2014) (Digital) (Fawkes-Empire).cbr | 69.86MiB
 Clone 017 (2014) (Digital) (Fawkes-Empire).cbr | 72.87MiB
-Clone 018 (2014) (Digital-Empire).cbr | 72.19MiB
+[Clone 018 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clone-018-2014-Digital-Empire-cbr.md) | 72.19MiB
 [Clone 019 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clone-019-2014-Digital-Empire-cbr.md) | 69.12MiB
 [Clone 020 (2014) (Digital-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/Clone-020-2014-Digital-Empire-cbr.md) | 65.40MiB

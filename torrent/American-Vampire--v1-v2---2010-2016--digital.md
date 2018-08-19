@@ -80,7 +80,7 @@ American Vampire 028 (2012) (Greg Capullo Variant Cover) (ChairmanMao-DCP).cbz |
 American Vampire - Second Cycle 001 (2014) (Digital) (Zone-Empire).cbr | 35.79MiB
 American Vampire - Second Cycle 002 (2014) (Digital) (Zone-Empire).cbr | 20.39MiB
 American Vampire - Second Cycle 003 (2014) (Digital) (Zone-Empire).cbr | 24.05MiB
-American Vampire - Second Cycle 004 (2014) (Digital) (Zone-Empire).cbr | 25.70MiB
+[American Vampire - Second Cycle 004 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/American-Vampire-Second-Cycle-004-2014-Digital-Zone-Empire-cbr.md) | 25.70MiB
 [American Vampire - Second Cycle 005 (2014) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/American-Vampire-Second-Cycle-005-2014-Digital-Zone-Empire-cbr.md) | 34.14MiB
 [American Vampire - Second Cycle 006 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/American-Vampire-Second-Cycle-006-2015-Digital-Zone-Empire-cbr.md) | 35.56MiB
 [American Vampire - Second Cycle 007 (2015) (Digital) (Zone-Empire).cbr](https://github.com/alicewish/markdown/blob/master/comic/American-Vampire-Second-Cycle-007-2015-Digital-Zone-Empire-cbr.md) | 28.00MiB
